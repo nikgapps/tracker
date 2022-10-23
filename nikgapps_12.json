@@ -155,11 +155,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": "2052073.215491873.215491873"
-                }
-            ]
-        },
-        {
-            "GmsCore": [
+                },
                 {
                     "file": "Core/GmsCore/___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
                     "folder": "PrebuiltGmsCore",
@@ -248,11 +244,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GooglePlayStore": [
+                },
                 {
                     "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/Phonesky.apk",
                     "folder": "Phonesky",
@@ -261,11 +253,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": "28.3.16-21 [0] [PR] 413990378"
-                }
-            ]
-        },
-        {
-            "GooglePlayStore": [
+                },
                 {
                     "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/split_config.en.apk",
                     "folder": "Phonesky",
@@ -274,11 +262,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GooglePlayStore": [
+                },
                 {
                     "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/split_phonesky_data_loader.config.arm64_v8a.apk",
                     "folder": "Phonesky",
@@ -287,11 +271,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GooglePlayStore": [
+                },
                 {
                     "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/split_config.arm64_v8a.apk",
                     "folder": "Phonesky",
@@ -852,11 +832,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.406984716"
-                }
-            ]
-        },
-        {
-            "GoogleFiles": [
+                },
                 {
                     "file": "GoogleFiles/GoogleFiles/___priv-app___FilesPrebuilt/split_config.en.apk",
                     "folder": "FilesPrebuilt",
@@ -865,11 +841,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GoogleFiles": [
+                },
                 {
                     "file": "GoogleFiles/GoogleFiles/___priv-app___FilesPrebuilt/split_config.xxhdpi.apk",
                     "folder": "FilesPrebuilt",
@@ -878,11 +850,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GoogleFiles": [
+                },
                 {
                     "file": "GoogleFiles/GoogleFiles/___priv-app___FilesPrebuilt/split_config.arm64_v8a.apk",
                     "folder": "FilesPrebuilt",
@@ -1129,11 +1097,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "Velvet": [
+                },
                 {
                     "file": "GoogleSearch/Velvet/___priv-app___Velvet/Velvet.apk",
                     "folder": "Velvet",
@@ -1588,11 +1552,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "1.1 (5937327) PP-7.0+"
-                }
-            ]
-        },
-        {
-            "PixelLiveWallpaper": [
+                },
                 {
                     "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/split_pokemon.apk",
                     "folder": "PixelLiveWallpapersPrebuilt",
@@ -1601,11 +1561,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "1.1 (5937327)"
-                }
-            ]
-        },
-        {
-            "PixelLiveWallpaper": [
+                },
                 {
                     "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/split_pokemon.config.arm64_v8a.apk",
                     "folder": "PixelLiveWallpapersPrebuilt",
@@ -1614,11 +1570,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "PixelLiveWallpaper": [
+                },
                 {
                     "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/split_config.arm64_v8a.apk",
                     "folder": "PixelLiveWallpapersPrebuilt",
