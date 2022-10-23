@@ -170,11 +170,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GmsCore": [
+                },
                 {
                     "file": "Core/GmsCore/___priv-app___PrebuiltGmsCore/split_config.xxhdpi.apk",
                     "folder": "PrebuiltGmsCore",
@@ -183,11 +179,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GmsCore": [
+                },
                 {
                     "file": "Core/GmsCore/___priv-app___PrebuiltGmsCore/PrebuiltGmsCore.apk",
                     "folder": "PrebuiltGmsCore",
@@ -250,11 +242,7 @@
                     "partition": "system",
                     "type": "unknown",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "YouTube": [
+                },
                 {
                     "file": "CoreGo/YouTube/YouTube/___app___YouTube/YouTube.apk",
                     "folder": "unknown",
@@ -263,11 +251,7 @@
                     "partition": "system",
                     "type": "unknown",
                     "version": "16.49.37"
-                }
-            ]
-        },
-        {
-            "YouTube": [
+                },
                 {
                     "file": "CoreGo/YouTube/YouTube/___app___YouTube/split_config.xxhdpi.apk",
                     "folder": "unknown",
@@ -276,11 +260,7 @@
                     "partition": "system",
                     "type": "unknown",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "YouTube": [
+                },
                 {
                     "file": "CoreGo/YouTube/YouTube/___app___YouTube/split_config.arm64_v8a.apk",
                     "folder": "unknown",
@@ -341,11 +321,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GmsCore": [
+                },
                 {
                     "file": "CoreGo/GmsCore/___priv-app___PrebuiltGmsCore/split_config.xxhdpi.apk",
                     "folder": "PrebuiltGmsCore",
@@ -354,11 +330,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GmsCore": [
+                },
                 {
                     "file": "CoreGo/GmsCore/___priv-app___PrebuiltGmsCore/PrebuiltGmsCore.apk",
                     "folder": "PrebuiltGmsCore",
@@ -673,11 +645,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "87.0.4280.101"
-                }
-            ]
-        },
-        {
-            "WebViewGoogle": [
+                },
                 {
                     "file": "GoogleChrome/WebViewGoogle/___app___WebViewGoogle/split_config.en.apk",
                     "folder": "WebViewGoogle",
@@ -699,11 +667,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GoogleChrome": [
+                },
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/split_chime.apk",
                     "folder": "GoogleChrome",
@@ -712,11 +676,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "87.0.4280.101"
-                }
-            ]
-        },
-        {
-            "GoogleChrome": [
+                },
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/split_extra_icu.apk",
                     "folder": "GoogleChrome",
@@ -725,11 +685,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "87.0.4280.101"
-                }
-            ]
-        },
-        {
-            "GoogleChrome": [
+                },
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/split_dev_ui.apk",
                     "folder": "GoogleChrome",
@@ -738,11 +694,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "87.0.4280.101"
-                }
-            ]
-        },
-        {
-            "GoogleChrome": [
+                },
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/split_test_dummy.apk",
                     "folder": "GoogleChrome",
@@ -751,11 +703,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "87.0.4280.101"
-                }
-            ]
-        },
-        {
-            "GoogleChrome": [
+                },
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/split_vr.config.en.apk",
                     "folder": "GoogleChrome",
@@ -764,11 +712,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GoogleChrome": [
+                },
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/split_config.en.apk",
                     "folder": "GoogleChrome",
@@ -777,11 +721,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GoogleChrome": [
+                },
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/split_chime.config.en.apk",
                     "folder": "GoogleChrome",
@@ -790,11 +730,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GoogleChrome": [
+                },
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/split_vr.apk",
                     "folder": "GoogleChrome",
@@ -803,11 +739,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "87.0.4280.101"
-                }
-            ]
-        },
-        {
-            "GoogleChrome": [
+                },
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/split_stack_unwinder.apk",
                     "folder": "GoogleChrome",
@@ -816,11 +748,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "87.0.4280.101"
-                }
-            ]
-        },
-        {
-            "GoogleChrome": [
+                },
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/split_autofill_assistant.apk",
                     "folder": "GoogleChrome",
@@ -829,11 +757,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "87.0.4280.101"
-                }
-            ]
-        },
-        {
-            "GoogleChrome": [
+                },
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/GoogleChrome.apk",
                     "folder": "GoogleChrome",
@@ -1024,11 +948,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.346212449"
-                }
-            ]
-        },
-        {
-            "GoogleFiles": [
+                },
                 {
                     "file": "GoogleFiles/GoogleFiles/___priv-app___FilesPrebuilt/split_config.en.apk",
                     "folder": "FilesPrebuilt",
@@ -1037,11 +957,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GoogleFiles": [
+                },
                 {
                     "file": "GoogleFiles/GoogleFiles/___priv-app___FilesPrebuilt/split_config.xxhdpi.apk",
                     "folder": "FilesPrebuilt",
@@ -1050,11 +966,7 @@
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "GoogleFiles": [
+                },
                 {
                     "file": "GoogleFiles/GoogleFiles/___priv-app___FilesPrebuilt/split_config.arm64_v8a.apk",
                     "folder": "FilesPrebuilt",
@@ -1888,11 +1800,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "1.1 (5937327) PP-7.0+"
-                }
-            ]
-        },
-        {
-            "PixelLiveWallpaper": [
+                },
                 {
                     "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/split_pokemon.apk",
                     "folder": "PixelLiveWallpapersPrebuilt",
@@ -1901,11 +1809,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": "1.1 (5937327)"
-                }
-            ]
-        },
-        {
-            "PixelLiveWallpaper": [
+                },
                 {
                     "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/split_pokemon.config.arm64_v8a.apk",
                     "folder": "PixelLiveWallpapersPrebuilt",
@@ -1914,11 +1818,7 @@
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                }
-            ]
-        },
-        {
-            "PixelLiveWallpaper": [
+                },
                 {
                     "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/split_config.arm64_v8a.apk",
                     "folder": "PixelLiveWallpapersPrebuilt",
