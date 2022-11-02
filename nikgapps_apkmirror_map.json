@@ -1,0 +1,368 @@
+{
+    "com.android.chrome": {
+        "apk_mirror_package": "chrome",
+        "name": "com.android.chrome",
+        "partition": "product",
+        "title": "GoogleChrome"
+    },
+    "com.android.systemui.plugin.globalactions.wallet": {
+        "apk_mirror_package": "com-android-systemui-plugin-globalactions-wallet",
+        "name": "com.android.systemui.plugin.globalactions.wallet",
+        "partition": "product",
+        "title": "QuickAccessWallet"
+    },
+    "com.android.vending": {
+        "apk_mirror_package": "google-play-store",
+        "name": "com.android.vending",
+        "partition": "product",
+        "title": "Phonesky"
+    },
+    "com.google.android.apps.assistant": {
+        "apk_mirror_package": "google-assistant-go",
+        "name": "com.google.android.apps.assistant",
+        "partition": "product",
+        "title": "AssistantGo"
+    },
+    "com.google.android.apps.books": {
+        "apk_mirror_package": "google-play-books",
+        "name": "com.google.android.apps.books",
+        "partition": "product",
+        "title": "Books"
+    },
+    "com.google.android.apps.docs": {
+        "apk_mirror_package": "drive",
+        "name": "com.google.android.apps.docs",
+        "partition": "product",
+        "title": "Drive"
+    },
+    "com.google.android.apps.docs.editors.docs": {
+        "apk_mirror_package": "docs",
+        "name": "com.google.android.apps.docs.editors.docs",
+        "partition": "product",
+        "title": "GoogleDocs"
+    },
+    "com.google.android.apps.docs.editors.sheets": {
+        "apk_mirror_package": "sheets",
+        "name": "com.google.android.apps.docs.editors.sheets",
+        "partition": "product",
+        "title": "GoogleSheets"
+    },
+    "com.google.android.apps.docs.editors.slides": {
+        "apk_mirror_package": "slides",
+        "name": "com.google.android.apps.docs.editors.slides",
+        "partition": "product",
+        "title": "GoogleSlides"
+    },
+    "com.google.android.apps.googleassistant": {
+        "apk_mirror_package": "google-assistant",
+        "name": "com.google.android.apps.googleassistant",
+        "partition": "product",
+        "title": "Assistant"
+    },
+    "com.google.android.apps.maps": {
+        "apk_mirror_package": "maps",
+        "name": "com.google.android.apps.maps",
+        "partition": "product",
+        "title": "GoogleMaps"
+    },
+    "com.google.android.apps.mapslite": {
+        "apk_mirror_package": "google-maps-go-directions-traffic-transit",
+        "name": "com.google.android.apps.mapslite",
+        "partition": "product",
+        "title": "MapsGo"
+    },
+    "com.google.android.apps.messaging": {
+        "apk_mirror_package": "messenger-google-inc",
+        "name": "com.google.android.apps.messaging",
+        "partition": "product",
+        "title": "PrebuiltBugle"
+    },
+    "com.google.android.apps.navlite": {
+        "apk_mirror_package": "navigation-for-google-maps-go",
+        "name": "com.google.android.apps.navlite",
+        "partition": "product",
+        "title": "NavigationGo"
+    },
+    "com.google.android.apps.nbu.files": {
+        "apk_mirror_package": "files-go",
+        "name": "com.google.android.apps.nbu.files",
+        "partition": "product",
+        "title": "FilesPrebuilt"
+    },
+    "com.google.android.apps.nexuslauncher": {
+        "apk_mirror_package": "pixel-launcher",
+        "name": "com.google.android.apps.nexuslauncher",
+        "partition": "system_ext",
+        "title": "NexusLauncherPrebuilt"
+    },
+    "com.google.android.apps.photos": {
+        "apk_mirror_package": "photos",
+        "name": "com.google.android.apps.photos",
+        "partition": "product",
+        "title": "Photos"
+    },
+    "com.google.android.apps.photosgo": {
+        "apk_mirror_package": "gallery-go-by-google-photos",
+        "name": "com.google.android.apps.photosgo",
+        "partition": "product",
+        "title": "GalleryGo"
+    },
+    "com.google.android.apps.recorder": {
+        "apk_mirror_package": "google-recorder",
+        "name": "com.google.android.apps.recorder",
+        "partition": "product",
+        "title": "RecorderPrebuilt"
+    },
+    "com.google.android.apps.restore": {
+        "apk_mirror_package": "android-setup",
+        "name": "com.google.android.apps.restore",
+        "partition": "product",
+        "title": "GoogleRestore"
+    },
+    "com.google.android.apps.searchlite": {
+        "apk_mirror_package": "google-go-a-fast-easy-fun-way-to-search",
+        "name": "com.google.android.apps.searchlite",
+        "partition": "product",
+        "title": "GoogleGo"
+    },
+    "com.google.android.apps.tachyon": {
+        "apk_mirror_package": "duo-by-google",
+        "name": "com.google.android.apps.tachyon",
+        "partition": "product",
+        "title": "GoogleDuo"
+    },
+    "com.google.android.apps.turbo": {
+        "apk_mirror_package": "device-health-services",
+        "name": "com.google.android.apps.turbo",
+        "partition": "product",
+        "title": "Turbo"
+    },
+    "com.google.android.apps.wallpaper": {
+        "apk_mirror_package": "google-wallpaper-picker",
+        "name": "com.google.android.apps.wallpaper",
+        "partition": "system_ext",
+        "title": "WallpaperPickerGooglePrebuilt"
+    },
+    "com.google.android.apps.wellbeing": {
+        "apk_mirror_package": "digital-wellbeing",
+        "name": "com.google.android.apps.wellbeing",
+        "partition": "product",
+        "title": "WellbeingPreBuilt"
+    },
+    "com.google.android.apps.work.clouddpc": {
+        "apk_mirror_package": "android-device-policy",
+        "name": "com.google.android.apps.work.clouddpc",
+        "partition": "product",
+        "title": "DevicePolicyPrebuilt"
+    },
+    "com.google.android.apps.work.oobconfig": {
+        "apk_mirror_package": "device-setup",
+        "name": "com.google.android.apps.work.oobconfig",
+        "partition": "product",
+        "title": "OTAConfigPrebuilt"
+    },
+    "com.google.android.apps.youtube.music": {
+        "apk_mirror_package": "youtube-music",
+        "name": "com.google.android.apps.youtube.music",
+        "partition": "product",
+        "title": "YouTubeMusicPrebuilt"
+    },
+    "com.google.android.as": {
+        "apk_mirror_package": "google-actions-services",
+        "name": "com.google.android.as",
+        "partition": "product",
+        "title": "MatchmakerPrebuiltPixel4"
+    },
+    "com.google.android.calculator": {
+        "apk_mirror_package": "google-calculator",
+        "name": "com.google.android.calculator",
+        "partition": "product",
+        "title": "CalculatorGooglePrebuilt"
+    },
+    "com.google.android.calendar": {
+        "apk_mirror_package": "calendar",
+        "name": "com.google.android.calendar",
+        "partition": "product",
+        "title": "CalendarGooglePrebuilt"
+    },
+    "com.google.android.contacts": {
+        "apk_mirror_package": "google-contacts",
+        "name": "com.google.android.contacts",
+        "partition": "product",
+        "title": "GoogleContacts"
+    },
+    "com.google.android.deskclock": {
+        "apk_mirror_package": "clock",
+        "name": "com.google.android.deskclock",
+        "partition": "product",
+        "title": "PrebuiltDeskClockGoogle"
+    },
+    "com.google.android.dialer": {
+        "apk_mirror_package": "google-phone",
+        "name": "com.google.android.dialer",
+        "partition": "product",
+        "title": "GoogleDialer"
+    },
+    "com.google.android.feedback": {
+        "apk_mirror_package": "market-feedback-agent",
+        "name": "com.google.android.feedback",
+        "partition": "system_ext",
+        "title": "GoogleFeedback"
+    },
+    "com.google.android.flipendo": {
+        "apk_mirror_package": "extreme-battery-saver-2",
+        "name": "com.google.android.flipendo",
+        "partition": "product",
+        "title": "Flipendo"
+    },
+    "com.google.android.gm": {
+        "apk_mirror_package": "gmail",
+        "name": "com.google.android.gm",
+        "partition": "product",
+        "title": "PrebuiltGmail"
+    },
+    "com.google.android.gm.lite": {
+        "apk_mirror_package": "gmail-go",
+        "name": "com.google.android.gm.lite",
+        "partition": "product",
+        "title": "GmailGo"
+    },
+    "com.google.android.gms": {
+        "apk_mirror_package": "google-play-services",
+        "name": "com.google.android.gms",
+        "partition": "product",
+        "title": "PrebuiltGmsCore"
+    },
+    "com.google.android.gms.location.history": {
+        "apk_mirror_package": "google-location-history",
+        "name": "com.google.android.gms.location.history",
+        "partition": "product",
+        "title": "LocationHistoryPrebuilt"
+    },
+    "com.google.android.googlequicksearchbox": {
+        "apk_mirror_package": "google-search",
+        "name": "com.google.android.googlequicksearchbox",
+        "partition": "product",
+        "title": "Velvet"
+    },
+    "com.google.android.gsf": {
+        "apk_mirror_package": "google-services-framework",
+        "name": "com.google.android.gsf",
+        "partition": "product",
+        "title": "GoogleServicesFramework"
+    },
+    "com.google.android.ims": {
+        "apk_mirror_package": "carrier-services-2",
+        "name": "com.google.android.ims",
+        "partition": "product",
+        "title": "CarrierServices"
+    },
+    "com.google.android.inputmethod.latin": {
+        "apk_mirror_package": "gboard",
+        "name": "com.google.android.inputmethod.latin",
+        "partition": "product",
+        "title": "LatinIMEGooglePrebuilt"
+    },
+    "com.google.android.keep": {
+        "apk_mirror_package": "keep",
+        "name": "com.google.android.keep",
+        "partition": "product",
+        "title": "PrebuiltKeep"
+    },
+    "com.google.android.markup": {
+        "apk_mirror_package": "markup",
+        "name": "com.google.android.markup",
+        "partition": "product",
+        "title": "MarkupGoogle"
+    },
+    "com.google.android.marvin.talkback": {
+        "apk_mirror_package": "android-accessibility-suite",
+        "name": "com.google.android.marvin.talkback",
+        "partition": "product",
+        "title": "talkback"
+    },
+    "com.google.android.onetimeinitializer": {
+        "apk_mirror_package": "google-one-time-init",
+        "name": "com.google.android.onetimeinitializer",
+        "partition": "system_ext",
+        "title": "GoogleOneTimeInitializer"
+    },
+    "com.google.android.partnersetup": {
+        "apk_mirror_package": "google-partner-setup",
+        "name": "com.google.android.partnersetup",
+        "partition": "product",
+        "title": "PartnerSetupPrebuilt"
+    },
+    "com.google.android.pixel.setupwizard": {
+        "apk_mirror_package": "pixel-setup",
+        "name": "com.google.android.pixel.setupwizard",
+        "partition": "system_ext",
+        "title": "PixelSetupWizard"
+    },
+    "com.google.android.play.games": {
+        "apk_mirror_package": "google-play-games",
+        "name": "com.google.android.play.games",
+        "partition": "product",
+        "title": "PlayGames"
+    },
+    "com.google.android.projection.gearhead": {
+        "apk_mirror_package": "android-auto",
+        "name": "com.google.android.projection.gearhead",
+        "partition": "product",
+        "title": "AndroidAutoStubPrebuilt"
+    },
+    "com.google.android.setupwizard": {
+        "apk_mirror_package": "setup-wizard",
+        "name": "com.google.android.setupwizard",
+        "partition": "product",
+        "title": "SetupWizardPrebuilt"
+    },
+    "com.google.android.soundpicker": {
+        "apk_mirror_package": "sounds",
+        "name": "com.google.android.soundpicker",
+        "partition": "product",
+        "title": "SoundPickerPrebuilt"
+    },
+    "com.google.android.storagemanager": {
+        "apk_mirror_package": "storage-manager",
+        "name": "com.google.android.storagemanager",
+        "partition": "system_ext",
+        "title": "StorageManagerGoogle"
+    },
+    "com.google.android.syncadapters.calendar": {
+        "apk_mirror_package": "google-calendar-sync",
+        "name": "com.google.android.syncadapters.calendar",
+        "partition": "product",
+        "title": "GoogleCalendarSyncAdapter"
+    },
+    "com.google.android.syncadapters.contacts": {
+        "apk_mirror_package": "google-contacts-sync",
+        "name": "com.google.android.syncadapters.contacts",
+        "partition": "product",
+        "title": "GoogleContactsSyncAdapter"
+    },
+    "com.google.android.trichromelibrary": {
+        "apk_mirror_package": "trichrome-library",
+        "name": "com.google.android.trichromelibrary",
+        "partition": "product",
+        "title": "TrichromeLibrary"
+    },
+    "com.google.android.tts": {
+        "apk_mirror_package": "google-text-to-speech-engine",
+        "name": "com.google.android.tts",
+        "partition": "product",
+        "title": "GoogleTTS"
+    },
+    "com.google.android.webview": {
+        "apk_mirror_package": "android-system-webview",
+        "name": "com.google.android.webview",
+        "partition": "product",
+        "title": "WebViewGoogle"
+    },
+    "com.google.android.youtube": {
+        "apk_mirror_package": "youtube",
+        "name": "com.google.android.youtube",
+        "partition": "product",
+        "title": "YouTube"
+    }
+}
