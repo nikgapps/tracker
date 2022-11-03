@@ -1,13 +1,13 @@
 {
     "AndroidAuto": [
         {
-            "AndroidAuto": [
+            "com.google.android.projection.gearhead": [
                 {
                     "file": "AndroidAuto/AndroidAuto/___priv-app___AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk",
                     "folder": "AndroidAutoStubPrebuilt",
                     "md5": "000bc27a89cad8916f236a4d40eeabf0",
                     "package": "com.google.android.projection.gearhead",
-                    "package_name": "pkg_name",
+                    "package_name": "AndroidAuto",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "7.0.614134-release"
@@ -17,33 +17,41 @@
     ],
     "AndroidDevicePolicy": [
         {
-            "AndroidDevicePolicy": [
+            "com.google.android.apps.work.clouddpc": [
                 {
                     "file": "AndroidDevicePolicy/AndroidDevicePolicy/___app___DevicePolicyPrebuilt/split_config.xxhdpi.apk",
                     "folder": "DevicePolicyPrebuilt",
                     "md5": "a6a50ccad3c167f05b721cf80037455c",
                     "package": "com.google.android.apps.work.clouddpc",
-                    "package_name": "pkg_name",
+                    "package_name": "AndroidDevicePolicy",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.work.clouddpc": [
                 {
                     "file": "AndroidDevicePolicy/AndroidDevicePolicy/___app___DevicePolicyPrebuilt/split_config.en.apk",
                     "folder": "DevicePolicyPrebuilt",
                     "md5": "aeac1c09a573361099c523688d7ce86b",
                     "package": "com.google.android.apps.work.clouddpc",
-                    "package_name": "pkg_name",
+                    "package_name": "AndroidDevicePolicy",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.work.clouddpc": [
                 {
                     "file": "AndroidDevicePolicy/AndroidDevicePolicy/___app___DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk",
                     "folder": "DevicePolicyPrebuilt",
                     "md5": "fda8971eb7b6b967261e622b8f6060a6",
                     "package": "com.google.android.apps.work.clouddpc",
-                    "package_name": "pkg_name",
+                    "package_name": "AndroidDevicePolicy",
                     "partition": "system",
                     "type": "app",
                     "version": "51.475.3 (1622350)"
@@ -53,13 +61,13 @@
     ],
     "AssistantGo": [
         {
-            "AssistantGo": [
+            "com.google.android.apps.assistant": [
                 {
                     "file": "AssistantGo/AssistantGo/___priv-app___AssistantGo/AssistantGo.apk",
                     "folder": "AssistantGo",
                     "md5": "bf03ff7b0d072180ad54a0680b47a375",
                     "package": "com.google.android.apps.assistant",
-                    "package_name": "pkg_name",
+                    "package_name": "AssistantGo",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.6.198065451.armeabi-v7a.release"
@@ -69,13 +77,13 @@
     ],
     "Books": [
         {
-            "Books": [
+            "com.google.android.apps.books": [
                 {
                     "file": "Books/Books/___app___Books/Books.apk",
                     "folder": "Books",
                     "md5": "c556bb5859fe354736a5c7dd5f107e7f",
                     "package": "com.google.android.apps.books",
-                    "package_name": "pkg_name",
+                    "package_name": "Books",
                     "partition": "system",
                     "type": "app",
                     "version": "5.20.2_RC07.416130754"
@@ -85,13 +93,13 @@
     ],
     "CarrierServices": [
         {
-            "CarrierServices": [
+            "com.google.android.ims": [
                 {
                     "file": "CarrierServices/CarrierServices/___priv-app___CarrierServices/CarrierServices.apk",
                     "folder": "CarrierServices",
                     "md5": "f5317fd27409a47ec8d39b5d20b4ab61",
                     "package": "com.google.android.ims",
-                    "package_name": "pkg_name",
+                    "package_name": "CarrierServices",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "86.0.410011749-carrierservices_20211115_02_RC00"
@@ -101,13 +109,13 @@
     ],
     "Core": [
         {
-            "GoogleContactsSyncAdapter": [
+            "com.google.android.syncadapters.contacts": [
                 {
                     "file": "Core/GoogleContactsSyncAdapter/___app___GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk",
                     "folder": "GoogleContactsSyncAdapter",
                     "md5": "e07da7b0b0260d3837f961bc657b962f",
                     "package": "com.google.android.syncadapters.contacts",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleContactsSyncAdapter",
                     "partition": "system",
                     "type": "app",
                     "version": "11"
@@ -115,13 +123,13 @@
             ]
         },
         {
-            "GoogleServicesFramework": [
+            "com.google.android.gsf": [
                 {
                     "file": "Core/GoogleServicesFramework/___priv-app___GoogleServicesFramework/GoogleServicesFramework.apk",
                     "folder": "GoogleServicesFramework",
                     "md5": "092e08506e1cfc1c5e7e092b15c63803",
                     "package": "com.google.android.gsf",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleServicesFramework",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -129,13 +137,13 @@
             ]
         },
         {
-            "GmsCore": [
+            "com.google.android.gms": [
                 {
                     "file": "Core/GmsCore/___priv-app___PrebuiltGmsCore/PrebuiltGmsCore.apk",
                     "folder": "PrebuiltGmsCore",
                     "md5": "f9ca53567e96ac459ae8d3b1da9c705b",
                     "package": "com.google.android.gms",
-                    "package_name": "pkg_name",
+                    "package_name": "GmsCore",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "21.48.15 (150400-414534850)"
@@ -143,53 +151,13 @@
             ]
         },
         {
-            "GooglePlayStore": [
+            "com.android.vending": [
                 {
                     "file": "Core/GooglePlayStore/___priv-app___Phonesky/split_phonesky_data_loader.apk",
                     "folder": "Phonesky",
                     "md5": "754f4e3db9212ea0cea7a1fa915c44f0",
                     "package": "com.android.vending",
-                    "package_name": "pkg_name",
-                    "partition": "system",
-                    "type": "priv-app",
-                    "version": ""
-                },
-                {
-                    "file": "Core/GooglePlayStore/___priv-app___Phonesky/Phonesky.apk",
-                    "folder": "Phonesky",
-                    "md5": "f08ed7320739d35e1cfdca2df9411acd",
-                    "package": "com.android.vending",
-                    "package_name": "pkg_name",
-                    "partition": "system",
-                    "type": "priv-app",
-                    "version": "28.3.16-21 [0] [PR] 413990378"
-                },
-                {
-                    "file": "Core/GooglePlayStore/___priv-app___Phonesky/split_phonesky_data_loader.config.arm64_v8a.apk",
-                    "folder": "Phonesky",
-                    "md5": "3abdd87d66815394e51462c03f9d76f6",
-                    "package": "com.android.vending",
-                    "package_name": "pkg_name",
-                    "partition": "system",
-                    "type": "priv-app",
-                    "version": ""
-                },
-                {
-                    "file": "Core/GooglePlayStore/___priv-app___Phonesky/split_config.arm64_v8a.apk",
-                    "folder": "Phonesky",
-                    "md5": "5aa432c06aa4213dc0a0d3925ac13bfb",
-                    "package": "com.android.vending",
-                    "package_name": "pkg_name",
-                    "partition": "system",
-                    "type": "priv-app",
-                    "version": ""
-                },
-                {
-                    "file": "Core/GooglePlayStore/___priv-app___Phonesky/split_config.en.apk",
-                    "folder": "Phonesky",
-                    "md5": "991f5272043ef642356dbcfc21521ff1",
-                    "package": "com.android.vending",
-                    "package_name": "pkg_name",
+                    "package_name": "GooglePlayStore",
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
@@ -197,13 +165,69 @@
             ]
         },
         {
-            "GoogleCalendarSyncAdapter": [
+            "com.android.vending": [
+                {
+                    "file": "Core/GooglePlayStore/___priv-app___Phonesky/Phonesky.apk",
+                    "folder": "Phonesky",
+                    "md5": "f08ed7320739d35e1cfdca2df9411acd",
+                    "package": "com.android.vending",
+                    "package_name": "GooglePlayStore",
+                    "partition": "system",
+                    "type": "priv-app",
+                    "version": "28.3.16-21 [0] [PR] 413990378"
+                }
+            ]
+        },
+        {
+            "com.android.vending": [
+                {
+                    "file": "Core/GooglePlayStore/___priv-app___Phonesky/split_phonesky_data_loader.config.arm64_v8a.apk",
+                    "folder": "Phonesky",
+                    "md5": "3abdd87d66815394e51462c03f9d76f6",
+                    "package": "com.android.vending",
+                    "package_name": "GooglePlayStore",
+                    "partition": "system",
+                    "type": "priv-app",
+                    "version": ""
+                }
+            ]
+        },
+        {
+            "com.android.vending": [
+                {
+                    "file": "Core/GooglePlayStore/___priv-app___Phonesky/split_config.arm64_v8a.apk",
+                    "folder": "Phonesky",
+                    "md5": "5aa432c06aa4213dc0a0d3925ac13bfb",
+                    "package": "com.android.vending",
+                    "package_name": "GooglePlayStore",
+                    "partition": "system",
+                    "type": "priv-app",
+                    "version": ""
+                }
+            ]
+        },
+        {
+            "com.android.vending": [
+                {
+                    "file": "Core/GooglePlayStore/___priv-app___Phonesky/split_config.en.apk",
+                    "folder": "Phonesky",
+                    "md5": "991f5272043ef642356dbcfc21521ff1",
+                    "package": "com.android.vending",
+                    "package_name": "GooglePlayStore",
+                    "partition": "system",
+                    "type": "priv-app",
+                    "version": ""
+                }
+            ]
+        },
+        {
+            "com.google.android.syncadapters.calendar": [
                 {
                     "file": "Core/GoogleCalendarSyncAdapter/___app___GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk",
                     "folder": "GoogleCalendarSyncAdapter",
                     "md5": "b1cf02e7156ffb5ae4c2608bc05a34e9",
                     "package": "com.google.android.syncadapters.calendar",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleCalendarSyncAdapter",
                     "partition": "system",
                     "type": "app",
                     "version": "6.0.44-267540251-release"
@@ -213,13 +237,13 @@
     ],
     "CoreGo": [
         {
-            "QuickAccessWallet": [
+            "com.android.systemui.plugin.globalactions.wallet": [
                 {
                     "file": "CoreGo/QuickAccessWallet/___priv-app___QuickAccessWallet/QuickAccessWallet.apk",
                     "folder": "QuickAccessWallet",
                     "md5": "eb75da0a4bd5b160fcdcf8328099ad49",
                     "package": "com.android.systemui.plugin.globalactions.wallet",
-                    "package_name": "pkg_name",
+                    "package_name": "QuickAccessWallet",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.0.0"
@@ -227,13 +251,13 @@
             ]
         },
         {
-            "GoogleWallpaper": [
+            "com.google.android.apps.wallpaper": [
                 {
                     "file": "CoreGo/GoogleWallpaper/___priv-app___WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
                     "folder": "WallpaperPickerGoogleRelease",
                     "md5": "c3faaf316831aea7c5d95a6582fd9108",
                     "package": "com.google.android.apps.wallpaper",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleWallpaper",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -241,13 +265,13 @@
             ]
         },
         {
-            "GoogleContactsSyncAdapter": [
+            "com.google.android.syncadapters.contacts": [
                 {
                     "file": "CoreGo/GoogleContactsSyncAdapter/___app___GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk",
                     "folder": "GoogleContactsSyncAdapter",
                     "md5": "e07da7b0b0260d3837f961bc657b962f",
                     "package": "com.google.android.syncadapters.contacts",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleContactsSyncAdapter",
                     "partition": "system",
                     "type": "app",
                     "version": "11"
@@ -255,13 +279,13 @@
             ]
         },
         {
-            "DevicePersonalizationServices": [
+            "com.google.android.as": [
                 {
                     "file": "CoreGo/DevicePersonalizationServices/___priv-app___DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk",
                     "folder": "DevicePersonalizationPrebuiltPixel2020",
                     "md5": "71ec6e5bb9ac8d6edaec16cfb237af8d",
                     "package": "com.google.android.as",
-                    "package_name": "pkg_name",
+                    "package_name": "DevicePersonalizationServices",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "R.27.playstore.pixel5.401508507"
@@ -269,13 +293,13 @@
             ]
         },
         {
-            "GoogleServicesFramework": [
+            "com.google.android.gsf": [
                 {
                     "file": "CoreGo/GoogleServicesFramework/___priv-app___GoogleServicesFramework/GoogleServicesFramework.apk",
                     "folder": "GoogleServicesFramework",
                     "md5": "092e08506e1cfc1c5e7e092b15c63803",
                     "package": "com.google.android.gsf",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleServicesFramework",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -283,13 +307,13 @@
             ]
         },
         {
-            "GmsCore": [
+            "com.google.android.gms": [
                 {
                     "file": "CoreGo/GmsCore/___priv-app___PrebuiltGmsCore/PrebuiltGmsCore.apk",
                     "folder": "PrebuiltGmsCore",
                     "md5": "f9ca53567e96ac459ae8d3b1da9c705b",
                     "package": "com.google.android.gms",
-                    "package_name": "pkg_name",
+                    "package_name": "GmsCore",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "21.48.15 (150400-414534850)"
@@ -297,13 +321,13 @@
             ]
         },
         {
-            "PixelLauncher": [
+            "com.google.android.apps.nexuslauncher": [
                 {
                     "file": "CoreGo/PixelLauncher/___priv-app___NexusLauncherRelease/NexusLauncherRelease.apk",
                     "folder": "NexusLauncherRelease",
                     "md5": "19ab291061892b21f5bd051039e39feb",
                     "package": "com.google.android.apps.nexuslauncher",
-                    "package_name": "pkg_name",
+                    "package_name": "PixelLauncher",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -311,13 +335,13 @@
             ]
         },
         {
-            "VancedManager": [
+            "com.vanced.manager": [
                 {
                     "file": "CoreGo/VancedManager/___app___VancedManager/VancedManager.apk",
                     "folder": "VancedManager",
                     "md5": "02a2ff9e69d85de4dad105213f620382",
                     "package": "com.vanced.manager",
-                    "package_name": "pkg_name",
+                    "package_name": "VancedManager",
                     "partition": "system",
                     "type": "app",
                     "version": "2.6.2 (Crimson)"
@@ -325,53 +349,13 @@
             ]
         },
         {
-            "GooglePlayStore": [
+            "com.android.vending": [
                 {
                     "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/split_phonesky_data_loader.apk",
                     "folder": "Phonesky",
                     "md5": "754f4e3db9212ea0cea7a1fa915c44f0",
                     "package": "com.android.vending",
-                    "package_name": "pkg_name",
-                    "partition": "system",
-                    "type": "priv-app",
-                    "version": ""
-                },
-                {
-                    "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/Phonesky.apk",
-                    "folder": "Phonesky",
-                    "md5": "f08ed7320739d35e1cfdca2df9411acd",
-                    "package": "com.android.vending",
-                    "package_name": "pkg_name",
-                    "partition": "system",
-                    "type": "priv-app",
-                    "version": "28.3.16-21 [0] [PR] 413990378"
-                },
-                {
-                    "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/split_phonesky_data_loader.config.arm64_v8a.apk",
-                    "folder": "Phonesky",
-                    "md5": "3abdd87d66815394e51462c03f9d76f6",
-                    "package": "com.android.vending",
-                    "package_name": "pkg_name",
-                    "partition": "system",
-                    "type": "priv-app",
-                    "version": ""
-                },
-                {
-                    "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/split_config.arm64_v8a.apk",
-                    "folder": "Phonesky",
-                    "md5": "5aa432c06aa4213dc0a0d3925ac13bfb",
-                    "package": "com.android.vending",
-                    "package_name": "pkg_name",
-                    "partition": "system",
-                    "type": "priv-app",
-                    "version": ""
-                },
-                {
-                    "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/split_config.en.apk",
-                    "folder": "Phonesky",
-                    "md5": "991f5272043ef642356dbcfc21521ff1",
-                    "package": "com.android.vending",
-                    "package_name": "pkg_name",
+                    "package_name": "GooglePlayStore",
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
@@ -379,13 +363,69 @@
             ]
         },
         {
-            "GoogleCalendarSyncAdapter": [
+            "com.android.vending": [
+                {
+                    "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/Phonesky.apk",
+                    "folder": "Phonesky",
+                    "md5": "f08ed7320739d35e1cfdca2df9411acd",
+                    "package": "com.android.vending",
+                    "package_name": "GooglePlayStore",
+                    "partition": "system",
+                    "type": "priv-app",
+                    "version": "28.3.16-21 [0] [PR] 413990378"
+                }
+            ]
+        },
+        {
+            "com.android.vending": [
+                {
+                    "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/split_phonesky_data_loader.config.arm64_v8a.apk",
+                    "folder": "Phonesky",
+                    "md5": "3abdd87d66815394e51462c03f9d76f6",
+                    "package": "com.android.vending",
+                    "package_name": "GooglePlayStore",
+                    "partition": "system",
+                    "type": "priv-app",
+                    "version": ""
+                }
+            ]
+        },
+        {
+            "com.android.vending": [
+                {
+                    "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/split_config.arm64_v8a.apk",
+                    "folder": "Phonesky",
+                    "md5": "5aa432c06aa4213dc0a0d3925ac13bfb",
+                    "package": "com.android.vending",
+                    "package_name": "GooglePlayStore",
+                    "partition": "system",
+                    "type": "priv-app",
+                    "version": ""
+                }
+            ]
+        },
+        {
+            "com.android.vending": [
+                {
+                    "file": "CoreGo/GooglePlayStore/___priv-app___Phonesky/split_config.en.apk",
+                    "folder": "Phonesky",
+                    "md5": "991f5272043ef642356dbcfc21521ff1",
+                    "package": "com.android.vending",
+                    "package_name": "GooglePlayStore",
+                    "partition": "system",
+                    "type": "priv-app",
+                    "version": ""
+                }
+            ]
+        },
+        {
+            "com.google.android.syncadapters.calendar": [
                 {
                     "file": "CoreGo/GoogleCalendarSyncAdapter/___app___GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk",
                     "folder": "GoogleCalendarSyncAdapter",
                     "md5": "b1cf02e7156ffb5ae4c2608bc05a34e9",
                     "package": "com.google.android.syncadapters.calendar",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleCalendarSyncAdapter",
                     "partition": "system",
                     "type": "app",
                     "version": "6.0.44-267540251-release"
@@ -395,13 +435,13 @@
     ],
     "DeviceHealthServices": [
         {
-            "DeviceHealthServices": [
+            "com.google.android.apps.turbo": [
                 {
                     "file": "DeviceHealthServices/DeviceHealthServices/___priv-app___Turbo/Turbo.apk",
                     "folder": "Turbo",
                     "md5": "d28587f23cfffb04d33dec33e9c1a0c1",
                     "package": "com.google.android.apps.turbo",
-                    "package_name": "pkg_name",
+                    "package_name": "DeviceHealthServices",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.22.0.389950379.release"
@@ -411,13 +451,13 @@
     ],
     "DevicePersonalizationServices": [
         {
-            "DevicePersonalizationServices": [
+            "com.google.android.as": [
                 {
                     "file": "DevicePersonalizationServices/DevicePersonalizationServices/___priv-app___DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk",
                     "folder": "DevicePersonalizationPrebuiltPixel2020",
                     "md5": "71ec6e5bb9ac8d6edaec16cfb237af8d",
                     "package": "com.google.android.as",
-                    "package_name": "pkg_name",
+                    "package_name": "DevicePersonalizationServices",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "R.27.playstore.pixel5.401508507"
@@ -427,13 +467,13 @@
     ],
     "DeviceSetup": [
         {
-            "DigitalWellbeing": [
+            "com.google.android.apps.wellbeing": [
                 {
                     "file": "DeviceSetup/DigitalWellbeing/DigitalWellbeing/___priv-app___WellbeingPreBuilt/WellbeingPreBuilt.apk",
                     "folder": "unknown",
                     "md5": "672f7867aa960e550d5db762e7691867",
                     "package": "com.google.android.apps.wellbeing",
-                    "package_name": "pkg_name",
+                    "package_name": "DigitalWellbeing",
                     "partition": "system",
                     "type": "unknown",
                     "version": "1.0.381222135"
@@ -441,13 +481,13 @@
             ]
         },
         {
-            "DeviceSetup": [
+            "com.google.android.apps.work.oobconfig": [
                 {
                     "file": "DeviceSetup/DeviceSetup/___priv-app___OTAConfigPrebuilt/OTAConfigPrebuilt.apk",
                     "folder": "OTAConfigPrebuilt",
                     "md5": "23de2f9dad40eb5725a0e85460682f71",
                     "package": "com.google.android.apps.work.oobconfig",
-                    "package_name": "pkg_name",
+                    "package_name": "DeviceSetup",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.314879255"
@@ -457,13 +497,13 @@
     ],
     "DigitalWellbeing": [
         {
-            "DigitalWellbeing": [
+            "com.google.android.apps.wellbeing": [
                 {
                     "file": "DigitalWellbeing/DigitalWellbeing/___priv-app___WellbeingPreBuilt/WellbeingPreBuilt.apk",
                     "folder": "WellbeingPreBuilt",
                     "md5": "e11fb90a5164d40ccd234dad37d95fa9",
                     "package": "com.google.android.apps.wellbeing",
-                    "package_name": "pkg_name",
+                    "package_name": "DigitalWellbeing",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.410515141 (329097)"
@@ -473,43 +513,55 @@
     ],
     "Drive": [
         {
-            "Drive": [
+            "com.google.android.apps.docs": [
                 {
                     "file": "Drive/Drive/___app___Drive/split_config.xxhdpi.apk",
                     "folder": "Drive",
                     "md5": "80db1de85cc0c893c0841858574e5e1c",
                     "package": "com.google.android.apps.docs",
-                    "package_name": "pkg_name",
+                    "package_name": "Drive",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.docs": [
                 {
                     "file": "Drive/Drive/___app___Drive/split_config.arm64_v8a.apk",
                     "folder": "Drive",
                     "md5": "d35863126a7203688fabd345c714703a",
                     "package": "com.google.android.apps.docs",
-                    "package_name": "pkg_name",
+                    "package_name": "Drive",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.docs": [
                 {
                     "file": "Drive/Drive/___app___Drive/split_config.en.apk",
                     "folder": "Drive",
                     "md5": "5c144d674b00978bc33b37268c105df7",
                     "package": "com.google.android.apps.docs",
-                    "package_name": "pkg_name",
+                    "package_name": "Drive",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.docs": [
                 {
                     "file": "Drive/Drive/___app___Drive/Drive.apk",
                     "folder": "Drive",
                     "md5": "0f3f3f1c7b3530402b3e2d872981e5dd",
                     "package": "com.google.android.apps.docs",
-                    "package_name": "pkg_name",
+                    "package_name": "Drive",
                     "partition": "system",
                     "type": "app",
                     "version": "2.21.481.2.90"
@@ -519,13 +571,13 @@
     ],
     "Flipendo": [
         {
-            "Flipendo": [
+            "com.google.android.flipendo": [
                 {
                     "file": "Flipendo/Flipendo/___app___Flipendo/Flipendo.apk",
                     "folder": "Flipendo",
                     "md5": "df627eed66d01274c28c3f6e13658f86",
                     "package": "com.google.android.flipendo",
-                    "package_name": "pkg_name",
+                    "package_name": "Flipendo",
                     "partition": "system",
                     "type": "app",
                     "version": "11"
@@ -535,13 +587,13 @@
     ],
     "GBoard": [
         {
-            "GBoard": [
+            "com.google.android.inputmethod.latin": [
                 {
                     "file": "GBoard/GBoard/___app___LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk",
                     "folder": "LatinIMEGooglePrebuilt",
                     "md5": "5efa19682745724733d345c283bb18f4",
                     "package": "com.google.android.inputmethod.latin",
-                    "package_name": "pkg_name",
+                    "package_name": "GBoard",
                     "partition": "system",
                     "type": "app",
                     "version": "11.2.10.404227572-release-arm64-v8a"
@@ -551,33 +603,41 @@
     ],
     "GalleryGo": [
         {
-            "GalleryGo": [
+            "com.google.android.apps.photosgo": [
                 {
                     "file": "GalleryGo/GalleryGo/___app___GalleryGo/split_config.xxhdpi.apk",
                     "folder": "GalleryGo",
                     "md5": "873312a75f931c745e61d12e6643846b",
                     "package": "com.google.android.apps.photosgo",
-                    "package_name": "pkg_name",
+                    "package_name": "GalleryGo",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.photosgo": [
                 {
                     "file": "GalleryGo/GalleryGo/___app___GalleryGo/split_config.en.apk",
                     "folder": "GalleryGo",
                     "md5": "33de65db3b6966fb374d55adc224613c",
                     "package": "com.google.android.apps.photosgo",
-                    "package_name": "pkg_name",
+                    "package_name": "GalleryGo",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.photosgo": [
                 {
                     "file": "GalleryGo/GalleryGo/___app___GalleryGo/GalleryGo.apk",
                     "folder": "GalleryGo",
                     "md5": "52c0775a324a7e0f786a4908a29af182",
                     "package": "com.google.android.apps.photosgo",
-                    "package_name": "pkg_name",
+                    "package_name": "GalleryGo",
                     "partition": "system",
                     "type": "app",
                     "version": "1.7.8.373694029 release"
@@ -587,43 +647,55 @@
     ],
     "Gmail": [
         {
-            "Gmail": [
+            "com.google.android.gm": [
                 {
                     "file": "Gmail/Gmail/___app___PrebuiltGmail/split_config.xxhdpi.apk",
                     "folder": "PrebuiltGmail",
                     "md5": "681e0f047298964aa06060b9744534e9",
                     "package": "com.google.android.gm",
-                    "package_name": "pkg_name",
+                    "package_name": "Gmail",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.gm": [
                 {
                     "file": "Gmail/Gmail/___app___PrebuiltGmail/split_config.arm64_v8a.apk",
                     "folder": "PrebuiltGmail",
                     "md5": "6b8f619ae5cf05b153b5d79aeab6d345",
                     "package": "com.google.android.gm",
-                    "package_name": "pkg_name",
+                    "package_name": "Gmail",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.gm": [
                 {
                     "file": "Gmail/Gmail/___app___PrebuiltGmail/split_config.en.apk",
                     "folder": "PrebuiltGmail",
                     "md5": "841b291a8634caa945af95fbb4308c6f",
                     "package": "com.google.android.gm",
-                    "package_name": "pkg_name",
+                    "package_name": "Gmail",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.gm": [
                 {
                     "file": "Gmail/Gmail/___app___PrebuiltGmail/PrebuiltGmail.apk",
                     "folder": "PrebuiltGmail",
                     "md5": "98827ed91eede12b26fca656b8cd2fe3",
                     "package": "com.google.android.gm",
-                    "package_name": "pkg_name",
+                    "package_name": "Gmail",
                     "partition": "system",
                     "type": "app",
                     "version": "2021.11.28.415100679.Release"
@@ -633,13 +705,13 @@
     ],
     "GmailGo": [
         {
-            "GmailGo": [
+            "com.google.android.gm.lite": [
                 {
                     "file": "GmailGo/GmailGo/___app___GmailGo/GmailGo.apk",
                     "folder": "GmailGo",
                     "md5": "e444d84f37db0311f922621183d4cd68",
                     "package": "com.google.android.gm.lite",
-                    "package_name": "pkg_name",
+                    "package_name": "GmailGo",
                     "partition": "system",
                     "type": "app",
                     "version": "2020.10.15.341102866.Release"
@@ -649,13 +721,13 @@
     ],
     "GoogleBackupTransport": [
         {
-            "GoogleBackupTransport": [
+            "com.google.android.backuptransport": [
                 {
                     "file": "GoogleBackupTransport/GoogleBackupTransport/___priv-app___BackupTransport/GoogleBackupTransport.apk",
                     "folder": "BackupTransport",
                     "md5": "9e3ab8603a1d0527ea0a33863c557060",
                     "package": "com.google.android.backuptransport",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleBackupTransport",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "9"
@@ -665,13 +737,13 @@
     ],
     "GoogleCalculator": [
         {
-            "GoogleCalculator": [
+            "com.google.android.calculator": [
                 {
                     "file": "GoogleCalculator/GoogleCalculator/___app___CalculatorGooglePrebuilt/CalculatorGooglePrebuilt.apk",
                     "folder": "CalculatorGooglePrebuilt",
                     "md5": "7eaaac68f53852a27b0f3e406d74555a",
                     "package": "com.google.android.calculator",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleCalculator",
                     "partition": "system",
                     "type": "app",
                     "version": "8.1 (403424005)"
@@ -681,13 +753,13 @@
     ],
     "GoogleCalendar": [
         {
-            "GoogleCalendar": [
+            "com.google.android.calendar": [
                 {
                     "file": "GoogleCalendar/GoogleCalendar/___priv-app___CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk",
                     "folder": "CalendarGooglePrebuilt",
                     "md5": "7b1df01b9297cc13d4257666773ee1f5",
                     "package": "com.google.android.calendar",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleCalendar",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "2021.47.2-416078291-release"
@@ -697,13 +769,13 @@
     ],
     "GoogleChrome": [
         {
-            "TrichromeLibrary": [
+            "com.google.android.trichromelibrary": [
                 {
                     "file": "GoogleChrome/TrichromeLibrary/___app___TrichromeLibrary/TrichromeLibrary.apk",
                     "folder": "TrichromeLibrary",
                     "md5": "9c1ccc5f678efa6bd4c64b1c4094dbca",
                     "package": "com.google.android.trichromelibrary",
-                    "package_name": "pkg_name",
+                    "package_name": "TrichromeLibrary",
                     "partition": "system",
                     "type": "app",
                     "version": "90.0.4430.210"
@@ -711,13 +783,13 @@
             ]
         },
         {
-            "GoogleChrome": [
+            "com.android.chrome": [
                 {
                     "file": "GoogleChrome/GoogleChrome/___app___GoogleChrome/GoogleChrome.apk",
                     "folder": "GoogleChrome",
                     "md5": "55c17dae6755d146b11eaf015bd4505d",
                     "package": "com.android.chrome",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleChrome",
                     "partition": "system",
                     "type": "app",
                     "version": "90.0.4430.210"
@@ -725,13 +797,13 @@
             ]
         },
         {
-            "WebViewGoogle": [
+            "com.google.android.webview": [
                 {
                     "file": "GoogleChrome/WebViewGoogle/___app___WebViewGoogle/WebViewGoogle.apk",
                     "folder": "WebViewGoogle",
                     "md5": "12d66fdf943f5e0c9622d702a1a91f49",
                     "package": "com.google.android.webview",
-                    "package_name": "pkg_name",
+                    "package_name": "WebViewGoogle",
                     "partition": "system",
                     "type": "app",
                     "version": "90.0.4430.210"
@@ -741,13 +813,13 @@
     ],
     "GoogleClock": [
         {
-            "GoogleClock": [
+            "com.google.android.deskclock": [
                 {
                     "file": "GoogleClock/GoogleClock/___app___PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk",
                     "folder": "PrebuiltDeskClockGoogle",
                     "md5": "6272bca2bcd60c965ade2df1283d69e8",
                     "package": "com.google.android.deskclock",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleClock",
                     "partition": "system",
                     "type": "app",
                     "version": "7.1 (404664356)"
@@ -757,13 +829,13 @@
     ],
     "GoogleContacts": [
         {
-            "GoogleContacts": [
+            "com.google.android.contacts": [
                 {
                     "file": "GoogleContacts/GoogleContacts/___app___GoogleContacts/GoogleContacts.apk",
                     "folder": "GoogleContacts",
                     "md5": "af6d6ca87fc25a42ee6693ad46a66135",
                     "package": "com.google.android.contacts",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleContacts",
                     "partition": "system",
                     "type": "app",
                     "version": "3.59.3.413794954"
@@ -773,13 +845,13 @@
     ],
     "GoogleDialer": [
         {
-            "GoogleDialer": [
+            "com.google.android.dialer": [
                 {
                     "file": "GoogleDialer/GoogleDialer/___priv-app___GoogleDialer/GoogleDialer.apk",
                     "folder": "GoogleDialer",
                     "md5": "efa24c3837321a95647aae8fbaa27c4b",
                     "package": "com.google.android.dialer",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleDialer",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "72.1.414558115"
@@ -789,23 +861,27 @@
     ],
     "GoogleDocs": [
         {
-            "GoogleDocs": [
+            "com.google.android.apps.docs.editors.docs": [
                 {
                     "file": "GoogleDocs/GoogleDocs/___app___GoogleDocs/GoogleDocs.apk",
                     "folder": "GoogleDocs",
                     "md5": "197e56048031f8a91b0f3a6b5aa2db76",
                     "package": "com.google.android.apps.docs.editors.docs",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleDocs",
                     "partition": "system",
                     "type": "app",
                     "version": "1.21.462.04.40"
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.docs.editors.docs": [
                 {
                     "file": "GoogleDocs/GoogleDocs/___app___GoogleDocs/split_config.en.apk",
                     "folder": "GoogleDocs",
                     "md5": "2a44a20f2709862824053f8ea897f6f0",
                     "package": "com.google.android.apps.docs.editors.docs",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleDocs",
                     "partition": "system",
                     "type": "app",
                     "version": ""
@@ -815,43 +891,55 @@
     ],
     "GoogleDuo": [
         {
-            "GoogleDuo": [
+            "com.google.android.apps.tachyon": [
                 {
                     "file": "GoogleDuo/GoogleDuo/___app___GoogleDuo/split_config.xxhdpi.apk",
                     "folder": "GoogleDuo",
                     "md5": "85d871786beb682a915b5c2e250b9dc6",
                     "package": "com.google.android.apps.tachyon",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleDuo",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.tachyon": [
                 {
                     "file": "GoogleDuo/GoogleDuo/___app___GoogleDuo/GoogleDuo.apk",
                     "folder": "GoogleDuo",
                     "md5": "541ab110de751e97d66e9b5704fc18d6",
                     "package": "com.google.android.apps.tachyon",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleDuo",
                     "partition": "system",
                     "type": "app",
                     "version": "154.0.410641091.duo.android_20211114.12_p2"
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.tachyon": [
                 {
                     "file": "GoogleDuo/GoogleDuo/___app___GoogleDuo/split_config.arm64_v8a.apk",
                     "folder": "GoogleDuo",
                     "md5": "669834d936e16bdb34f899f8d640c319",
                     "package": "com.google.android.apps.tachyon",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleDuo",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.tachyon": [
                 {
                     "file": "GoogleDuo/GoogleDuo/___app___GoogleDuo/split_config.en.apk",
                     "folder": "GoogleDuo",
                     "md5": "634d5bf23e75656399e9df15cfa484e9",
                     "package": "com.google.android.apps.tachyon",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleDuo",
                     "partition": "system",
                     "type": "app",
                     "version": ""
@@ -861,13 +949,13 @@
     ],
     "GoogleFeedback": [
         {
-            "GoogleFeedback": [
+            "com.google.android.feedback": [
                 {
                     "file": "GoogleFeedback/GoogleFeedback/___priv-app___GoogleFeedback/GoogleFeedback.apk",
                     "folder": "GoogleFeedback",
                     "md5": "c6bb4fe5e6d0b8dc92171bfe8e96466c",
                     "package": "com.google.android.feedback",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleFeedback",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -877,13 +965,13 @@
     ],
     "GoogleFi": [
         {
-            "Tycho": [
+            "com.google.android.apps.tycho": [
                 {
                     "file": "GoogleFi/Tycho/___app___Tycho/Tycho.apk",
                     "folder": "Tycho",
                     "md5": "fc70942a6495953bd7c3253c7610588d",
                     "package": "com.google.android.apps.tycho",
-                    "package_name": "pkg_name",
+                    "package_name": "Tycho",
                     "partition": "system",
                     "type": "app",
                     "version": "V27-arm64-v8a-universal-pixel (316752910)"
@@ -891,13 +979,13 @@
             ]
         },
         {
-            "GCS": [
+            "com.google.android.apps.gcs": [
                 {
                     "file": "GoogleFi/GCS/___priv-app___GCS/GCS.apk",
                     "folder": "GCS",
                     "md5": "a994c24da0ea453fc8536ddddfdf8bc6",
                     "package": "com.google.android.apps.gcs",
-                    "package_name": "pkg_name",
+                    "package_name": "GCS",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "V33 prod (12057 sdk30)"
@@ -907,13 +995,13 @@
     ],
     "GoogleFiles": [
         {
-            "StorageManager": [
+            "com.google.android.storagemanager": [
                 {
                     "file": "GoogleFiles/StorageManager/___priv-app___StorageManagerGoogle/StorageManagerGoogle.apk",
                     "folder": "StorageManagerGoogle",
                     "md5": "98746504ec1a70a02d863d3d15d9a743",
                     "package": "com.google.android.storagemanager",
-                    "package_name": "pkg_name",
+                    "package_name": "StorageManager",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -921,13 +1009,13 @@
             ]
         },
         {
-            "DocumentsUIGoogle": [
+            "com.google.android.documentsui": [
                 {
                     "file": "GoogleFiles/DocumentsUIGoogle/___priv-app___DocumentsUIGoogle/DocumentsUIGoogle.apk",
                     "folder": "DocumentsUIGoogle",
                     "md5": "fe7b6c5735836d5ecc9a2da56759eec7",
                     "package": "com.google.android.documentsui",
-                    "package_name": "pkg_name",
+                    "package_name": "DocumentsUIGoogle",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "r_aml_301500700"
@@ -935,43 +1023,55 @@
             ]
         },
         {
-            "GoogleFiles": [
+            "com.google.android.apps.nbu.files": [
                 {
                     "file": "GoogleFiles/GoogleFiles/___priv-app___FilesPrebuilt/split_config.xxhdpi.apk",
                     "folder": "FilesPrebuilt",
                     "md5": "d7da786acc40f27ef51fee62ca59e153",
                     "package": "com.google.android.apps.nbu.files",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleFiles",
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.nbu.files": [
                 {
                     "file": "GoogleFiles/GoogleFiles/___priv-app___FilesPrebuilt/FilesPrebuilt.apk",
                     "folder": "FilesPrebuilt",
                     "md5": "68dec0e5cdc757a9443aebd0c95bf1aa",
                     "package": "com.google.android.apps.nbu.files",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleFiles",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.406984716"
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.nbu.files": [
                 {
                     "file": "GoogleFiles/GoogleFiles/___priv-app___FilesPrebuilt/split_config.arm64_v8a.apk",
                     "folder": "FilesPrebuilt",
                     "md5": "30060b9ad59b23974d6097b05bfab0f2",
                     "package": "com.google.android.apps.nbu.files",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleFiles",
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.nbu.files": [
                 {
                     "file": "GoogleFiles/GoogleFiles/___priv-app___FilesPrebuilt/split_config.en.apk",
                     "folder": "FilesPrebuilt",
                     "md5": "0f1778d5d14a53c2b972b33988b02d2f",
                     "package": "com.google.android.apps.nbu.files",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleFiles",
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
@@ -981,13 +1081,13 @@
     ],
     "GoogleGo": [
         {
-            "GoogleGo": [
+            "com.google.android.apps.searchlite": [
                 {
                     "file": "GoogleGo/GoogleGo/___priv-app___GoogleGo/GoogleGo.apk",
                     "folder": "GoogleGo",
                     "md5": "1913dc11e1d4d086af1890a89c56ec8c",
                     "package": "com.google.android.apps.searchlite",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleGo",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "3.29.375514406.release"
@@ -997,33 +1097,41 @@
     ],
     "GoogleKeep": [
         {
-            "GoogleKeep": [
+            "com.google.android.keep": [
                 {
                     "file": "GoogleKeep/GoogleKeep/___priv-app___PrebuiltKeep/split_config.xxhdpi.apk",
                     "folder": "PrebuiltKeep",
                     "md5": "75544d09352adc8f63312c9745a17b42",
                     "package": "com.google.android.keep",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleKeep",
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.keep": [
                 {
                     "file": "GoogleKeep/GoogleKeep/___priv-app___PrebuiltKeep/split_config.en.apk",
                     "folder": "PrebuiltKeep",
                     "md5": "fce7e5aaf884659c8f23a9b038f716fa",
                     "package": "com.google.android.keep",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleKeep",
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.keep": [
                 {
                     "file": "GoogleKeep/GoogleKeep/___priv-app___PrebuiltKeep/PrebuiltKeep.apk",
                     "folder": "PrebuiltKeep",
                     "md5": "b5ef6ce28a73d436ceb3889637544c21",
                     "package": "com.google.android.keep",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleKeep",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "5.21.481.01.40"
@@ -1033,13 +1141,13 @@
     ],
     "GoogleLocationHistory": [
         {
-            "GoogleLocationHistory": [
+            "com.google.android.gms.location.history": [
                 {
                     "file": "GoogleLocationHistory/GoogleLocationHistory/___app___LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk",
                     "folder": "LocationHistoryPrebuilt",
                     "md5": "b3d5de375ab9faee1be9606f54edfe86",
                     "package": "com.google.android.gms.location.history",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleLocationHistory",
                     "partition": "system",
                     "type": "app",
                     "version": "1.1"
@@ -1049,43 +1157,55 @@
     ],
     "GoogleMaps": [
         {
-            "GoogleMaps": [
+            "com.google.android.apps.maps": [
                 {
                     "file": "GoogleMaps/GoogleMaps/___priv-app___GoogleMaps/split_config.xxhdpi.apk",
                     "folder": "GoogleMaps",
                     "md5": "c2c4c4d6f8fbbf1d8216cf8c12146007",
                     "package": "com.google.android.apps.maps",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleMaps",
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.maps": [
                 {
                     "file": "GoogleMaps/GoogleMaps/___priv-app___GoogleMaps/split_config.arm64_v8a.apk",
                     "folder": "GoogleMaps",
                     "md5": "df21dd4f167be7d7ca7084041a5e0044",
                     "package": "com.google.android.apps.maps",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleMaps",
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.maps": [
                 {
                     "file": "GoogleMaps/GoogleMaps/___priv-app___GoogleMaps/split_config.en.apk",
                     "folder": "GoogleMaps",
                     "md5": "c4428e042f3f41d781d8fa127f41a8b7",
                     "package": "com.google.android.apps.maps",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleMaps",
                     "partition": "system",
                     "type": "priv-app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.maps": [
                 {
                     "file": "GoogleMaps/GoogleMaps/___priv-app___GoogleMaps/GoogleMaps.apk",
                     "folder": "GoogleMaps",
                     "md5": "701b8d843abe8710149459b8efc7e560",
                     "package": "com.google.android.apps.maps",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleMaps",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11.11.2"
@@ -1095,43 +1215,55 @@
     ],
     "GoogleMessages": [
         {
-            "GoogleMessages": [
+            "com.google.android.apps.messaging": [
                 {
                     "file": "GoogleMessages/GoogleMessages/___app___PrebuiltBugle/split_config.xxhdpi.apk",
                     "folder": "PrebuiltBugle",
                     "md5": "5d2038782810a63223323c348228b2d3",
                     "package": "com.google.android.apps.messaging",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleMessages",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.messaging": [
                 {
                     "file": "GoogleMessages/GoogleMessages/___app___PrebuiltBugle/PrebuiltBugle.apk",
                     "folder": "PrebuiltBugle",
                     "md5": "4906b94d0d0f20074f0ede4fa1f915d0",
                     "package": "com.google.android.apps.messaging",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleMessages",
                     "partition": "system",
                     "type": "app",
                     "version": "10.7.461 (10.7.460_RC01.phone_dynamic)"
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.messaging": [
                 {
                     "file": "GoogleMessages/GoogleMessages/___app___PrebuiltBugle/split_config.arm64_v8a.apk",
                     "folder": "PrebuiltBugle",
                     "md5": "fb72979f409c78e699b97da8f9db2638",
                     "package": "com.google.android.apps.messaging",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleMessages",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.messaging": [
                 {
                     "file": "GoogleMessages/GoogleMessages/___app___PrebuiltBugle/split_config.en.apk",
                     "folder": "PrebuiltBugle",
                     "md5": "d62988f1566fae2520d20aa4b42fa165",
                     "package": "com.google.android.apps.messaging",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleMessages",
                     "partition": "system",
                     "type": "app",
                     "version": ""
@@ -1141,13 +1273,13 @@
     ],
     "GoogleOneTimeInitializer": [
         {
-            "GoogleOneTimeInitializer": [
+            "com.google.android.onetimeinitializer": [
                 {
                     "file": "GoogleOneTimeInitializer/GoogleOneTimeInitializer/___priv-app___GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
                     "folder": "GoogleOneTimeInitializer",
                     "md5": "a58b0362bb76b21327919a0d5c3eebfb",
                     "package": "com.google.android.onetimeinitializer",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleOneTimeInitializer",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11-6684105"
@@ -1157,13 +1289,13 @@
     ],
     "GooglePartnerSetup": [
         {
-            "GooglePartnerSetup": [
+            "com.google.android.partnersetup": [
                 {
                     "file": "GooglePartnerSetup/GooglePartnerSetup/___priv-app___GooglePartnerSetup/GooglePartnerSetup.apk",
                     "folder": "GooglePartnerSetup",
                     "md5": "197b6f99db8ee40f84a04eede8db6347",
                     "package": "com.google.android.partnersetup",
-                    "package_name": "pkg_name",
+                    "package_name": "GooglePartnerSetup",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "100.316795284"
@@ -1173,33 +1305,41 @@
     ],
     "GooglePhotos": [
         {
-            "GooglePhotos": [
+            "com.google.android.apps.photos": [
                 {
                     "file": "GooglePhotos/GooglePhotos/___app___Photos/Photos.apk",
                     "folder": "Photos",
                     "md5": "b5dde442f013073baa212b2d8abb723b",
                     "package": "com.google.android.apps.photos",
-                    "package_name": "pkg_name",
+                    "package_name": "GooglePhotos",
                     "partition": "system",
                     "type": "app",
                     "version": "5.71.0.416067338"
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.photos": [
                 {
                     "file": "GooglePhotos/GooglePhotos/___app___Photos/split_config.xxhdpi.apk",
                     "folder": "Photos",
                     "md5": "72861220117dca956ba39fedef59a8b0",
                     "package": "com.google.android.apps.photos",
-                    "package_name": "pkg_name",
+                    "package_name": "GooglePhotos",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.photos": [
                 {
                     "file": "GooglePhotos/GooglePhotos/___app___Photos/split_config.en.apk",
                     "folder": "Photos",
                     "md5": "fae7e92966f08ab5cce07a9c0df0a0b2",
                     "package": "com.google.android.apps.photos",
-                    "package_name": "pkg_name",
+                    "package_name": "GooglePhotos",
                     "partition": "system",
                     "type": "app",
                     "version": ""
@@ -1209,13 +1349,13 @@
     ],
     "GooglePlayMusic": [
         {
-            "GooglePlayMusic": [
+            "com.google.android.music": [
                 {
                     "file": "GooglePlayMusic/GooglePlayMusic/___app___GooglePlayMusic/GooglePlayMusic.apk",
                     "folder": "GooglePlayMusic",
                     "md5": "c4711f2ec278bead386e78c288116adb",
                     "package": "com.google.android.music",
-                    "package_name": "pkg_name",
+                    "package_name": "GooglePlayMusic",
                     "partition": "system",
                     "type": "app",
                     "version": "8.26.8771-1.T"
@@ -1225,13 +1365,13 @@
     ],
     "GoogleRecorder": [
         {
-            "GoogleRecorder": [
+            "com.google.android.apps.recorder": [
                 {
                     "file": "GoogleRecorder/GoogleRecorder/___priv-app___RecorderPrebuilt/RecorderPrebuilt.apk",
                     "folder": "RecorderPrebuilt",
                     "md5": "22d9165044644959f31ba5cc52745ce5",
                     "package": "com.google.android.apps.recorder",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleRecorder",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.2.314117049"
@@ -1241,13 +1381,13 @@
     ],
     "GoogleSearch": [
         {
-            "Velvet": [
+            "com.google.android.googlequicksearchbox": [
                 {
                     "file": "GoogleSearch/Velvet/___priv-app___Velvet/Velvet.apk",
                     "folder": "Velvet",
                     "md5": "dfa465d34dcb670aa42fe53c9c79be80",
                     "package": "com.google.android.googlequicksearchbox",
-                    "package_name": "pkg_name",
+                    "package_name": "Velvet",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "12.47.14.23.arm64"
@@ -1255,13 +1395,13 @@
             ]
         },
         {
-            "Assistant": [
+            "com.google.android.apps.googleassistant": [
                 {
                     "file": "GoogleSearch/Assistant/___priv-app___Assistant/Assistant.apk",
                     "folder": "Assistant",
                     "md5": "897e6ce314873210c2d8b694febd4971",
                     "package": "com.google.android.apps.googleassistant",
-                    "package_name": "pkg_name",
+                    "package_name": "Assistant",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "0.1.187945513"
@@ -1271,23 +1411,27 @@
     ],
     "GoogleSheets": [
         {
-            "GoogleSheets": [
+            "com.google.android.apps.docs.editors.sheets": [
                 {
                     "file": "GoogleSheets/GoogleSheets/___app___GoogleSheets/GoogleSheets.apk",
                     "folder": "GoogleSheets",
                     "md5": "239089938883d7c24f6a756fbe464532",
                     "package": "com.google.android.apps.docs.editors.sheets",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleSheets",
                     "partition": "system",
                     "type": "app",
                     "version": "1.21.462.04.40"
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.docs.editors.sheets": [
                 {
                     "file": "GoogleSheets/GoogleSheets/___app___GoogleSheets/split_config.en.apk",
                     "folder": "GoogleSheets",
                     "md5": "5e025e4bab7d1b03d8abc2b1a546e4f1",
                     "package": "com.google.android.apps.docs.editors.sheets",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleSheets",
                     "partition": "system",
                     "type": "app",
                     "version": ""
@@ -1297,23 +1441,27 @@
     ],
     "GoogleSlides": [
         {
-            "GoogleSlides": [
+            "com.google.android.apps.docs.editors.slides": [
                 {
                     "file": "GoogleSlides/GoogleSlides/___app___GoogleSlides/GoogleSlides.apk",
                     "folder": "GoogleSlides",
                     "md5": "52a478bf3a03e370fb09559fa590c936",
                     "package": "com.google.android.apps.docs.editors.slides",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleSlides",
                     "partition": "system",
                     "type": "app",
                     "version": "1.21.462.04.40"
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.docs.editors.slides": [
                 {
                     "file": "GoogleSlides/GoogleSlides/___app___GoogleSlides/split_config.en.apk",
                     "folder": "GoogleSlides",
                     "md5": "7bcfd88e5cf0d0edaba6edf8161d8a5b",
                     "package": "com.google.android.apps.docs.editors.slides",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleSlides",
                     "partition": "system",
                     "type": "app",
                     "version": ""
@@ -1323,13 +1471,13 @@
     ],
     "GoogleSounds": [
         {
-            "GoogleSounds": [
+            "com.google.android.soundpicker": [
                 {
                     "file": "GoogleSounds/GoogleSounds/___app___SoundPickerPrebuilt/SoundPickerPrebuilt.apk",
                     "folder": "SoundPickerPrebuilt",
                     "md5": "6bbe71e2fbc357eca845a6318ea12abe",
                     "package": "com.google.android.soundpicker",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleSounds",
                     "partition": "system",
                     "type": "app",
                     "version": "2.7 (374355119)"
@@ -1339,13 +1487,13 @@
     ],
     "GoogleTTS": [
         {
-            "GoogleTTS": [
+            "com.google.android.tts": [
                 {
                     "file": "GoogleTTS/GoogleTTS/___app___GoogleTTS/GoogleTTS.apk",
                     "folder": "GoogleTTS",
                     "md5": "4c26777d66f59a2efcef423810137443",
                     "package": "com.google.android.tts",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleTTS",
                     "partition": "system",
                     "type": "app",
                     "version": "26.2.4.385195680"
@@ -1355,13 +1503,13 @@
     ],
     "GoogleTalkback": [
         {
-            "GoogleTalkback": [
+            "com.google.android.marvin.talkback": [
                 {
                     "file": "GoogleTalkback/GoogleTalkback/___app___talkback/talkback.apk",
                     "folder": "talkback",
                     "md5": "1f2585e6f1c83dabddc6db938f3e6100",
                     "package": "com.google.android.marvin.talkback",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleTalkback",
                     "partition": "system",
                     "type": "app",
                     "version": "9.1.0.358315219"
@@ -1371,13 +1519,13 @@
     ],
     "GoogleWallpaper": [
         {
-            "GoogleWallpaper": [
+            "com.google.android.apps.wallpaper": [
                 {
                     "file": "GoogleWallpaper/GoogleWallpaper/___priv-app___WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
                     "folder": "WallpaperPickerGoogleRelease",
                     "md5": "c3faaf316831aea7c5d95a6582fd9108",
                     "package": "com.google.android.apps.wallpaper",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleWallpaper",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -1387,13 +1535,13 @@
     ],
     "Lawnchair": [
         {
-            "Lawnfeed": [
+            "ch.deletescape.lawnchair.lawnfeed": [
                 {
                     "file": "Lawnchair/Lawnfeed/___app___Lawnfeed/Lawnfeed.apk",
                     "folder": "Lawnfeed",
                     "md5": "6213b461f0cc81766a817827247517ce",
                     "package": "ch.deletescape.lawnchair.lawnfeed",
-                    "package_name": "pkg_name",
+                    "package_name": "Lawnfeed",
                     "partition": "system",
                     "type": "app",
                     "version": "2.1-2598"
@@ -1401,13 +1549,13 @@
             ]
         },
         {
-            "Lawnchair": [
+            "ch.deletescape.lawnchair.ci": [
                 {
                     "file": "Lawnchair/Lawnchair/___priv-app___Lawnchair/Lawnchair.apk",
                     "folder": "Lawnchair",
                     "md5": "1eb4a19e4195d69f2d5e3e0ce4177188",
                     "package": "ch.deletescape.lawnchair.ci",
-                    "package_name": "pkg_name",
+                    "package_name": "Lawnchair",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "2.1-2616-ci-q-pre-alpha"
@@ -1417,13 +1565,13 @@
     ],
     "MapsGo": [
         {
-            "MapsGo": [
+            "com.google.android.apps.mapslite": [
                 {
                     "file": "MapsGo/MapsGo/___app___MapsGo/MapsGo.apk",
                     "folder": "MapsGo",
                     "md5": "22a6d374382e8b068442867f0405227e",
                     "package": "com.google.android.apps.mapslite",
-                    "package_name": "pkg_name",
+                    "package_name": "MapsGo",
                     "partition": "system",
                     "type": "app",
                     "version": "152.0"
@@ -1433,13 +1581,13 @@
     ],
     "MarkupGoogle": [
         {
-            "MarkupGoogle": [
+            "com.google.android.markup": [
                 {
                     "file": "MarkupGoogle/MarkupGoogle/___app___MarkupGoogle/MarkupGoogle.apk",
                     "folder": "MarkupGoogle",
                     "md5": "f0bff94bf627a15366b18f8986c97425",
                     "package": "com.google.android.markup",
-                    "package_name": "pkg_name",
+                    "package_name": "MarkupGoogle",
                     "partition": "system",
                     "type": "app",
                     "version": "11"
@@ -1449,13 +1597,13 @@
     ],
     "MixPlorerSilver": [
         {
-            "MixPlorerSilver": [
+            "com.mixplorer.silver": [
                 {
                     "file": "MixPlorerSilver/MixPlorerSilver/___app___MixPlorerSilver/MixPlorerSilver.apk",
                     "folder": "MixPlorerSilver",
                     "md5": "f21adf72bf399846c2ef4abbc3817f1e",
                     "package": "com.mixplorer.silver",
-                    "package_name": "pkg_name",
+                    "package_name": "MixPlorerSilver",
                     "partition": "system",
                     "type": "app",
                     "version": "6.58.4-Silver"
@@ -1465,13 +1613,13 @@
     ],
     "NavigationGo": [
         {
-            "NavigationGo": [
+            "com.google.android.apps.navlite": [
                 {
                     "file": "NavigationGo/NavigationGo/___app___NavigationGo/NavigationGo.apk",
                     "folder": "NavigationGo",
                     "md5": "3502eaf7af9c225553bdb8299d39c0a7",
                     "package": "com.google.android.apps.navlite",
-                    "package_name": "pkg_name",
+                    "package_name": "NavigationGo",
                     "partition": "system",
                     "type": "app",
                     "version": "10.55.0"
@@ -1481,13 +1629,13 @@
     ],
     "PixelAmbientServices": [
         {
-            "PixelAmbientServices": [
+            "com.google.intelligence.sense": [
                 {
                     "file": "PixelAmbientServices/PixelAmbientServices/___priv-app___AmbientSensePrebuilt/AmbientSensePrebuilt.apk",
                     "folder": "AmbientSensePrebuilt",
                     "md5": "021abbcb8dd7b83cb01db106fd14d696",
                     "package": "com.google.intelligence.sense",
-                    "package_name": "pkg_name",
+                    "package_name": "PixelAmbientServices",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.318269246"
@@ -1497,13 +1645,13 @@
     ],
     "PixelLauncher": [
         {
-            "QuickAccessWallet": [
+            "com.android.systemui.plugin.globalactions.wallet": [
                 {
                     "file": "PixelLauncher/QuickAccessWallet/___priv-app___QuickAccessWallet/QuickAccessWallet.apk",
                     "folder": "QuickAccessWallet",
                     "md5": "eb75da0a4bd5b160fcdcf8328099ad49",
                     "package": "com.android.systemui.plugin.globalactions.wallet",
-                    "package_name": "pkg_name",
+                    "package_name": "QuickAccessWallet",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.0.0"
@@ -1511,13 +1659,13 @@
             ]
         },
         {
-            "GoogleWallpaper": [
+            "com.google.android.apps.wallpaper": [
                 {
                     "file": "PixelLauncher/GoogleWallpaper/___priv-app___WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
                     "folder": "WallpaperPickerGoogleRelease",
                     "md5": "c3faaf316831aea7c5d95a6582fd9108",
                     "package": "com.google.android.apps.wallpaper",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleWallpaper",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -1525,13 +1673,13 @@
             ]
         },
         {
-            "DevicePersonalizationServices": [
+            "com.google.android.as": [
                 {
                     "file": "PixelLauncher/DevicePersonalizationServices/___priv-app___DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk",
                     "folder": "DevicePersonalizationPrebuiltPixel2020",
                     "md5": "71ec6e5bb9ac8d6edaec16cfb237af8d",
                     "package": "com.google.android.as",
-                    "package_name": "pkg_name",
+                    "package_name": "DevicePersonalizationServices",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "R.27.playstore.pixel5.401508507"
@@ -1539,13 +1687,13 @@
             ]
         },
         {
-            "PixelLauncher": [
+            "com.google.android.apps.nexuslauncher": [
                 {
                     "file": "PixelLauncher/PixelLauncher/___priv-app___NexusLauncherRelease/NexusLauncherRelease.apk",
                     "folder": "NexusLauncherRelease",
                     "md5": "19ab291061892b21f5bd051039e39feb",
                     "package": "com.google.android.apps.nexuslauncher",
-                    "package_name": "pkg_name",
+                    "package_name": "PixelLauncher",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -1555,13 +1703,13 @@
     ],
     "PixelLiveWallpapers": [
         {
-            "WallpapersBReel2020": [
+            "com.breel.wallpapers20": [
                 {
                     "file": "PixelLiveWallpapers/WallpapersBReel2020/___app___WallpapersBReel2020/WallpapersBReel2020.apk",
                     "folder": "WallpapersBReel2020",
                     "md5": "30f4e45c1dc276a5f19ca078677a2189",
                     "package": "com.breel.wallpapers20",
-                    "package_name": "pkg_name",
+                    "package_name": "WallpapersBReel2020",
                     "partition": "system",
                     "type": "app",
                     "version": "11 PP-7.0+"
@@ -1569,13 +1717,13 @@
             ]
         },
         {
-            "WallpapersBReel2019": [
+            "com.breel.wallpapers19": [
                 {
                     "file": "PixelLiveWallpapers/WallpapersBReel2019/___app___WallpapersBReel2019/WallpapersBReel2019.apk",
                     "folder": "WallpapersBReel2019",
                     "md5": "470f1507360689e316ccd766abf950ef",
                     "package": "com.breel.wallpapers19",
-                    "package_name": "pkg_name",
+                    "package_name": "WallpapersBReel2019",
                     "partition": "system",
                     "type": "app",
                     "version": "11"
@@ -1583,13 +1731,13 @@
             ]
         },
         {
-            "PixelLiveWallpaper": [
+            "com.google.pixel.livewallpaper": [
                 {
                     "file": "PixelLiveWallpapers/PixelLiveWallpaper/___priv-app___PixelLiveWallpaperPrebuilt/PixelLiveWallpaperPrebuilt.apk",
                     "folder": "PixelLiveWallpaperPrebuilt",
                     "md5": "ff27ee4240feca1d8a88a419f84cc0f1",
                     "package": "com.google.pixel.livewallpaper",
-                    "package_name": "pkg_name",
+                    "package_name": "PixelLiveWallpaper",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0 (5778431)"
@@ -1597,13 +1745,13 @@
             ]
         },
         {
-            "WallpapersBReel2020a": [
+            "com.breel.wallpapers20a": [
                 {
                     "file": "PixelLiveWallpapers/WallpapersBReel2020a/___app___WallpapersBReel2020a/WallpapersBReel2020a.apk",
                     "folder": "WallpapersBReel2020a",
                     "md5": "01ade742ae71f21c1d8c35e7448178f4",
                     "package": "com.breel.wallpapers20a",
-                    "package_name": "pkg_name",
+                    "package_name": "WallpapersBReel2020a",
                     "partition": "system",
                     "type": "app",
                     "version": "11"
@@ -1613,13 +1761,13 @@
     ],
     "PixelSetupWizard": [
         {
-            "GoogleRestore": [
+            "com.google.android.apps.restore": [
                 {
                     "file": "PixelSetupWizard/GoogleRestore/___priv-app___GoogleRestore/GoogleRestore.apk",
                     "folder": "GoogleRestore",
                     "md5": "ce5c5acc99fc7e07cd38b88a8816b206",
                     "package": "com.google.android.apps.restore",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleRestore",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.412254046"
@@ -1627,13 +1775,13 @@
             ]
         },
         {
-            "AndroidMigratePrebuilt": [
+            "com.google.android.apps.pixelmigrate": [
                 {
                     "file": "PixelSetupWizard/AndroidMigratePrebuilt/___priv-app___AndroidMigratePrebuilt/AndroidMigratePrebuilt.apk",
                     "folder": "AndroidMigratePrebuilt",
                     "md5": "dce616456ac5ff81f2f1814a696406e0",
                     "package": "com.google.android.apps.pixelmigrate",
-                    "package_name": "pkg_name",
+                    "package_name": "AndroidMigratePrebuilt",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.412268934"
@@ -1641,13 +1789,13 @@
             ]
         },
         {
-            "PixelTips": [
+            "com.google.android.apps.tips": [
                 {
                     "file": "PixelSetupWizard/PixelTips/___priv-app___TipsPrebuilt/TipsPrebuilt.apk",
                     "folder": "TipsPrebuilt",
                     "md5": "db5141754790fca553d91d1e264335a6",
                     "package": "com.google.android.apps.tips",
-                    "package_name": "pkg_name",
+                    "package_name": "PixelTips",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "4.0.0.401984649"
@@ -1655,13 +1803,13 @@
             ]
         },
         {
-            "GoogleOneTimeInitializer": [
+            "com.google.android.onetimeinitializer": [
                 {
                     "file": "PixelSetupWizard/GoogleOneTimeInitializer/___priv-app___GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
                     "folder": "GoogleOneTimeInitializer",
                     "md5": "a4a3793379cf1f3aafd86b022a97c967",
                     "package": "com.google.android.onetimeinitializer",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleOneTimeInitializer",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -1669,13 +1817,13 @@
             ]
         },
         {
-            "SetupWizard": [
+            "com.google.android.setupwizard": [
                 {
                     "file": "PixelSetupWizard/SetupWizard/___priv-app___SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
                     "folder": "SetupWizardPrebuilt",
                     "md5": "7dd9713beef5dc4ff989b08de0bd23d8",
                     "package": "com.google.android.setupwizard",
-                    "package_name": "pkg_name",
+                    "package_name": "SetupWizard",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "230.348444116"
@@ -1683,13 +1831,13 @@
             ]
         },
         {
-            "PixelSetupWizard": [
+            "com.google.android.pixel.setupwizard": [
                 {
                     "file": "PixelSetupWizard/PixelSetupWizard/___priv-app___PixelSetupWizard/PixelSetupWizard.apk",
                     "folder": "PixelSetupWizard",
                     "md5": "ad7460fae4b04bd2b564ed8fbc7095c4",
                     "package": "com.google.android.pixel.setupwizard",
-                    "package_name": "pkg_name",
+                    "package_name": "PixelSetupWizard",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -1699,13 +1847,13 @@
     ],
     "Pixelize": [
         {
-            "AndroidMigratePrebuilt": [
+            "com.google.android.apps.pixelmigrate": [
                 {
                     "file": "Pixelize/AndroidMigratePrebuilt/___priv-app___AndroidMigratePrebuilt/AndroidMigratePrebuilt.apk",
                     "folder": "AndroidMigratePrebuilt",
                     "md5": "41099f41e91b2f813b14ba16eb78c799",
                     "package": "com.google.android.apps.pixelmigrate",
-                    "package_name": "pkg_name",
+                    "package_name": "AndroidMigratePrebuilt",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.365493495"
@@ -1713,13 +1861,13 @@
             ]
         },
         {
-            "PixelTips": [
+            "com.google.android.apps.tips": [
                 {
                     "file": "Pixelize/PixelTips/___priv-app___TipsPrebuilt/TipsPrebuilt.apk",
                     "folder": "TipsPrebuilt",
                     "md5": "75e46508105167b4b73f322f8c41b134",
                     "package": "com.google.android.apps.tips",
-                    "package_name": "pkg_name",
+                    "package_name": "PixelTips",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "3.4.0.373287606"
@@ -1727,13 +1875,13 @@
             ]
         },
         {
-            "PixelSetupWizard": [
+            "com.google.android.pixel.setupwizard": [
                 {
                     "file": "Pixelize/PixelSetupWizard/___priv-app___PixelSetupWizard/PixelSetupWizard.apk",
                     "folder": "PixelSetupWizard",
                     "md5": "78c3e3e1570ff7b06dca96ab965296b6",
                     "package": "com.google.android.pixel.setupwizard",
-                    "package_name": "pkg_name",
+                    "package_name": "PixelSetupWizard",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -1743,43 +1891,55 @@
     ],
     "PlayGames": [
         {
-            "PlayGames": [
+            "com.google.android.play.games": [
                 {
                     "file": "PlayGames/PlayGames/___app___PlayGames/split_config.xxhdpi.apk",
                     "folder": "PlayGames",
                     "md5": "728b5401223efa9ea1abb850cae1b0a8",
                     "package": "com.google.android.play.games",
-                    "package_name": "pkg_name",
+                    "package_name": "PlayGames",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.play.games": [
                 {
                     "file": "PlayGames/PlayGames/___app___PlayGames/PlayGames.apk",
                     "folder": "PlayGames",
                     "md5": "4aba00a8ce55d18c222c0ff5e09810d5",
                     "package": "com.google.android.play.games",
-                    "package_name": "pkg_name",
+                    "package_name": "PlayGames",
                     "partition": "system",
                     "type": "app",
                     "version": "2021.10.30471 (406188382.406188382-000400)"
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.play.games": [
                 {
                     "file": "PlayGames/PlayGames/___app___PlayGames/split_config.arm64_v8a.apk",
                     "folder": "PlayGames",
                     "md5": "62dc025da737d7ba4fa4ae2fbd2f9f88",
                     "package": "com.google.android.play.games",
-                    "package_name": "pkg_name",
+                    "package_name": "PlayGames",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.play.games": [
                 {
                     "file": "PlayGames/PlayGames/___app___PlayGames/split_config.en.apk",
                     "folder": "PlayGames",
                     "md5": "4d3bbe7c7a67633ebc3ae6d6bb462f7f",
                     "package": "com.google.android.play.games",
-                    "package_name": "pkg_name",
+                    "package_name": "PlayGames",
                     "partition": "system",
                     "type": "app",
                     "version": ""
@@ -1789,13 +1949,13 @@
     ],
     "PokePixLiveWallpapers": [
         {
-            "WallpapersBReel2020": [
+            "com.breel.wallpapers20": [
                 {
                     "file": "PokePixLiveWallpapers/WallpapersBReel2020/___app___WallpapersBReel2020/WallpapersBReel2020.apk",
                     "folder": "WallpapersBReel2020",
                     "md5": "30f4e45c1dc276a5f19ca078677a2189",
                     "package": "com.breel.wallpapers20",
-                    "package_name": "pkg_name",
+                    "package_name": "WallpapersBReel2020",
                     "partition": "system",
                     "type": "app",
                     "version": "11 PP-7.0+"
@@ -1803,13 +1963,13 @@
             ]
         },
         {
-            "WallpapersBReel2019": [
+            "com.breel.wallpapers19": [
                 {
                     "file": "PokePixLiveWallpapers/WallpapersBReel2019/___app___WallpapersBReel2019/WallpapersBReel2019.apk",
                     "folder": "WallpapersBReel2019",
                     "md5": "470f1507360689e316ccd766abf950ef",
                     "package": "com.breel.wallpapers19",
-                    "package_name": "pkg_name",
+                    "package_name": "WallpapersBReel2019",
                     "partition": "system",
                     "type": "app",
                     "version": "11"
@@ -1817,43 +1977,27 @@
             ]
         },
         {
-            "PixelLiveWallpaper": [
+            "com.google.pixel.livewallpaper": [
                 {
                     "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/PixelLiveWallpaperPrebuilt.apk",
                     "folder": "PixelLiveWallpapersPrebuilt",
                     "md5": "a9b5a5f9a42f044d4f2ca113971b4736",
                     "package": "com.google.pixel.livewallpaper",
-                    "package_name": "pkg_name",
+                    "package_name": "PixelLiveWallpaper",
                     "partition": "system",
                     "type": "app",
                     "version": "1.1 (5937327) PP-7.0+"
-                },
+                }
+            ]
+        },
+        {
+            "com.google.pixel.livewallpaper": [
                 {
                     "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/split_pokemon.config.arm64_v8a.apk",
                     "folder": "PixelLiveWallpapersPrebuilt",
                     "md5": "cfd2488256828e21eb4e4e5c852a9340",
                     "package": "com.google.pixel.livewallpaper",
-                    "package_name": "pkg_name",
-                    "partition": "system",
-                    "type": "app",
-                    "version": ""
-                },
-                {
-                    "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/split_pokemon.apk",
-                    "folder": "PixelLiveWallpapersPrebuilt",
-                    "md5": "a57d512d6c9d0b42a4435110b2a3e3ca",
-                    "package": "com.google.pixel.livewallpaper",
-                    "package_name": "pkg_name",
-                    "partition": "system",
-                    "type": "app",
-                    "version": "1.1 (5937327)"
-                },
-                {
-                    "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/split_config.arm64_v8a.apk",
-                    "folder": "PixelLiveWallpapersPrebuilt",
-                    "md5": "f10b78fb5d54bd8dd82451e7cc0b77a1",
-                    "package": "com.google.pixel.livewallpaper",
-                    "package_name": "pkg_name",
+                    "package_name": "PixelLiveWallpaper",
                     "partition": "system",
                     "type": "app",
                     "version": ""
@@ -1861,13 +2005,41 @@
             ]
         },
         {
-            "WallpapersBReel2020a": [
+            "com.google.pixel.livewallpaper": [
+                {
+                    "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/split_pokemon.apk",
+                    "folder": "PixelLiveWallpapersPrebuilt",
+                    "md5": "a57d512d6c9d0b42a4435110b2a3e3ca",
+                    "package": "com.google.pixel.livewallpaper",
+                    "package_name": "PixelLiveWallpaper",
+                    "partition": "system",
+                    "type": "app",
+                    "version": "1.1 (5937327)"
+                }
+            ]
+        },
+        {
+            "com.google.pixel.livewallpaper": [
+                {
+                    "file": "PokePixLiveWallpapers/PixelLiveWallpaper/___app___PixelLiveWallpapersPrebuilt/split_config.arm64_v8a.apk",
+                    "folder": "PixelLiveWallpapersPrebuilt",
+                    "md5": "f10b78fb5d54bd8dd82451e7cc0b77a1",
+                    "package": "com.google.pixel.livewallpaper",
+                    "package_name": "PixelLiveWallpaper",
+                    "partition": "system",
+                    "type": "app",
+                    "version": ""
+                }
+            ]
+        },
+        {
+            "com.breel.wallpapers20a": [
                 {
                     "file": "PokePixLiveWallpapers/WallpapersBReel2020a/___app___WallpapersBReel2020a/WallpapersBReel2020a.apk",
                     "folder": "WallpapersBReel2020a",
                     "md5": "01ade742ae71f21c1d8c35e7448178f4",
                     "package": "com.breel.wallpapers20a",
-                    "package_name": "pkg_name",
+                    "package_name": "WallpapersBReel2020a",
                     "partition": "system",
                     "type": "app",
                     "version": "11"
@@ -1877,13 +2049,13 @@
     ],
     "SetupWizard": [
         {
-            "GoogleRestore": [
+            "com.google.android.apps.restore": [
                 {
                     "file": "SetupWizard/GoogleRestore/___priv-app___GoogleRestore/GoogleRestore.apk",
                     "folder": "GoogleRestore",
                     "md5": "8493daa956693310c8a19c05dfc5e5f8",
                     "package": "com.google.android.apps.restore",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleRestore",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.290634092"
@@ -1891,13 +2063,13 @@
             ]
         },
         {
-            "AndroidMigratePrebuilt": [
+            "com.google.android.apps.pixelmigrate": [
                 {
                     "file": "SetupWizard/AndroidMigratePrebuilt/___priv-app___AndroidMigratePrebuilt/AndroidMigratePrebuilt.apk",
                     "folder": "AndroidMigratePrebuilt",
                     "md5": "dce616456ac5ff81f2f1814a696406e0",
                     "package": "com.google.android.apps.pixelmigrate",
-                    "package_name": "pkg_name",
+                    "package_name": "AndroidMigratePrebuilt",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "1.0.412268934"
@@ -1905,13 +2077,13 @@
             ]
         },
         {
-            "GoogleOneTimeInitializer": [
+            "com.google.android.onetimeinitializer": [
                 {
                     "file": "SetupWizard/GoogleOneTimeInitializer/___priv-app___GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
                     "folder": "GoogleOneTimeInitializer",
                     "md5": "a4a3793379cf1f3aafd86b022a97c967",
                     "package": "com.google.android.onetimeinitializer",
-                    "package_name": "pkg_name",
+                    "package_name": "GoogleOneTimeInitializer",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "11"
@@ -1919,13 +2091,13 @@
             ]
         },
         {
-            "SetupWizard": [
+            "com.google.android.setupwizard": [
                 {
                     "file": "SetupWizard/SetupWizard/___priv-app___SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
                     "folder": "SetupWizardPrebuilt",
                     "md5": "7dd9713beef5dc4ff989b08de0bd23d8",
                     "package": "com.google.android.setupwizard",
-                    "package_name": "pkg_name",
+                    "package_name": "SetupWizard",
                     "partition": "system",
                     "type": "priv-app",
                     "version": "230.348444116"
@@ -1935,43 +2107,55 @@
     ],
     "YouTube": [
         {
-            "YouTube": [
+            "com.google.android.youtube": [
                 {
                     "file": "YouTube/YouTube/___app___YouTube/split_config.xxhdpi.apk",
                     "folder": "YouTube",
                     "md5": "a687f8fca183bd08913277ae852559f8",
                     "package": "com.google.android.youtube",
-                    "package_name": "pkg_name",
+                    "package_name": "YouTube",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.youtube": [
                 {
                     "file": "YouTube/YouTube/___app___YouTube/split_config.arm64_v8a.apk",
                     "folder": "YouTube",
                     "md5": "0715198416f309109eb71652a20cde1d",
                     "package": "com.google.android.youtube",
-                    "package_name": "pkg_name",
+                    "package_name": "YouTube",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.youtube": [
                 {
                     "file": "YouTube/YouTube/___app___YouTube/split_config.en.apk",
                     "folder": "YouTube",
                     "md5": "4e75747e1c6a25cb238e1a4e61740de0",
                     "package": "com.google.android.youtube",
-                    "package_name": "pkg_name",
+                    "package_name": "YouTube",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.youtube": [
                 {
                     "file": "YouTube/YouTube/___app___YouTube/YouTube.apk",
                     "folder": "YouTube",
                     "md5": "7ad348f971ea0ef6b47a511c6ac71de1",
                     "package": "com.google.android.youtube",
-                    "package_name": "pkg_name",
+                    "package_name": "YouTube",
                     "partition": "system",
                     "type": "app",
                     "version": "16.49.37"
@@ -1981,23 +2165,27 @@
     ],
     "YouTubeMusic": [
         {
-            "YouTubeMusic": [
+            "com.google.android.apps.youtube.music": [
                 {
                     "file": "YouTubeMusic/YouTubeMusic/___app___YouTubeMusicPrebuilt/split_config.en.apk",
                     "folder": "YouTubeMusicPrebuilt",
                     "md5": "23a03fb2a72c5aab8e6f3006e88bd35b",
                     "package": "com.google.android.apps.youtube.music",
-                    "package_name": "pkg_name",
+                    "package_name": "YouTubeMusic",
                     "partition": "system",
                     "type": "app",
                     "version": ""
-                },
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.youtube.music": [
                 {
                     "file": "YouTubeMusic/YouTubeMusic/___app___YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk",
                     "folder": "YouTubeMusicPrebuilt",
                     "md5": "4fa718ccea85a8bb874b0a8b156050e3",
                     "package": "com.google.android.apps.youtube.music",
-                    "package_name": "pkg_name",
+                    "package_name": "YouTubeMusic",
                     "partition": "system",
                     "type": "app",
                     "version": "4.57.52"
