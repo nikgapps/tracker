@@ -10,7 +10,8 @@
                     "package_name": "AndroidAuto",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "1.2.521400-stub"
+                    "version": "1.2.521400-stub",
+                    "version_code": "12521400"
                 }
             ]
         }
@@ -26,7 +27,8 @@
                     "package_name": "AndroidDevicePolicy",
                     "partition": "system",
                     "type": "app",
-                    "version": "67.40.0 (1695430)"
+                    "version": "67.40.0 (1695430)",
+                    "version_code": "674001695430"
                 }
             ]
         }
@@ -42,7 +44,8 @@
                     "package_name": "AssistantGo",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "2.13.0.439234666.arm64-v8a.jio_release"
+                    "version": "2.13.0.439234666.arm64-v8a.jio_release",
+                    "version_code": "2130439234666648"
                 }
             ]
         }
@@ -58,7 +61,8 @@
                     "package_name": "Books",
                     "partition": "system",
                     "type": "app",
-                    "version": "2022.8.9.0.1"
+                    "version": "2022.8.9.0.1",
+                    "version_code": "20228901"
                 }
             ]
         }
@@ -74,7 +78,8 @@
                     "package_name": "CarrierServices",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "117.0.466044276-carrierservices_20220808_RC00"
+                    "version": "117.0.466044276-carrierservices_20220808_RC00",
+                    "version_code": "11704660442762022080800"
                 }
             ]
         }
@@ -90,7 +95,8 @@
                     "package_name": "GooglePlayStore",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "30.4.17-21 [0] [PR] 445549118"
+                    "version": "30.4.17-21 [0] [PR] 445549118",
+                    "version_code": "30417210445549118"
                 }
             ]
         },
@@ -104,7 +110,8 @@
                     "package_name": "GoogleServicesFramework",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "13"
+                    "version": "13",
+                    "version_code": "13"
                 }
             ]
         },
@@ -118,7 +125,8 @@
                     "package_name": "GoogleContactsSyncAdapter",
                     "partition": "system",
                     "type": "app",
-                    "version": "12-8361351"
+                    "version": "12-8361351",
+                    "version_code": "128361351"
                 }
             ]
         },
@@ -132,7 +140,8 @@
                     "package_name": "GoogleCalendarSyncAdapter",
                     "partition": "system",
                     "type": "app",
-                    "version": "2021.41.2-406147485-release"
+                    "version": "2021.41.2-406147485-release",
+                    "version_code": "2021412406147485"
                 }
             ]
         },
@@ -146,7 +155,8 @@
                     "package_name": "GmsCore",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "22.18.21 (190408-453244992)"
+                    "version": "22.18.21 (190408-453244992)",
+                    "version_code": "221821190408453244992"
                 }
             ]
         }
@@ -162,7 +172,8 @@
                     "package_name": "GmsCore",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "22.18.21 (190408-453244992)"
+                    "version": "22.18.21 (190408-453244992)",
+                    "version_code": "221821190408453244992"
                 }
             ]
         },
@@ -176,7 +187,8 @@
                     "package_name": "GooglePlayStore",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "30.4.17-21 [0] [PR] 445549118"
+                    "version": "30.4.17-21 [0] [PR] 445549118",
+                    "version_code": "30417210445549118"
                 }
             ]
         },
@@ -190,7 +202,8 @@
                     "package_name": "GoogleServicesFramework",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "13"
+                    "version": "13",
+                    "version_code": "13"
                 }
             ]
         },
@@ -204,7 +217,8 @@
                     "package_name": "GoogleContactsSyncAdapter",
                     "partition": "system",
                     "type": "app",
-                    "version": "12-8361351"
+                    "version": "12-8361351",
+                    "version_code": "128361351"
                 }
             ]
         },
@@ -218,7 +232,8 @@
                     "package_name": "GoogleCalendarSyncAdapter",
                     "partition": "system",
                     "type": "app",
-                    "version": "2021.41.2-406147485-release"
+                    "version": "2021.41.2-406147485-release",
+                    "version_code": "2021412406147485"
                 }
             ]
         }
@@ -234,7 +249,8 @@
                     "package_name": "DeviceHealthServices",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "1.24.0.450919346.release"
+                    "version": "1.24.0.450919346.release",
+                    "version_code": "1240450919346"
                 }
             ]
         }
@@ -250,7 +266,8 @@
                     "package_name": "DevicePersonalizationServices",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "T.0.sysimg.pixel6.453197295"
+                    "version": "T.0.sysimg.pixel6.453197295",
+                    "version_code": "06453197295"
                 }
             ]
         }
@@ -266,7 +283,8 @@
                     "package_name": "DeviceSetup",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "1.0.419053874"
+                    "version": "1.0.419053874",
+                    "version_code": "10419053874"
                 }
             ]
         }
@@ -282,7 +300,8 @@
                     "package_name": "DigitalWellbeing",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "1.1.463639936 (409067)"
+                    "version": "1.1.463639936 (409067)",
+                    "version_code": "11463639936409067"
                 }
             ]
         }
@@ -298,7 +317,8 @@
                     "package_name": "Drive",
                     "partition": "system",
                     "type": "app",
-                    "version": "2.22.177.1.arm64-v8a.alldpi"
+                    "version": "2.22.177.1.arm64-v8a.alldpi",
+                    "version_code": "2221771648"
                 }
             ]
         }
@@ -314,7 +334,8 @@
                     "package_name": "Flipendo",
                     "partition": "system",
                     "type": "app",
-                    "version": "12"
+                    "version": "12",
+                    "version_code": "12"
                 }
             ]
         }
@@ -330,7 +351,8 @@
                     "package_name": "GBoard",
                     "partition": "system",
                     "type": "app",
-                    "version": "11.7.06.439544614-preload-arm64-v8a"
+                    "version": "11.7.06.439544614-preload-arm64-v8a",
+                    "version_code": "11706439544614648"
                 }
             ]
         }
@@ -346,7 +368,8 @@
                     "package_name": "GalleryGo",
                     "partition": "system",
                     "type": "app",
-                    "version": "1.8.8.436428459 release"
+                    "version": "1.8.8.436428459 release",
+                    "version_code": "188436428459"
                 }
             ]
         }
@@ -362,7 +385,8 @@
                     "package_name": "Gmail",
                     "partition": "system",
                     "type": "app",
-                    "version": "2022.05.01.448071085.Release"
+                    "version": "2022.05.01.448071085.Release",
+                    "version_code": "20220501448071085"
                 }
             ]
         }
@@ -378,7 +402,8 @@
                     "package_name": "GmailGo",
                     "partition": "system",
                     "type": "app",
-                    "version": "8.5.6.197464524.go_release"
+                    "version": "8.5.6.197464524.go_release",
+                    "version_code": "856197464524"
                 }
             ]
         }
@@ -394,7 +419,8 @@
                     "package_name": "GoogleCalculator",
                     "partition": "system",
                     "type": "app",
-                    "version": "8.1 (403424005)"
+                    "version": "8.1 (403424005)",
+                    "version_code": "81403424005"
                 }
             ]
         }
@@ -410,7 +436,8 @@
                     "package_name": "GoogleCalendar",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "2022.16.2-443588091-release"
+                    "version": "2022.16.2-443588091-release",
+                    "version_code": "2022162443588091"
                 }
             ]
         }
@@ -426,7 +453,8 @@
                     "package_name": "GoogleChrome",
                     "partition": "system",
                     "type": "app",
-                    "version": "101.0.4951.74"
+                    "version": "101.0.4951.74",
+                    "version_code": "1010495174"
                 }
             ]
         },
@@ -440,7 +468,8 @@
                     "package_name": "WebViewGoogle",
                     "partition": "system",
                     "type": "app",
-                    "version": "101.0.4951.74"
+                    "version": "101.0.4951.74",
+                    "version_code": "1010495174"
                 }
             ]
         },
@@ -454,7 +483,8 @@
                     "package_name": "TrichromeLibrary",
                     "partition": "system",
                     "type": "app",
-                    "version": "101.0.4951.74"
+                    "version": "101.0.4951.74",
+                    "version_code": "1010495174"
                 }
             ]
         }
@@ -470,7 +500,8 @@
                     "package_name": "GoogleClock",
                     "partition": "system",
                     "type": "app",
-                    "version": "7.2 (453989126)"
+                    "version": "7.2 (453989126)",
+                    "version_code": "72453989126"
                 }
             ]
         }
@@ -486,7 +517,8 @@
                     "package_name": "GoogleContacts",
                     "partition": "system",
                     "type": "app",
-                    "version": "3.74.21.466997988"
+                    "version": "3.74.21.466997988",
+                    "version_code": "37421466997988"
                 }
             ]
         }
@@ -502,7 +534,8 @@
                     "package_name": "GoogleDialer",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "87.0.468061598"
+                    "version": "87.0.468061598",
+                    "version_code": "870468061598"
                 }
             ]
         }
@@ -518,7 +551,8 @@
                     "package_name": "GoogleDocs",
                     "partition": "system",
                     "type": "app",
-                    "version": "1.21.482.04.40"
+                    "version": "1.21.482.04.40",
+                    "version_code": "1214820440"
                 }
             ]
         }
@@ -534,7 +568,8 @@
                     "package_name": "GoogleDuo",
                     "partition": "system",
                     "type": "app",
-                    "version": "155.0.413543298.duo.android_20211128.13_p2"
+                    "version": "155.0.413543298.duo.android_20211128.13_p2",
+                    "version_code": "155041354329820211128132"
                 }
             ]
         }
@@ -550,7 +585,8 @@
                     "package_name": "GoogleFeedback",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "13"
+                    "version": "13",
+                    "version_code": "13"
                 }
             ]
         }
@@ -566,7 +602,8 @@
                     "package_name": "GoogleFiles",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "1.0.400489743"
+                    "version": "1.0.400489743",
+                    "version_code": "10400489743"
                 }
             ]
         },
@@ -580,7 +617,8 @@
                     "package_name": "StorageManager",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "13"
+                    "version": "13",
+                    "version_code": "13"
                 }
             ]
         },
@@ -594,7 +632,8 @@
                     "package_name": "DocumentsUIGoogle",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "t_frc_doc_330443000"
+                    "version": "t_frc_doc_330443000",
+                    "version_code": "330443000"
                 }
             ]
         }
@@ -610,7 +649,8 @@
                     "package_name": "GoogleGo",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "3.58.464445598.release"
+                    "version": "3.58.464445598.release",
+                    "version_code": "358464445598"
                 }
             ]
         }
@@ -626,7 +666,8 @@
                     "package_name": "GoogleKeep",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "5.22.282.03.90"
+                    "version": "5.22.282.03.90",
+                    "version_code": "5222820390"
                 }
             ]
         }
@@ -642,7 +683,8 @@
                     "package_name": "GoogleLocationHistory",
                     "partition": "system",
                     "type": "app",
-                    "version": "1.2"
+                    "version": "1.2",
+                    "version_code": "12"
                 }
             ]
         }
@@ -658,7 +700,8 @@
                     "package_name": "GoogleMaps",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "11.28.7"
+                    "version": "11.28.7",
+                    "version_code": "11287"
                 }
             ]
         }
@@ -674,7 +717,8 @@
                     "package_name": "GoogleMessages",
                     "partition": "system",
                     "type": "app",
-                    "version": "messages.android_20220809_01_RC00.phone_dynamic"
+                    "version": "messages.android_20220809_01_RC00.phone_dynamic",
+                    "version_code": "202208090100"
                 }
             ]
         }
@@ -690,7 +734,8 @@
                     "package_name": "GooglePartnerSetup",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "100.448391512"
+                    "version": "100.448391512",
+                    "version_code": "100448391512"
                 }
             ]
         }
@@ -706,7 +751,8 @@
                     "package_name": "GooglePhotos",
                     "partition": "system",
                     "type": "app",
-                    "version": "5.90.0.448589144"
+                    "version": "5.90.0.448589144",
+                    "version_code": "5900448589144"
                 }
             ]
         }
@@ -722,7 +768,8 @@
                     "package_name": "GoogleRecorder",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "1.2.314117049"
+                    "version": "1.2.314117049",
+                    "version_code": "12314117049"
                 }
             ]
         }
@@ -738,7 +785,8 @@
                     "package_name": "Velvet",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "13.17.16.29.arm64"
+                    "version": "13.17.16.29.arm64",
+                    "version_code": "1317162964"
                 }
             ]
         },
@@ -752,7 +800,8 @@
                     "package_name": "Assistant",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "0.1.452181178"
+                    "version": "0.1.452181178",
+                    "version_code": "01452181178"
                 }
             ]
         }
@@ -768,7 +817,8 @@
                     "package_name": "GoogleSheets",
                     "partition": "system",
                     "type": "app",
-                    "version": "1.21.482.04.40"
+                    "version": "1.21.482.04.40",
+                    "version_code": "1214820440"
                 }
             ]
         }
@@ -784,7 +834,8 @@
                     "package_name": "GoogleSlides",
                     "partition": "system",
                     "type": "app",
-                    "version": "1.21.482.05.40"
+                    "version": "1.21.482.05.40",
+                    "version_code": "1214820540"
                 }
             ]
         }
@@ -800,7 +851,8 @@
                     "package_name": "GoogleSounds",
                     "partition": "system",
                     "type": "app",
-                    "version": "3.0 (449418801)"
+                    "version": "3.0 (449418801)",
+                    "version_code": "30449418801"
                 }
             ]
         }
@@ -816,7 +868,8 @@
                     "package_name": "GoogleTTS",
                     "partition": "system",
                     "type": "app",
-                    "version": "googletts.google-speech-apk_20220124.01_p3.427231136.tnt"
+                    "version": "googletts.google-speech-apk_20220124.01_p3.427231136.tnt",
+                    "version_code": "20220124013427231136"
                 }
             ]
         }
@@ -832,7 +885,8 @@
                     "package_name": "GoogleTalkback",
                     "partition": "system",
                     "type": "app",
-                    "version": "13.0.0.451114697"
+                    "version": "13.0.0.451114697",
+                    "version_code": "1300451114697"
                 }
             ]
         }
@@ -848,7 +902,8 @@
                     "package_name": "GoogleWallpaper",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "13"
+                    "version": "13",
+                    "version_code": "13"
                 }
             ]
         }
@@ -864,7 +919,8 @@
                     "package_name": "MapsGo",
                     "partition": "system",
                     "type": "app",
-                    "version": "157.0"
+                    "version": "157.0",
+                    "version_code": "1570"
                 }
             ]
         }
@@ -880,7 +936,8 @@
                     "package_name": "MarkupGoogle",
                     "partition": "system",
                     "type": "app",
-                    "version": "1.0"
+                    "version": "1.0",
+                    "version_code": "10"
                 }
             ]
         }
@@ -896,7 +953,8 @@
                     "package_name": "NavigationGo",
                     "partition": "system",
                     "type": "app",
-                    "version": "10.74.3"
+                    "version": "10.74.3",
+                    "version_code": "10743"
                 }
             ]
         }
@@ -912,7 +970,8 @@
                     "package_name": "PixelLauncher",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "13"
+                    "version": "13",
+                    "version_code": "13"
                 }
             ]
         },
@@ -926,7 +985,8 @@
                     "package_name": "DevicePersonalizationServices",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "T.0.sysimg.pixel6.453197295"
+                    "version": "T.0.sysimg.pixel6.453197295",
+                    "version_code": "06453197295"
                 }
             ]
         },
@@ -940,7 +1000,8 @@
                     "package_name": "QuickAccessWallet",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "1.0.0.0"
+                    "version": "1.0.0.0",
+                    "version_code": "1000"
                 }
             ]
         },
@@ -954,7 +1015,8 @@
                     "package_name": "GoogleWallpaper",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "13"
+                    "version": "13",
+                    "version_code": "13"
                 }
             ]
         }
@@ -970,7 +1032,8 @@
                     "package_name": "SetupWizard",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "233.456679113"
+                    "version": "233.456679113",
+                    "version_code": "233456679113"
                 }
             ]
         },
@@ -984,7 +1047,8 @@
                     "package_name": "GoogleRestore",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "1.0.447422065"
+                    "version": "1.0.447422065",
+                    "version_code": "10447422065"
                 }
             ]
         },
@@ -998,7 +1062,8 @@
                     "package_name": "GoogleOneTimeInitializer",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "13"
+                    "version": "13",
+                    "version_code": "13"
                 }
             ]
         },
@@ -1012,7 +1077,8 @@
                     "package_name": "PixelSetupWizard",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "13"
+                    "version": "13",
+                    "version_code": "13"
                 }
             ]
         }
@@ -1028,7 +1094,8 @@
                     "package_name": "PlayGames",
                     "partition": "system",
                     "type": "app",
-                    "version": "2022.03.34949 (449489526.449489526-000400)"
+                    "version": "2022.03.34949 (449489526.449489526-000400)",
+                    "version_code": "20220334949449489526449489526000400"
                 }
             ]
         }
@@ -1044,7 +1111,8 @@
                     "package_name": "SetupWizard",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "233.456679113"
+                    "version": "233.456679113",
+                    "version_code": "233456679113"
                 }
             ]
         },
@@ -1058,7 +1126,8 @@
                     "package_name": "GoogleRestore",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "1.0.447422065"
+                    "version": "1.0.447422065",
+                    "version_code": "10447422065"
                 }
             ]
         },
@@ -1072,7 +1141,8 @@
                     "package_name": "GoogleOneTimeInitializer",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "13"
+                    "version": "13",
+                    "version_code": "13"
                 }
             ]
         }
@@ -1088,7 +1158,8 @@
                     "package_name": "YouTube",
                     "partition": "system",
                     "type": "app",
-                    "version": "17.17.37"
+                    "version": "17.17.37",
+                    "version_code": "171737"
                 }
             ]
         }
@@ -1104,7 +1175,8 @@
                     "package_name": "YouTubeMusic",
                     "partition": "system",
                     "type": "app",
-                    "version": "5.04.51"
+                    "version": "5.04.51",
+                    "version_code": "50451"
                 }
             ]
         }
