@@ -1,0 +1,15 @@
+{
+    "GoogleDialer": [
+        {
+            "com.google.android.dialer": [
+                {
+                    "file_path": "___priv-app___GoogleDialer/GoogleDialer.apk",
+                    "update_indicator": "1",
+                    "update_source": "apk_mirror",
+                    "version": "87.0.468061598",
+                    "version_code": "870468061598"
+                }
+            ]
+        }
+    ]
+}
