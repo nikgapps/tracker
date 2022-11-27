@@ -1,89 +1,87 @@
 {
     "com.android.chrome": {
         "apk_mirror_package": "chrome",
-        "latest_version": "107.0.5304.105",
+        "latest_version": "107.0.5304.141",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/chrome/chrome-107-0-5304-105-release/google-chrome-fast-secure-107-0-5304-105-9-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/chrome/chrome-107-0-5304-105-release/google-chrome-fast-secure-107-0-5304-105-12-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/chrome/chrome-107-0-5304-105-release/google-chrome-fast-secure-107-0-5304-105-4-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/chrome/chrome-107-0-5304-105-release/google-chrome-fast-secure-107-0-5304-105-8-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/chrome/chrome-107-0-5304-141-release/google-chrome-fast-secure-107-0-5304-141-3-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/chrome/chrome-107-0-5304-141-release/google-chrome-fast-secure-107-0-5304-141-8-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/chrome/chrome-107-0-5304-141-release/google-chrome-fast-secure-107-0-5304-141-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/chrome/chrome-107-0-5304-141-release/google-chrome-fast-secure-107-0-5304-141-9-android-apk-download/"
         ],
         "title": "GoogleChrome",
-        "version_code": "10705304105"
+        "version_code": "10705304141"
     },
     "com.android.vending": {
         "apk_mirror_package": "google-play-store",
-        "latest_version": "33.0.16",
+        "latest_version": "33.2.12",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-33-0-16-release/google-play-store-33-0-16-19-0-pr-485221091-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-33-0-16-release/google-play-store-33-0-16-21-0-pr-485221091-3-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-33-2-12-release/google-play-store-33-2-12-21-0-pr-487986790-3-android-apk-download/"
         ],
         "title": "Phonesky",
-        "version_code": "33016"
+        "version_code": "33212"
     },
     "com.google.android.apps.books": {
         "apk_mirror_package": "google-play-books",
-        "latest_version": "2022.10.3.0.1",
+        "latest_version": "2022.10.31.0.0",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/google-play-books/google-play-books-2022-10-3-0-1-release/google-play-books-audiobooks-2022-10-3-0-1-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/google-play-books/google-play-books-2022-10-31-0-0-release/google-play-books-audiobooks-2022-10-31-0-0-android-apk-download/"
         ],
         "title": "Books",
-        "version_code": "202210301"
+        "version_code": "2022103100"
     },
     "com.google.android.apps.docs": {
         "apk_mirror_package": "drive",
-        "latest_version": "2.22.417.2.all",
+        "latest_version": "2.22.437.1.all",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/drive/drive-2-22-417-2-all-release/google-drive-2-22-417-2-all-alldpi-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/drive/drive-2-22-437-1-all-release/google-drive-2-22-437-1-all-alldpi-2-android-apk-download/"
         ],
         "title": "Drive",
-        "version_code": "2224172"
+        "version_code": "2224371"
     },
     "com.google.android.apps.docs.editors.docs": {
         "apk_mirror_package": "docs",
-        "latest_version": "1.22.422.05",
+        "latest_version": "1.22.442.03",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/docs/docs-1-22-422-05-release/google-docs-1-22-422-05-90-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/docs/docs-1-22-442-03-release/google-docs-1-22-442-03-90-2-android-apk-download/"
         ],
         "title": "GoogleDocs",
-        "version_code": "12242205"
+        "version_code": "12244203"
     },
     "com.google.android.apps.docs.editors.sheets": {
         "apk_mirror_package": "sheets",
-        "latest_version": "1.22.402.05",
+        "latest_version": "1.22.422.05",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/sheets/sheets-1-22-402-05-release/google-sheets-1-22-402-05-90-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/sheets/sheets-1-22-422-05-release/google-sheets-1-22-422-05-90-2-android-apk-download/"
         ],
         "title": "GoogleSheets",
-        "version_code": "12240205"
+        "version_code": "12242205"
     },
     "com.google.android.apps.docs.editors.slides": {
         "apk_mirror_package": "slides",
-        "latest_version": "1.22.402.04",
+        "latest_version": "1.22.422.05",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/slides/slides-1-22-402-04-release/google-slides-1-22-402-04-90-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/slides/slides-1-22-422-05-release/google-slides-1-22-422-05-90-2-android-apk-download/"
         ],
         "title": "GoogleSlides",
-        "version_code": "12240204"
+        "version_code": "12242205"
     },
     "com.google.android.apps.maps": {
         "apk_mirror_package": "maps",
-        "latest_version": "11.56.0503 beta",
+        "latest_version": "11.57.4803",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/maps/maps-11-56-0503-release/google-maps-11-56-0503-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/maps/maps-11-57-4803-release/google-maps-11-57-4803-2-android-apk-download/"
         ],
         "title": "GoogleMaps",
-        "version_code": "11560503"
+        "version_code": "11574803"
     },
     "com.google.android.apps.messaging": {
         "apk_mirror_package": "messenger-google-inc",
-        "latest_version": "20221025_01_RC02",
+        "latest_version": "20221115_01_RC01 beta",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/messenger-google-inc/messenger-google-inc-20221025_01_rc02-release/messages-messages-android_20221025_01_rc02-phone_dynamic-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/messenger-google-inc/messenger-google-inc-20221025_01_rc02-release/messages-messages-android_20221025_01_rc02-phone-go_dynamic-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/messenger-google-inc/messenger-google-inc-20221115_01_rc01-release/messages-messages-android_20221115_01_rc01-phone-openbeta_dynamic-2-android-apk-download/"
         ],
         "title": "PrebuiltBugle",
-        "version_code": "202210250102"
+        "version_code": "202211150101"
     },
     "com.google.android.apps.nexuslauncher": {
         "apk_mirror_package": "pixel-launcher",
@@ -98,41 +96,42 @@
             "https://www.apkmirror.com/apk/google-inc/pixel-launcher/pixel-launcher-13-release/pixel-launcher-13-7-android-apk-download/",
             "https://www.apkmirror.com/apk/google-inc/pixel-launcher/pixel-launcher-13-release/pixel-launcher-13-8-android-apk-download/",
             "https://www.apkmirror.com/apk/google-inc/pixel-launcher/pixel-launcher-13-release/pixel-launcher-13-9-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/pixel-launcher/pixel-launcher-13-release/pixel-launcher-13-10-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/pixel-launcher/pixel-launcher-13-release/pixel-launcher-13-10-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/pixel-launcher/pixel-launcher-13-release/pixel-launcher-13-11-android-apk-download/"
         ],
         "title": "NexusLauncherPrebuilt",
         "version_code": "13"
     },
     "com.google.android.apps.photos": {
         "apk_mirror_package": "photos",
-        "latest_version": "6.13.0.486194947",
+        "latest_version": "6.15.0.489522616",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/photos/photos-6-13-0-486194947-release/google-photos-6-13-0-486194947-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/photos/photos-6-13-0-486194947-release/google-photos-6-13-0-486194947-3-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/photos/photos-6-13-0-486194947-release/google-photos-6-13-0-486194947-4-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/photos/photos-6-13-0-486194947-release/google-photos-6-13-0-486194947-5-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/photos/photos-6-13-0-486194947-release/google-photos-6-13-0-486194947-9-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/photos/photos-6-15-0-489522616-release/google-photos-6-15-0-489522616-6-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/photos/photos-6-15-0-489522616-release/google-photos-6-15-0-489522616-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/photos/photos-6-15-0-489522616-release/google-photos-6-15-0-489522616-3-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/photos/photos-6-15-0-489522616-release/google-photos-6-15-0-489522616-5-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/photos/photos-6-15-0-489522616-release/google-photos-6-15-0-489522616-10-android-apk-download/"
         ],
         "title": "Photos",
-        "version_code": "6130486194947"
+        "version_code": "6150489522616"
     },
     "com.google.android.apps.restore": {
         "apk_mirror_package": "android-setup",
-        "latest_version": "1.0.475802943",
+        "latest_version": "1.0.486055334",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/android-setup/android-setup-1-0-475802943-release/data-restore-tool-1-0-475802943-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/android-setup/android-setup-1-0-486055334-release/data-restore-tool-1-0-486055334-android-apk-download/"
         ],
         "title": "GoogleRestore",
-        "version_code": "10475802943"
+        "version_code": "10486055334"
     },
     "com.google.android.apps.tachyon": {
         "apk_mirror_package": "duo-by-google",
-        "latest_version": "177.0.485964818.duo.android_20221002.60_p2.s",
+        "latest_version": "179.0.487600058.duo.android_20221030.83_p2.s",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/duo-by-google/duo-by-google-177-0-485964818-duo-android_20221002-60_p2-s-release/google-meet-formerly-google-duo-177-0-485964818-duo-android_20221002-60_p2-s-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/duo-by-google/duo-by-google-179-0-487600058-duo-android_20221030-83_p2-s-release/google-meet-formerly-google-duo-179-0-487600058-duo-android_20221030-83_p2-s-android-apk-download/"
         ],
         "title": "GoogleDuo",
-        "version_code": "177048596481820221002602"
+        "version_code": "179048760005820221030832"
     },
     "com.google.android.apps.turbo": {
         "apk_mirror_package": "device-health-services",
@@ -156,12 +155,12 @@
     },
     "com.google.android.as": {
         "apk_mirror_package": "device-personalization-services",
-        "latest_version": "T.13.playstore.pixel6.482443314",
+        "latest_version": "T.13.playstore.pixel4.482443314",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/device-personalization-services/device-personalization-services-t-13-playstore-pixel6-482443314-release/android-system-intelligence-t-13-playstore-pixel6-482443314-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/device-personalization-services/device-personalization-services-t-13-playstore-pixel4-482443314-release/android-system-intelligence-t-13-playstore-pixel4-482443314-android-apk-download/"
         ],
         "title": "MatchmakerPrebuiltPixel4",
-        "version_code": "136482443314"
+        "version_code": "134482443314"
     },
     "com.google.android.calculator": {
         "apk_mirror_package": "google-calculator",
@@ -174,26 +173,26 @@
     },
     "com.google.android.calendar": {
         "apk_mirror_package": "calendar",
-        "latest_version": "2022.44.0-484930793-release",
+        "latest_version": "2022.46.0-488202730-release",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/calendar/calendar-2022-44-0-484930793-release-release/google-calendar-2022-44-0-484930793-release-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/calendar/calendar-2022-46-0-488202730-release-release/google-calendar-2022-46-0-488202730-release-android-apk-download/"
         ],
         "title": "CalendarGooglePrebuilt",
-        "version_code": "2022440484930793"
+        "version_code": "2022460488202730"
     },
     "com.google.android.contacts": {
         "apk_mirror_package": "google-contacts",
-        "latest_version": "3.80.24.484030026",
+        "latest_version": "3.81.23.488847150",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-80-24-484030026-release/google-contacts-3-80-24-484030026-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-80-24-484030026-release/google-contacts-3-80-24-484030026-4-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-80-24-484030026-release/google-contacts-3-80-24-484030026-5-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-80-24-484030026-release/google-contacts-3-80-24-484030026-6-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-80-24-484030026-release/google-contacts-3-80-24-484030026-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-80-24-484030026-release/google-contacts-3-80-24-484030026-3-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-81-23-488847150-release/google-contacts-3-81-23-488847150-6-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-81-23-488847150-release/google-contacts-3-81-23-488847150-5-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-81-23-488847150-release/google-contacts-3-81-23-488847150-4-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-81-23-488847150-release/google-contacts-3-81-23-488847150-3-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-81-23-488847150-release/google-contacts-3-81-23-488847150-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-3-81-23-488847150-release/google-contacts-3-81-23-488847150-2-android-apk-download/"
         ],
         "title": "GoogleContacts",
-        "version_code": "38024484030026"
+        "version_code": "38123488847150"
     },
     "com.google.android.deskclock": {
         "apk_mirror_package": "clock",
@@ -209,76 +208,99 @@
     },
     "com.google.android.dialer": {
         "apk_mirror_package": "google-phone",
-        "latest_version": "93.0.485365969-publicbeta-downloadable beta",
+        "latest_version": "94.0.488803600",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-93-0-485365969-publicbeta-downloadable-release/phone-by-google-93-0-485365969-publicbeta-downloadable-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-93-0-485365969-publicbeta-downloadable-release/phone-by-google-93-0-485365969-publicbeta-downloadable-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-94-0-488803600-release/phone-by-google-94-0-488803600-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-94-0-488803600-release/phone-by-google-94-0-488803600-2-android-apk-download/"
         ],
         "title": "GoogleDialer",
-        "version_code": "930485365969"
+        "version_code": "940488803600"
     },
     "com.google.android.gm": {
         "apk_mirror_package": "gmail",
-        "latest_version": "2022.10.16.486292356.Release",
+        "latest_version": "2022.10.30.488439685.Release",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/gmail/gmail-2022-10-16-486292356-release-release/gmail-2022-10-16-486292356-release-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/gmail/gmail-2022-10-30-488439685-release-release/gmail-2022-10-30-488439685-release-2-android-apk-download/"
         ],
         "title": "PrebuiltGmail",
-        "version_code": "20221016486292356"
+        "version_code": "20221030488439685"
     },
     "com.google.android.gms": {
         "apk_mirror_package": "google-play-services",
-        "latest_version": "22.43.12",
+        "latest_version": "22.45.16",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-000300-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-000700-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-020300-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-020400-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-020700-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-020800-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-040300-483592595-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-040308-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-040400-483592595-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-040408-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-040700-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-040800-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-100300-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-100308-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-100400-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-100408-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-100700-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-100800-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-150300-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-150308-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-150400-483592595-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-150408-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-150700-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-150800-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-190300-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-190308-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-190400-483592595-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-190408-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-190700-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-190800-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-110300-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-110400-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-170300-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-170400-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-200300-483592595-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-43-12-release/google-play-services-22-43-12-200400-483592595-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-000300-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-000700-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020300-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020304-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020306-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020308-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020400-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020406-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020408-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020700-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020800-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040300-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040304-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040306-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040308-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040400-489045761-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040406-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040408-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040700-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040800-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100300-489045761-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100304-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100306-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100308-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100400-489045761-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100406-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100408-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100700-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100800-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150300-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150304-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150306-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150308-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150400-489045761-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150406-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150408-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150700-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150800-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190300-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190308-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190400-489045761-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190408-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190700-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190800-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110300-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110302-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110304-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110306-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110400-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110700-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170300-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170302-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170304-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170306-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170400-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170700-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-200300-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-200306-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-200400-489045761-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-200700-489045761-android-apk-download/"
         ],
         "title": "PrebuiltGmsCore",
-        "version_code": "224312"
+        "version_code": "224516"
     },
     "com.google.android.googlequicksearchbox": {
         "apk_mirror_package": "google-search",
-        "latest_version": "13.43.19",
+        "latest_version": "13.46.13",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/google-search/google-search-13-43-19-release/google-app-13-43-19-26-arm-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-search/google-search-13-43-19-release/google-app-13-43-19-26-arm64-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/google-search/google-search-13-46-13-release/google-app-13-46-13-26-arm64-2-android-apk-download/"
         ],
         "title": "Velvet",
-        "version_code": "134319"
+        "version_code": "134613"
     },
     "com.google.android.gsf": {
         "apk_mirror_package": "google-services-framework",
@@ -292,52 +314,45 @@
             "https://www.apkmirror.com/apk/google-inc/google-services-framework/google-services-framework-13-release/google-services-framework-13-7-android-apk-download/",
             "https://www.apkmirror.com/apk/google-inc/google-services-framework/google-services-framework-13-release/google-services-framework-13-6-android-apk-download/",
             "https://www.apkmirror.com/apk/google-inc/google-services-framework/google-services-framework-13-release/google-services-framework-13-8-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-services-framework/google-services-framework-13-release/google-services-framework-13-9-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/google-services-framework/google-services-framework-13-release/google-services-framework-13-9-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-services-framework/google-services-framework-13-release/google-services-framework-13-10-android-apk-download/"
         ],
         "title": "GoogleServicesFramework",
         "version_code": "13"
     },
     "com.google.android.ims": {
         "apk_mirror_package": "carrier-services-2",
-        "latest_version": "carrierservices.android_20221024_02_RC01.phone",
+        "latest_version": "carrierservices.android_20221118_00_RC00.phone",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/carrier-services-2/carrier-services-2-carrierservices-android_20221024_02_rc01-phone-release/carrier-services-carrierservices-android_20221024_02_rc01-phone-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/carrier-services-2/carrier-services-2-carrierservices-android_20221118_00_rc00-phone-release/carrier-services-carrierservices-android_20221118_00_rc00-phone-android-apk-download/"
         ],
         "title": "CarrierServices",
-        "version_code": "202210240201"
+        "version_code": "202211180000"
     },
     "com.google.android.inputmethod.latin": {
         "apk_mirror_package": "gboard",
-        "latest_version": "12.3.04.475639976",
+        "latest_version": "12.4.06.482060964 beta",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-beta-armeabi-v7a-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-beta-arm64-v8a-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-beta-x86-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-beta-x86_64-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-release-armeabi-v7a-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-release-arm64-v8a-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-release-x86-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-release-x86_64-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-lite_beta-armeabi-v7a-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-lite_beta-arm64-v8a-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-lite_beta-x86-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-lite_beta-x86_64-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-lite_release-armeabi-v7a-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-lite_release-arm64-v8a-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-lite_release-x86-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-3-04-475639976-release/gboard-the-google-keyboard-12-3-04-475639976-lite_release-x86_64-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-4-06-482060964-release/gboard-the-google-keyboard-12-4-06-482060964-beta-armeabi-v7a-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-4-06-482060964-release/gboard-the-google-keyboard-12-4-06-482060964-beta-arm64-v8a-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-4-06-482060964-release/gboard-the-google-keyboard-12-4-06-482060964-beta-x86-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-4-06-482060964-release/gboard-the-google-keyboard-12-4-06-482060964-beta-x86_64-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-4-06-482060964-release/gboard-the-google-keyboard-12-4-06-482060964-lite_beta-armeabi-v7a-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-4-06-482060964-release/gboard-the-google-keyboard-12-4-06-482060964-lite_beta-arm64-v8a-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-4-06-482060964-release/gboard-the-google-keyboard-12-4-06-482060964-lite_beta-x86-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/gboard/gboard-12-4-06-482060964-release/gboard-the-google-keyboard-12-4-06-482060964-lite_beta-x86_64-android-apk-download/"
         ],
         "title": "LatinIMEGooglePrebuilt",
-        "version_code": "12304475639976"
+        "version_code": "12406482060964"
     },
     "com.google.android.keep": {
         "apk_mirror_package": "keep",
-        "latest_version": "5.22.422.01",
+        "latest_version": "5.22.422.03",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/keep/keep-5-22-422-01-release/google-keep-notes-and-lists-5-22-422-01-90-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/keep/keep-5-22-422-03-release/google-keep-notes-and-lists-5-22-422-03-90-android-apk-download/"
         ],
         "title": "PrebuiltKeep",
-        "version_code": "52242201"
+        "version_code": "52242203"
     },
     "com.google.android.marvin.talkback": {
         "apk_mirror_package": "android-accessibility-suite",
@@ -360,7 +375,7 @@
     },
     "com.google.android.partnersetup": {
         "apk_mirror_package": "google-partner-setup",
-        "latest_version": "100.448391512 beta (READ NOTES)",
+        "latest_version": "100.448391512",
         "list_of_links": [
             "https://www.apkmirror.com/apk/google-inc/google-partner-setup/google-partner-setup-100-448391512-release/google-partner-setup-100-448391512-android-apk-download/"
         ],
@@ -385,25 +400,25 @@
     },
     "com.google.android.projection.gearhead": {
         "apk_mirror_package": "android-auto",
-        "latest_version": "8.3.6241",
+        "latest_version": "8.4.6243",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624103-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624104-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624113-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624114-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624123-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624124-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624133-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624134-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624137-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624138-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624153-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624154-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624157-release-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-3-6241-release/android-auto-8-3-624158-release-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624303-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624304-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624307-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624308-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624313-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624314-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624323-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624324-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624327-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624328-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624333-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624334-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624337-release-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-8-4-6243-release/android-auto-8-4-624338-release-android-apk-download/"
         ],
         "title": "AndroidAutoStubPrebuilt",
-        "version_code": "836241"
+        "version_code": "846243"
     },
     "com.google.android.setupwizard": {
         "apk_mirror_package": "setup-wizard",
@@ -443,49 +458,48 @@
     },
     "com.google.android.trichromelibrary": {
         "apk_mirror_package": "trichrome-library",
-        "latest_version": "107.0.5304.105",
+        "latest_version": "107.0.5304.141",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-105-release/trichrome-library-107-0-5304-105-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-105-release/trichrome-library-107-0-5304-105-6-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-105-release/trichrome-library-107-0-5304-105-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-105-release/trichrome-library-107-0-5304-105-3-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-105-release/trichrome-library-107-0-5304-105-4-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-105-release/trichrome-library-107-0-5304-105-5-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-141-release/trichrome-library-107-0-5304-141-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-141-release/trichrome-library-107-0-5304-141-4-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-141-release/trichrome-library-107-0-5304-141-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-141-release/trichrome-library-107-0-5304-141-3-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-141-release/trichrome-library-107-0-5304-141-5-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-107-0-5304-141-release/trichrome-library-107-0-5304-141-6-android-apk-download/"
         ],
         "title": "TrichromeLibrary",
-        "version_code": "10705304105"
+        "version_code": "10705304141"
     },
     "com.google.android.tts": {
         "apk_mirror_package": "google-text-to-speech-engine",
-        "latest_version": "googletts.google-speech-apk_20220822.02_p1.474695461",
+        "latest_version": "googletts.google-speech-apk_20220905.02_p4.485339734",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20220822-02_p1-474695461-release/speech-services-by-google-googletts-google-speech-apk_20220822-02_p1-474695461-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20220822-02_p1-474695461-release/speech-services-by-google-googletts-google-speech-apk_20220822-02_p1-474695461-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20220822-02_p1-474695461-release/speech-services-by-google-googletts-google-speech-apk_20220822-02_p1-474695461-4-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20220822-02_p1-474695461-release/speech-services-by-google-googletts-google-speech-apk_20220822-02_p1-474695461-3-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20220905-02_p4-485339734-release/speech-services-by-google-googletts-google-speech-apk_20220905-02_p4-485339734-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20220905-02_p4-485339734-release/speech-services-by-google-googletts-google-speech-apk_20220905-02_p4-485339734-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20220905-02_p4-485339734-release/speech-services-by-google-googletts-google-speech-apk_20220905-02_p4-485339734-3-android-apk-download/"
         ],
         "title": "GoogleTTS",
-        "version_code": "20220822021474695461"
+        "version_code": "20220905024485339734"
     },
     "com.google.android.webview": {
         "apk_mirror_package": "android-system-webview",
-        "latest_version": "107.0.5304.105",
+        "latest_version": "107.0.5304.141",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-107-0-5304-105-release/android-system-webview-107-0-5304-105-3-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-107-0-5304-105-release/android-system-webview-107-0-5304-105-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-107-0-5304-105-release/android-system-webview-107-0-5304-105-4-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-107-0-5304-105-release/android-system-webview-107-0-5304-105-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-107-0-5304-141-release/android-system-webview-107-0-5304-141-9-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-107-0-5304-141-release/android-system-webview-107-0-5304-141-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-107-0-5304-141-release/android-system-webview-107-0-5304-141-5-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-107-0-5304-141-release/android-system-webview-107-0-5304-141-10-android-apk-download/"
         ],
         "title": "WebViewGoogle",
-        "version_code": "10705304105"
+        "version_code": "10705304141"
     },
     "com.google.android.youtube": {
         "apk_mirror_package": "youtube",
-        "latest_version": "17.43.37",
+        "latest_version": "17.46.43 beta",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-43-37-release/youtube-17-43-37-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-46-43-release/youtube-17-46-43-2-android-apk-download/"
         ],
         "title": "YouTube",
-        "version_code": "174337"
+        "version_code": "174643"
     }
 }
