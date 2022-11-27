@@ -121,16 +121,6 @@
     ],
     "com.google.android.GoogleCamera": [
         {
-            "file": "GoogleCamera/GoogleCamera.apk",
-            "folder": "GoogleCamera",
-            "md5": "5cad12f047a2b9245d146e20dd73ad50",
-            "package": "com.google.android.GoogleCamera",
-            "partition": "product",
-            "type": "priv-app",
-            "version": "8.6.263.459370420.10",
-            "version_code": "8626345937042010"
-        },
-        {
             "file": "GoogleCamera/GoogleCamera_Stub.apk",
             "folder": "GoogleCamera",
             "md5": "89c1e49f319d9e58a23f91df37ca65cf",
@@ -139,6 +129,16 @@
             "type": "priv-app",
             "version": "1.0",
             "version_code": "10"
+        },
+        {
+            "file": "GoogleCamera/GoogleCamera.apk",
+            "folder": "GoogleCamera",
+            "md5": "5cad12f047a2b9245d146e20dd73ad50",
+            "package": "com.google.android.GoogleCamera",
+            "partition": "product",
+            "type": "priv-app",
+            "version": "8.6.263.459370420.10",
+            "version_code": "8626345937042010"
         }
     ],
     "com.google.android.accessibility.soundamplifier": [
@@ -191,9 +191,9 @@
     ],
     "com.google.android.apps.customization.pixel": [
         {
-            "file": "PixelThemesStub/PixelThemesStub.apk",
-            "folder": "PixelThemesStub",
-            "md5": "868211df06346894c307c24e2c347e01",
+            "file": "PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
+            "folder": "PixelThemesStub2022_and_newer",
+            "md5": "44211ccb4ebe1b931601c268d6f71129",
             "package": "com.google.android.apps.customization.pixel",
             "partition": "product",
             "type": "app",
@@ -201,9 +201,9 @@
             "version_code": "13"
         },
         {
-            "file": "PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
-            "folder": "PixelThemesStub2022_and_newer",
-            "md5": "44211ccb4ebe1b931601c268d6f71129",
+            "file": "PixelThemesStub/PixelThemesStub.apk",
+            "folder": "PixelThemesStub",
+            "md5": "868211df06346894c307c24e2c347e01",
             "package": "com.google.android.apps.customization.pixel",
             "partition": "product",
             "type": "app",
