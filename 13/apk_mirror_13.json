@@ -76,12 +76,13 @@
     },
     "com.google.android.apps.messaging": {
         "apk_mirror_package": "messenger-google-inc",
-        "latest_version": "20221115_01_RC01 beta",
+        "latest_version": "20221107_04_RC02",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/messenger-google-inc/messenger-google-inc-20221115_01_rc01-release/messages-messages-android_20221115_01_rc01-phone-openbeta_dynamic-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/messenger-google-inc/messenger-google-inc-20221107_04_rc02-release/messages-messages-android_20221107_04_rc02-phone_dynamic-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/messenger-google-inc/messenger-google-inc-20221107_04_rc02-release/messages-messages-android_20221107_04_rc02-phone-go_dynamic-android-apk-download/"
         ],
         "title": "PrebuiltBugle",
-        "version_code": "202211150101"
+        "version_code": "202211070402"
     },
     "com.google.android.apps.nexuslauncher": {
         "apk_mirror_package": "pixel-launcher",
@@ -227,80 +228,30 @@
     },
     "com.google.android.gms": {
         "apk_mirror_package": "google-play-services",
-        "latest_version": "22.45.16",
+        "latest_version": "22.44.17",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-000300-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-000700-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020300-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020304-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020306-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020308-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020400-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020406-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020408-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020700-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-020800-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040300-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040304-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040306-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040308-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040400-489045761-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040406-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040408-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040700-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-040800-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100300-489045761-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100304-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100306-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100308-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100400-489045761-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100406-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100408-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100700-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-100800-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150300-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150304-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150306-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150308-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150400-489045761-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150406-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150408-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150700-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-150800-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190300-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190308-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190400-489045761-2-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190408-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190700-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-190800-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110300-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110302-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110304-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110306-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110400-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-110700-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170300-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170302-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170304-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170306-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170400-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-170700-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-200300-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-200306-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-200400-489045761-android-apk-download/",
-            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-45-16-release/google-play-services-22-45-16-200700-489045761-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-44-17-release/google-play-services-22-44-17-040300-488410709-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-44-17-release/google-play-services-22-44-17-040400-488410709-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-44-17-release/google-play-services-22-44-17-040408-488410709-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-44-17-release/google-play-services-22-44-17-040700-488410709-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-44-17-release/google-play-services-22-44-17-040800-488410709-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-44-17-release/google-play-services-22-44-17-100300-488410709-3-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-44-17-release/google-play-services-22-44-17-100400-488410709-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-44-17-release/google-play-services-22-44-17-150400-488410709-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-22-44-17-release/google-play-services-22-44-17-190400-488410709-android-apk-download/"
         ],
         "title": "PrebuiltGmsCore",
-        "version_code": "224516"
+        "version_code": "224417"
     },
     "com.google.android.googlequicksearchbox": {
         "apk_mirror_package": "google-search",
-        "latest_version": "13.46.13",
+        "latest_version": "13.45.18",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/google-search/google-search-13-46-13-release/google-app-13-46-13-26-arm64-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/google-search/google-search-13-45-18-release/google-app-13-45-18-26-arm-2-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-search/google-search-13-45-18-release/google-app-13-45-18-26-arm64-2-android-apk-download/"
         ],
         "title": "Velvet",
-        "version_code": "134613"
+        "version_code": "134518"
     },
     "com.google.android.gsf": {
         "apk_mirror_package": "google-services-framework",
@@ -495,11 +446,11 @@
     },
     "com.google.android.youtube": {
         "apk_mirror_package": "youtube",
-        "latest_version": "17.46.43 beta",
+        "latest_version": "17.46.45 beta",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-46-43-release/youtube-17-46-43-2-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-46-45-release/youtube-17-46-45-2-android-apk-download/"
         ],
         "title": "YouTube",
-        "version_code": "174643"
+        "version_code": "174645"
     }
 }
