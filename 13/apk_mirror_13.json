@@ -1,11 +1,12 @@
 {
     "com.google.android.dialer": {
         "apk_mirror_package": "google-phone",
-        "latest_version": "95.0.491468435-publicbeta-go beta",
+        "latest_version": "96.0.491984192-publicbeta-downloadable beta",
         "list_of_links": [
-            "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-95-0-491468435-publicbeta-go-release/phone-by-google-95-0-491468435-publicbeta-go-android-apk-download/"
+            "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-96-0-491984192-publicbeta-downloadable-release/phone-by-google-96-0-491984192-publicbeta-downloadable-android-apk-download/",
+            "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-96-0-491984192-publicbeta-downloadable-release/phone-by-google-96-0-491984192-publicbeta-downloadable-2-android-apk-download/"
         ],
         "title": "GoogleDialer",
-        "version_code": "950491468435"
+        "version_code": "960491984192"
     }
 }
