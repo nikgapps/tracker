@@ -3,6 +3,8 @@
         {
             "com.google.android.dialer": [
                 {
+                    "cheetah_version": "90.0.477605424",
+                    "cheetah_version_code": "900477605424",
                     "file_path": "___priv-app___GoogleDialer/GoogleDialer.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
