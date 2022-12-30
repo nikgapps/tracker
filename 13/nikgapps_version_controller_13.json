@@ -1,4 +1,61 @@
 {
+    "Core": [
+        {
+            "com.android.vending": [
+                {
+                    "file_path": "___priv-app___Phonesky/Phonesky.apk",
+                    "update_indicator": "1",
+                    "update_source": "EvoX",
+                    "version": "30.4.17-21 [0] [PR] 445549118",
+                    "version_code": "30417210445549118"
+                }
+            ]
+        },
+        {
+            "com.google.android.gsf": [
+                {
+                    "file_path": "___priv-app___GoogleServicesFramework/GoogleServicesFramework.apk",
+                    "update_indicator": "1",
+                    "update_source": "EvoX",
+                    "version": "13",
+                    "version_code": "13"
+                }
+            ]
+        },
+        {
+            "com.google.android.syncadapters.contacts": [
+                {
+                    "file_path": "___app___GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk",
+                    "update_indicator": "1",
+                    "update_source": "EvoX",
+                    "version": "12-8361351",
+                    "version_code": "128361351"
+                }
+            ]
+        },
+        {
+            "com.google.android.syncadapters.calendar": [
+                {
+                    "file_path": "___app___GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk",
+                    "update_indicator": "1",
+                    "update_source": "EvoX",
+                    "version": "2021.41.2-406147485-release",
+                    "version_code": "2021412406147485"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
+                    "update_indicator": "1",
+                    "update_source": "EvoX",
+                    "version": "22.18.21 (190408-453244992)",
+                    "version_code": "221821190408453244992"
+                }
+            ]
+        }
+    ],
     "GoogleDialer": [
         {
             "com.google.android.dialer": [
