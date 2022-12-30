@@ -189,28 +189,6 @@
             "version_code": "101462188980"
         }
     ],
-    "com.google.android.apps.customization.pixel": [
-        {
-            "file": "PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
-            "folder": "PixelThemesStub2022_and_newer",
-            "md5": "244c20e974a38a42507d85d59a00c3cc",
-            "package": "com.google.android.apps.customization.pixel",
-            "partition": "product",
-            "type": "app",
-            "version": "13",
-            "version_code": "13"
-        },
-        {
-            "file": "PixelThemesStub/PixelThemesStub.apk",
-            "folder": "PixelThemesStub",
-            "md5": "7658ba8473e6cb3ff2cbaa3f247351cd",
-            "package": "com.google.android.apps.customization.pixel",
-            "partition": "product",
-            "type": "app",
-            "version": "13",
-            "version_code": "13"
-        }
-    ],
     "com.google.android.apps.diagnosticstool": [
         {
             "file": "DiagnosticsToolPrebuilt/DiagnosticsToolPrebuilt.apk",
@@ -319,18 +297,6 @@
             "version_code": "10459878599"
         }
     ],
-    "com.google.android.apps.nexuslauncher": [
-        {
-            "file": "NexusLauncherRelease/NexusLauncherRelease.apk",
-            "folder": "NexusLauncherRelease",
-            "md5": "5b329e024ceaff348735abb00b1a85bb",
-            "package": "com.google.android.apps.nexuslauncher",
-            "partition": "system_ext",
-            "type": "priv-app",
-            "version": "13",
-            "version_code": "13"
-        }
-    ],
     "com.google.android.apps.photos": [
         {
             "file": "Photos/Photos.apk",
@@ -437,18 +403,6 @@
             "type": "app",
             "version": "V64-arm64-v8a-universal-pixel-prereleaseSdk (453233409)",
             "version_code": "64648453233409"
-        }
-    ],
-    "com.google.android.apps.wallpaper": [
-        {
-            "file": "WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
-            "folder": "WallpaperPickerGoogleRelease",
-            "md5": "6c8a3d7a1307a2af75d428495e301902",
-            "package": "com.google.android.apps.wallpaper",
-            "partition": "system_ext",
-            "type": "priv-app",
-            "version": "13",
-            "version_code": "13"
         }
     ],
     "com.google.android.apps.wallpaper.pixel": [
