@@ -391,10 +391,10 @@
     ],
     "com.google.android.apps.customization.pixel": [
         {
-            "file": "PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
-            "folder": "PixelThemesStub2022_and_newer",
-            "location": "product/app/PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
-            "md5": "244c20e974a38a42507d85d59a00c3cc",
+            "file": "PixelThemesStub/PixelThemesStub.apk",
+            "folder": "PixelThemesStub",
+            "location": "product/app/PixelThemesStub/PixelThemesStub.apk",
+            "md5": "7658ba8473e6cb3ff2cbaa3f247351cd",
             "package": "com.google.android.apps.customization.pixel",
             "partition": "product",
             "type": "app",
@@ -402,10 +402,10 @@
             "version_code": "13"
         },
         {
-            "file": "PixelThemesStub/PixelThemesStub.apk",
-            "folder": "PixelThemesStub",
-            "location": "product/app/PixelThemesStub/PixelThemesStub.apk",
-            "md5": "7658ba8473e6cb3ff2cbaa3f247351cd",
+            "file": "PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
+            "folder": "PixelThemesStub2022_and_newer",
+            "location": "product/app/PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
+            "md5": "244c20e974a38a42507d85d59a00c3cc",
             "package": "com.google.android.apps.customization.pixel",
             "partition": "product",
             "type": "app",
