@@ -3,6 +3,7 @@
         {
             "file": "PlayAutoInstallConfig/PlayAutoInstallConfig.apk",
             "folder": "PlayAutoInstallConfig",
+            "location": "product/packages/apps/PlayAutoInstallConfig/PlayAutoInstallConfig.apk",
             "md5": "ed30a012544080bf8509d8844c995c83",
             "package": "android.autoinstalls.config.google.nexus",
             "partition": "product",
@@ -15,6 +16,7 @@
         {
             "file": "Chrome-Stub/Chrome-Stub.apk",
             "folder": "Chrome-Stub",
+            "location": "product/packages/apps/Chrome-Stub/Chrome-Stub.apk",
             "md5": "6d23bec973dd5f7c35e2602934e32039",
             "package": "com.android.chrome",
             "partition": "product",
@@ -27,6 +29,7 @@
         {
             "file": "EmergencyInfoGoogleNoUi/EmergencyInfoGoogleNoUi.apk",
             "folder": "EmergencyInfoGoogleNoUi",
+            "location": "system_ext/packages/apps/EmergencyInfoGoogleNoUi/EmergencyInfoGoogleNoUi.apk",
             "md5": "6a670d49fbb9441e0da1eabfe4c6aa7c",
             "package": "com.android.emergency",
             "partition": "system_ext",
@@ -39,6 +42,7 @@
         {
             "file": "DMService/DMService.apk",
             "folder": "DMService",
+            "location": "product/packages/privileged_apps/DMService/DMService.apk",
             "md5": "972eb2ac12f63af23bbb230bda1dfa0f",
             "package": "com.android.omadm.service",
             "partition": "product",
@@ -51,6 +55,7 @@
         {
             "file": "ConnMO/ConnMO.apk",
             "folder": "ConnMO",
+            "location": "product/packages/privileged_apps/ConnMO/ConnMO.apk",
             "md5": "926d8aa5aa799ac7092211e3461d4b39",
             "package": "com.android.sdm.plugins.connmo",
             "partition": "product",
@@ -63,6 +68,7 @@
         {
             "file": "DCMO/DCMO.apk",
             "folder": "DCMO",
+            "location": "product/packages/privileged_apps/DCMO/DCMO.apk",
             "md5": "239a535448ef108abdc251e4fbc13653",
             "package": "com.android.sdm.plugins.dcmo",
             "partition": "product",
@@ -75,6 +81,7 @@
         {
             "file": "Phonesky/Phonesky.apk",
             "folder": "Phonesky",
+            "location": "product/packages/privileged_apps/Phonesky/Phonesky.apk",
             "md5": "5fc35d8eb20dca17507370f2fe002347",
             "package": "com.android.vending",
             "partition": "product",
@@ -87,6 +94,7 @@
         {
             "file": "Showcase/Showcase.apk",
             "folder": "Showcase",
+            "location": "product/packages/privileged_apps/Showcase/Showcase.apk",
             "md5": "65dec2794118e395cbfbb1a98d1586d7",
             "package": "com.customermobile.preload.vzw",
             "partition": "product",
@@ -99,6 +107,7 @@
         {
             "file": "RilConfigService/RilConfigService.apk",
             "folder": "RilConfigService",
+            "location": "system_ext/packages/privileged_apps/RilConfigService/RilConfigService.apk",
             "md5": "87aaf022b83976f9d0f7e6dc27446cde",
             "package": "com.google.RilConfigService",
             "partition": "system_ext",
@@ -111,6 +120,7 @@
         {
             "file": "AmbientStreaming/AmbientStreaming.apk",
             "folder": "AmbientStreaming",
+            "location": "product/packages/privileged_apps/AmbientStreaming/AmbientStreaming.apk",
             "md5": "3eb0cefce8a4d51b36be190338e3fcc8",
             "package": "com.google.ambient.streaming",
             "partition": "product",
@@ -123,6 +133,7 @@
         {
             "file": "GoogleCamera/GoogleCamera.apk",
             "folder": "GoogleCamera",
+            "location": "product/packages/privileged_apps/GoogleCamera/GoogleCamera.apk",
             "md5": "238f12c16c555607e8d5ac59e0d08d75",
             "package": "com.google.android.GoogleCamera",
             "partition": "product",
@@ -133,6 +144,7 @@
         {
             "file": "GoogleCamera/GoogleCamera_Stub.apk",
             "folder": "GoogleCamera",
+            "location": "product/packages/privileged_apps/GoogleCamera/GoogleCamera_Stub.apk",
             "md5": "89c1e49f319d9e58a23f91df37ca65cf",
             "package": "com.google.android.GoogleCamera",
             "partition": "product",
@@ -145,6 +157,7 @@
         {
             "file": "SoundAmplifierPrebuilt/SoundAmplifierPrebuilt.apk",
             "folder": "SoundAmplifierPrebuilt",
+            "location": "product/packages/apps/SoundAmplifierPrebuilt/SoundAmplifierPrebuilt.apk",
             "md5": "aa3193cfa5258909fdc14f0f3a4a10fc",
             "package": "com.google.android.accessibility.soundamplifier",
             "partition": "product",
@@ -157,6 +170,7 @@
         {
             "file": "CarrierWifi/CarrierWifi.apk",
             "folder": "CarrierWifi",
+            "location": "product/packages/privileged_apps/CarrierWifi/CarrierWifi.apk",
             "md5": "9ea4f30327b11073463ff3c4357a9465",
             "package": "com.google.android.apps.carrier.carrierwifi",
             "partition": "product",
@@ -169,6 +183,7 @@
         {
             "file": "CarrierMetrics/CarrierMetrics.apk",
             "folder": "CarrierMetrics",
+            "location": "product/packages/privileged_apps/CarrierMetrics/CarrierMetrics.apk",
             "md5": "18c0ff2f507e731bd5b8aff00ffcbe5e",
             "package": "com.google.android.apps.carrier.log",
             "partition": "product",
@@ -181,6 +196,7 @@
         {
             "file": "CbrsNetworkMonitor/CbrsNetworkMonitor.apk",
             "folder": "CbrsNetworkMonitor",
+            "location": "product/packages/privileged_apps/CbrsNetworkMonitor/CbrsNetworkMonitor.apk",
             "md5": "fd80bde219053284666cdd34e274addb",
             "package": "com.google.android.apps.cbrsnetworkmonitor",
             "partition": "product",
@@ -193,6 +209,7 @@
         {
             "file": "DiagnosticsToolPrebuilt/DiagnosticsToolPrebuilt.apk",
             "folder": "DiagnosticsToolPrebuilt",
+            "location": "product/packages/apps/DiagnosticsToolPrebuilt/DiagnosticsToolPrebuilt.apk",
             "md5": "5d8ada14cb6b7c906f1e1e504faeed21",
             "package": "com.google.android.apps.diagnosticstool",
             "partition": "product",
@@ -205,6 +222,7 @@
         {
             "file": "Drive/Drive.apk",
             "folder": "Drive",
+            "location": "product/packages/apps/Drive/Drive.apk",
             "md5": "132fcf55e9f9bc6c373bca51910748b4",
             "package": "com.google.android.apps.docs",
             "partition": "product",
@@ -217,6 +235,7 @@
         {
             "file": "DreamlinerPrebuilt/DreamlinerPrebuilt.apk",
             "folder": "DreamlinerPrebuilt",
+            "location": "product/packages/privileged_apps/DreamlinerPrebuilt/DreamlinerPrebuilt.apk",
             "md5": "584ca04ce3b95804bd27348bce6bb5e5",
             "package": "com.google.android.apps.dreamliner",
             "partition": "product",
@@ -229,6 +248,7 @@
         {
             "file": "GCS/GCS.apk",
             "folder": "GCS",
+            "location": "product/packages/privileged_apps/GCS/GCS.apk",
             "md5": "66aa652aab5fa87fd9fe7b5e71782c7c",
             "package": "com.google.android.apps.gcs",
             "partition": "product",
@@ -241,6 +261,7 @@
         {
             "file": "HelpRtcPrebuilt/HelpRtcPrebuilt.apk",
             "folder": "HelpRtcPrebuilt",
+            "location": "product/packages/privileged_apps/HelpRtcPrebuilt/HelpRtcPrebuilt.apk",
             "md5": "31ccfa92da960c726a97644bbcc47e23",
             "package": "com.google.android.apps.helprtc",
             "partition": "product",
@@ -253,6 +274,7 @@
         {
             "file": "BetterBugStub/BetterBugStub.apk",
             "folder": "BetterBugStub",
+            "location": "product/packages/privileged_apps/BetterBugStub/BetterBugStub.apk",
             "md5": "3fcfcb07c0617cda5de0070ab1f50137",
             "package": "com.google.android.apps.internal.betterbug",
             "partition": "product",
@@ -265,6 +287,7 @@
         {
             "file": "Maps/Maps.apk",
             "folder": "Maps",
+            "location": "product/packages/apps/Maps/Maps.apk",
             "md5": "3599ac9cb8d622e998b191dcc38b3a7d",
             "package": "com.google.android.apps.maps",
             "partition": "product",
@@ -277,6 +300,7 @@
         {
             "file": "PrebuiltBugle/PrebuiltBugle.apk",
             "folder": "PrebuiltBugle",
+            "location": "product/packages/privileged_apps/PrebuiltBugle/PrebuiltBugle.apk",
             "md5": "7e773e4c347a14b38cc8bd0de428450c",
             "package": "com.google.android.apps.messaging",
             "partition": "product",
@@ -289,6 +313,7 @@
         {
             "file": "FilesPrebuilt/FilesPrebuilt.apk",
             "folder": "FilesPrebuilt",
+            "location": "product/packages/privileged_apps/FilesPrebuilt/FilesPrebuilt.apk",
             "md5": "93d2961ebe2e81237afb662aedacc8cc",
             "package": "com.google.android.apps.nbu.files",
             "partition": "product",
@@ -301,6 +326,7 @@
         {
             "file": "Photos/Photos.apk",
             "folder": "Photos",
+            "location": "product/packages/apps/Photos/Photos.apk",
             "md5": "68de123818888f215c9ec9961c8d4e0c",
             "package": "com.google.android.apps.photos",
             "partition": "product",
@@ -313,6 +339,7 @@
         {
             "file": "AdaptiveVPNPrebuilt/AdaptiveVPNPrebuilt.apk",
             "folder": "AdaptiveVPNPrebuilt",
+            "location": "product/packages/privileged_apps/AdaptiveVPNPrebuilt/AdaptiveVPNPrebuilt.apk",
             "md5": "56a9f4994ef1246e0c92250c5945a240",
             "package": "com.google.android.apps.privacy.wildlife",
             "partition": "product",
@@ -325,6 +352,7 @@
         {
             "file": "RecorderPrebuilt/RecorderPrebuilt.apk",
             "folder": "RecorderPrebuilt",
+            "location": "product/packages/privileged_apps/RecorderPrebuilt/RecorderPrebuilt.apk",
             "md5": "2415f16481940f76f67757789b03fb37",
             "package": "com.google.android.apps.recorder",
             "partition": "product",
@@ -337,6 +365,7 @@
         {
             "file": "GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
             "folder": "GoogleRestorePrebuilt",
+            "location": "product/packages/privileged_apps/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
             "md5": "6c3582b25f60a6190266309cfa2ed59d",
             "package": "com.google.android.apps.restore",
             "partition": "product",
@@ -349,6 +378,7 @@
         {
             "file": "SafetyHubPrebuilt/SafetyHubPrebuilt.apk",
             "folder": "SafetyHubPrebuilt",
+            "location": "product/packages/privileged_apps/SafetyHubPrebuilt/SafetyHubPrebuilt.apk",
             "md5": "ad17cc12ba4b0c10e87da741a42b3b79",
             "package": "com.google.android.apps.safetyhub",
             "partition": "product",
@@ -361,6 +391,7 @@
         {
             "file": "SCONE/SCONE.apk",
             "folder": "SCONE",
+            "location": "product/packages/privileged_apps/SCONE/SCONE.apk",
             "md5": "b6966b0a44261c267911f13473c39860",
             "package": "com.google.android.apps.scone",
             "partition": "product",
@@ -373,6 +404,7 @@
         {
             "file": "SecurityHubPrebuilt/SecurityHubPrebuilt.apk",
             "folder": "SecurityHubPrebuilt",
+            "location": "product/packages/privileged_apps/SecurityHubPrebuilt/SecurityHubPrebuilt.apk",
             "md5": "649088f93c12269593b90832e7553ddc",
             "package": "com.google.android.apps.security.securityhub",
             "partition": "product",
@@ -385,6 +417,7 @@
         {
             "file": "TurboPrebuilt/TurboPrebuilt.apk",
             "folder": "TurboPrebuilt",
+            "location": "product/packages/privileged_apps/TurboPrebuilt/TurboPrebuilt.apk",
             "md5": "1e9e601c4b86f69d0c77fae408e85c15",
             "package": "com.google.android.apps.turbo",
             "partition": "product",
@@ -397,6 +430,7 @@
         {
             "file": "Tycho/Tycho.apk",
             "folder": "Tycho",
+            "location": "product/packages/apps/Tycho/Tycho.apk",
             "md5": "4d26acfb10812aa6dbb4c288805bc2f8",
             "package": "com.google.android.apps.tycho",
             "partition": "product",
@@ -409,6 +443,7 @@
         {
             "file": "PixelWallpapers2022/PixelWallpapers2022.apk",
             "folder": "PixelWallpapers2022",
+            "location": "product/packages/apps/PixelWallpapers2022/PixelWallpapers2022.apk",
             "md5": "521ea8558d2c50f9ee4776d1778363e6",
             "package": "com.google.android.apps.wallpaper.pixel",
             "partition": "product",
@@ -421,6 +456,7 @@
         {
             "file": "MaestroPrebuilt/MaestroPrebuilt.apk",
             "folder": "MaestroPrebuilt",
+            "location": "product/packages/privileged_apps/MaestroPrebuilt/MaestroPrebuilt.apk",
             "md5": "f9bfc972523a2fc273cff91c0d022585",
             "package": "com.google.android.apps.wearables.maestro.companion",
             "partition": "product",
@@ -433,6 +469,7 @@
         {
             "file": "WellbeingPrebuilt/WellbeingPrebuilt.apk",
             "folder": "WellbeingPrebuilt",
+            "location": "product/packages/privileged_apps/WellbeingPrebuilt/WellbeingPrebuilt.apk",
             "md5": "eac864be1c3421f1ec259988ac49b9e2",
             "package": "com.google.android.apps.wellbeing",
             "partition": "product",
@@ -445,6 +482,7 @@
         {
             "file": "DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk",
             "folder": "DevicePolicyPrebuilt",
+            "location": "product/packages/apps/DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk",
             "md5": "1c1916a77e2ed7df4ee132375928f2f6",
             "package": "com.google.android.apps.work.clouddpc",
             "partition": "product",
@@ -457,6 +495,7 @@
         {
             "file": "YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk",
             "folder": "YouTubeMusicPrebuilt",
+            "location": "product/packages/apps/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk",
             "md5": "2672c233ac1272e6183271ed11979b78",
             "package": "com.google.android.apps.youtube.music",
             "partition": "product",
@@ -469,6 +508,7 @@
         {
             "file": "DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk",
             "folder": "DevicePersonalizationPrebuiltPixel2020",
+            "location": "product/packages/privileged_apps/DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk",
             "md5": "08c8b948df03ef812d2786901b81f863",
             "package": "com.google.android.as",
             "partition": "product",
@@ -481,6 +521,7 @@
         {
             "file": "DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
             "folder": "DeviceIntelligenceNetworkPrebuilt",
+            "location": "product/packages/privileged_apps/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
             "md5": "29bc360006cd72f712e7d8a395aedecf",
             "package": "com.google.android.as.oss",
             "partition": "product",
@@ -493,6 +534,7 @@
         {
             "file": "CalculatorGooglePrebuilt/CalculatorGooglePrebuilt.apk",
             "folder": "CalculatorGooglePrebuilt",
+            "location": "product/packages/apps/CalculatorGooglePrebuilt/CalculatorGooglePrebuilt.apk",
             "md5": "e811a4cd45772f2fb60411fc8557357c",
             "package": "com.google.android.calculator",
             "partition": "product",
@@ -505,6 +547,7 @@
         {
             "file": "CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk",
             "folder": "CalendarGooglePrebuilt",
+            "location": "product/packages/apps/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk",
             "md5": "e6015ba903b7ee159bb1275780ade3e9",
             "package": "com.google.android.calendar",
             "partition": "product",
@@ -517,6 +560,7 @@
         {
             "file": "CaptivePortalLoginGoogle/CaptivePortalLoginGoogle.apk",
             "folder": "CaptivePortalLoginGoogle",
+            "location": "system/packages/apps/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle.apk",
             "md5": "f0b01608a2a9cab2b57003f3101c08a8",
             "package": "com.google.android.captiveportallogin",
             "partition": "system",
@@ -529,6 +573,7 @@
         {
             "file": "CarrierLocation/CarrierLocation.apk",
             "folder": "CarrierLocation",
+            "location": "product/packages/privileged_apps/CarrierLocation/CarrierLocation.apk",
             "md5": "cbb587442cd32d68b9144925a1f96a51",
             "package": "com.google.android.carrierlocation",
             "partition": "product",
@@ -541,6 +586,7 @@
         {
             "file": "CarrierSetup/CarrierSetup.apk",
             "folder": "CarrierSetup",
+            "location": "system_ext/packages/privileged_apps/CarrierSetup/CarrierSetup.apk",
             "md5": "0faecae711bca4d8ef1d972fbd1e0b40",
             "package": "com.google.android.carriersetup",
             "partition": "system_ext",
@@ -553,6 +599,7 @@
         {
             "file": "ConfigUpdater/ConfigUpdater.apk",
             "folder": "ConfigUpdater",
+            "location": "product/packages/privileged_apps/ConfigUpdater/ConfigUpdater.apk",
             "md5": "d30531a73b4a9e57e85d0b57846993e7",
             "package": "com.google.android.configupdater",
             "partition": "product",
@@ -565,6 +612,7 @@
         {
             "file": "ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk",
             "folder": "ConnectivityThermalPowerManager",
+            "location": "system_ext/packages/privileged_apps/ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk",
             "md5": "5e164036f9a4347a20cf3a6eded56fb6",
             "package": "com.google.android.connectivitythermalpowermanager",
             "partition": "system_ext",
@@ -577,6 +625,7 @@
         {
             "file": "GoogleContacts/GoogleContacts.apk",
             "folder": "GoogleContacts",
+            "location": "product/packages/apps/GoogleContacts/GoogleContacts.apk",
             "md5": "df1f0cfc6896eb9874f4ce3e849b03ab",
             "package": "com.google.android.contacts",
             "partition": "product",
@@ -589,6 +638,7 @@
         {
             "file": "PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk",
             "folder": "PrebuiltDeskClockGoogle",
+            "location": "product/packages/apps/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk",
             "md5": "e676805f1bc63b2a6b15b24cb35d20cf",
             "package": "com.google.android.deskclock",
             "partition": "product",
@@ -601,6 +651,7 @@
         {
             "file": "GoogleDialer/GoogleDialer.apk",
             "folder": "GoogleDialer",
+            "location": "product/packages/privileged_apps/GoogleDialer/GoogleDialer.apk",
             "md5": "7e7eb19ea9889e0986e35321bc5a3560",
             "package": "com.google.android.dialer",
             "partition": "product",
@@ -613,6 +664,7 @@
         {
             "file": "DocumentsUIGoogle/DocumentsUIGoogle.apk",
             "folder": "DocumentsUIGoogle",
+            "location": "system/packages/privileged_apps/DocumentsUIGoogle/DocumentsUIGoogle.apk",
             "md5": "a5cb1148b9ab21c26ee33dc8c5143938",
             "package": "com.google.android.documentsui",
             "partition": "system",
@@ -625,6 +677,7 @@
         {
             "file": "DreamlinerUpdater/DreamlinerUpdater.apk",
             "folder": "DreamlinerUpdater",
+            "location": "product/packages/privileged_apps/DreamlinerUpdater/DreamlinerUpdater.apk",
             "md5": "8f05ccd8e19d0a6ed7e4702a7175a619",
             "package": "com.google.android.dreamlinerupdater",
             "partition": "product",
@@ -637,6 +690,7 @@
         {
             "file": "GoogleExtShared/GoogleExtShared.apk",
             "folder": "GoogleExtShared",
+            "location": "system/packages/apps/GoogleExtShared/GoogleExtShared.apk",
             "md5": "6795c0d1ab50088d8abda2e3799a7794",
             "package": "com.google.android.ext.shared",
             "partition": "system",
@@ -649,6 +703,7 @@
         {
             "file": "GoogleFeedback/GoogleFeedback.apk",
             "folder": "GoogleFeedback",
+            "location": "system_ext/packages/privileged_apps/GoogleFeedback/GoogleFeedback.apk",
             "md5": "3a1b813cde479f23991d4ef8136ca5e9",
             "package": "com.google.android.feedback",
             "partition": "system_ext",
@@ -661,6 +716,7 @@
         {
             "file": "Flipendo/Flipendo.apk",
             "folder": "Flipendo",
+            "location": "system_ext/packages/apps/Flipendo/Flipendo.apk",
             "md5": "6657cf510435c4a546f5d76133fd2d8f",
             "package": "com.google.android.flipendo",
             "partition": "system_ext",
@@ -673,6 +729,7 @@
         {
             "file": "PrebuiltGmail/PrebuiltGmail.apk",
             "folder": "PrebuiltGmail",
+            "location": "product/packages/apps/PrebuiltGmail/PrebuiltGmail.apk",
             "md5": "dc1b092065eedebd763c20e88fa34ac4",
             "package": "com.google.android.gm",
             "partition": "product",
@@ -685,6 +742,7 @@
         {
             "file": "PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
             "md5": "4bf0aac4d2874fffd265051be521ece0",
             "package": "com.google.android.gms",
             "partition": "product",
@@ -697,6 +755,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_CronetDynamite.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_CronetDynamite.apk",
             "md5": "3d124073550bf0805ce56a72398eadca",
             "package": "com.google.android.gms.dynamite_cronetdynamite",
             "partition": "product",
@@ -709,6 +768,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
             "md5": "c1229478ffbe8f5578c9db94c3e957fe",
             "package": "com.google.android.gms.dynamite_dynamiteloader",
             "partition": "product",
@@ -721,6 +781,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
             "md5": "4c3ea81e82f2908097a31751a9df1893",
             "package": "com.google.android.gms.dynamite_dynamitemodulesa",
             "partition": "product",
@@ -733,6 +794,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
             "md5": "547897cff196076d9804d9fcf873bbd7",
             "package": "com.google.android.gms.dynamite_dynamitemodulesc",
             "partition": "product",
@@ -745,6 +807,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
             "md5": "a99161bc73f32e0cbf837febbd3e4471",
             "package": "com.google.android.gms.dynamite_googlecertificates",
             "partition": "product",
@@ -757,6 +820,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MapsDynamite.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MapsDynamite.apk",
             "md5": "f2056ddd5f789a5d70f37d3d05390246",
             "package": "com.google.android.gms.dynamite_mapsdynamite",
             "partition": "product",
@@ -769,6 +833,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
             "md5": "841b65c92f7274841d56ed12fc00fb98",
             "package": "com.google.android.gms.dynamite_measurementdynamite",
             "partition": "product",
@@ -781,6 +846,7 @@
         {
             "file": "LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk",
             "folder": "LocationHistoryPrebuilt",
+            "location": "product/packages/apps/LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk",
             "md5": "273c8d518f104ddfd88d22231f4376aa",
             "package": "com.google.android.gms.location.history",
             "partition": "product",
@@ -793,6 +859,7 @@
         {
             "file": "PrebuiltGmsCore/m/optional/MlkitBarcodeUIPrebuilt.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/m/optional/MlkitBarcodeUIPrebuilt.apk",
             "md5": "450103b6c8be89fd2c91f6397a8ae2aa",
             "package": "com.google.android.gms.optional_mlkit_barcode_ui",
             "partition": "product",
@@ -805,6 +872,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_AdsDynamite.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_AdsDynamite.apk",
             "md5": "d39c5634b6b6e9316fd20a2c91f41377",
             "package": "com.google.android.gms.policy_ads_fdr_dynamite",
             "partition": "product",
@@ -817,6 +885,7 @@
         {
             "file": "PrebuiltGmsCore/m/independent/AndroidPlatformServices.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/m/independent/AndroidPlatformServices.apk",
             "md5": "52c60fbbc3c4e03edeb5d72dd7fbd718",
             "package": "com.google.android.gms.policy_sidecar_aps",
             "partition": "product",
@@ -829,6 +898,7 @@
         {
             "file": "PrebuiltGmsCore/m/optional/VisionBarcodePrebuilt.apk",
             "folder": "PrebuiltGmsCore",
+            "location": "product/packages/privileged_apps/PrebuiltGmsCore/m/optional/VisionBarcodePrebuilt.apk",
             "md5": "c07d8acbc5753bacf3b83fde7f7bdca5",
             "package": "com.google.android.gms.policy_vision_optional_barcode_dynamite",
             "partition": "product",
@@ -841,6 +911,7 @@
         {
             "file": "KidsSupervisionStub/KidsSupervisionStub.apk",
             "folder": "KidsSupervisionStub",
+            "location": "product/packages/privileged_apps/KidsSupervisionStub/KidsSupervisionStub.apk",
             "md5": "8ecd45accf05298b2fdd0878284c6087",
             "package": "com.google.android.gms.supervision",
             "partition": "product",
@@ -853,6 +924,7 @@
         {
             "file": "Velvet/Velvet.apk",
             "folder": "Velvet",
+            "location": "product/packages/privileged_apps/Velvet/Velvet.apk",
             "md5": "0d1f2de5a9c5be3ff2d27a6146855fab",
             "package": "com.google.android.googlequicksearchbox",
             "partition": "product",
@@ -865,6 +937,7 @@
         {
             "file": "NgaResources/NgaResources.apk",
             "folder": "NgaResources",
+            "location": "product/packages/apps/NgaResources/NgaResources.apk",
             "md5": "7e5396eec7fe04cb6e230417de8c208c",
             "package": "com.google.android.googlequicksearchbox.nga_resources",
             "partition": "product",
@@ -877,6 +950,7 @@
         {
             "file": "grilservice/grilservice.apk",
             "folder": "grilservice",
+            "location": "system_ext/packages/privileged_apps/grilservice/grilservice.apk",
             "md5": "80e23f847b091ab987b65154d47ed4c3",
             "package": "com.google.android.grilservice",
             "partition": "system_ext",
@@ -889,6 +963,7 @@
         {
             "file": "GoogleServicesFramework/GoogleServicesFramework.apk",
             "folder": "GoogleServicesFramework",
+            "location": "system_ext/packages/privileged_apps/GoogleServicesFramework/GoogleServicesFramework.apk",
             "md5": "75e496df2e5f380e7c82fe2af08f117f",
             "package": "com.google.android.gsf",
             "partition": "system_ext",
@@ -901,6 +976,7 @@
         {
             "file": "CarrierServices/CarrierServices.apk",
             "folder": "CarrierServices",
+            "location": "product/packages/privileged_apps/CarrierServices/CarrierServices.apk",
             "md5": "19e1d4298802bf9527ddccd988bb9039",
             "package": "com.google.android.ims",
             "partition": "product",
@@ -913,6 +989,7 @@
         {
             "file": "LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk",
             "folder": "LatinIMEGooglePrebuilt",
+            "location": "product/packages/apps/LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk",
             "md5": "fe45973cb202be27bc4027714711e417",
             "package": "com.google.android.inputmethod.latin",
             "partition": "product",
@@ -925,6 +1002,7 @@
         {
             "file": "MarkupGoogle/MarkupGoogle.apk",
             "folder": "MarkupGoogle",
+            "location": "product/packages/apps/MarkupGoogle/MarkupGoogle.apk",
             "md5": "72fcf3c0eade36e6347ca787c729a8f9",
             "package": "com.google.android.markup",
             "partition": "product",
@@ -937,6 +1015,7 @@
         {
             "file": "talkback/talkback.apk",
             "folder": "talkback",
+            "location": "product/packages/apps/talkback/talkback.apk",
             "md5": "8e2f1e529af0220b79b931603dbd67bf",
             "package": "com.google.android.marvin.talkback",
             "partition": "product",
@@ -949,6 +1028,7 @@
         {
             "file": "NetworkStackGoogle/NetworkStackGoogle.apk",
             "folder": "NetworkStackGoogle",
+            "location": "system/packages/privileged_apps/NetworkStackGoogle/NetworkStackGoogle.apk",
             "md5": "19f1facab36e9fa2cdcc5c45fdbd9cab",
             "package": "com.google.android.networkstack",
             "partition": "system",
@@ -961,6 +1041,7 @@
         {
             "file": "OdadPrebuilt/OdadPrebuilt.apk",
             "folder": "OdadPrebuilt",
+            "location": "product/packages/privileged_apps/OdadPrebuilt/OdadPrebuilt.apk",
             "md5": "0e8d2ffa2bd0b39086ad24e6545a1cf3",
             "package": "com.google.android.odad",
             "partition": "product",
@@ -973,6 +1054,7 @@
         {
             "file": "GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
             "folder": "GoogleOneTimeInitializer",
+            "location": "product/packages/privileged_apps/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
             "md5": "de28c1e292d89bf899e1abdcbdc110c0",
             "package": "com.google.android.onetimeinitializer",
             "partition": "product",
@@ -985,6 +1067,7 @@
         {
             "file": "GooglePackageInstaller/GooglePackageInstaller.apk",
             "folder": "GooglePackageInstaller",
+            "location": "system/packages/privileged_apps/GooglePackageInstaller/GooglePackageInstaller.apk",
             "md5": "4c506c26ab57379faa407c44a833b44b",
             "package": "com.google.android.packageinstaller",
             "partition": "system",
@@ -997,6 +1080,7 @@
         {
             "file": "PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk",
             "folder": "PartnerSetupPrebuilt",
+            "location": "product/packages/privileged_apps/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk",
             "md5": "ad88ebcd2445fd3c0cdce7db91b596b3",
             "package": "com.google.android.partnersetup",
             "partition": "product",
@@ -1009,6 +1093,7 @@
         {
             "file": "PixelSetupWizard/PixelSetupWizard.apk",
             "folder": "PixelSetupWizard",
+            "location": "system_ext/packages/privileged_apps/PixelSetupWizard/PixelSetupWizard.apk",
             "md5": "55d080a5fc72d22e2f989b2287c07205",
             "package": "com.google.android.pixel.setupwizard",
             "partition": "system_ext",
@@ -1021,6 +1106,7 @@
         {
             "file": "GooglePrintRecommendationService/GooglePrintRecommendationService.apk",
             "folder": "GooglePrintRecommendationService",
+            "location": "system/packages/apps/GooglePrintRecommendationService/GooglePrintRecommendationService.apk",
             "md5": "482525327606bebfcc28df1f6a2c41a1",
             "package": "com.google.android.printservice.recommendation",
             "partition": "system",
@@ -1033,6 +1119,7 @@
         {
             "file": "AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk",
             "folder": "AndroidAutoStubPrebuilt",
+            "location": "product/packages/privileged_apps/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk",
             "md5": "360df7c30d3014c26d9f067daf1f5737",
             "package": "com.google.android.projection.gearhead",
             "partition": "product",
@@ -1045,6 +1132,7 @@
         {
             "file": "SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk",
             "folder": "SettingsIntelligenceGooglePrebuilt",
+            "location": "product/packages/privileged_apps/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk",
             "md5": "3a8487ca4c1e4b19f80ab89a3d6e7750",
             "package": "com.google.android.settings.intelligence",
             "partition": "product",
@@ -1057,6 +1145,7 @@
         {
             "file": "SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
             "folder": "SetupWizardPrebuilt",
+            "location": "product/packages/privileged_apps/SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
             "md5": "f329d0a29c16cb94d6c6557ee887e862",
             "package": "com.google.android.setupwizard",
             "partition": "product",
@@ -1069,6 +1158,7 @@
         {
             "file": "SoundPickerPrebuilt/SoundPickerPrebuilt.apk",
             "folder": "SoundPickerPrebuilt",
+            "location": "product/packages/apps/SoundPickerPrebuilt/SoundPickerPrebuilt.apk",
             "md5": "a2f34f2dc5e47c17c9bd7631fdab262b",
             "package": "com.google.android.soundpicker",
             "partition": "product",
@@ -1081,6 +1171,7 @@
         {
             "file": "StorageManagerGoogle/StorageManagerGoogle.apk",
             "folder": "StorageManagerGoogle",
+            "location": "system_ext/packages/privileged_apps/StorageManagerGoogle/StorageManagerGoogle.apk",
             "md5": "06501b48ea4b30ff13fcecfb9a9c83b7",
             "package": "com.google.android.storagemanager",
             "partition": "system_ext",
@@ -1093,6 +1184,7 @@
         {
             "file": "TagGoogle/TagGoogle.apk",
             "folder": "TagGoogle",
+            "location": "system/packages/privileged_apps/TagGoogle/TagGoogle.apk",
             "md5": "e107c1066de3630c4f7b531e7bfdb396",
             "package": "com.google.android.tag",
             "partition": "system",
@@ -1105,6 +1197,7 @@
         {
             "file": "TetheringEntitlement/TetheringEntitlement.apk",
             "folder": "TetheringEntitlement",
+            "location": "product/packages/privileged_apps/TetheringEntitlement/TetheringEntitlement.apk",
             "md5": "4f8eb59c295ea9e9b592c1c9d599f58e",
             "package": "com.google.android.tetheringentitlement",
             "partition": "product",
@@ -1117,6 +1210,7 @@
         {
             "file": "TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
             "folder": "TrichromeLibrary-Stub",
+            "location": "product/packages/apps/TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
             "md5": "fba54df69268f684893d168f23e9449f",
             "package": "com.google.android.trichromelibrary",
             "partition": "product",
@@ -1129,6 +1223,7 @@
         {
             "file": "GoogleTTS/GoogleTTS.apk",
             "folder": "GoogleTTS",
+            "location": "product/packages/apps/GoogleTTS/GoogleTTS.apk",
             "md5": "a394292e64464e6cdb46725a60ec55f7",
             "package": "com.google.android.tts",
             "partition": "product",
@@ -1141,6 +1236,7 @@
         {
             "file": "TurboAdapter/TurboAdapter.apk",
             "folder": "TurboAdapter",
+            "location": "system_ext/packages/privileged_apps/TurboAdapter/TurboAdapter.apk",
             "md5": "c78a1f7ce89cb145e5760fd6ea24e97c",
             "package": "com.google.android.turboadapter",
             "partition": "system_ext",
@@ -1151,6 +1247,7 @@
         {
             "file": "TurboAdapter/TurboAdapter_NoBatt.apk",
             "folder": "TurboAdapter",
+            "location": "system_ext/packages/privileged_apps/TurboAdapter/TurboAdapter_NoBatt.apk",
             "md5": "64e1515260d1b4638bdcd4d9616dc1de",
             "package": "com.google.android.turboadapter",
             "partition": "system_ext",
@@ -1163,6 +1260,7 @@
         {
             "file": "Videos/Videos.apk",
             "folder": "Videos",
+            "location": "product/packages/apps/Videos/Videos.apk",
             "md5": "90cf1054db2389020de2653de11ed8ae",
             "package": "com.google.android.videos",
             "partition": "product",
@@ -1175,6 +1273,7 @@
         {
             "file": "WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
             "folder": "WebViewGoogle-Stub",
+            "location": "product/packages/apps/WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
             "md5": "db2822b3e6944d99b06d8fbd5788cd0b",
             "package": "com.google.android.webview",
             "partition": "product",
@@ -1187,6 +1286,7 @@
         {
             "file": "WfcActivation/WfcActivation.apk",
             "folder": "WfcActivation",
+            "location": "product/packages/privileged_apps/WfcActivation/WfcActivation.apk",
             "md5": "24cfbef7f136b52ab45bd245194ca175",
             "package": "com.google.android.wfcactivation",
             "partition": "product",
@@ -1199,6 +1299,7 @@
         {
             "file": "YouTube/YouTube.apk",
             "folder": "YouTube",
+            "location": "product/packages/apps/YouTube/YouTube.apk",
             "md5": "5c0fa8c07925cbf1a8144b7626551434",
             "package": "com.google.android.youtube",
             "partition": "product",
@@ -1211,6 +1312,7 @@
         {
             "file": "arcore/arcore.apk",
             "folder": "arcore",
+            "location": "product/packages/apps/arcore/arcore.apk",
             "md5": "e4c3a452975d54774c65cdb70ab95fb8",
             "package": "com.google.ar.core",
             "partition": "product",
@@ -1223,6 +1325,7 @@
         {
             "file": "ScribePrebuilt/ScribePrebuilt.apk",
             "folder": "ScribePrebuilt",
+            "location": "product/packages/privileged_apps/ScribePrebuilt/ScribePrebuilt.apk",
             "md5": "e54421ffdbe0107f1d204ab7949f43a5",
             "package": "com.google.audio.hearing.visualization.accessibility.scribe",
             "partition": "product",
@@ -1235,6 +1338,7 @@
         {
             "file": "PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk",
             "folder": "PrebuiltGoogleAdservicesTvp",
+            "location": "product/packages/apps/PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk",
             "md5": "58a66475c8511895551493234331aeba",
             "package": "com.google.mainline.adservices",
             "partition": "product",
@@ -1247,6 +1351,7 @@
         {
             "file": "PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk",
             "folder": "PrebuiltGoogleTelemetryTvp",
+            "location": "product/packages/apps/PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk",
             "md5": "6e7c23746c2f26f74588f8902dc8d8bb",
             "package": "com.google.mainline.telemetry",
             "partition": "product",
@@ -1259,6 +1364,7 @@
         {
             "file": "OemDmTrigger/OemDmTrigger.apk",
             "folder": "OemDmTrigger",
+            "location": "product/packages/privileged_apps/OemDmTrigger/OemDmTrigger.apk",
             "md5": "29f8ceecb173fa4f363fbba4b3b0157e",
             "package": "com.google.omadm.trigger",
             "partition": "product",
@@ -1271,6 +1377,7 @@
         {
             "file": "PixelLiveWallpaperPrebuilt/PixelLiveWallpaperPrebuilt.apk",
             "folder": "PixelLiveWallpaperPrebuilt",
+            "location": "product/packages/privileged_apps/PixelLiveWallpaperPrebuilt/PixelLiveWallpaperPrebuilt.apk",
             "md5": "c90a5f6b44e4259ebfd3b83cb778e9e5",
             "package": "com.google.pixel.livewallpaper",
             "partition": "product",
@@ -1283,6 +1390,7 @@
         {
             "file": "MyVerizonServices/MyVerizonServices.apk",
             "folder": "MyVerizonServices",
+            "location": "system_ext/packages/privileged_apps/MyVerizonServices/MyVerizonServices.apk",
             "md5": "82b54c8150f039d4db0e4523216c6a9d",
             "package": "com.verizon.mips.services",
             "partition": "system_ext",
@@ -1295,6 +1403,7 @@
         {
             "file": "AppDirectedSMSService/AppDirectedSMSService.apk",
             "folder": "AppDirectedSMSService",
+            "location": "product/packages/privileged_apps/AppDirectedSMSService/AppDirectedSMSService.apk",
             "md5": "5eaa96429ecc77ddedadc8be27780ea7",
             "package": "com.verizon.services",
             "partition": "product",
@@ -1307,6 +1416,7 @@
         {
             "file": "VZWAPNLib/VZWAPNLib.apk",
             "folder": "VZWAPNLib",
+            "location": "product/packages/apps/VZWAPNLib/VZWAPNLib.apk",
             "md5": "e05684f5066807c421b6bd8fa3706b7a",
             "package": "com.vzw.apnlib",
             "partition": "product",
