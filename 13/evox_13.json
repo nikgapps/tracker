@@ -131,17 +131,6 @@
     ],
     "com.google.android.GoogleCamera": [
         {
-            "file": "GoogleCamera/GoogleCamera_Stub.apk",
-            "folder": "GoogleCamera",
-            "location": "product/packages/privileged_apps/GoogleCamera/GoogleCamera_Stub.apk",
-            "md5": "89c1e49f319d9e58a23f91df37ca65cf",
-            "package": "com.google.android.GoogleCamera",
-            "partition": "product",
-            "type": "priv-app",
-            "version": "1.0",
-            "version_code": "10"
-        },
-        {
             "file": "GoogleCamera/GoogleCamera.apk",
             "folder": "GoogleCamera",
             "location": "product/packages/privileged_apps/GoogleCamera/GoogleCamera.apk",
@@ -151,6 +140,17 @@
             "type": "priv-app",
             "version": "8.6.263.459370420.10",
             "version_code": "8626345937042010"
+        },
+        {
+            "file": "GoogleCamera/GoogleCamera_Stub.apk",
+            "folder": "GoogleCamera",
+            "location": "product/packages/privileged_apps/GoogleCamera/GoogleCamera_Stub.apk",
+            "md5": "89c1e49f319d9e58a23f91df37ca65cf",
+            "package": "com.google.android.GoogleCamera",
+            "partition": "product",
+            "type": "priv-app",
+            "version": "1.0",
+            "version_code": "10"
         }
     ],
     "com.google.android.accessibility.soundamplifier": [
@@ -1234,17 +1234,6 @@
     ],
     "com.google.android.turboadapter": [
         {
-            "file": "TurboAdapter/TurboAdapter_NoBatt.apk",
-            "folder": "TurboAdapter",
-            "location": "system_ext/packages/privileged_apps/TurboAdapter/TurboAdapter_NoBatt.apk",
-            "md5": "64e1515260d1b4638bdcd4d9616dc1de",
-            "package": "com.google.android.turboadapter",
-            "partition": "system_ext",
-            "type": "priv-app",
-            "version": "12",
-            "version_code": "12"
-        },
-        {
             "file": "TurboAdapter/TurboAdapter.apk",
             "folder": "TurboAdapter",
             "location": "system_ext/packages/privileged_apps/TurboAdapter/TurboAdapter.apk",
@@ -1254,6 +1243,17 @@
             "type": "priv-app",
             "version": "13",
             "version_code": "13"
+        },
+        {
+            "file": "TurboAdapter/TurboAdapter_NoBatt.apk",
+            "folder": "TurboAdapter",
+            "location": "system_ext/packages/privileged_apps/TurboAdapter/TurboAdapter_NoBatt.apk",
+            "md5": "64e1515260d1b4638bdcd4d9616dc1de",
+            "package": "com.google.android.turboadapter",
+            "partition": "system_ext",
+            "type": "priv-app",
+            "version": "12",
+            "version_code": "12"
         }
     ],
     "com.google.android.videos": [
