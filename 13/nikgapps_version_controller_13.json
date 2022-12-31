@@ -3,6 +3,8 @@
         {
             "com.android.vending": [
                 {
+                    "EvoX_version": "30.4.21-21 [0] [PR] 475636937",
+                    "EvoX_version_code": "30421210475636937",
                     "cheetah_version": "30.4.21-21 [0] [PR] 475636937",
                     "cheetah_version_code": "30421210475636937",
                     "evox_version": "30.4.21-21 [0] [PR] 475636937",
@@ -18,6 +20,8 @@
         {
             "com.google.android.gsf": [
                 {
+                    "EvoX_version": "13",
+                    "EvoX_version_code": "13",
                     "cheetah_version": "13",
                     "cheetah_version_code": "13",
                     "evox_version": "13",
@@ -55,6 +59,8 @@
         {
             "com.google.android.gms": [
                 {
+                    "EvoX_version": "22.36.16 (190408-476895098)",
+                    "EvoX_version_code": "223616190408476895098",
                     "cheetah_version": "22.36.16 (190408-476895098)",
                     "cheetah_version_code": "223616190408476895098",
                     "evox_version": "22.36.16 (190408-476895098)",
@@ -72,6 +78,8 @@
         {
             "com.google.android.dialer": [
                 {
+                    "EvoX_version": "86.2.468079596",
+                    "EvoX_version_code": "862468079596",
                     "cheetah_version": "86.2.468079596",
                     "cheetah_version_code": "862468079596",
                     "evox_version": "86.2.468079596",
