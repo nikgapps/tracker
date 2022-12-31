@@ -5,6 +5,7 @@
                 {
                     "cheetah_version": "30.4.21-21 [0] [PR] 475636937",
                     "cheetah_version_code": "30421210475636937",
+                    "evox_location": "product/packages/privileged_apps/Phonesky/Phonesky.apk",
                     "evox_version": "30.4.21-21 [0] [PR] 475636937",
                     "evox_version_code": "30421210475636937",
                     "file_path": "___priv-app___Phonesky/Phonesky.apk",
@@ -20,6 +21,7 @@
                 {
                     "cheetah_version": "13",
                     "cheetah_version_code": "13",
+                    "evox_location": "system_ext/packages/privileged_apps/GoogleServicesFramework/GoogleServicesFramework.apk",
                     "evox_version": "13",
                     "evox_version_code": "13",
                     "file_path": "___priv-app___GoogleServicesFramework/GoogleServicesFramework.apk",
@@ -57,6 +59,7 @@
                 {
                     "cheetah_version": "22.36.16 (190408-476895098)",
                     "cheetah_version_code": "223616190408476895098",
+                    "evox_location": "product/packages/privileged_apps/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
                     "evox_version": "22.36.16 (190408-476895098)",
                     "evox_version_code": "223616190408476895098",
                     "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
@@ -74,6 +77,7 @@
                 {
                     "cheetah_version": "86.2.468079596",
                     "cheetah_version_code": "862468079596",
+                    "evox_location": "product/packages/privileged_apps/GoogleDialer/GoogleDialer.apk",
                     "evox_version": "86.2.468079596",
                     "evox_version_code": "862468079596",
                     "file_path": "___priv-app___GoogleDialer/GoogleDialer.apk",
