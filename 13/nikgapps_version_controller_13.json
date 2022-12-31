@@ -3,6 +3,7 @@
         {
             "com.android.vending": [
                 {
+                    "cheetah_location": "product/priv-app/Phonesky/Phonesky.apk",
                     "cheetah_version": "30.4.21-21 [0] [PR] 475636937",
                     "cheetah_version_code": "30421210475636937",
                     "evox_location": "product/packages/privileged_apps/Phonesky/Phonesky.apk",
@@ -19,6 +20,7 @@
         {
             "com.google.android.gsf": [
                 {
+                    "cheetah_location": "system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk",
                     "cheetah_version": "13",
                     "cheetah_version_code": "13",
                     "evox_location": "system_ext/packages/privileged_apps/GoogleServicesFramework/GoogleServicesFramework.apk",
@@ -57,6 +59,7 @@
         {
             "com.google.android.gms": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
                     "cheetah_version": "22.36.16 (190408-476895098)",
                     "cheetah_version_code": "223616190408476895098",
                     "evox_location": "product/packages/privileged_apps/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
@@ -75,6 +78,7 @@
         {
             "com.google.android.dialer": [
                 {
+                    "cheetah_location": "product/priv-app/GoogleDialer/GoogleDialer.apk",
                     "cheetah_version": "86.2.468079596",
                     "cheetah_version_code": "862468079596",
                     "evox_location": "product/packages/privileged_apps/GoogleDialer/GoogleDialer.apk",
