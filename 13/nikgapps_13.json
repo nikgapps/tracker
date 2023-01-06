@@ -90,13 +90,13 @@
                 {
                     "file": "___priv-app___Phonesky/Phonesky.apk",
                     "folder": "Phonesky",
-                    "md5": "15b4fd2ee960e7bee5ce31a829df69a7",
+                    "md5": "5bb08929ca648a731c83959e80c5092d",
                     "package": "com.android.vending",
                     "package_title": "GooglePlayStore",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "30.4.17-21 [0] [PR] 445549118",
-                    "version_code": "30417210445549118"
+                    "version": "30.4.21-21 [0] [PR] 475636937",
+                    "version_code": "30421210475636937"
                 }
             ]
         },
@@ -150,13 +150,13 @@
                 {
                     "file": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
                     "folder": "PrebuiltGmsCore",
-                    "md5": "490be59c903770e0698e8f48d3846dca",
+                    "md5": "40fcffa8c91704fa92930732c9b83472",
                     "package": "com.google.android.gms",
                     "package_title": "GmsCore",
                     "partition": "system",
                     "type": "priv-app",
-                    "version": "22.18.21 (190408-453244992)",
-                    "version_code": "221821190408453244992"
+                    "version": "22.36.16 (190408-476895098)",
+                    "version_code": "223616190408476895098"
                 }
             ]
         }
