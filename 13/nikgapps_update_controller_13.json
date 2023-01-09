@@ -4,11 +4,11 @@
             "com.android.vending": [
                 {
                     "nikgapps_source": "___priv-app___Phonesky/Phonesky.apk",
-                    "nikgapps_version": "30.4.17-21 [0] [PR] 445549118",
+                    "nikgapps_version": "30.4.21-21 [0] [PR] 475636937",
                     "oem": "cheetah",
                     "oem_source": "product/priv-app/Phonesky/Phonesky.apk",
                     "oem_version": "30.4.21-21 [0] [PR] 475636937",
-                    "update_available": true
+                    "update_available": false
                 }
             ]
         },
@@ -28,11 +28,143 @@
             "com.google.android.gms": [
                 {
                     "nikgapps_source": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
-                    "nikgapps_version": "22.18.21 (190408-453244992)",
+                    "nikgapps_version": "22.36.16 (190408-476895098)",
                     "oem": "cheetah",
                     "oem_source": "product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
                     "oem_version": "22.36.16 (190408-476895098)",
-                    "update_available": true
+                    "update_available": false
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.optional_mlkit_barcode_ui": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore___m___optional/MlkitBarcodeUIPrebuilt.apk",
+                    "nikgapps_version": "22.36.16 (100000-0)",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/m/optional/MlkitBarcodeUIPrebuilt.apk",
+                    "oem_version": "22.36.16 (100000-0)",
+                    "update_available": false
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.policy_vision_optional_barcode_dynamite": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
+                    "nikgapps_version": "213104700065.387730465.387730465",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/m/optional/VisionBarcodePrebuilt.apk",
+                    "oem_version": "213104700065.387730465.387730465",
+                    "update_available": false
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_measurementdynamite": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
+                    "nikgapps_version": "22.36.16 (190408-0)",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
+                    "oem_version": "22.36.16 (190408-0)",
+                    "update_available": false
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_googlecertificates": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
+                    "nikgapps_version": "22.36.16 (190408-0)",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
+                    "oem_version": "22.36.16 (190408-0)",
+                    "update_available": false
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_dynamitemodulesa": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
+                    "nikgapps_version": "22.36.16 (190408-0)",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
+                    "oem_version": "22.36.16 (190408-0)",
+                    "update_available": false
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_dynamiteloader": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
+                    "nikgapps_version": "22.36.16 (190408-0)",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
+                    "oem_version": "22.36.16 (190408-0)",
+                    "update_available": false
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_dynamitemodulesc": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
+                    "nikgapps_version": "22.36.16 (190408-0)",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
+                    "oem_version": "22.36.16 (190408-0)",
+                    "update_available": false
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.policy_ads_fdr_dynamite": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_AdsDynamite.apk",
+                    "nikgapps_version": "222508000057.455804270.455804270",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_AdsDynamite.apk",
+                    "oem_version": "222508000057.455804270.455804270",
+                    "update_available": false
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_cronetdynamite": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_CronetDynamite.apk",
+                    "nikgapps_version": "22.36.16 (190408-0)",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_CronetDynamite.apk",
+                    "oem_version": "22.36.16 (190408-0)",
+                    "update_available": false
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_mapsdynamite": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
+                    "nikgapps_version": "22.36.16 (190408-0)",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MapsDynamite.apk",
+                    "oem_version": "22.36.16 (190408-0)",
+                    "update_available": false
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.policy_sidecar_aps": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore___m___independent/AndroidPlatformServices.apk",
+                    "nikgapps_version": "2052073.215491873.215491873",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/m/independent/AndroidPlatformServices.apk",
+                    "oem_version": "2052073.215491873.215491873",
+                    "update_available": false
                 }
             ]
         }
