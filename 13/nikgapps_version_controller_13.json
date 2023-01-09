@@ -76,6 +76,9 @@
         {
             "com.google.android.gms.optional_mlkit_barcode_ui": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/m/optional/MlkitBarcodeUIPrebuilt.apk",
+                    "cheetah_version": "22.36.16 (100000-0)",
+                    "cheetah_version_code": "2236161000000",
                     "file_path": "___priv-app___PrebuiltGmsCore___m___optional/MlkitBarcodeUIPrebuilt.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -87,6 +90,9 @@
         {
             "com.google.android.gms.policy_vision_optional_barcode_dynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/m/optional/VisionBarcodePrebuilt.apk",
+                    "cheetah_version": "213104700065.387730465.387730465",
+                    "cheetah_version_code": "213104700065387730465387730465",
                     "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -98,6 +104,9 @@
         {
             "com.google.android.gms.dynamite_measurementdynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "2236161904080",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -109,6 +118,9 @@
         {
             "com.google.android.gms.dynamite_googlecertificates": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "2236161904080",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -120,6 +132,9 @@
         {
             "com.google.android.gms.dynamite_dynamitemodulesa": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "2236161904080",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -131,6 +146,9 @@
         {
             "com.google.android.gms.dynamite_dynamiteloader": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "2236161904080",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -142,6 +160,9 @@
         {
             "com.google.android.gms.dynamite_dynamitemodulesc": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "2236161904080",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -153,6 +174,9 @@
         {
             "com.google.android.gms.policy_ads_fdr_dynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_AdsDynamite.apk",
+                    "cheetah_version": "222508000057.455804270.455804270",
+                    "cheetah_version_code": "222508000057455804270455804270",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_AdsDynamite.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -164,6 +188,9 @@
         {
             "com.google.android.gms.dynamite_cronetdynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_CronetDynamite.apk",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "2236161904080",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_CronetDynamite.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -175,6 +202,9 @@
         {
             "com.google.android.gms.dynamite_mapsdynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MapsDynamite.apk",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "2236161904080",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -186,6 +216,9 @@
         {
             "com.google.android.gms.policy_sidecar_aps": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/m/independent/AndroidPlatformServices.apk",
+                    "cheetah_version": "2052073.215491873.215491873",
+                    "cheetah_version_code": "2052073215491873215491873",
                     "file_path": "___priv-app___PrebuiltGmsCore___m___independent/AndroidPlatformServices.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
