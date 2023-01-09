@@ -72,6 +72,127 @@
                     "version_code": "223616190408476895098"
                 }
             ]
+        },
+        {
+            "com.google.android.gms.optional_mlkit_barcode_ui": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/MlkitBarcodeUIPrebuilt.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "22.36.16 (100000-0)",
+                    "version_code": "2236161000000"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.policy_vision_optional_barcode_dynamite": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "213104700065.387730465.387730465",
+                    "version_code": "213104700065387730465387730465"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_measurementdynamite": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "2236161904080"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_googlecertificates": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "2236161904080"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_dynamitemodulesa": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "2236161904080"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_dynamiteloader": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "2236161904080"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_dynamitemodulesc": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "2236161904080"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.policy_ads_fdr_dynamite": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_AdsDynamite.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "222508000057.455804270.455804270",
+                    "version_code": "222508000057455804270455804270"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_cronetdynamite": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_CronetDynamite.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "2236161904080"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_mapsdynamite": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "2236161904080"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.policy_sidecar_aps": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___m___independent/AndroidPlatformServices.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "2052073.215491873.215491873",
+                    "version_code": "2052073215491873215491873"
+                }
+            ]
         }
     ],
     "GoogleDialer": [
