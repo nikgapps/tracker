@@ -81,20 +81,6 @@
     ],
     "Core": [
         {
-            "com.android.vending": [
-                {
-                    "file": "___priv-app___Phonesky/Phonesky.apk",
-                    "folder": "Phonesky",
-                    "package": "com.android.vending",
-                    "package_title": "GooglePlayStore",
-                    "partition": "system",
-                    "type": "priv-app",
-                    "version": "30.4.17-21 [0] [PR] 445549118",
-                    "version_code": "30417210445549118"
-                }
-            ]
-        },
-        {
             "com.google.android.gsf": [
                 {
                     "file": "___priv-app___GoogleServicesFramework/GoogleServicesFramework.apk",
