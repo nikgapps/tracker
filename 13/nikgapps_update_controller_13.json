@@ -1,1 +1,28 @@
-{}
+{
+    "Core": [
+        {
+            "com.android.vending": [
+                {
+                    "nikgapps_source": "___priv-app___Phonesky/Phonesky.apk",
+                    "nikgapps_version": "30.4.17-21 [0] [PR] 445549118",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/Phonesky/Phonesky.apk",
+                    "oem_version": "30.4.21-21 [0] [PR] 475636937",
+                    "update_available": true
+                }
+            ]
+        },
+        {
+            "com.google.android.gms": [
+                {
+                    "nikgapps_source": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
+                    "nikgapps_version": "22.18.21 (190408-453244992)",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
+                    "oem_version": "22.36.16 (190408-476895098)",
+                    "update_available": true
+                }
+            ]
+        }
+    ]
+}
