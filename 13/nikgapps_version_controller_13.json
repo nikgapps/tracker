@@ -232,6 +232,9 @@
         {
             "com.android.chrome": [
                 {
+                    "cheetah_location": "product/app/Chrome-Stub/Chrome-Stub.apk",
+                    "cheetah_version": "103.0.5060.71",
+                    "cheetah_version_code": "1030506071",
                     "file_path": "___app___Chrome-Stub/Chrome-Stub.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -243,6 +246,9 @@
         {
             "com.google.android.webview": [
                 {
+                    "cheetah_location": "product/app/WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
+                    "cheetah_version": "103.0.5060.71",
+                    "cheetah_version_code": "1030506071",
                     "file_path": "___app___WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
@@ -254,6 +260,9 @@
         {
             "com.google.android.trichromelibrary": [
                 {
+                    "cheetah_location": "product/app/TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
+                    "cheetah_version": "103.0.5060.71",
+                    "cheetah_version_code": "1030506071",
                     "file_path": "___app___TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
