@@ -3,6 +3,7 @@
         {
             "file": "PlayAutoInstallConfig/PlayAutoInstallConfig.apk",
             "folder": "PlayAutoInstallConfig",
+            "isstub": false,
             "location": "product/app/PlayAutoInstallConfig/PlayAutoInstallConfig.apk",
             "package": "android.autoinstalls.config.google.nexus",
             "partition": "product",
@@ -16,6 +17,7 @@
         {
             "file": "ANGLE/ANGLE.apk",
             "folder": "ANGLE",
+            "isstub": false,
             "location": "product/priv-app/ANGLE/ANGLE.apk",
             "package": "com.android.angle",
             "partition": "product",
@@ -28,7 +30,19 @@
         {
             "file": "Chrome-Stub/Chrome-Stub.apk",
             "folder": "Chrome-Stub",
+            "isstub": true,
             "location": "product/app/Chrome-Stub/Chrome-Stub.apk",
+            "package": "com.android.chrome",
+            "partition": "product",
+            "type": "app",
+            "version": "103.0.5060.71",
+            "version_code": "1030506071"
+        },
+        {
+            "file": "Chrome/Chrome.apk.gz",
+            "folder": "Chrome",
+            "isstub": true,
+            "location": "product/app/Chrome/Chrome.apk.gz",
             "package": "com.android.chrome",
             "partition": "product",
             "type": "app",
@@ -40,6 +54,7 @@
         {
             "file": "EmergencyInfoGoogleNoUi/EmergencyInfoGoogleNoUi.apk",
             "folder": "EmergencyInfoGoogleNoUi",
+            "isstub": false,
             "location": "system_ext/app/EmergencyInfoGoogleNoUi/EmergencyInfoGoogleNoUi.apk",
             "package": "com.android.emergency",
             "partition": "system_ext",
@@ -52,6 +67,7 @@
         {
             "file": "HbmSVManager/HbmSVManager.apk",
             "folder": "HbmSVManager",
+            "isstub": false,
             "location": "system_ext/priv-app/HbmSVManager/HbmSVManager.apk",
             "package": "com.android.hbmsvmanager",
             "partition": "system_ext",
@@ -64,6 +80,7 @@
         {
             "file": "HotwordEnrollmentOKGoogleFUSIONPro/HotwordEnrollmentOKGoogleFUSIONPro.apk",
             "folder": "HotwordEnrollmentOKGoogleFUSIONPro",
+            "isstub": false,
             "location": "product/priv-app/HotwordEnrollmentOKGoogleFUSIONPro/HotwordEnrollmentOKGoogleFUSIONPro.apk",
             "package": "com.android.hotwordenrollment.okgoogle",
             "partition": "product",
@@ -76,6 +93,7 @@
         {
             "file": "HotwordEnrollmentXGoogleFUSIONPro/HotwordEnrollmentXGoogleFUSIONPro.apk",
             "folder": "HotwordEnrollmentXGoogleFUSIONPro",
+            "isstub": false,
             "location": "product/priv-app/HotwordEnrollmentXGoogleFUSIONPro/HotwordEnrollmentXGoogleFUSIONPro.apk",
             "package": "com.android.hotwordenrollment.xgoogle",
             "partition": "product",
@@ -88,6 +106,7 @@
         {
             "file": "ImsServiceEntitlement/ImsServiceEntitlement.apk",
             "folder": "ImsServiceEntitlement",
+            "isstub": false,
             "location": "product/priv-app/ImsServiceEntitlement/ImsServiceEntitlement.apk",
             "package": "com.android.imsserviceentitlement",
             "partition": "product",
@@ -100,6 +119,7 @@
         {
             "file": "DMService/DMService.apk",
             "folder": "DMService",
+            "isstub": false,
             "location": "product/priv-app/DMService/DMService.apk",
             "package": "com.android.omadm.service",
             "partition": "product",
@@ -112,6 +132,7 @@
         {
             "file": "QualifiedNetworksService/QualifiedNetworksService.apk",
             "folder": "QualifiedNetworksService",
+            "isstub": false,
             "location": "system_ext/priv-app/QualifiedNetworksService/QualifiedNetworksService.apk",
             "package": "com.android.qns",
             "partition": "system_ext",
@@ -124,6 +145,7 @@
         {
             "file": "RemoteProvisioner/RemoteProvisioner.apk",
             "folder": "RemoteProvisioner",
+            "isstub": false,
             "location": "system_ext/priv-app/RemoteProvisioner/RemoteProvisioner.apk",
             "package": "com.android.remoteprovisioner",
             "partition": "system_ext",
@@ -136,6 +158,7 @@
         {
             "file": "SafetyRegulatoryInfo/SafetyRegulatoryInfo.apk",
             "folder": "SafetyRegulatoryInfo",
+            "isstub": false,
             "location": "product/app/SafetyRegulatoryInfo/SafetyRegulatoryInfo.apk",
             "package": "com.android.safetyregulatoryinfo",
             "partition": "product",
@@ -148,6 +171,7 @@
         {
             "file": "ConnMO/ConnMO.apk",
             "folder": "ConnMO",
+            "isstub": false,
             "location": "product/priv-app/ConnMO/ConnMO.apk",
             "package": "com.android.sdm.plugins.connmo",
             "partition": "product",
@@ -160,6 +184,7 @@
         {
             "file": "DCMO/DCMO.apk",
             "folder": "DCMO",
+            "isstub": false,
             "location": "product/priv-app/DCMO/DCMO.apk",
             "package": "com.android.sdm.plugins.dcmo",
             "partition": "product",
@@ -172,6 +197,7 @@
         {
             "file": "DiagMon/DiagMon.apk",
             "folder": "DiagMon",
+            "isstub": false,
             "location": "product/priv-app/DiagMon/DiagMon.apk",
             "package": "com.android.sdm.plugins.diagmon",
             "partition": "product",
@@ -184,6 +210,7 @@
         {
             "file": "SettingsGoogle/SettingsGoogle.apk",
             "folder": "SettingsGoogle",
+            "isstub": false,
             "location": "system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk",
             "package": "com.android.settings",
             "partition": "system_ext",
@@ -196,6 +223,7 @@
         {
             "file": "SystemUIGoogle/SystemUIGoogle.apk",
             "folder": "SystemUIGoogle",
+            "isstub": false,
             "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
             "package": "com.android.systemui",
             "partition": "system_ext",
@@ -208,6 +236,7 @@
         {
             "file": "QuickAccessWallet/QuickAccessWallet.apk",
             "folder": "QuickAccessWallet",
+            "isstub": false,
             "location": "system_ext/priv-app/QuickAccessWallet/QuickAccessWallet.apk",
             "package": "com.android.systemui.plugin.globalactions.wallet",
             "partition": "system_ext",
@@ -220,6 +249,7 @@
         {
             "file": "Phonesky/Phonesky.apk",
             "folder": "Phonesky",
+            "isstub": false,
             "location": "product/priv-app/Phonesky/Phonesky.apk",
             "package": "com.android.vending",
             "partition": "product",
@@ -232,6 +262,7 @@
         {
             "file": "Showcase/Showcase.apk",
             "folder": "Showcase",
+            "isstub": false,
             "location": "product/priv-app/Showcase/Showcase.apk",
             "package": "com.customermobile.preload.vzw",
             "partition": "product",
@@ -244,6 +275,7 @@
         {
             "file": "RilConfigService/RilConfigService.apk",
             "folder": "RilConfigService",
+            "isstub": false,
             "location": "system_ext/priv-app/RilConfigService/RilConfigService.apk",
             "package": "com.google.RilConfigService",
             "partition": "system_ext",
@@ -256,6 +288,7 @@
         {
             "file": "SSRestartDetector/SSRestartDetector.apk",
             "folder": "SSRestartDetector",
+            "isstub": false,
             "location": "product/app/SSRestartDetector/SSRestartDetector.apk",
             "package": "com.google.SSRestartDetector",
             "partition": "product",
@@ -268,6 +301,7 @@
         {
             "file": "AmbientStreaming/AmbientStreaming.apk",
             "folder": "AmbientStreaming",
+            "isstub": false,
             "location": "product/priv-app/AmbientStreaming/AmbientStreaming.apk",
             "package": "com.google.ambient.streaming",
             "partition": "product",
@@ -280,6 +314,7 @@
         {
             "file": "GoogleCamera/GoogleCamera.apk",
             "folder": "GoogleCamera",
+            "isstub": false,
             "location": "product/priv-app/GoogleCamera/GoogleCamera.apk",
             "package": "com.google.android.GoogleCamera",
             "partition": "product",
@@ -292,6 +327,7 @@
         {
             "file": "SoundAmplifierPrebuilt/SoundAmplifierPrebuilt.apk",
             "folder": "SoundAmplifierPrebuilt",
+            "isstub": false,
             "location": "product/app/SoundAmplifierPrebuilt/SoundAmplifierPrebuilt.apk",
             "package": "com.google.android.accessibility.soundamplifier",
             "partition": "product",
@@ -304,6 +340,7 @@
         {
             "file": "VoiceAccessPrebuilt/VoiceAccessPrebuilt.apk",
             "folder": "VoiceAccessPrebuilt",
+            "isstub": false,
             "location": "product/app/VoiceAccessPrebuilt/VoiceAccessPrebuilt.apk",
             "package": "com.google.android.apps.accessibility.voiceaccess",
             "partition": "product",
@@ -316,6 +353,7 @@
         {
             "file": "PixelCameraServicesC10/PixelCameraServicesC10.apk",
             "folder": "PixelCameraServicesC10",
+            "isstub": false,
             "location": "product/app/PixelCameraServicesC10/PixelCameraServicesC10.apk",
             "package": "com.google.android.apps.camera.services",
             "partition": "product",
@@ -328,6 +366,7 @@
         {
             "file": "CarrierWifi/CarrierWifi.apk",
             "folder": "CarrierWifi",
+            "isstub": false,
             "location": "product/priv-app/CarrierWifi/CarrierWifi.apk",
             "package": "com.google.android.apps.carrier.carrierwifi",
             "partition": "product",
@@ -340,6 +379,7 @@
         {
             "file": "CarrierMetrics/CarrierMetrics.apk",
             "folder": "CarrierMetrics",
+            "isstub": false,
             "location": "product/priv-app/CarrierMetrics/CarrierMetrics.apk",
             "package": "com.google.android.apps.carrier.log",
             "partition": "product",
@@ -352,6 +392,7 @@
         {
             "file": "CbrsNetworkMonitor/CbrsNetworkMonitor.apk",
             "folder": "CbrsNetworkMonitor",
+            "isstub": false,
             "location": "product/priv-app/CbrsNetworkMonitor/CbrsNetworkMonitor.apk",
             "package": "com.google.android.apps.cbrsnetworkmonitor",
             "partition": "product",
@@ -364,6 +405,7 @@
         {
             "file": "PixelThemesStub/PixelThemesStub.apk",
             "folder": "PixelThemesStub",
+            "isstub": false,
             "location": "product/app/PixelThemesStub/PixelThemesStub.apk",
             "package": "com.google.android.apps.customization.pixel",
             "partition": "product",
@@ -374,6 +416,7 @@
         {
             "file": "PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
             "folder": "PixelThemesStub2022_and_newer",
+            "isstub": false,
             "location": "product/app/PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
             "package": "com.google.android.apps.customization.pixel",
             "partition": "product",
@@ -386,6 +429,7 @@
         {
             "file": "DiagnosticsToolPrebuilt/DiagnosticsToolPrebuilt.apk",
             "folder": "DiagnosticsToolPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/DiagnosticsToolPrebuilt/DiagnosticsToolPrebuilt.apk",
             "package": "com.google.android.apps.diagnosticstool",
             "partition": "product",
@@ -398,6 +442,7 @@
         {
             "file": "Drive/Drive.apk",
             "folder": "Drive",
+            "isstub": false,
             "location": "product/app/Drive/Drive.apk",
             "package": "com.google.android.apps.docs",
             "partition": "product",
@@ -410,6 +455,7 @@
         {
             "file": "DreamlinerPrebuilt/DreamlinerPrebuilt.apk",
             "folder": "DreamlinerPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/DreamlinerPrebuilt/DreamlinerPrebuilt.apk",
             "package": "com.google.android.apps.dreamliner",
             "partition": "product",
@@ -422,6 +468,7 @@
         {
             "file": "GCS/GCS.apk",
             "folder": "GCS",
+            "isstub": false,
             "location": "product/priv-app/GCS/GCS.apk",
             "package": "com.google.android.apps.gcs",
             "partition": "product",
@@ -434,6 +481,7 @@
         {
             "file": "HelpRtcPrebuilt/HelpRtcPrebuilt.apk",
             "folder": "HelpRtcPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/HelpRtcPrebuilt/HelpRtcPrebuilt.apk",
             "package": "com.google.android.apps.helprtc",
             "partition": "product",
@@ -446,6 +494,7 @@
         {
             "file": "BetterBugStub/BetterBugStub.apk",
             "folder": "BetterBugStub",
+            "isstub": false,
             "location": "product/priv-app/BetterBugStub/BetterBugStub.apk",
             "package": "com.google.android.apps.internal.betterbug",
             "partition": "product",
@@ -458,6 +507,7 @@
         {
             "file": "Maps/Maps.apk",
             "folder": "Maps",
+            "isstub": false,
             "location": "product/app/Maps/Maps.apk",
             "package": "com.google.android.apps.maps",
             "partition": "product",
@@ -470,6 +520,7 @@
         {
             "file": "PrebuiltBugle/PrebuiltBugle.apk",
             "folder": "PrebuiltBugle",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltBugle/PrebuiltBugle.apk",
             "package": "com.google.android.apps.messaging",
             "partition": "product",
@@ -482,6 +533,7 @@
         {
             "file": "FilesPrebuilt/FilesPrebuilt.apk",
             "folder": "FilesPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/FilesPrebuilt/FilesPrebuilt.apk",
             "package": "com.google.android.apps.nbu.files",
             "partition": "product",
@@ -494,6 +546,7 @@
         {
             "file": "NexusLauncherRelease/NexusLauncherRelease.apk",
             "folder": "NexusLauncherRelease",
+            "isstub": false,
             "location": "system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk",
             "package": "com.google.android.apps.nexuslauncher",
             "partition": "system_ext",
@@ -506,6 +559,7 @@
         {
             "file": "Photos/Photos.apk",
             "folder": "Photos",
+            "isstub": false,
             "location": "product/app/Photos/Photos.apk",
             "package": "com.google.android.apps.photos",
             "partition": "product",
@@ -518,6 +572,7 @@
         {
             "file": "AdaptiveVPNPrebuilt/AdaptiveVPNPrebuilt.apk",
             "folder": "AdaptiveVPNPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/AdaptiveVPNPrebuilt/AdaptiveVPNPrebuilt.apk",
             "package": "com.google.android.apps.privacy.wildlife",
             "partition": "product",
@@ -530,6 +585,7 @@
         {
             "file": "RecorderPrebuilt/RecorderPrebuilt.apk",
             "folder": "RecorderPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/RecorderPrebuilt/RecorderPrebuilt.apk",
             "package": "com.google.android.apps.recorder",
             "partition": "product",
@@ -542,6 +598,7 @@
         {
             "file": "GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
             "folder": "GoogleRestorePrebuilt",
+            "isstub": false,
             "location": "product/priv-app/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
             "package": "com.google.android.apps.restore",
             "partition": "product",
@@ -554,6 +611,7 @@
         {
             "file": "RetailDemoGooglePrebuilt/RetailDemoGooglePrebuilt.apk",
             "folder": "RetailDemoGooglePrebuilt",
+            "isstub": false,
             "location": "product/priv-app/RetailDemoGooglePrebuilt/RetailDemoGooglePrebuilt.apk",
             "package": "com.google.android.apps.retaildemo.preload",
             "partition": "product",
@@ -566,6 +624,7 @@
         {
             "file": "SafetyHubPrebuilt/SafetyHubPrebuilt.apk",
             "folder": "SafetyHubPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/SafetyHubPrebuilt/SafetyHubPrebuilt.apk",
             "package": "com.google.android.apps.safetyhub",
             "partition": "product",
@@ -578,6 +637,7 @@
         {
             "file": "SCONE/SCONE.apk",
             "folder": "SCONE",
+            "isstub": false,
             "location": "product/priv-app/SCONE/SCONE.apk",
             "package": "com.google.android.apps.scone",
             "partition": "product",
@@ -590,6 +650,7 @@
         {
             "file": "SecurityHubPrebuilt/SecurityHubPrebuilt.apk",
             "folder": "SecurityHubPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/SecurityHubPrebuilt/SecurityHubPrebuilt.apk",
             "package": "com.google.android.apps.security.securityhub",
             "partition": "product",
@@ -602,6 +663,7 @@
         {
             "file": "TipsPrebuilt/TipsPrebuilt.apk",
             "folder": "TipsPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/TipsPrebuilt/TipsPrebuilt.apk",
             "package": "com.google.android.apps.tips",
             "partition": "product",
@@ -614,6 +676,7 @@
         {
             "file": "TurboPrebuilt/TurboPrebuilt.apk",
             "folder": "TurboPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/TurboPrebuilt/TurboPrebuilt.apk",
             "package": "com.google.android.apps.turbo",
             "partition": "product",
@@ -626,6 +689,7 @@
         {
             "file": "Tycho/Tycho.apk",
             "folder": "Tycho",
+            "isstub": false,
             "location": "product/app/Tycho/Tycho.apk",
             "package": "com.google.android.apps.tycho",
             "partition": "product",
@@ -638,6 +702,7 @@
         {
             "file": "WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
             "folder": "WallpaperPickerGoogleRelease",
+            "isstub": false,
             "location": "system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
             "package": "com.google.android.apps.wallpaper",
             "partition": "system_ext",
@@ -650,6 +715,7 @@
         {
             "file": "PixelWallpapers2022/PixelWallpapers2022.apk",
             "folder": "PixelWallpapers2022",
+            "isstub": false,
             "location": "product/app/PixelWallpapers2022/PixelWallpapers2022.apk",
             "package": "com.google.android.apps.wallpaper.pixel",
             "partition": "product",
@@ -662,6 +728,7 @@
         {
             "file": "MaestroPrebuilt/MaestroPrebuilt.apk",
             "folder": "MaestroPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/MaestroPrebuilt/MaestroPrebuilt.apk",
             "package": "com.google.android.apps.wearables.maestro.companion",
             "partition": "product",
@@ -674,6 +741,7 @@
         {
             "file": "WellbeingPrebuilt/WellbeingPrebuilt.apk",
             "folder": "WellbeingPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk",
             "package": "com.google.android.apps.wellbeing",
             "partition": "product",
@@ -686,6 +754,7 @@
         {
             "file": "DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk",
             "folder": "DevicePolicyPrebuilt",
+            "isstub": false,
             "location": "product/app/DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk",
             "package": "com.google.android.apps.work.clouddpc",
             "partition": "product",
@@ -698,6 +767,7 @@
         {
             "file": "OTAConfigNoZeroTouchPrebuilt/OTAConfigNoZeroTouchPrebuilt.apk",
             "folder": "OTAConfigNoZeroTouchPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/OTAConfigNoZeroTouchPrebuilt/OTAConfigNoZeroTouchPrebuilt.apk",
             "package": "com.google.android.apps.work.oobconfig",
             "partition": "product",
@@ -710,6 +780,7 @@
         {
             "file": "YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk",
             "folder": "YouTubeMusicPrebuilt",
+            "isstub": false,
             "location": "product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk",
             "package": "com.google.android.apps.youtube.music",
             "partition": "product",
@@ -722,6 +793,7 @@
         {
             "file": "DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
             "folder": "DevicePersonalizationPrebuiltPixel2022",
+            "isstub": false,
             "location": "product/priv-app/DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
             "package": "com.google.android.as",
             "partition": "product",
@@ -734,6 +806,7 @@
         {
             "file": "DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
             "folder": "DeviceIntelligenceNetworkPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
             "package": "com.google.android.as.oss",
             "partition": "product",
@@ -746,6 +819,7 @@
         {
             "file": "CalculatorGooglePrebuilt/CalculatorGooglePrebuilt.apk",
             "folder": "CalculatorGooglePrebuilt",
+            "isstub": false,
             "location": "product/app/CalculatorGooglePrebuilt/CalculatorGooglePrebuilt.apk",
             "package": "com.google.android.calculator",
             "partition": "product",
@@ -758,6 +832,7 @@
         {
             "file": "CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk",
             "folder": "CalendarGooglePrebuilt",
+            "isstub": false,
             "location": "product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk",
             "package": "com.google.android.calendar",
             "partition": "product",
@@ -770,6 +845,7 @@
         {
             "file": "CarrierSettings/CarrierSettings.apk",
             "folder": "CarrierSettings",
+            "isstub": false,
             "location": "product/priv-app/CarrierSettings/CarrierSettings.apk",
             "package": "com.google.android.carrier",
             "partition": "product",
@@ -782,6 +858,7 @@
         {
             "file": "CarrierLocation/CarrierLocation.apk",
             "folder": "CarrierLocation",
+            "isstub": false,
             "location": "product/priv-app/CarrierLocation/CarrierLocation.apk",
             "package": "com.google.android.carrierlocation",
             "partition": "product",
@@ -794,6 +871,7 @@
         {
             "file": "CarrierSetup/CarrierSetup.apk",
             "folder": "CarrierSetup",
+            "isstub": false,
             "location": "system_ext/priv-app/CarrierSetup/CarrierSetup.apk",
             "package": "com.google.android.carriersetup",
             "partition": "system_ext",
@@ -806,6 +884,7 @@
         {
             "file": "ConfigUpdater/ConfigUpdater.apk",
             "folder": "ConfigUpdater",
+            "isstub": false,
             "location": "product/priv-app/ConfigUpdater/ConfigUpdater.apk",
             "package": "com.google.android.configupdater",
             "partition": "product",
@@ -818,6 +897,7 @@
         {
             "file": "ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk",
             "folder": "ConnectivityThermalPowerManager",
+            "isstub": false,
             "location": "system_ext/priv-app/ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk",
             "package": "com.google.android.connectivitythermalpowermanager",
             "partition": "system_ext",
@@ -830,6 +910,7 @@
         {
             "file": "GoogleContacts/GoogleContacts.apk",
             "folder": "GoogleContacts",
+            "isstub": false,
             "location": "product/app/GoogleContacts/GoogleContacts.apk",
             "package": "com.google.android.contacts",
             "partition": "product",
@@ -842,6 +923,7 @@
         {
             "file": "PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk",
             "folder": "PrebuiltDeskClockGoogle",
+            "isstub": false,
             "location": "product/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk",
             "package": "com.google.android.deskclock",
             "partition": "product",
@@ -854,6 +936,7 @@
         {
             "file": "GoogleDialer/GoogleDialer.apk",
             "folder": "GoogleDialer",
+            "isstub": false,
             "location": "product/priv-app/GoogleDialer/GoogleDialer.apk",
             "package": "com.google.android.dialer",
             "partition": "product",
@@ -866,6 +949,7 @@
         {
             "file": "DreamlinerUpdater/DreamlinerUpdater.apk",
             "folder": "DreamlinerUpdater",
+            "isstub": false,
             "location": "product/priv-app/DreamlinerUpdater/DreamlinerUpdater.apk",
             "package": "com.google.android.dreamlinerupdater",
             "partition": "product",
@@ -878,6 +962,7 @@
         {
             "file": "EuiccGoogle/EuiccGoogle.apk",
             "folder": "EuiccGoogle",
+            "isstub": false,
             "location": "product/priv-app/EuiccGoogle/EuiccGoogle.apk",
             "package": "com.google.android.euicc",
             "partition": "product",
@@ -890,6 +975,7 @@
         {
             "file": "EuiccGoogleOverlay/EuiccGoogleOverlay.apk",
             "folder": "EuiccGoogleOverlay",
+            "isstub": false,
             "location": "system_ext/priv-app/EuiccGoogleOverlay/EuiccGoogleOverlay.apk",
             "package": "com.google.android.euiccoverlay",
             "partition": "system_ext",
@@ -902,6 +988,7 @@
         {
             "file": "FactoryOtaPrebuilt/FactoryOtaPrebuilt.apk",
             "folder": "FactoryOtaPrebuilt",
+            "isstub": false,
             "location": "system_ext/priv-app/FactoryOtaPrebuilt/FactoryOtaPrebuilt.apk",
             "package": "com.google.android.factoryota",
             "partition": "system_ext",
@@ -914,6 +1001,7 @@
         {
             "file": "GoogleFeedback/GoogleFeedback.apk",
             "folder": "GoogleFeedback",
+            "isstub": false,
             "location": "system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk",
             "package": "com.google.android.feedback",
             "partition": "system_ext",
@@ -926,6 +1014,7 @@
         {
             "file": "Flipendo/Flipendo.apk",
             "folder": "Flipendo",
+            "isstub": false,
             "location": "system_ext/app/Flipendo/Flipendo.apk",
             "package": "com.google.android.flipendo",
             "partition": "system_ext",
@@ -938,6 +1027,7 @@
         {
             "file": "PrebuiltGmail/PrebuiltGmail.apk",
             "folder": "PrebuiltGmail",
+            "isstub": false,
             "location": "product/app/PrebuiltGmail/PrebuiltGmail.apk",
             "package": "com.google.android.gm",
             "partition": "product",
@@ -950,6 +1040,7 @@
         {
             "file": "PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
             "package": "com.google.android.gms",
             "partition": "product",
@@ -962,6 +1053,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_CronetDynamite.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_CronetDynamite.apk",
             "package": "com.google.android.gms.dynamite_cronetdynamite",
             "partition": "product",
@@ -974,6 +1066,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
             "package": "com.google.android.gms.dynamite_dynamiteloader",
             "partition": "product",
@@ -986,6 +1079,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
             "package": "com.google.android.gms.dynamite_dynamitemodulesa",
             "partition": "product",
@@ -998,6 +1092,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
             "package": "com.google.android.gms.dynamite_dynamitemodulesc",
             "partition": "product",
@@ -1010,6 +1105,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
             "package": "com.google.android.gms.dynamite_googlecertificates",
             "partition": "product",
@@ -1022,6 +1118,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MapsDynamite.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MapsDynamite.apk",
             "package": "com.google.android.gms.dynamite_mapsdynamite",
             "partition": "product",
@@ -1034,6 +1131,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
             "package": "com.google.android.gms.dynamite_measurementdynamite",
             "partition": "product",
@@ -1046,6 +1144,7 @@
         {
             "file": "LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk",
             "folder": "LocationHistoryPrebuilt",
+            "isstub": false,
             "location": "product/app/LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk",
             "package": "com.google.android.gms.location.history",
             "partition": "product",
@@ -1058,6 +1157,7 @@
         {
             "file": "PrebuiltGmsCore/m/optional/MlkitBarcodeUIPrebuilt.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/m/optional/MlkitBarcodeUIPrebuilt.apk",
             "package": "com.google.android.gms.optional_mlkit_barcode_ui",
             "partition": "product",
@@ -1070,6 +1170,7 @@
         {
             "file": "PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_AdsDynamite.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_AdsDynamite.apk",
             "package": "com.google.android.gms.policy_ads_fdr_dynamite",
             "partition": "product",
@@ -1082,6 +1183,7 @@
         {
             "file": "PrebuiltGmsCore/m/independent/AndroidPlatformServices.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/m/independent/AndroidPlatformServices.apk",
             "package": "com.google.android.gms.policy_sidecar_aps",
             "partition": "product",
@@ -1094,6 +1196,7 @@
         {
             "file": "PrebuiltGmsCore/m/optional/VisionBarcodePrebuilt.apk",
             "folder": "PrebuiltGmsCore",
+            "isstub": false,
             "location": "product/priv-app/PrebuiltGmsCore/m/optional/VisionBarcodePrebuilt.apk",
             "package": "com.google.android.gms.policy_vision_optional_barcode_dynamite",
             "partition": "product",
@@ -1106,6 +1209,7 @@
         {
             "file": "KidsSupervisionStub/KidsSupervisionStub.apk",
             "folder": "KidsSupervisionStub",
+            "isstub": false,
             "location": "product/priv-app/KidsSupervisionStub/KidsSupervisionStub.apk",
             "package": "com.google.android.gms.supervision",
             "partition": "product",
@@ -1118,6 +1222,7 @@
         {
             "file": "Velvet/Velvet.apk",
             "folder": "Velvet",
+            "isstub": false,
             "location": "product/priv-app/Velvet/Velvet.apk",
             "package": "com.google.android.googlequicksearchbox",
             "partition": "product",
@@ -1130,6 +1235,7 @@
         {
             "file": "NgaResources/NgaResources.apk",
             "folder": "NgaResources",
+            "isstub": false,
             "location": "product/app/NgaResources/NgaResources.apk",
             "package": "com.google.android.googlequicksearchbox.nga_resources",
             "partition": "product",
@@ -1142,6 +1248,7 @@
         {
             "file": "grilservice/grilservice.apk",
             "folder": "grilservice",
+            "isstub": false,
             "location": "system_ext/priv-app/grilservice/grilservice.apk",
             "package": "com.google.android.grilservice",
             "partition": "system_ext",
@@ -1154,6 +1261,7 @@
         {
             "file": "GoogleServicesFramework/GoogleServicesFramework.apk",
             "folder": "GoogleServicesFramework",
+            "isstub": false,
             "location": "system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk",
             "package": "com.google.android.gsf",
             "partition": "system_ext",
@@ -1166,6 +1274,7 @@
         {
             "file": "HardwareInfo/HardwareInfo.apk",
             "folder": "HardwareInfo",
+            "isstub": false,
             "location": "product/priv-app/HardwareInfo/HardwareInfo.apk",
             "package": "com.google.android.hardwareinfo",
             "partition": "product",
@@ -1178,6 +1287,7 @@
         {
             "file": "CarrierServices/CarrierServices.apk",
             "folder": "CarrierServices",
+            "isstub": false,
             "location": "product/priv-app/CarrierServices/CarrierServices.apk",
             "package": "com.google.android.ims",
             "partition": "product",
@@ -1190,6 +1300,7 @@
         {
             "file": "LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk",
             "folder": "LatinIMEGooglePrebuilt",
+            "isstub": false,
             "location": "product/app/LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk",
             "package": "com.google.android.inputmethod.latin",
             "partition": "product",
@@ -1202,6 +1313,7 @@
         {
             "file": "Iwlan/Iwlan.apk",
             "folder": "Iwlan",
+            "isstub": false,
             "location": "system_ext/priv-app/Iwlan/Iwlan.apk",
             "package": "com.google.android.iwlan",
             "partition": "system_ext",
@@ -1214,6 +1326,7 @@
         {
             "file": "MarkupGoogle/MarkupGoogle.apk",
             "folder": "MarkupGoogle",
+            "isstub": false,
             "location": "product/app/MarkupGoogle/MarkupGoogle.apk",
             "package": "com.google.android.markup",
             "partition": "product",
@@ -1226,6 +1339,7 @@
         {
             "file": "talkback/talkback.apk",
             "folder": "talkback",
+            "isstub": false,
             "location": "product/app/talkback/talkback.apk",
             "package": "com.google.android.marvin.talkback",
             "partition": "product",
@@ -1238,6 +1352,7 @@
         {
             "file": "ModuleMetadataGoogle/ModuleMetadataGoogle.apk",
             "folder": "ModuleMetadataGoogle",
+            "isstub": false,
             "location": "product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk",
             "package": "com.google.android.modulemetadata",
             "partition": "product",
@@ -1250,6 +1365,7 @@
         {
             "file": "OdadPrebuilt/OdadPrebuilt.apk",
             "folder": "OdadPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/OdadPrebuilt/OdadPrebuilt.apk",
             "package": "com.google.android.odad",
             "partition": "product",
@@ -1262,6 +1378,7 @@
         {
             "file": "GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
             "folder": "GoogleOneTimeInitializer",
+            "isstub": false,
             "location": "product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
             "package": "com.google.android.onetimeinitializer",
             "partition": "product",
@@ -1274,6 +1391,7 @@
         {
             "file": "PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk",
             "folder": "PartnerSetupPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk",
             "package": "com.google.android.partnersetup",
             "partition": "product",
@@ -1286,6 +1404,7 @@
         {
             "file": "PixelSetupWizard/PixelSetupWizard.apk",
             "folder": "PixelSetupWizard",
+            "isstub": false,
             "location": "system_ext/priv-app/PixelSetupWizard/PixelSetupWizard.apk",
             "package": "com.google.android.pixel.setupwizard",
             "partition": "system_ext",
@@ -1298,6 +1417,7 @@
         {
             "file": "PixelNfc/PixelNfc.apk",
             "folder": "PixelNfc",
+            "isstub": false,
             "location": "system_ext/priv-app/PixelNfc/PixelNfc.apk",
             "package": "com.google.android.pixelnfc",
             "partition": "system_ext",
@@ -1310,6 +1430,7 @@
         {
             "file": "AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk",
             "folder": "AndroidAutoStubPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk",
             "package": "com.google.android.projection.gearhead",
             "partition": "product",
@@ -1322,6 +1443,7 @@
         {
             "file": "SettingsGoogleFutureFaceEnroll/SettingsGoogleFutureFaceEnroll.apk",
             "folder": "SettingsGoogleFutureFaceEnroll",
+            "isstub": false,
             "location": "system_ext/priv-app/SettingsGoogleFutureFaceEnroll/SettingsGoogleFutureFaceEnroll.apk",
             "package": "com.google.android.settings.future.biometrics.faceenroll",
             "partition": "system_ext",
@@ -1334,6 +1456,7 @@
         {
             "file": "SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk",
             "folder": "SettingsIntelligenceGooglePrebuilt",
+            "isstub": false,
             "location": "product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk",
             "package": "com.google.android.settings.intelligence",
             "partition": "product",
@@ -1346,6 +1469,7 @@
         {
             "file": "SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
             "folder": "SetupWizardPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
             "package": "com.google.android.setupwizard",
             "partition": "product",
@@ -1358,6 +1482,7 @@
         {
             "file": "SoundPickerPrebuilt/SoundPickerPrebuilt.apk",
             "folder": "SoundPickerPrebuilt",
+            "isstub": false,
             "location": "product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk",
             "package": "com.google.android.soundpicker",
             "partition": "product",
@@ -1370,6 +1495,7 @@
         {
             "file": "StorageManagerGoogle/StorageManagerGoogle.apk",
             "folder": "StorageManagerGoogle",
+            "isstub": false,
             "location": "system_ext/priv-app/StorageManagerGoogle/StorageManagerGoogle.apk",
             "package": "com.google.android.storagemanager",
             "partition": "system_ext",
@@ -1382,6 +1508,7 @@
         {
             "file": "TetheringEntitlement/TetheringEntitlement.apk",
             "folder": "TetheringEntitlement",
+            "isstub": false,
             "location": "product/priv-app/TetheringEntitlement/TetheringEntitlement.apk",
             "package": "com.google.android.tetheringentitlement",
             "partition": "product",
@@ -1394,7 +1521,19 @@
         {
             "file": "TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
             "folder": "TrichromeLibrary-Stub",
+            "isstub": true,
             "location": "product/app/TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
+            "package": "com.google.android.trichromelibrary",
+            "partition": "product",
+            "type": "app",
+            "version": "103.0.5060.71",
+            "version_code": "1030506071"
+        },
+        {
+            "file": "TrichromeLibrary/TrichromeLibrary.apk.gz",
+            "folder": "TrichromeLibrary",
+            "isstub": true,
+            "location": "product/app/TrichromeLibrary/TrichromeLibrary.apk.gz",
             "package": "com.google.android.trichromelibrary",
             "partition": "product",
             "type": "app",
@@ -1406,6 +1545,7 @@
         {
             "file": "GoogleTTS/GoogleTTS.apk",
             "folder": "GoogleTTS",
+            "isstub": false,
             "location": "product/app/GoogleTTS/GoogleTTS.apk",
             "package": "com.google.android.tts",
             "partition": "product",
@@ -1418,6 +1558,7 @@
         {
             "file": "TurboAdapter/TurboAdapter.apk",
             "folder": "TurboAdapter",
+            "isstub": false,
             "location": "system_ext/priv-app/TurboAdapter/TurboAdapter.apk",
             "package": "com.google.android.turboadapter",
             "partition": "system_ext",
@@ -1430,6 +1571,7 @@
         {
             "file": "UvExposureReporter/UvExposureReporter.apk",
             "folder": "UvExposureReporter",
+            "isstub": false,
             "location": "system_ext/priv-app/UvExposureReporter/UvExposureReporter.apk",
             "package": "com.google.android.uvexposurereporter",
             "partition": "system_ext",
@@ -1442,6 +1584,7 @@
         {
             "file": "Videos/Videos.apk",
             "folder": "Videos",
+            "isstub": false,
             "location": "product/app/Videos/Videos.apk",
             "package": "com.google.android.videos",
             "partition": "product",
@@ -1454,6 +1597,7 @@
         {
             "file": "WallpaperEffect/WallpaperEffect.apk",
             "folder": "WallpaperEffect",
+            "isstub": false,
             "location": "product/priv-app/WallpaperEffect/WallpaperEffect.apk",
             "package": "com.google.android.wallpaper.effects",
             "partition": "product",
@@ -1466,7 +1610,19 @@
         {
             "file": "WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
             "folder": "WebViewGoogle-Stub",
+            "isstub": true,
             "location": "product/app/WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
+            "package": "com.google.android.webview",
+            "partition": "product",
+            "type": "app",
+            "version": "103.0.5060.71",
+            "version_code": "1030506071"
+        },
+        {
+            "file": "WebViewGoogle/WebViewGoogle.apk.gz",
+            "folder": "WebViewGoogle",
+            "isstub": true,
+            "location": "product/app/WebViewGoogle/WebViewGoogle.apk.gz",
             "package": "com.google.android.webview",
             "partition": "product",
             "type": "app",
@@ -1478,6 +1634,7 @@
         {
             "file": "WfcActivation/WfcActivation.apk",
             "folder": "WfcActivation",
+            "isstub": false,
             "location": "product/priv-app/WfcActivation/WfcActivation.apk",
             "package": "com.google.android.wfcactivation",
             "partition": "product",
@@ -1490,6 +1647,7 @@
         {
             "file": "YouTube/YouTube.apk",
             "folder": "YouTube",
+            "isstub": false,
             "location": "product/app/YouTube/YouTube.apk",
             "package": "com.google.android.youtube",
             "partition": "product",
@@ -1502,6 +1660,7 @@
         {
             "file": "arcore/arcore.apk",
             "folder": "arcore",
+            "isstub": false,
             "location": "product/app/arcore/arcore.apk",
             "package": "com.google.ar.core",
             "partition": "product",
@@ -1514,6 +1673,7 @@
         {
             "file": "ScribePrebuilt/ScribePrebuilt.apk",
             "folder": "ScribePrebuilt",
+            "isstub": false,
             "location": "product/priv-app/ScribePrebuilt/ScribePrebuilt.apk",
             "package": "com.google.audio.hearing.visualization.accessibility.scribe",
             "partition": "product",
@@ -1526,6 +1686,7 @@
         {
             "file": "EuiccSupportPixel/EuiccSupportPixel.apk",
             "folder": "EuiccSupportPixel",
+            "isstub": false,
             "location": "system_ext/priv-app/EuiccSupportPixel/EuiccSupportPixel.apk",
             "package": "com.google.euiccpixel",
             "partition": "system_ext",
@@ -1538,6 +1699,7 @@
         {
             "file": "EuiccSupportPixelPermissions/EuiccSupportPixelPermissions.apk",
             "folder": "EuiccSupportPixelPermissions",
+            "isstub": false,
             "location": "system_ext/priv-app/EuiccSupportPixelPermissions/EuiccSupportPixelPermissions.apk",
             "package": "com.google.euiccpixel.permissions",
             "partition": "system_ext",
@@ -1550,6 +1712,7 @@
         {
             "file": "PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk",
             "folder": "PrebuiltGoogleAdservicesTvp",
+            "isstub": false,
             "location": "product/app/PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk",
             "package": "com.google.mainline.adservices",
             "partition": "product",
@@ -1562,6 +1725,7 @@
         {
             "file": "PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk",
             "folder": "PrebuiltGoogleTelemetryTvp",
+            "isstub": false,
             "location": "product/app/PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk",
             "package": "com.google.mainline.telemetry",
             "partition": "product",
@@ -1574,6 +1738,7 @@
         {
             "file": "OemDmTrigger/OemDmTrigger.apk",
             "folder": "OemDmTrigger",
+            "isstub": false,
             "location": "product/priv-app/OemDmTrigger/OemDmTrigger.apk",
             "package": "com.google.omadm.trigger",
             "partition": "product",
@@ -1586,6 +1751,7 @@
         {
             "file": "CccDkTimeSyncService/CccDkTimeSyncService.apk",
             "folder": "CccDkTimeSyncService",
+            "isstub": false,
             "location": "system_ext/priv-app/CccDkTimeSyncService/CccDkTimeSyncService.apk",
             "package": "com.google.pixel.digitalkey.timesync",
             "partition": "system_ext",
@@ -1598,6 +1764,7 @@
         {
             "file": "PixelLiveWallpaperPrebuilt/PixelLiveWallpaperPrebuilt.apk",
             "folder": "PixelLiveWallpaperPrebuilt",
+            "isstub": false,
             "location": "product/priv-app/PixelLiveWallpaperPrebuilt/PixelLiveWallpaperPrebuilt.apk",
             "package": "com.google.pixel.livewallpaper",
             "partition": "product",
@@ -1610,6 +1777,7 @@
         {
             "file": "UwbVendorService/UwbVendorService.apk",
             "folder": "UwbVendorService",
+            "isstub": false,
             "location": "system_ext/priv-app/UwbVendorService/UwbVendorService.apk",
             "package": "com.qorvo.uwb.vendorservice",
             "partition": "system_ext",
@@ -1622,6 +1790,7 @@
         {
             "file": "OemRilHookService/OemRilHookService.apk",
             "folder": "OemRilHookService",
+            "isstub": false,
             "location": "system_ext/app/OemRilHookService/OemRilHookService.apk",
             "package": "com.samsung.slsi.telephony.oem.oemrilhookservice",
             "partition": "system_ext",
@@ -1634,6 +1803,7 @@
         {
             "file": "OemRilService/OemRilService.apk",
             "folder": "OemRilService",
+            "isstub": false,
             "location": "system_ext/priv-app/OemRilService/OemRilService.apk",
             "package": "com.samsung.slsi.telephony.oemril",
             "partition": "system_ext",
@@ -1646,6 +1816,7 @@
         {
             "file": "ShannonIms/ShannonIms.apk",
             "folder": "ShannonIms",
+            "isstub": false,
             "location": "system_ext/priv-app/ShannonIms/ShannonIms.apk",
             "package": "com.shannon.imsservice",
             "partition": "system_ext",
@@ -1658,6 +1829,7 @@
         {
             "file": "ShannonRcs/ShannonRcs.apk",
             "folder": "ShannonRcs",
+            "isstub": false,
             "location": "system_ext/priv-app/ShannonRcs/ShannonRcs.apk",
             "package": "com.shannon.rcsservice",
             "partition": "system_ext",
@@ -1670,6 +1842,7 @@
         {
             "file": "LLKAgent/LLKAgent.apk",
             "folder": "LLKAgent",
+            "isstub": false,
             "location": "system_ext/priv-app/LLKAgent/LLKAgent.apk",
             "package": "com.verizon.llkagent",
             "partition": "system_ext",
@@ -1682,6 +1855,7 @@
         {
             "file": "MyVerizonServices/MyVerizonServices.apk",
             "folder": "MyVerizonServices",
+            "isstub": false,
             "location": "system_ext/priv-app/MyVerizonServices/MyVerizonServices.apk",
             "package": "com.verizon.mips.services",
             "partition": "system_ext",
@@ -1694,6 +1868,7 @@
         {
             "file": "AppDirectedSMSService/AppDirectedSMSService.apk",
             "folder": "AppDirectedSMSService",
+            "isstub": false,
             "location": "product/priv-app/AppDirectedSMSService/AppDirectedSMSService.apk",
             "package": "com.verizon.services",
             "partition": "product",
@@ -1706,6 +1881,7 @@
         {
             "file": "VZWAPNLib/VZWAPNLib.apk",
             "folder": "VZWAPNLib",
+            "isstub": false,
             "location": "product/app/VZWAPNLib/VZWAPNLib.apk",
             "package": "com.vzw.apnlib",
             "partition": "product",
