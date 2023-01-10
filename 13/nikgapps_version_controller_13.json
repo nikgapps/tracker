@@ -228,6 +228,41 @@
             ]
         }
     ],
+    "GoogleChrome": [
+        {
+            "com.android.chrome": [
+                {
+                    "file_path": "___app___Chrome-Stub/Chrome-Stub.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "101.0.4951.74",
+                    "version_code": "1010495174"
+                }
+            ]
+        },
+        {
+            "com.google.android.webview": [
+                {
+                    "file_path": "___app___WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "101.0.4951.74",
+                    "version_code": "1010495174"
+                }
+            ]
+        },
+        {
+            "com.google.android.trichromelibrary": [
+                {
+                    "file_path": "___app___TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "version": "101.0.4951.74",
+                    "version_code": "1010495174"
+                }
+            ]
+        }
+    ],
     "GoogleDialer": [
         {
             "com.google.android.dialer": [
