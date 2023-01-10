@@ -1,16 +1,1 @@
-{
-    "Core": [
-        {
-            "com.google.android.gms": [
-                {
-                    "nikgapps_source": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
-                    "nikgapps_version": "22.18.21 (190408-453244992)",
-                    "oem": "cheetah",
-                    "oem_source": "product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
-                    "oem_version": "22.36.16 (190408-476895098)",
-                    "update_available": true
-                }
-            ]
-        }
-    ]
-}
+{}
