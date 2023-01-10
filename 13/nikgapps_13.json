@@ -137,39 +137,11 @@
             ]
         },
         {
-            "com.google.android.gms.optional_mlkit_barcode_ui": [
+            "com.google.android.gms.dynamite_cronetdynamite": [
                 {
-                    "file": "___priv-app___PrebuiltGmsCore___m___optional/MlkitBarcodeUIPrebuilt.apk",
-                    "folder": "PrebuiltGmsCore___m___optional",
-                    "package": "com.google.android.gms.optional_mlkit_barcode_ui",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "type": "priv-app",
-                    "version": "22.36.16 (100000-0)",
-                    "version_code": "2236161000000"
-                }
-            ]
-        },
-        {
-            "com.google.android.gms.policy_vision_optional_barcode_dynamite": [
-                {
-                    "file": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
-                    "folder": "PrebuiltGmsCore___m___optional",
-                    "package": "com.google.android.gms.policy_vision_optional_barcode_dynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "type": "priv-app",
-                    "version": "213104700065.387730465.387730465",
-                    "version_code": "213104700065387730465387730465"
-                }
-            ]
-        },
-        {
-            "com.google.android.gms.dynamite_measurementdynamite": [
-                {
-                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
+                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_CronetDynamite.apk",
                     "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_measurementdynamite",
+                    "package": "com.google.android.gms.dynamite_cronetdynamite",
                     "package_title": "GmsCore",
                     "partition": "system",
                     "type": "priv-app",
@@ -179,11 +151,11 @@
             ]
         },
         {
-            "com.google.android.gms.dynamite_googlecertificates": [
+            "com.google.android.gms.dynamite_measurementdynamite": [
                 {
-                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
+                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
                     "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_googlecertificates",
+                    "package": "com.google.android.gms.dynamite_measurementdynamite",
                     "package_title": "GmsCore",
                     "partition": "system",
                     "type": "priv-app",
@@ -207,11 +179,11 @@
             ]
         },
         {
-            "com.google.android.gms.dynamite_dynamiteloader": [
+            "com.google.android.gms.dynamite_dynamitemodulesc": [
                 {
-                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
+                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
                     "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamiteloader",
+                    "package": "com.google.android.gms.dynamite_dynamitemodulesc",
                     "package_title": "GmsCore",
                     "partition": "system",
                     "type": "priv-app",
@@ -221,11 +193,11 @@
             ]
         },
         {
-            "com.google.android.gms.dynamite_dynamitemodulesc": [
+            "com.google.android.gms.dynamite_mapsdynamite": [
                 {
-                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
+                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
                     "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamitemodulesc",
+                    "package": "com.google.android.gms.dynamite_mapsdynamite",
                     "package_title": "GmsCore",
                     "partition": "system",
                     "type": "priv-app",
@@ -249,11 +221,11 @@
             ]
         },
         {
-            "com.google.android.gms.dynamite_cronetdynamite": [
+            "com.google.android.gms.dynamite_googlecertificates": [
                 {
-                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_CronetDynamite.apk",
+                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
                     "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_cronetdynamite",
+                    "package": "com.google.android.gms.dynamite_googlecertificates",
                     "package_title": "GmsCore",
                     "partition": "system",
                     "type": "priv-app",
@@ -263,11 +235,11 @@
             ]
         },
         {
-            "com.google.android.gms.dynamite_mapsdynamite": [
+            "com.google.android.gms.dynamite_dynamiteloader": [
                 {
-                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
+                    "file": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
                     "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_mapsdynamite",
+                    "package": "com.google.android.gms.dynamite_dynamiteloader",
                     "package_title": "GmsCore",
                     "partition": "system",
                     "type": "priv-app",
@@ -301,6 +273,34 @@
                     "type": "priv-app",
                     "version": "2052073.215491873.215491873",
                     "version_code": "2052073215491873215491873"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.optional_mlkit_barcode_ui": [
+                {
+                    "file": "___priv-app___PrebuiltGmsCore___m___optional/MlkitBarcodeUIPrebuilt.apk",
+                    "folder": "PrebuiltGmsCore___m___optional",
+                    "package": "com.google.android.gms.optional_mlkit_barcode_ui",
+                    "package_title": "GmsCore",
+                    "partition": "system",
+                    "type": "priv-app",
+                    "version": "22.36.16 (100000-0)",
+                    "version_code": "2236161000000"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.policy_vision_optional_barcode_dynamite": [
+                {
+                    "file": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
+                    "folder": "PrebuiltGmsCore___m___optional",
+                    "package": "com.google.android.gms.policy_vision_optional_barcode_dynamite",
+                    "package_title": "GmsCore",
+                    "partition": "system",
+                    "type": "priv-app",
+                    "version": "213104700065.387730465.387730465",
+                    "version_code": "213104700065387730465387730465"
                 }
             ]
         }
