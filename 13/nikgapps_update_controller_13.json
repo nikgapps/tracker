@@ -1,25 +1,37 @@
 {
-    "Core": [
+    "GoogleChrome": [
         {
-            "com.android.vending": [
+            "com.android.chrome": [
                 {
-                    "nikgapps_source": "___priv-app___Phonesky/Phonesky.apk",
-                    "nikgapps_version": "30.4.17-21 [0] [PR] 445549118",
+                    "nikgapps_source": "___app___Chrome-Stub/Chrome-Stub.apk",
+                    "nikgapps_version": "101.0.4951.74",
                     "oem": "cheetah",
-                    "oem_source": "product/priv-app/Phonesky/Phonesky.apk",
-                    "oem_version": "30.4.21-21 [0] [PR] 475636937",
+                    "oem_source": "product/app/Chrome-Stub/Chrome-Stub.apk",
+                    "oem_version": "103.0.5060.71",
                     "update_available": true
                 }
             ]
         },
         {
-            "com.google.android.gms": [
+            "com.google.android.webview": [
                 {
-                    "nikgapps_source": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
-                    "nikgapps_version": "22.18.21 (190408-453244992)",
+                    "nikgapps_source": "___app___WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
+                    "nikgapps_version": "101.0.4951.74",
                     "oem": "cheetah",
-                    "oem_source": "product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
-                    "oem_version": "22.36.16 (190408-476895098)",
+                    "oem_source": "product/app/WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
+                    "oem_version": "103.0.5060.71",
+                    "update_available": true
+                }
+            ]
+        },
+        {
+            "com.google.android.trichromelibrary": [
+                {
+                    "nikgapps_source": "___app___TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
+                    "nikgapps_version": "101.0.4951.74",
+                    "oem": "cheetah",
+                    "oem_source": "product/app/TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
+                    "oem_version": "103.0.5060.71",
                     "update_available": true
                 }
             ]
