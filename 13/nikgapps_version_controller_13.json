@@ -238,8 +238,8 @@
                     "file_path": "___app___Chrome-Stub/Chrome-Stub.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
-                    "version": "103.0.5060.71",
-                    "version_code": "1030506071"
+                    "version": "101.0.4951.74",
+                    "version_code": "1010495174"
                 }
             ]
         },
@@ -252,8 +252,8 @@
                     "file_path": "___app___WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
-                    "version": "103.0.5060.71",
-                    "version_code": "1030506071"
+                    "version": "101.0.4951.74",
+                    "version_code": "1010495174"
                 }
             ]
         },
@@ -266,8 +266,8 @@
                     "file_path": "___app___TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
                     "update_indicator": "1",
                     "update_source": "cheetah",
-                    "version": "103.0.5060.71",
-                    "version_code": "1030506071"
+                    "version": "101.0.4951.74",
+                    "version_code": "1010495174"
                 }
             ]
         }
