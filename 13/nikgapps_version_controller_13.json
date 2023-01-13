@@ -1,0 +1,1183 @@
+{
+    "AndroidAuto": [
+        {
+            "com.google.android.projection.gearhead": [
+                {
+                    "file_path": "___priv-app___AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk",
+                    "size": 3803,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "12521400",
+                    "version": "1.2.521400-stub",
+                    "version_code": "12521400"
+                }
+            ]
+        }
+    ],
+    "AndroidDevicePolicy": [
+        {
+            "com.google.android.apps.work.clouddpc": [
+                {
+                    "file_path": "___app___DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk",
+                    "size": 10122,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "674001695430",
+                    "version": "67.40.0 (1695430)",
+                    "version_code": "1695430"
+                }
+            ]
+        }
+    ],
+    "AssistantGo": [
+        {
+            "com.google.android.apps.assistant": [
+                {
+                    "file_path": "___priv-app___AssistantGo/AssistantGo.apk",
+                    "size": 15188,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2130439234666648",
+                    "version": "2.13.0.439234666.arm64-v8a.jio_release",
+                    "version_code": "16762"
+                }
+            ]
+        }
+    ],
+    "Books": [
+        {
+            "com.google.android.apps.books": [
+                {
+                    "file_path": "___app___Books/Books.apk",
+                    "size": 15657,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "20228901",
+                    "version": "2022.8.9.0.1",
+                    "version_code": "126520"
+                }
+            ]
+        }
+    ],
+    "CarrierServices": [
+        {
+            "com.google.android.ims": [
+                {
+                    "file_path": "___priv-app___CarrierServices/CarrierServices.apk",
+                    "size": 9234,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "11704660442762022080800",
+                    "version": "117.0.466044276-carrierservices_20220808_RC00",
+                    "version_code": "30939336"
+                }
+            ]
+        }
+    ],
+    "Core": [
+        {
+            "com.android.vending": [
+                {
+                    "file_path": "___priv-app___Phonesky/Phonesky.apk",
+                    "size": 62578,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "30421210475636937",
+                    "version": "30.4.21-21 [0] [PR] 475636937",
+                    "version_code": "83042110"
+                }
+            ]
+        },
+        {
+            "com.google.android.gsf": [
+                {
+                    "file_path": "___priv-app___GoogleServicesFramework/GoogleServicesFramework.apk",
+                    "size": 7310,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "33"
+                }
+            ]
+        },
+        {
+            "com.google.android.syncadapters.contacts": [
+                {
+                    "file_path": "___app___GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk",
+                    "size": 1572,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "128361351",
+                    "version": "12-8361351",
+                    "version_code": "31"
+                }
+            ]
+        },
+        {
+            "com.google.android.syncadapters.calendar": [
+                {
+                    "file_path": "___app___GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk",
+                    "size": 2485,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2021412406147485",
+                    "version": "2021.41.2-406147485-release",
+                    "version_code": "2017039780"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_cronetdynamite": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_CronetDynamite.apk",
+                    "size": 8357,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2236161904080",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "223616099"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_measurementdynamite": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
+                    "size": 349,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2236161904080",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "223616099"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_dynamitemodulesa": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
+                    "size": 757,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2236161904080",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "223616099"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_dynamitemodulesc": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
+                    "size": 1420,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2236161904080",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "223616099"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_mapsdynamite": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
+                    "size": 2140,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2236161904080",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "223616099"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.policy_ads_fdr_dynamite": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_AdsDynamite.apk",
+                    "size": 3615,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "222508000057455804270455804270",
+                    "version": "222508000057.455804270.455804270",
+                    "version_code": "222508000"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_googlecertificates": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
+                    "size": 255,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2236161904080",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "223616099"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.dynamite_dynamiteloader": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
+                    "size": 173,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2236161904080",
+                    "version": "22.36.16 (190408-0)",
+                    "version_code": "223616099"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
+                    "size": 123804,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "223616190408476895098",
+                    "version": "22.36.16 (190408-476895098)",
+                    "version_code": "223616045"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.policy_sidecar_aps": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___m___independent/AndroidPlatformServices.apk",
+                    "size": 13842,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2052073215491873215491873",
+                    "version": "2052073.215491873.215491873",
+                    "version_code": "2052073"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.optional_mlkit_barcode_ui": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/MlkitBarcodeUIPrebuilt.apk",
+                    "size": 5195,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2236161000000",
+                    "version": "22.36.16 (100000-0)",
+                    "version_code": "223616057"
+                }
+            ]
+        },
+        {
+            "com.google.android.gms.policy_vision_optional_barcode_dynamite": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
+                    "size": 1044,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "213104700065387730465387730465",
+                    "version": "213104700065.387730465.387730465",
+                    "version_code": "213104700"
+                }
+            ]
+        }
+    ],
+    "CoreGo": [
+        {
+            "com.google.android.gms": [
+                {
+                    "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
+                    "size": 110278,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "221821190408453244992",
+                    "version": "22.18.21 (190408-453244992)",
+                    "version_code": "221821045"
+                }
+            ]
+        },
+        {
+            "com.android.vending": [
+                {
+                    "file_path": "___priv-app___Phonesky/Phonesky.apk",
+                    "size": 60067,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "30417210445549118",
+                    "version": "30.4.17-21 [0] [PR] 445549118",
+                    "version_code": "83041710"
+                }
+            ]
+        },
+        {
+            "com.google.android.gsf": [
+                {
+                    "file_path": "___priv-app___GoogleServicesFramework/GoogleServicesFramework.apk",
+                    "size": 7310,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "33"
+                }
+            ]
+        },
+        {
+            "com.google.android.syncadapters.contacts": [
+                {
+                    "file_path": "___app___GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk",
+                    "size": 1572,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "128361351",
+                    "version": "12-8361351",
+                    "version_code": "31"
+                }
+            ]
+        },
+        {
+            "com.google.android.syncadapters.calendar": [
+                {
+                    "file_path": "___app___GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk",
+                    "size": 2485,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2021412406147485",
+                    "version": "2021.41.2-406147485-release",
+                    "version_code": "2017039780"
+                }
+            ]
+        }
+    ],
+    "DeviceHealthServices": [
+        {
+            "com.google.android.apps.turbo": [
+                {
+                    "file_path": "___priv-app___Turbo/TurboPrebuilt.apk",
+                    "size": 6665,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "1240450919346",
+                    "version": "1.24.0.450919346.release",
+                    "version_code": "10250957"
+                }
+            ]
+        }
+    ],
+    "DevicePersonalizationServices": [
+        {
+            "com.google.android.as": [
+                {
+                    "file_path": "___priv-app___DevicePersonalizationPrebuiltPixel2021/DevicePersonalizationPrebuiltPixel2021.apk",
+                    "size": 91060,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "06453197295",
+                    "version": "T.0.sysimg.pixel6.453197295",
+                    "version_code": "8460745"
+                }
+            ]
+        }
+    ],
+    "DeviceSetup": [
+        {
+            "com.google.android.apps.work.oobconfig": [
+                {
+                    "file_path": "___priv-app___OTAConfigPrebuilt/OTAConfigPrebuilt.apk",
+                    "size": 2489,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "10419053874",
+                    "version": "1.0.419053874",
+                    "version_code": "271"
+                }
+            ]
+        }
+    ],
+    "DigitalWellbeing": [
+        {
+            "com.google.android.apps.wellbeing": [
+                {
+                    "file_path": "___priv-app___WellbeingPreBuilt/WellbeingPreBuilt.apk",
+                    "size": 17192,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "11463639936409067",
+                    "version": "1.1.463639936 (409067)",
+                    "version_code": "409067"
+                }
+            ]
+        }
+    ],
+    "Drive": [
+        {
+            "com.google.android.apps.docs": [
+                {
+                    "file_path": "___app___Drive/Drive.apk",
+                    "size": 54106,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2221771648",
+                    "version": "2.22.177.1.arm64-v8a.alldpi",
+                    "version_code": "212710967"
+                }
+            ]
+        }
+    ],
+    "Flipendo": [
+        {
+            "com.google.android.flipendo": [
+                {
+                    "file_path": "___app___Flipendo/Flipendo.apk",
+                    "size": 5591,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "12",
+                    "version": "12",
+                    "version_code": "32"
+                }
+            ]
+        }
+    ],
+    "GBoard": [
+        {
+            "com.google.android.inputmethod.latin": [
+                {
+                    "file_path": "___app___LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk",
+                    "size": 81542,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "11706439544614648",
+                    "version": "11.7.06.439544614-preload-arm64-v8a",
+                    "version_code": "83221718"
+                }
+            ]
+        }
+    ],
+    "GalleryGo": [
+        {
+            "com.google.android.apps.photosgo": [
+                {
+                    "file_path": "___app___GalleryGo/GalleryGo.apk",
+                    "size": 12919,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "188436428459",
+                    "version": "1.8.8.436428459 release",
+                    "version_code": "10203252"
+                }
+            ]
+        }
+    ],
+    "Gmail": [
+        {
+            "com.google.android.gm": [
+                {
+                    "file_path": "___app___PrebuiltGmail/PrebuiltGmail.apk",
+                    "size": 104367,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "20220501448071085",
+                    "version": "2022.05.01.448071085.Release",
+                    "version_code": "63266701"
+                }
+            ]
+        }
+    ],
+    "GmailGo": [
+        {
+            "com.google.android.gm.lite": [
+                {
+                    "file_path": "___app___GmailGo/GmailGo.apk",
+                    "size": 10344,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "856197464524",
+                    "version": "8.5.6.197464524.go_release",
+                    "version_code": "693498"
+                }
+            ]
+        }
+    ],
+    "GoogleCalculator": [
+        {
+            "com.google.android.calculator": [
+                {
+                    "file_path": "___app___CalculatorGooglePrebuilt/CalculatorGooglePrebuilt.apk",
+                    "size": 4326,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "81403424005",
+                    "version": "8.1 (403424005)",
+                    "version_code": "81000803"
+                }
+            ]
+        }
+    ],
+    "GoogleCalendar": [
+        {
+            "com.google.android.calendar": [
+                {
+                    "file_path": "___priv-app___CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk",
+                    "size": 35822,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "2022162443588091",
+                    "version": "2022.16.2-443588091-release",
+                    "version_code": "2017070818"
+                }
+            ]
+        }
+    ],
+    "GoogleChrome": [
+        {
+            "com.android.chrome": [
+                {
+                    "file_path": "___app___Chrome-Stub/Chrome-Stub.apk",
+                    "size": 1201,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "1030506071",
+                    "version": "103.0.5060.71",
+                    "version_code": "506007134"
+                }
+            ]
+        },
+        {
+            "com.google.android.webview": [
+                {
+                    "file_path": "___app___WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
+                    "size": 779,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "1030506071",
+                    "version": "103.0.5060.71",
+                    "version_code": "506007134"
+                }
+            ]
+        },
+        {
+            "com.google.android.trichromelibrary": [
+                {
+                    "file_path": "___app___TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
+                    "size": 17,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "1030506071",
+                    "version": "103.0.5060.71",
+                    "version_code": "506007134"
+                }
+            ]
+        }
+    ],
+    "GoogleClock": [
+        {
+            "com.google.android.deskclock": [
+                {
+                    "file_path": "___app___PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk",
+                    "size": 9317,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "72453989126",
+                    "version": "7.2 (453989126)",
+                    "version_code": "72004798"
+                }
+            ]
+        }
+    ],
+    "GoogleContacts": [
+        {
+            "com.google.android.contacts": [
+                {
+                    "file_path": "___app___GoogleContacts/GoogleContacts.apk",
+                    "size": 14892,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "37421466997988",
+                    "version": "3.74.21.466997988",
+                    "version_code": "2861352"
+                }
+            ]
+        }
+    ],
+    "GoogleDialer": [
+        {
+            "com.google.android.dialer": [
+                {
+                    "file_path": "___priv-app___GoogleDialer/GoogleDialer.apk",
+                    "size": 62775,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "870468061598",
+                    "version": "87.0.468061598",
+                    "version_code": "9900243"
+                }
+            ]
+        }
+    ],
+    "GoogleDocs": [
+        {
+            "com.google.android.apps.docs.editors.docs": [
+                {
+                    "file_path": "___app___GoogleDocs/GoogleDocs.apk",
+                    "size": 33540,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "1214820440",
+                    "version": "1.21.482.04.40",
+                    "version_code": "214820440"
+                }
+            ]
+        }
+    ],
+    "GoogleDuo": [
+        {
+            "com.google.android.apps.tachyon": [
+                {
+                    "file_path": "___app___GoogleDuo/GoogleDuo.apk",
+                    "size": 9632,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "155041354329820211128132",
+                    "version": "155.0.413543298.duo.android_20211128.13_p2",
+                    "version_code": "3374026"
+                }
+            ]
+        }
+    ],
+    "GoogleFeedback": [
+        {
+            "com.google.android.feedback": [
+                {
+                    "file_path": "___priv-app___GoogleFeedback/GoogleFeedback.apk",
+                    "size": 651,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "33"
+                }
+            ]
+        }
+    ],
+    "GoogleFiles": [
+        {
+            "com.google.android.apps.nbu.files": [
+                {
+                    "file_path": "___priv-app___FilesPrebuilt/FilesPrebuilt.apk",
+                    "size": 19484,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "10400489743",
+                    "version": "1.0.400489743",
+                    "version_code": "380423"
+                }
+            ]
+        },
+        {
+            "com.android.storagemanager": [
+                {
+                    "file_path": "___priv-app___StorageManagerGoogle/StorageManagerGoogle.apk",
+                    "size": 11494,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "33"
+                }
+            ]
+        },
+        {
+            "com.google.android.documentsui": [
+                {
+                    "file_path": "___priv-app___DocumentsUIGoogle/DocumentsUIGoogle.apk",
+                    "size": 6540,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "330443000",
+                    "version": "t_frc_doc_330443000",
+                    "version_code": "330443000"
+                }
+            ]
+        }
+    ],
+    "GoogleGo": [
+        {
+            "com.google.android.apps.searchlite": [
+                {
+                    "file_path": "___priv-app___GoogleGo/GoogleGo.apk",
+                    "size": 26124,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "358464445598",
+                    "version": "3.58.464445598.release",
+                    "version_code": "677555"
+                }
+            ]
+        }
+    ],
+    "GoogleKeep": [
+        {
+            "com.google.android.keep": [
+                {
+                    "file_path": "___priv-app___PrebuiltKeep/PrebuiltKeep.apk",
+                    "size": 19194,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "5222820390",
+                    "version": "5.22.282.03.90",
+                    "version_code": "220484801"
+                }
+            ]
+        }
+    ],
+    "GoogleLocationHistory": [
+        {
+            "com.google.android.gms.location.history": [
+                {
+                    "file_path": "___app___LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk",
+                    "size": 46,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "12",
+                    "version": "1.2",
+                    "version_code": "3"
+                }
+            ]
+        }
+    ],
+    "GoogleMaps": [
+        {
+            "com.google.android.apps.maps": [
+                {
+                    "file_path": "___priv-app___GoogleMaps/Maps.apk",
+                    "size": 70914,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "11287",
+                    "version": "11.28.7",
+                    "version_code": "1066493137"
+                }
+            ]
+        }
+    ],
+    "GoogleMessages": [
+        {
+            "com.google.android.apps.messaging": [
+                {
+                    "file_path": "___app___PrebuiltBugle/PrebuiltBugle.apk",
+                    "size": 24779,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "202208090100",
+                    "version": "messages.android_20220809_01_RC00.phone_dynamic",
+                    "version_code": "143574063"
+                }
+            ]
+        }
+    ],
+    "GooglePartnerSetup": [
+        {
+            "com.google.android.partnersetup": [
+                {
+                    "file_path": "___priv-app___PartnerSetupPrebuilt/GooglePartnerSetup.apk",
+                    "size": 727,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "100448391512",
+                    "version": "100.448391512",
+                    "version_code": "1450"
+                }
+            ]
+        }
+    ],
+    "GooglePhotos": [
+        {
+            "com.google.android.apps.photos": [
+                {
+                    "file_path": "___app___Photos/Photos.apk",
+                    "size": 114724,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "5900448589144",
+                    "version": "5.90.0.448589144",
+                    "version_code": "43359491"
+                }
+            ]
+        }
+    ],
+    "GoogleRecorder": [
+        {
+            "com.google.android.apps.recorder": [
+                {
+                    "file_path": "___priv-app___RecorderPrebuilt/RecorderPrebuilt.apk",
+                    "size": 82019,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "12314117049",
+                    "version": "1.2.314117049",
+                    "version_code": "12012113"
+                }
+            ]
+        }
+    ],
+    "GoogleSearch": [
+        {
+            "com.google.android.googlequicksearchbox": [
+                {
+                    "file_path": "___priv-app___Velvet/Velvet.apk",
+                    "size": 356493,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "1317162964",
+                    "version": "13.17.16.29.arm64",
+                    "version_code": "301194890"
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.googleassistant": [
+                {
+                    "file_path": "___priv-app___Assistant/Assistant.apk",
+                    "size": 1140,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "01452181178",
+                    "version": "0.1.452181178",
+                    "version_code": "48"
+                }
+            ]
+        }
+    ],
+    "GoogleSheets": [
+        {
+            "com.google.android.apps.docs.editors.sheets": [
+                {
+                    "file_path": "___app___GoogleSheets/GoogleSheets.apk",
+                    "size": 32793,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "1214820440",
+                    "version": "1.21.482.04.40",
+                    "version_code": "214820440"
+                }
+            ]
+        }
+    ],
+    "GoogleSlides": [
+        {
+            "com.google.android.apps.docs.editors.slides": [
+                {
+                    "file_path": "___app___GoogleSlides/GoogleSlides.apk",
+                    "size": 48045,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "1214820540",
+                    "version": "1.21.482.05.40",
+                    "version_code": "214820540"
+                }
+            ]
+        }
+    ],
+    "GoogleSounds": [
+        {
+            "com.google.android.soundpicker": [
+                {
+                    "file_path": "___app___SoundPickerPrebuilt/SoundPickerPrebuilt.apk",
+                    "size": 5495,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "30449418801",
+                    "version": "3.0 (449418801)",
+                    "version_code": "30000132"
+                }
+            ]
+        }
+    ],
+    "GoogleTTS": [
+        {
+            "com.google.android.tts": [
+                {
+                    "file_path": "___app___GoogleTTS/GoogleTTS.apk",
+                    "size": 66706,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "20220124013427231136",
+                    "version": "googletts.google-speech-apk_20220124.01_p3.427231136.tnt",
+                    "version_code": "210349303"
+                }
+            ]
+        }
+    ],
+    "GoogleTalkback": [
+        {
+            "com.google.android.marvin.talkback": [
+                {
+                    "file_path": "___app___talkback/talkback.apk",
+                    "size": 34706,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "1300451114697",
+                    "version": "13.0.0.451114697",
+                    "version_code": "60124966"
+                }
+            ]
+        }
+    ],
+    "GoogleWallpaper": [
+        {
+            "com.google.android.apps.wallpaper": [
+                {
+                    "file_path": "___priv-app___WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
+                    "size": 7442,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "200000201"
+                }
+            ]
+        }
+    ],
+    "MapsGo": [
+        {
+            "com.google.android.apps.mapslite": [
+                {
+                    "file_path": "___app___MapsGo/MapsGo.apk",
+                    "size": 587,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "1570",
+                    "version": "157.0",
+                    "version_code": "157"
+                }
+            ]
+        }
+    ],
+    "MarkupGoogle": [
+        {
+            "com.google.android.markup": [
+                {
+                    "file_path": "___app___MarkupGoogle/MarkupGoogle.apk",
+                    "size": 5741,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "10",
+                    "version": "1.0",
+                    "version_code": "120"
+                }
+            ]
+        }
+    ],
+    "NavigationGo": [
+        {
+            "com.google.android.apps.navlite": [
+                {
+                    "file_path": "___app___NavigationGo/NavigationGo.apk",
+                    "size": 23854,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "10743",
+                    "version": "10.74.3",
+                    "version_code": "27"
+                }
+            ]
+        }
+    ],
+    "PixelLauncher": [
+        {
+            "com.google.android.apps.nexuslauncher": [
+                {
+                    "file_path": "___priv-app___NexusLauncherRelease/NexusLauncherRelease.apk",
+                    "size": 13634,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "906"
+                }
+            ]
+        },
+        {
+            "com.google.android.as": [
+                {
+                    "file_path": "___priv-app___DevicePersonalizationPrebuiltPixel2021/DevicePersonalizationPrebuiltPixel2021.apk",
+                    "size": 91060,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "06453197295",
+                    "version": "T.0.sysimg.pixel6.453197295",
+                    "version_code": "8460745"
+                }
+            ]
+        },
+        {
+            "com.android.systemui.plugin.globalactions.wallet": [
+                {
+                    "file_path": "___priv-app___QuickAccessWallet/QuickAccessWallet.apk",
+                    "size": 474,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "1000",
+                    "version": "1.0.0.0",
+                    "version_code": "10000000"
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.wallpaper": [
+                {
+                    "file_path": "___priv-app___WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
+                    "size": 7442,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "200000201"
+                }
+            ]
+        }
+    ],
+    "PixelSetupWizard": [
+        {
+            "com.google.android.setupwizard": [
+                {
+                    "file_path": "___priv-app___SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
+                    "size": 8562,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "233456679113",
+                    "version": "233.456679113",
+                    "version_code": "18123"
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.restore": [
+                {
+                    "file_path": "___priv-app___GoogleRestore/GoogleRestorePrebuilt.apk",
+                    "size": 9489,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "10447422065",
+                    "version": "1.0.447422065",
+                    "version_code": "137084"
+                }
+            ]
+        },
+        {
+            "com.google.android.onetimeinitializer": [
+                {
+                    "file_path": "___priv-app___GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
+                    "size": 193,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "33"
+                }
+            ]
+        },
+        {
+            "com.google.android.pixel.setupwizard": [
+                {
+                    "file_path": "___priv-app___PixelSetupWizard/PixelSetupWizard.apk",
+                    "size": 5592,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "33"
+                }
+            ]
+        }
+    ],
+    "PlayGames": [
+        {
+            "com.google.android.play.games": [
+                {
+                    "file_path": "___app___PlayGames/PlayGames.apk",
+                    "size": 12608,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "20220334949449489526449489526000400",
+                    "version": "2022.03.34949 (449489526.449489526-000400)",
+                    "version_code": "349492040"
+                }
+            ]
+        }
+    ],
+    "SetupWizard": [
+        {
+            "com.google.android.setupwizard": [
+                {
+                    "file_path": "___priv-app___SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
+                    "size": 8562,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "233456679113",
+                    "version": "233.456679113",
+                    "version_code": "18123"
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.restore": [
+                {
+                    "file_path": "___priv-app___GoogleRestore/GoogleRestorePrebuilt.apk",
+                    "size": 9489,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "10447422065",
+                    "version": "1.0.447422065",
+                    "version_code": "137084"
+                }
+            ]
+        },
+        {
+            "com.google.android.onetimeinitializer": [
+                {
+                    "file_path": "___priv-app___GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
+                    "size": 193,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "33"
+                }
+            ]
+        }
+    ],
+    "YouTube": [
+        {
+            "com.google.android.youtube": [
+                {
+                    "file_path": "___app___YouTube/YouTube.apk",
+                    "size": 115065,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "171737",
+                    "version": "17.17.37",
+                    "version_code": "1529081304"
+                }
+            ]
+        }
+    ],
+    "YouTubeMusic": [
+        {
+            "com.google.android.apps.youtube.music": [
+                {
+                    "file_path": "___app___YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk",
+                    "size": 57727,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "50451",
+                    "version": "5.04.51",
+                    "version_code": "50451240"
+                }
+            ]
+        }
+    ]
+}
