@@ -8,7 +8,9 @@
                     "package": "com.google.android.projection.gearhead",
                     "package_title": "AndroidAuto",
                     "partition": "system",
+                    "size": 3803,
                     "type": "priv-app",
+                    "v_code": "12521400",
                     "version": "1.2.521400-stub",
                     "version_code": "12521400"
                 }
@@ -24,9 +26,11 @@
                     "package": "com.google.android.apps.work.clouddpc",
                     "package_title": "AndroidDevicePolicy",
                     "partition": "system",
+                    "size": 10122,
                     "type": "app",
+                    "v_code": "674001695430",
                     "version": "67.40.0 (1695430)",
-                    "version_code": "674001695430"
+                    "version_code": "1695430"
                 }
             ]
         }
@@ -40,9 +44,11 @@
                     "package": "com.google.android.apps.assistant",
                     "package_title": "AssistantGo",
                     "partition": "system",
+                    "size": 15188,
                     "type": "priv-app",
+                    "v_code": "2130439234666648",
                     "version": "2.13.0.439234666.arm64-v8a.jio_release",
-                    "version_code": "2130439234666648"
+                    "version_code": "16762"
                 }
             ]
         }
@@ -56,9 +62,11 @@
                     "package": "com.google.android.apps.books",
                     "package_title": "Books",
                     "partition": "system",
+                    "size": 15657,
                     "type": "app",
+                    "v_code": "20228901",
                     "version": "2022.8.9.0.1",
-                    "version_code": "20228901"
+                    "version_code": "126520"
                 }
             ]
         }
@@ -72,9 +80,11 @@
                     "package": "com.google.android.ims",
                     "package_title": "CarrierServices",
                     "partition": "system",
+                    "size": 9234,
                     "type": "priv-app",
+                    "v_code": "11704660442762022080800",
                     "version": "117.0.466044276-carrierservices_20220808_RC00",
-                    "version_code": "11704660442762022080800"
+                    "version_code": "30939336"
                 }
             ]
         }
@@ -88,9 +98,11 @@
                     "package": "com.android.vending",
                     "package_title": "GooglePlayStore",
                     "partition": "system",
+                    "size": 62578,
                     "type": "priv-app",
+                    "v_code": "30421210475636937",
                     "version": "30.4.21-21 [0] [PR] 475636937",
-                    "version_code": "30421210475636937"
+                    "version_code": "83042110"
                 }
             ]
         },
@@ -102,9 +114,11 @@
                     "package": "com.google.android.gsf",
                     "package_title": "GoogleServicesFramework",
                     "partition": "system",
+                    "size": 7310,
                     "type": "priv-app",
+                    "v_code": "13",
                     "version": "13",
-                    "version_code": "13"
+                    "version_code": "33"
                 }
             ]
         },
@@ -116,9 +130,11 @@
                     "package": "com.google.android.syncadapters.contacts",
                     "package_title": "GoogleContactsSyncAdapter",
                     "partition": "system",
+                    "size": 1572,
                     "type": "app",
+                    "v_code": "128361351",
                     "version": "12-8361351",
-                    "version_code": "128361351"
+                    "version_code": "31"
                 }
             ]
         },
@@ -130,9 +146,11 @@
                     "package": "com.google.android.syncadapters.calendar",
                     "package_title": "GoogleCalendarSyncAdapter",
                     "partition": "system",
+                    "size": 2485,
                     "type": "app",
+                    "v_code": "2021412406147485",
                     "version": "2021.41.2-406147485-release",
-                    "version_code": "2021412406147485"
+                    "version_code": "2017039780"
                 }
             ]
         },
@@ -144,9 +162,11 @@
                     "package": "com.google.android.gms.dynamite_cronetdynamite",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 8357,
                     "type": "priv-app",
+                    "v_code": "2236161904080",
                     "version": "22.36.16 (190408-0)",
-                    "version_code": "2236161904080"
+                    "version_code": "223616099"
                 }
             ]
         },
@@ -158,9 +178,11 @@
                     "package": "com.google.android.gms.dynamite_measurementdynamite",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 349,
                     "type": "priv-app",
+                    "v_code": "2236161904080",
                     "version": "22.36.16 (190408-0)",
-                    "version_code": "2236161904080"
+                    "version_code": "223616099"
                 }
             ]
         },
@@ -172,9 +194,11 @@
                     "package": "com.google.android.gms.dynamite_dynamitemodulesa",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 757,
                     "type": "priv-app",
+                    "v_code": "2236161904080",
                     "version": "22.36.16 (190408-0)",
-                    "version_code": "2236161904080"
+                    "version_code": "223616099"
                 }
             ]
         },
@@ -186,9 +210,11 @@
                     "package": "com.google.android.gms.dynamite_dynamitemodulesc",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 1420,
                     "type": "priv-app",
+                    "v_code": "2236161904080",
                     "version": "22.36.16 (190408-0)",
-                    "version_code": "2236161904080"
+                    "version_code": "223616099"
                 }
             ]
         },
@@ -200,9 +226,11 @@
                     "package": "com.google.android.gms.dynamite_mapsdynamite",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 2140,
                     "type": "priv-app",
+                    "v_code": "2236161904080",
                     "version": "22.36.16 (190408-0)",
-                    "version_code": "2236161904080"
+                    "version_code": "223616099"
                 }
             ]
         },
@@ -214,9 +242,11 @@
                     "package": "com.google.android.gms.policy_ads_fdr_dynamite",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 3615,
                     "type": "priv-app",
+                    "v_code": "222508000057455804270455804270",
                     "version": "222508000057.455804270.455804270",
-                    "version_code": "222508000057455804270455804270"
+                    "version_code": "222508000"
                 }
             ]
         },
@@ -228,9 +258,11 @@
                     "package": "com.google.android.gms.dynamite_googlecertificates",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 255,
                     "type": "priv-app",
+                    "v_code": "2236161904080",
                     "version": "22.36.16 (190408-0)",
-                    "version_code": "2236161904080"
+                    "version_code": "223616099"
                 }
             ]
         },
@@ -242,9 +274,11 @@
                     "package": "com.google.android.gms.dynamite_dynamiteloader",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 173,
                     "type": "priv-app",
+                    "v_code": "2236161904080",
                     "version": "22.36.16 (190408-0)",
-                    "version_code": "2236161904080"
+                    "version_code": "223616099"
                 }
             ]
         },
@@ -256,9 +290,11 @@
                     "package": "com.google.android.gms",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 123804,
                     "type": "priv-app",
+                    "v_code": "223616190408476895098",
                     "version": "22.36.16 (190408-476895098)",
-                    "version_code": "223616190408476895098"
+                    "version_code": "223616045"
                 }
             ]
         },
@@ -270,9 +306,11 @@
                     "package": "com.google.android.gms.policy_sidecar_aps",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 13842,
                     "type": "priv-app",
+                    "v_code": "2052073215491873215491873",
                     "version": "2052073.215491873.215491873",
-                    "version_code": "2052073215491873215491873"
+                    "version_code": "2052073"
                 }
             ]
         },
@@ -284,9 +322,11 @@
                     "package": "com.google.android.gms.optional_mlkit_barcode_ui",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 5195,
                     "type": "priv-app",
+                    "v_code": "2236161000000",
                     "version": "22.36.16 (100000-0)",
-                    "version_code": "2236161000000"
+                    "version_code": "223616057"
                 }
             ]
         },
@@ -298,9 +338,11 @@
                     "package": "com.google.android.gms.policy_vision_optional_barcode_dynamite",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 1044,
                     "type": "priv-app",
+                    "v_code": "213104700065387730465387730465",
                     "version": "213104700065.387730465.387730465",
-                    "version_code": "213104700065387730465387730465"
+                    "version_code": "213104700"
                 }
             ]
         }
@@ -314,9 +356,11 @@
                     "package": "com.google.android.gms",
                     "package_title": "GmsCore",
                     "partition": "system",
+                    "size": 110278,
                     "type": "priv-app",
+                    "v_code": "221821190408453244992",
                     "version": "22.18.21 (190408-453244992)",
-                    "version_code": "221821190408453244992"
+                    "version_code": "221821045"
                 }
             ]
         },
@@ -328,9 +372,11 @@
                     "package": "com.android.vending",
                     "package_title": "GooglePlayStore",
                     "partition": "system",
+                    "size": 60067,
                     "type": "priv-app",
+                    "v_code": "30417210445549118",
                     "version": "30.4.17-21 [0] [PR] 445549118",
-                    "version_code": "30417210445549118"
+                    "version_code": "83041710"
                 }
             ]
         },
@@ -342,9 +388,11 @@
                     "package": "com.google.android.gsf",
                     "package_title": "GoogleServicesFramework",
                     "partition": "system",
+                    "size": 7310,
                     "type": "priv-app",
+                    "v_code": "13",
                     "version": "13",
-                    "version_code": "13"
+                    "version_code": "33"
                 }
             ]
         },
@@ -356,9 +404,11 @@
                     "package": "com.google.android.syncadapters.contacts",
                     "package_title": "GoogleContactsSyncAdapter",
                     "partition": "system",
+                    "size": 1572,
                     "type": "app",
+                    "v_code": "128361351",
                     "version": "12-8361351",
-                    "version_code": "128361351"
+                    "version_code": "31"
                 }
             ]
         },
@@ -370,9 +420,11 @@
                     "package": "com.google.android.syncadapters.calendar",
                     "package_title": "GoogleCalendarSyncAdapter",
                     "partition": "system",
+                    "size": 2485,
                     "type": "app",
+                    "v_code": "2021412406147485",
                     "version": "2021.41.2-406147485-release",
-                    "version_code": "2021412406147485"
+                    "version_code": "2017039780"
                 }
             ]
         }
@@ -386,9 +438,11 @@
                     "package": "com.google.android.apps.turbo",
                     "package_title": "DeviceHealthServices",
                     "partition": "system",
+                    "size": 6665,
                     "type": "priv-app",
+                    "v_code": "1240450919346",
                     "version": "1.24.0.450919346.release",
-                    "version_code": "1240450919346"
+                    "version_code": "10250957"
                 }
             ]
         }
@@ -402,9 +456,11 @@
                     "package": "com.google.android.as",
                     "package_title": "DevicePersonalizationServices",
                     "partition": "system",
+                    "size": 91060,
                     "type": "priv-app",
+                    "v_code": "06453197295",
                     "version": "T.0.sysimg.pixel6.453197295",
-                    "version_code": "06453197295"
+                    "version_code": "8460745"
                 }
             ]
         }
@@ -418,9 +474,11 @@
                     "package": "com.google.android.apps.work.oobconfig",
                     "package_title": "DeviceSetup",
                     "partition": "system",
+                    "size": 2489,
                     "type": "priv-app",
+                    "v_code": "10419053874",
                     "version": "1.0.419053874",
-                    "version_code": "10419053874"
+                    "version_code": "271"
                 }
             ]
         }
@@ -434,9 +492,11 @@
                     "package": "com.google.android.apps.wellbeing",
                     "package_title": "DigitalWellbeing",
                     "partition": "system",
+                    "size": 17192,
                     "type": "priv-app",
+                    "v_code": "11463639936409067",
                     "version": "1.1.463639936 (409067)",
-                    "version_code": "11463639936409067"
+                    "version_code": "409067"
                 }
             ]
         }
@@ -450,9 +510,11 @@
                     "package": "com.google.android.apps.docs",
                     "package_title": "Drive",
                     "partition": "system",
+                    "size": 54106,
                     "type": "app",
+                    "v_code": "2221771648",
                     "version": "2.22.177.1.arm64-v8a.alldpi",
-                    "version_code": "2221771648"
+                    "version_code": "212710967"
                 }
             ]
         }
@@ -466,9 +528,11 @@
                     "package": "com.google.android.flipendo",
                     "package_title": "Flipendo",
                     "partition": "system",
+                    "size": 5591,
                     "type": "app",
+                    "v_code": "12",
                     "version": "12",
-                    "version_code": "12"
+                    "version_code": "32"
                 }
             ]
         }
@@ -482,9 +546,11 @@
                     "package": "com.google.android.inputmethod.latin",
                     "package_title": "GBoard",
                     "partition": "system",
+                    "size": 81542,
                     "type": "app",
+                    "v_code": "11706439544614648",
                     "version": "11.7.06.439544614-preload-arm64-v8a",
-                    "version_code": "11706439544614648"
+                    "version_code": "83221718"
                 }
             ]
         }
@@ -498,9 +564,11 @@
                     "package": "com.google.android.apps.photosgo",
                     "package_title": "GalleryGo",
                     "partition": "system",
+                    "size": 12919,
                     "type": "app",
+                    "v_code": "188436428459",
                     "version": "1.8.8.436428459 release",
-                    "version_code": "188436428459"
+                    "version_code": "10203252"
                 }
             ]
         }
@@ -514,9 +582,11 @@
                     "package": "com.google.android.gm",
                     "package_title": "Gmail",
                     "partition": "system",
+                    "size": 104367,
                     "type": "app",
+                    "v_code": "20220501448071085",
                     "version": "2022.05.01.448071085.Release",
-                    "version_code": "20220501448071085"
+                    "version_code": "63266701"
                 }
             ]
         }
@@ -530,9 +600,11 @@
                     "package": "com.google.android.gm.lite",
                     "package_title": "GmailGo",
                     "partition": "system",
+                    "size": 10344,
                     "type": "app",
+                    "v_code": "856197464524",
                     "version": "8.5.6.197464524.go_release",
-                    "version_code": "856197464524"
+                    "version_code": "693498"
                 }
             ]
         }
@@ -546,9 +618,11 @@
                     "package": "com.google.android.calculator",
                     "package_title": "GoogleCalculator",
                     "partition": "system",
+                    "size": 4326,
                     "type": "app",
+                    "v_code": "81403424005",
                     "version": "8.1 (403424005)",
-                    "version_code": "81403424005"
+                    "version_code": "81000803"
                 }
             ]
         }
@@ -562,9 +636,11 @@
                     "package": "com.google.android.calendar",
                     "package_title": "GoogleCalendar",
                     "partition": "system",
+                    "size": 35822,
                     "type": "priv-app",
+                    "v_code": "2022162443588091",
                     "version": "2022.16.2-443588091-release",
-                    "version_code": "2022162443588091"
+                    "version_code": "2017070818"
                 }
             ]
         }
@@ -578,9 +654,11 @@
                     "package": "com.android.chrome",
                     "package_title": "GoogleChrome",
                     "partition": "system",
+                    "size": 1201,
                     "type": "app",
+                    "v_code": "1030506071",
                     "version": "103.0.5060.71",
-                    "version_code": "1030506071"
+                    "version_code": "506007134"
                 }
             ]
         },
@@ -592,9 +670,11 @@
                     "package": "com.google.android.webview",
                     "package_title": "WebViewGoogle",
                     "partition": "system",
+                    "size": 779,
                     "type": "app",
+                    "v_code": "1030506071",
                     "version": "103.0.5060.71",
-                    "version_code": "1030506071"
+                    "version_code": "506007134"
                 }
             ]
         },
@@ -606,9 +686,11 @@
                     "package": "com.google.android.trichromelibrary",
                     "package_title": "TrichromeLibrary",
                     "partition": "system",
+                    "size": 17,
                     "type": "app",
+                    "v_code": "1030506071",
                     "version": "103.0.5060.71",
-                    "version_code": "1030506071"
+                    "version_code": "506007134"
                 }
             ]
         }
@@ -622,9 +704,11 @@
                     "package": "com.google.android.deskclock",
                     "package_title": "GoogleClock",
                     "partition": "system",
+                    "size": 9317,
                     "type": "app",
+                    "v_code": "72453989126",
                     "version": "7.2 (453989126)",
-                    "version_code": "72453989126"
+                    "version_code": "72004798"
                 }
             ]
         }
@@ -638,9 +722,11 @@
                     "package": "com.google.android.contacts",
                     "package_title": "GoogleContacts",
                     "partition": "system",
+                    "size": 14892,
                     "type": "app",
+                    "v_code": "37421466997988",
                     "version": "3.74.21.466997988",
-                    "version_code": "37421466997988"
+                    "version_code": "2861352"
                 }
             ]
         }
@@ -654,9 +740,11 @@
                     "package": "com.google.android.dialer",
                     "package_title": "GoogleDialer",
                     "partition": "system",
+                    "size": 62775,
                     "type": "priv-app",
+                    "v_code": "870468061598",
                     "version": "87.0.468061598",
-                    "version_code": "870468061598"
+                    "version_code": "9900243"
                 }
             ]
         }
@@ -670,9 +758,11 @@
                     "package": "com.google.android.apps.docs.editors.docs",
                     "package_title": "GoogleDocs",
                     "partition": "system",
+                    "size": 33540,
                     "type": "app",
+                    "v_code": "1214820440",
                     "version": "1.21.482.04.40",
-                    "version_code": "1214820440"
+                    "version_code": "214820440"
                 }
             ]
         }
@@ -686,9 +776,11 @@
                     "package": "com.google.android.apps.tachyon",
                     "package_title": "GoogleDuo",
                     "partition": "system",
+                    "size": 9632,
                     "type": "app",
+                    "v_code": "155041354329820211128132",
                     "version": "155.0.413543298.duo.android_20211128.13_p2",
-                    "version_code": "155041354329820211128132"
+                    "version_code": "3374026"
                 }
             ]
         }
@@ -702,9 +794,11 @@
                     "package": "com.google.android.feedback",
                     "package_title": "GoogleFeedback",
                     "partition": "system",
+                    "size": 651,
                     "type": "priv-app",
+                    "v_code": "13",
                     "version": "13",
-                    "version_code": "13"
+                    "version_code": "33"
                 }
             ]
         }
@@ -718,9 +812,11 @@
                     "package": "com.google.android.apps.nbu.files",
                     "package_title": "GoogleFiles",
                     "partition": "system",
+                    "size": 19484,
                     "type": "priv-app",
+                    "v_code": "10400489743",
                     "version": "1.0.400489743",
-                    "version_code": "10400489743"
+                    "version_code": "380423"
                 }
             ]
         },
@@ -732,9 +828,11 @@
                     "package": "com.android.storagemanager",
                     "package_title": "StorageManager",
                     "partition": "system",
+                    "size": 11494,
                     "type": "priv-app",
+                    "v_code": "13",
                     "version": "13",
-                    "version_code": "13"
+                    "version_code": "33"
                 }
             ]
         },
@@ -746,7 +844,9 @@
                     "package": "com.google.android.documentsui",
                     "package_title": "DocumentsUIGoogle",
                     "partition": "system",
+                    "size": 6540,
                     "type": "priv-app",
+                    "v_code": "330443000",
                     "version": "t_frc_doc_330443000",
                     "version_code": "330443000"
                 }
@@ -762,9 +862,11 @@
                     "package": "com.google.android.apps.searchlite",
                     "package_title": "GoogleGo",
                     "partition": "system",
+                    "size": 26124,
                     "type": "priv-app",
+                    "v_code": "358464445598",
                     "version": "3.58.464445598.release",
-                    "version_code": "358464445598"
+                    "version_code": "677555"
                 }
             ]
         }
@@ -778,9 +880,11 @@
                     "package": "com.google.android.keep",
                     "package_title": "GoogleKeep",
                     "partition": "system",
+                    "size": 19194,
                     "type": "priv-app",
+                    "v_code": "5222820390",
                     "version": "5.22.282.03.90",
-                    "version_code": "5222820390"
+                    "version_code": "220484801"
                 }
             ]
         }
@@ -794,9 +898,11 @@
                     "package": "com.google.android.gms.location.history",
                     "package_title": "GoogleLocationHistory",
                     "partition": "system",
+                    "size": 46,
                     "type": "app",
+                    "v_code": "12",
                     "version": "1.2",
-                    "version_code": "12"
+                    "version_code": "3"
                 }
             ]
         }
@@ -810,9 +916,11 @@
                     "package": "com.google.android.apps.maps",
                     "package_title": "GoogleMaps",
                     "partition": "system",
+                    "size": 70914,
                     "type": "priv-app",
+                    "v_code": "11287",
                     "version": "11.28.7",
-                    "version_code": "11287"
+                    "version_code": "1066493137"
                 }
             ]
         }
@@ -826,9 +934,11 @@
                     "package": "com.google.android.apps.messaging",
                     "package_title": "GoogleMessages",
                     "partition": "system",
+                    "size": 24779,
                     "type": "app",
+                    "v_code": "202208090100",
                     "version": "messages.android_20220809_01_RC00.phone_dynamic",
-                    "version_code": "202208090100"
+                    "version_code": "143574063"
                 }
             ]
         }
@@ -842,9 +952,11 @@
                     "package": "com.google.android.partnersetup",
                     "package_title": "GooglePartnerSetup",
                     "partition": "system",
+                    "size": 727,
                     "type": "priv-app",
+                    "v_code": "100448391512",
                     "version": "100.448391512",
-                    "version_code": "100448391512"
+                    "version_code": "1450"
                 }
             ]
         }
@@ -858,9 +970,11 @@
                     "package": "com.google.android.apps.photos",
                     "package_title": "GooglePhotos",
                     "partition": "system",
+                    "size": 114724,
                     "type": "app",
+                    "v_code": "5900448589144",
                     "version": "5.90.0.448589144",
-                    "version_code": "5900448589144"
+                    "version_code": "43359491"
                 }
             ]
         }
@@ -874,9 +988,11 @@
                     "package": "com.google.android.apps.recorder",
                     "package_title": "GoogleRecorder",
                     "partition": "system",
+                    "size": 82019,
                     "type": "priv-app",
+                    "v_code": "12314117049",
                     "version": "1.2.314117049",
-                    "version_code": "12314117049"
+                    "version_code": "12012113"
                 }
             ]
         }
@@ -890,9 +1006,11 @@
                     "package": "com.google.android.googlequicksearchbox",
                     "package_title": "Velvet",
                     "partition": "system",
+                    "size": 356493,
                     "type": "priv-app",
+                    "v_code": "1317162964",
                     "version": "13.17.16.29.arm64",
-                    "version_code": "1317162964"
+                    "version_code": "301194890"
                 }
             ]
         },
@@ -904,9 +1022,11 @@
                     "package": "com.google.android.apps.googleassistant",
                     "package_title": "Assistant",
                     "partition": "system",
+                    "size": 1140,
                     "type": "priv-app",
+                    "v_code": "01452181178",
                     "version": "0.1.452181178",
-                    "version_code": "01452181178"
+                    "version_code": "48"
                 }
             ]
         }
@@ -920,9 +1040,11 @@
                     "package": "com.google.android.apps.docs.editors.sheets",
                     "package_title": "GoogleSheets",
                     "partition": "system",
+                    "size": 32793,
                     "type": "app",
+                    "v_code": "1214820440",
                     "version": "1.21.482.04.40",
-                    "version_code": "1214820440"
+                    "version_code": "214820440"
                 }
             ]
         }
@@ -936,9 +1058,11 @@
                     "package": "com.google.android.apps.docs.editors.slides",
                     "package_title": "GoogleSlides",
                     "partition": "system",
+                    "size": 48045,
                     "type": "app",
+                    "v_code": "1214820540",
                     "version": "1.21.482.05.40",
-                    "version_code": "1214820540"
+                    "version_code": "214820540"
                 }
             ]
         }
@@ -952,9 +1076,11 @@
                     "package": "com.google.android.soundpicker",
                     "package_title": "GoogleSounds",
                     "partition": "system",
+                    "size": 5495,
                     "type": "app",
+                    "v_code": "30449418801",
                     "version": "3.0 (449418801)",
-                    "version_code": "30449418801"
+                    "version_code": "30000132"
                 }
             ]
         }
@@ -968,9 +1094,11 @@
                     "package": "com.google.android.tts",
                     "package_title": "GoogleTTS",
                     "partition": "system",
+                    "size": 66706,
                     "type": "app",
+                    "v_code": "20220124013427231136",
                     "version": "googletts.google-speech-apk_20220124.01_p3.427231136.tnt",
-                    "version_code": "20220124013427231136"
+                    "version_code": "210349303"
                 }
             ]
         }
@@ -984,9 +1112,11 @@
                     "package": "com.google.android.marvin.talkback",
                     "package_title": "GoogleTalkback",
                     "partition": "system",
+                    "size": 34706,
                     "type": "app",
+                    "v_code": "1300451114697",
                     "version": "13.0.0.451114697",
-                    "version_code": "1300451114697"
+                    "version_code": "60124966"
                 }
             ]
         }
@@ -1000,9 +1130,11 @@
                     "package": "com.google.android.apps.wallpaper",
                     "package_title": "GoogleWallpaper",
                     "partition": "system",
+                    "size": 7442,
                     "type": "priv-app",
+                    "v_code": "13",
                     "version": "13",
-                    "version_code": "13"
+                    "version_code": "200000201"
                 }
             ]
         }
@@ -1016,9 +1148,11 @@
                     "package": "com.google.android.apps.mapslite",
                     "package_title": "MapsGo",
                     "partition": "system",
+                    "size": 587,
                     "type": "app",
+                    "v_code": "1570",
                     "version": "157.0",
-                    "version_code": "1570"
+                    "version_code": "157"
                 }
             ]
         }
@@ -1032,9 +1166,11 @@
                     "package": "com.google.android.markup",
                     "package_title": "MarkupGoogle",
                     "partition": "system",
+                    "size": 5741,
                     "type": "app",
+                    "v_code": "10",
                     "version": "1.0",
-                    "version_code": "10"
+                    "version_code": "120"
                 }
             ]
         }
@@ -1048,9 +1184,11 @@
                     "package": "com.google.android.apps.navlite",
                     "package_title": "NavigationGo",
                     "partition": "system",
+                    "size": 23854,
                     "type": "app",
+                    "v_code": "10743",
                     "version": "10.74.3",
-                    "version_code": "10743"
+                    "version_code": "27"
                 }
             ]
         }
@@ -1064,9 +1202,11 @@
                     "package": "com.google.android.apps.nexuslauncher",
                     "package_title": "PixelLauncher",
                     "partition": "system",
+                    "size": 13634,
                     "type": "priv-app",
+                    "v_code": "13",
                     "version": "13",
-                    "version_code": "13"
+                    "version_code": "906"
                 }
             ]
         },
@@ -1078,9 +1218,11 @@
                     "package": "com.google.android.as",
                     "package_title": "DevicePersonalizationServices",
                     "partition": "system",
+                    "size": 91060,
                     "type": "priv-app",
+                    "v_code": "06453197295",
                     "version": "T.0.sysimg.pixel6.453197295",
-                    "version_code": "06453197295"
+                    "version_code": "8460745"
                 }
             ]
         },
@@ -1092,9 +1234,11 @@
                     "package": "com.android.systemui.plugin.globalactions.wallet",
                     "package_title": "QuickAccessWallet",
                     "partition": "system",
+                    "size": 474,
                     "type": "priv-app",
+                    "v_code": "1000",
                     "version": "1.0.0.0",
-                    "version_code": "1000"
+                    "version_code": "10000000"
                 }
             ]
         },
@@ -1106,9 +1250,11 @@
                     "package": "com.google.android.apps.wallpaper",
                     "package_title": "GoogleWallpaper",
                     "partition": "system",
+                    "size": 7442,
                     "type": "priv-app",
+                    "v_code": "13",
                     "version": "13",
-                    "version_code": "13"
+                    "version_code": "200000201"
                 }
             ]
         }
@@ -1122,9 +1268,11 @@
                     "package": "com.google.android.setupwizard",
                     "package_title": "SetupWizard",
                     "partition": "system",
+                    "size": 8562,
                     "type": "priv-app",
+                    "v_code": "233456679113",
                     "version": "233.456679113",
-                    "version_code": "233456679113"
+                    "version_code": "18123"
                 }
             ]
         },
@@ -1136,9 +1284,11 @@
                     "package": "com.google.android.apps.restore",
                     "package_title": "GoogleRestore",
                     "partition": "system",
+                    "size": 9489,
                     "type": "priv-app",
+                    "v_code": "10447422065",
                     "version": "1.0.447422065",
-                    "version_code": "10447422065"
+                    "version_code": "137084"
                 }
             ]
         },
@@ -1150,9 +1300,11 @@
                     "package": "com.google.android.onetimeinitializer",
                     "package_title": "GoogleOneTimeInitializer",
                     "partition": "system",
+                    "size": 193,
                     "type": "priv-app",
+                    "v_code": "13",
                     "version": "13",
-                    "version_code": "13"
+                    "version_code": "33"
                 }
             ]
         },
@@ -1164,9 +1316,11 @@
                     "package": "com.google.android.pixel.setupwizard",
                     "package_title": "PixelSetupWizard",
                     "partition": "system",
+                    "size": 5592,
                     "type": "priv-app",
+                    "v_code": "13",
                     "version": "13",
-                    "version_code": "13"
+                    "version_code": "33"
                 }
             ]
         }
@@ -1180,9 +1334,11 @@
                     "package": "com.google.android.play.games",
                     "package_title": "PlayGames",
                     "partition": "system",
+                    "size": 12608,
                     "type": "app",
+                    "v_code": "20220334949449489526449489526000400",
                     "version": "2022.03.34949 (449489526.449489526-000400)",
-                    "version_code": "20220334949449489526449489526000400"
+                    "version_code": "349492040"
                 }
             ]
         }
@@ -1196,9 +1352,11 @@
                     "package": "com.google.android.setupwizard",
                     "package_title": "SetupWizard",
                     "partition": "system",
+                    "size": 8562,
                     "type": "priv-app",
+                    "v_code": "233456679113",
                     "version": "233.456679113",
-                    "version_code": "233456679113"
+                    "version_code": "18123"
                 }
             ]
         },
@@ -1210,9 +1368,11 @@
                     "package": "com.google.android.apps.restore",
                     "package_title": "GoogleRestore",
                     "partition": "system",
+                    "size": 9489,
                     "type": "priv-app",
+                    "v_code": "10447422065",
                     "version": "1.0.447422065",
-                    "version_code": "10447422065"
+                    "version_code": "137084"
                 }
             ]
         },
@@ -1224,9 +1384,11 @@
                     "package": "com.google.android.onetimeinitializer",
                     "package_title": "GoogleOneTimeInitializer",
                     "partition": "system",
+                    "size": 193,
                     "type": "priv-app",
+                    "v_code": "13",
                     "version": "13",
-                    "version_code": "13"
+                    "version_code": "33"
                 }
             ]
         }
@@ -1240,9 +1402,11 @@
                     "package": "com.google.android.youtube",
                     "package_title": "YouTube",
                     "partition": "system",
+                    "size": 115065,
                     "type": "app",
+                    "v_code": "171737",
                     "version": "17.17.37",
-                    "version_code": "171737"
+                    "version_code": "1529081304"
                 }
             ]
         }
@@ -1256,9 +1420,11 @@
                     "package": "com.google.android.apps.youtube.music",
                     "package_title": "YouTubeMusic",
                     "partition": "system",
+                    "size": 57727,
                     "type": "app",
+                    "v_code": "50451",
                     "version": "5.04.51",
-                    "version_code": "50451"
+                    "version_code": "50451240"
                 }
             ]
         }
