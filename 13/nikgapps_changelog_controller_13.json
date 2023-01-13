@@ -17,5 +17,82 @@
         {
             "WebViewGoogle": "103.0.5060.71"
         }
+    ],
+    "2023-01-13": [
+        {
+            "AndroidAuto": "1.2.526000-stub"
+        },
+        {
+            "GoogleServicesFramework": "13"
+        },
+        {
+            "GmsCore": "22.36.16 (190408-476895098)"
+        },
+        {
+            "GooglePlayStore": "30.4.21-21 [0] [PR] 475636937"
+        },
+        {
+            "DevicePersonalizationServices": "T.0.sysimg.pixel7.466922965"
+        },
+        {
+            "DeviceSetup": "1.0.450944095"
+        },
+        {
+            "DigitalWellbeing": "1.2.471528154 (425867)"
+        },
+        {
+            "Drive": "2.22.297.0.arm64-v8a.alldpi"
+        },
+        {
+            "Flipendo": "13"
+        },
+        {
+            "GBoard": "11.9.06.452014594-preload-arm64-v8a"
+        },
+        {
+            "GoogleCalendar": "2022.30.2-463576837-release"
+        },
+        {
+            "GoogleFiles": "1.0.459878599"
+        },
+        {
+            "GoogleLocationHistory": "1.2"
+        },
+        {
+            "GoogleMaps": "11.44.0905"
+        },
+        {
+            "GoogleMessages": "messages.android_20220809_01_RC02_alldpi.arm64-v8a.phone"
+        },
+        {
+            "GoogleRecorder": "3.7.454794857"
+        },
+        {
+            "Velvet": "13.21.17.29.arm64"
+        },
+        {
+            "GoogleTTS": "googletts.google-speech-apk_20220613.02_p4.456265266"
+        },
+        {
+            "GoogleWallpaper": "13"
+        },
+        {
+            "MarkupGoogle": "1.0"
+        },
+        {
+            "PixelLauncher": "13"
+        },
+        {
+            "QuickAccessWallet": "1.0.0.0"
+        },
+        {
+            "GoogleOneTimeInitializer": "13"
+        },
+        {
+            "PixelSetupWizard": "13"
+        },
+        {
+            "SetupWizard": "233.475791542"
+        }
     ]
 }
