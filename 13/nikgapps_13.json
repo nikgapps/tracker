@@ -84,7 +84,7 @@
                     "type": "priv-app",
                     "v_code": "11704660442762022080800",
                     "version": "117.0.466044276-carrierservices_20220808_RC00",
-                    "version_code": "30939336"
+                    "version_code": "30939330"
                 }
             ]
         }
@@ -1123,7 +1123,7 @@
         {
             "com.google.android.partnersetup": [
                 {
-                    "file": "___priv-app___PartnerSetupPrebuilt/GooglePartnerSetup.apk",
+                    "file": "___priv-app___PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk",
                     "folder": "PartnerSetupPrebuilt",
                     "package": "com.google.android.partnersetup",
                     "package_title": "GooglePartnerSetup",
@@ -1455,8 +1455,8 @@
         {
             "com.google.android.apps.restore": [
                 {
-                    "file": "___priv-app___GoogleRestore/GoogleRestorePrebuilt.apk",
-                    "folder": "GoogleRestore",
+                    "file": "___priv-app___GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
+                    "folder": "GoogleRestorePrebuilt",
                     "package": "com.google.android.apps.restore",
                     "package_title": "GoogleRestore",
                     "partition": "system",
@@ -1539,8 +1539,8 @@
         {
             "com.google.android.apps.restore": [
                 {
-                    "file": "___priv-app___GoogleRestore/GoogleRestorePrebuilt.apk",
-                    "folder": "GoogleRestore",
+                    "file": "___priv-app___GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
+                    "folder": "GoogleRestorePrebuilt",
                     "package": "com.google.android.apps.restore",
                     "package_title": "GoogleRestore",
                     "partition": "system",
