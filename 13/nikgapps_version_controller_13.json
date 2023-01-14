@@ -453,6 +453,11 @@
         {
             "com.google.android.gms.dynamite_cronetdynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_CronetDynamite.apk",
+                    "cheetah_size": 8357,
+                    "cheetah_v_code": "2236161904080",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "223616099",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_CronetDynamite.apk",
                     "size": 8357,
                     "update_indicator": "1",
@@ -466,6 +471,11 @@
         {
             "com.google.android.gms.dynamite_measurementdynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
+                    "cheetah_size": 349,
+                    "cheetah_v_code": "2236161904080",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "223616099",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
                     "size": 349,
                     "update_indicator": "1",
@@ -479,6 +489,11 @@
         {
             "com.google.android.gms.dynamite_dynamitemodulesa": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
+                    "cheetah_size": 757,
+                    "cheetah_v_code": "2236161904080",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "223616099",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
                     "size": 757,
                     "update_indicator": "1",
@@ -492,6 +507,11 @@
         {
             "com.google.android.gms.dynamite_dynamitemodulesc": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
+                    "cheetah_size": 1420,
+                    "cheetah_v_code": "2236161904080",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "223616099",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
                     "size": 1420,
                     "update_indicator": "1",
@@ -505,6 +525,11 @@
         {
             "com.google.android.gms.dynamite_mapsdynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_MapsDynamite.apk",
+                    "cheetah_size": 2140,
+                    "cheetah_v_code": "2236161904080",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "223616099",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
                     "size": 2140,
                     "update_indicator": "1",
@@ -518,6 +543,11 @@
         {
             "com.google.android.gms.policy_ads_fdr_dynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_AdsDynamite.apk",
+                    "cheetah_size": 3615,
+                    "cheetah_v_code": "222508000057455804270455804270",
+                    "cheetah_version": "222508000057.455804270.455804270",
+                    "cheetah_version_code": "222508000",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_AdsDynamite.apk",
                     "size": 3615,
                     "update_indicator": "1",
@@ -531,6 +561,11 @@
         {
             "com.google.android.gms.dynamite_googlecertificates": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
+                    "cheetah_size": 255,
+                    "cheetah_v_code": "2236161904080",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "223616099",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
                     "size": 255,
                     "update_indicator": "1",
@@ -544,6 +579,11 @@
         {
             "com.google.android.gms.dynamite_dynamiteloader": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
+                    "cheetah_size": 173,
+                    "cheetah_v_code": "2236161904080",
+                    "cheetah_version": "22.36.16 (190408-0)",
+                    "cheetah_version_code": "223616099",
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
                     "size": 173,
                     "update_indicator": "1",
@@ -557,6 +597,11 @@
         {
             "com.google.android.gms.policy_sidecar_aps": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/m/independent/AndroidPlatformServices.apk",
+                    "cheetah_size": 13842,
+                    "cheetah_v_code": "2052073215491873215491873",
+                    "cheetah_version": "2052073.215491873.215491873",
+                    "cheetah_version_code": "2052073",
                     "file_path": "___priv-app___PrebuiltGmsCore___m___independent/AndroidPlatformServices.apk",
                     "size": 13842,
                     "update_indicator": "1",
@@ -570,6 +615,11 @@
         {
             "com.google.android.gms.optional_mlkit_barcode_ui": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/m/optional/MlkitBarcodeUIPrebuilt.apk",
+                    "cheetah_size": 5195,
+                    "cheetah_v_code": "2236161000000",
+                    "cheetah_version": "22.36.16 (100000-0)",
+                    "cheetah_version_code": "223616057",
                     "file_path": "___priv-app___PrebuiltGmsCore___m___optional/MlkitBarcodeUIPrebuilt.apk",
                     "size": 5195,
                     "update_indicator": "1",
@@ -583,6 +633,11 @@
         {
             "com.google.android.gms.policy_vision_optional_barcode_dynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/m/optional/VisionBarcodePrebuilt.apk",
+                    "cheetah_size": 1044,
+                    "cheetah_v_code": "213104700065387730465387730465",
+                    "cheetah_version": "213104700065.387730465.387730465",
+                    "cheetah_version_code": "213104700",
                     "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
                     "size": 1044,
                     "update_indicator": "1",
@@ -632,6 +687,11 @@
                     "version_code": "8460745"
                 },
                 {
+                    "cheetah_location": "product/priv-app/DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
+                    "cheetah_size": 91217,
+                    "cheetah_v_code": "07466922965",
+                    "cheetah_version": "T.0.sysimg.pixel7.466922965",
+                    "cheetah_version_code": "8460927",
                     "file_path": "___priv-app___DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
                     "size": 91217,
                     "update_indicator": "1",
@@ -661,6 +721,11 @@
                     "version_code": "271"
                 },
                 {
+                    "cheetah_location": "product/priv-app/OTAConfigNoZeroTouchPrebuilt/OTAConfigNoZeroTouchPrebuilt.apk",
+                    "cheetah_size": 2682,
+                    "cheetah_v_code": "10450944095",
+                    "cheetah_version": "1.0.450944095",
+                    "cheetah_version_code": "293",
                     "file_path": "___priv-app___OTAConfigNoZeroTouchPrebuilt/OTAConfigNoZeroTouchPrebuilt.apk",
                     "size": 2682,
                     "update_indicator": "1",
@@ -840,6 +905,11 @@
                     "version_code": "2017070818"
                 },
                 {
+                    "cheetah_location": "product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk",
+                    "cheetah_size": 37852,
+                    "cheetah_v_code": "2022302463576837",
+                    "cheetah_version": "2022.30.2-463576837-release",
+                    "cheetah_version_code": "2017095958",
                     "file_path": "___app___CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk",
                     "size": 37852,
                     "update_indicator": "1",
@@ -1131,6 +1201,11 @@
                     "version_code": "1066493137"
                 },
                 {
+                    "cheetah_location": "product/app/Maps/Maps.apk",
+                    "cheetah_size": 73061,
+                    "cheetah_v_code": "11440905",
+                    "cheetah_version": "11.44.0905",
+                    "cheetah_version_code": "1066662178",
                     "file_path": "___app___Maps/Maps.apk",
                     "size": 73061,
                     "update_indicator": "1",
@@ -1160,6 +1235,11 @@
                     "version_code": "143574063"
                 },
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltBugle/PrebuiltBugle.apk",
+                    "cheetah_size": 75849,
+                    "cheetah_v_code": "202208090102648",
+                    "cheetah_version": "messages.android_20220809_01_RC02_alldpi.arm64-v8a.phone",
+                    "cheetah_version_code": "143576840",
                     "file_path": "___priv-app___PrebuiltBugle/PrebuiltBugle.apk",
                     "size": 75849,
                     "update_indicator": "1",
@@ -1189,6 +1269,11 @@
                     "version_code": "1450"
                 },
                 {
+                    "cheetah_location": "product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk",
+                    "cheetah_size": 727,
+                    "cheetah_v_code": "100448391512",
+                    "cheetah_version": "100.448391512",
+                    "cheetah_version_code": "1450",
                     "file_path": "___priv-app___PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk",
                     "size": 727,
                     "update_indicator": "1",
@@ -1469,6 +1554,11 @@
                     "version_code": "8460745"
                 },
                 {
+                    "cheetah_location": "product/priv-app/DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
+                    "cheetah_size": 91217,
+                    "cheetah_v_code": "07466922965",
+                    "cheetah_version": "T.0.sysimg.pixel7.466922965",
+                    "cheetah_version_code": "8460927",
                     "file_path": "___priv-app___DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
                     "size": 91217,
                     "update_indicator": "1",
@@ -1552,6 +1642,11 @@
                     "version_code": "137084"
                 },
                 {
+                    "cheetah_location": "product/priv-app/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
+                    "cheetah_size": 9489,
+                    "cheetah_v_code": "10447422065",
+                    "cheetah_version": "1.0.447422065",
+                    "cheetah_version_code": "137084",
                     "file_path": "___priv-app___GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
                     "size": 9489,
                     "update_indicator": "1",
@@ -1650,6 +1745,11 @@
                     "version_code": "137084"
                 },
                 {
+                    "cheetah_location": "product/priv-app/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
+                    "cheetah_size": 9489,
+                    "cheetah_v_code": "10447422065",
+                    "cheetah_version": "1.0.447422065",
+                    "cheetah_version_code": "137084",
                     "file_path": "___priv-app___GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
                     "size": 9489,
                     "update_indicator": "1",
