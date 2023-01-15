@@ -149,6 +149,20 @@
                     "update_available": true,
                     "v_code": "06453197295",
                     "version_code": "8460745"
+                },
+                {
+                    "cheetah_size": 91217,
+                    "cheetah_v_code": "07466922965",
+                    "cheetah_version_code": "8460927",
+                    "nikgapps_source": "___priv-app___DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
+                    "nikgapps_version": "T.0.sysimg.pixel7.466922965",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
+                    "oem_version": "T.0.sysimg.pixel7.466922965",
+                    "size": 91217,
+                    "update_available": true,
+                    "v_code": "07466922965",
+                    "version_code": "07466922965"
                 }
             ]
         }
@@ -169,6 +183,20 @@
                     "update_available": true,
                     "v_code": "10419053874",
                     "version_code": "271"
+                },
+                {
+                    "cheetah_size": 2682,
+                    "cheetah_v_code": "10450944095",
+                    "cheetah_version_code": "293",
+                    "nikgapps_source": "___priv-app___OTAConfigNoZeroTouchPrebuilt/OTAConfigNoZeroTouchPrebuilt.apk",
+                    "nikgapps_version": "1.0.450944095",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/OTAConfigNoZeroTouchPrebuilt/OTAConfigNoZeroTouchPrebuilt.apk",
+                    "oem_version": "1.0.450944095",
+                    "size": 2682,
+                    "update_available": true,
+                    "v_code": "10450944095",
+                    "version_code": "10450944095"
                 }
             ]
         }
@@ -449,6 +477,26 @@
             ]
         }
     ],
+    "GooglePartnerSetup": [
+        {
+            "com.google.android.partnersetup": [
+                {
+                    "cheetah_size": 727,
+                    "cheetah_v_code": "100448391512",
+                    "cheetah_version_code": "1450",
+                    "nikgapps_source": "___priv-app___PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk",
+                    "nikgapps_version": "100.448391512",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk",
+                    "oem_version": "100.448391512",
+                    "size": 727,
+                    "update_available": true,
+                    "v_code": "100448391512",
+                    "version_code": "100448391512"
+                }
+            ]
+        }
+    ],
     "GoogleRecorder": [
         {
             "com.google.android.apps.recorder": [
@@ -603,6 +651,20 @@
                     "update_available": true,
                     "v_code": "06453197295",
                     "version_code": "8460745"
+                },
+                {
+                    "cheetah_size": 91217,
+                    "cheetah_v_code": "07466922965",
+                    "cheetah_version_code": "8460927",
+                    "nikgapps_source": "___priv-app___DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
+                    "nikgapps_version": "T.0.sysimg.pixel7.466922965",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
+                    "oem_version": "T.0.sysimg.pixel7.466922965",
+                    "size": 91217,
+                    "update_available": true,
+                    "v_code": "07466922965",
+                    "version_code": "07466922965"
                 }
             ]
         },
@@ -663,6 +725,24 @@
             ]
         },
         {
+            "com.google.android.apps.restore": [
+                {
+                    "cheetah_size": 9489,
+                    "cheetah_v_code": "10447422065",
+                    "cheetah_version_code": "137084",
+                    "nikgapps_source": "___priv-app___GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
+                    "nikgapps_version": "1.0.447422065",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
+                    "oem_version": "1.0.447422065",
+                    "size": 9489,
+                    "update_available": true,
+                    "v_code": "10447422065",
+                    "version_code": "10447422065"
+                }
+            ]
+        },
+        {
             "com.google.android.onetimeinitializer": [
                 {
                     "cheetah_size": 198,
@@ -715,6 +795,24 @@
                     "update_available": true,
                     "v_code": "233456679113",
                     "version_code": "233475791542"
+                }
+            ]
+        },
+        {
+            "com.google.android.apps.restore": [
+                {
+                    "cheetah_size": 9489,
+                    "cheetah_v_code": "10447422065",
+                    "cheetah_version_code": "137084",
+                    "nikgapps_source": "___priv-app___GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
+                    "nikgapps_version": "1.0.447422065",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
+                    "oem_version": "1.0.447422065",
+                    "size": 9489,
+                    "update_available": true,
+                    "v_code": "10447422065",
+                    "version_code": "10447422065"
                 }
             ]
         },
