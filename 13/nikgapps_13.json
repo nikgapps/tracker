@@ -623,24 +623,6 @@
             ]
         }
     ],
-    "DevicePersonalizationServices": [
-        {
-            "com.google.android.as": [
-                {
-                    "file": "___priv-app___DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
-                    "folder": "DevicePersonalizationPrebuiltPixel2022",
-                    "package": "com.google.android.as",
-                    "package_title": "DevicePersonalizationServices",
-                    "partition": "system",
-                    "size": 91217,
-                    "type": "priv-app",
-                    "v_code": "07466922965",
-                    "version": "T.0.sysimg.pixel7.466922965",
-                    "version_code": "8460927"
-                }
-            ]
-        }
-    ],
     "DeviceSetup": [
         {
             "com.google.android.apps.work.oobconfig": [
@@ -1293,24 +1275,6 @@
                     "v_code": "1300451114697",
                     "version": "13.0.0.451114697",
                     "version_code": "60124966"
-                }
-            ]
-        }
-    ],
-    "GoogleWallpaper": [
-        {
-            "com.google.android.apps.wallpaper": [
-                {
-                    "file": "___priv-app___WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
-                    "folder": "WallpaperPickerGoogleRelease",
-                    "package": "com.google.android.apps.wallpaper",
-                    "package_title": "GoogleWallpaper",
-                    "partition": "system",
-                    "size": 8072,
-                    "type": "priv-app",
-                    "v_code": "13",
-                    "version": "13",
-                    "version_code": "200000300"
                 }
             ]
         }
