@@ -1031,6 +1031,20 @@
             "version_code": "506007134"
         }
     ],
+    "com.google.android.youtube": [
+        {
+            "file": "YouTube/YouTube.apk",
+            "folder": "YouTube",
+            "location": "product/packages/apps/YouTube/YouTube.apk",
+            "package": "com.google.android.youtube",
+            "partition": "product",
+            "size": 115065,
+            "type": "app",
+            "v_code": "171737",
+            "version": "17.17.37",
+            "version_code": "1529081304"
+        }
+    ],
     "com.google.ar.core": [
         {
             "file": "arcore/arcore.apk",
