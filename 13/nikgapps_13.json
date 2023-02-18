@@ -677,24 +677,6 @@
             ]
         }
     ],
-    "Flipendo": [
-        {
-            "com.google.android.flipendo": [
-                {
-                    "file": "___app___Flipendo/Flipendo.apk",
-                    "folder": "Flipendo",
-                    "package": "com.google.android.flipendo",
-                    "package_title": "Flipendo",
-                    "partition": "system",
-                    "size": 11772,
-                    "type": "app",
-                    "v_code": "13",
-                    "version": "13",
-                    "version_code": "33"
-                }
-            ]
-        }
-    ],
     "GBoard": [
         {
             "com.google.android.inputmethod.latin": [
