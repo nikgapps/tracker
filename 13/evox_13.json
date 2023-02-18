@@ -69,6 +69,34 @@
             "version_code": "22"
         }
     ],
+    "com.google.ambient.streaming": [
+        {
+            "file": "AmbientStreaming/AmbientStreaming.apk",
+            "folder": "AmbientStreaming",
+            "location": "product/packages/privileged_apps/AmbientStreaming/AmbientStreaming.apk",
+            "package": "com.google.ambient.streaming",
+            "partition": "product",
+            "size": 325,
+            "type": "priv-app",
+            "v_code": "10",
+            "version": "1.0",
+            "version_code": "1000000"
+        }
+    ],
+    "com.google.android.GoogleCamera": [
+        {
+            "file": "GoogleCamera/GoogleCamera.apk",
+            "folder": "GoogleCamera",
+            "location": "product/packages/privileged_apps/GoogleCamera/GoogleCamera.apk",
+            "package": "com.google.android.GoogleCamera",
+            "partition": "product",
+            "size": 271133,
+            "type": "priv-app",
+            "v_code": "8626345937042010",
+            "version": "8.6.263.459370420.10",
+            "version_code": "65535009"
+        }
+    ],
     "com.google.android.accessibility.soundamplifier": [
         {
             "file": "SoundAmplifierPrebuilt/SoundAmplifierPrebuilt.apk",
@@ -95,6 +123,20 @@
             "v_code": "400",
             "version": "4.0.0",
             "version_code": "6"
+        }
+    ],
+    "com.google.android.apps.cbrsnetworkmonitor": [
+        {
+            "file": "CbrsNetworkMonitor/CbrsNetworkMonitor.apk",
+            "folder": "CbrsNetworkMonitor",
+            "location": "product/packages/privileged_apps/CbrsNetworkMonitor/CbrsNetworkMonitor.apk",
+            "package": "com.google.android.apps.cbrsnetworkmonitor",
+            "partition": "product",
+            "size": 432,
+            "type": "priv-app",
+            "v_code": "101462188980",
+            "version": "10.1.462188980",
+            "version_code": "10"
         }
     ],
     "com.google.android.apps.diagnosticstool": [
@@ -139,6 +181,20 @@
             "version_code": "15041"
         }
     ],
+    "com.google.android.apps.internal.betterbug": [
+        {
+            "file": "BetterBugStub/BetterBugStub.apk",
+            "folder": "BetterBugStub",
+            "location": "product/packages/privileged_apps/BetterBugStub/BetterBugStub.apk",
+            "package": "com.google.android.apps.internal.betterbug",
+            "partition": "product",
+            "size": 13,
+            "type": "priv-app",
+            "v_code": "10",
+            "version": "1.0",
+            "version_code": "1"
+        }
+    ],
     "com.google.android.apps.messaging": [
         {
             "file": "PrebuiltBugle/PrebuiltBugle.apk",
@@ -179,6 +235,20 @@
             "v_code": "5900448589144",
             "version": "5.90.0.448589144",
             "version_code": "43359491"
+        }
+    ],
+    "com.google.android.apps.privacy.wildlife": [
+        {
+            "file": "AdaptiveVPNPrebuilt/AdaptiveVPNPrebuilt.apk",
+            "folder": "AdaptiveVPNPrebuilt",
+            "location": "product/packages/privileged_apps/AdaptiveVPNPrebuilt/AdaptiveVPNPrebuilt.apk",
+            "package": "com.google.android.apps.privacy.wildlife",
+            "partition": "product",
+            "size": 2713,
+            "type": "priv-app",
+            "v_code": "",
+            "version": "STUB",
+            "version_code": "1"
         }
     ],
     "com.google.android.apps.recorder": [
@@ -265,6 +335,20 @@
             "version_code": "10250957"
         }
     ],
+    "com.google.android.apps.tycho": [
+        {
+            "file": "Tycho/Tycho.apk",
+            "folder": "Tycho",
+            "location": "product/packages/apps/Tycho/Tycho.apk",
+            "package": "com.google.android.apps.tycho",
+            "partition": "product",
+            "size": 30165,
+            "type": "app",
+            "v_code": "64648453233409",
+            "version": "V64-arm64-v8a-universal-pixel-prereleaseSdk (453233409)",
+            "version_code": "1628852"
+        }
+    ],
     "com.google.android.apps.wallpaper.pixel": [
         {
             "file": "PixelWallpapers2022/PixelWallpapers2022.apk",
@@ -323,18 +407,6 @@
     ],
     "com.google.android.as": [
         {
-            "file": "DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
-            "folder": "DevicePersonalizationPrebuiltPixel2022",
-            "location": "product/packages/privileged_apps/DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
-            "package": "com.google.android.as",
-            "partition": "product",
-            "size": 91217,
-            "type": "priv-app",
-            "v_code": "07466922965",
-            "version": "T.0.sysimg.pixel7.466922965",
-            "version_code": "8460927"
-        },
-        {
             "file": "DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk",
             "folder": "DevicePersonalizationPrebuiltPixel2020",
             "location": "product/packages/privileged_apps/DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk",
@@ -373,6 +445,20 @@
             "v_code": "2022302463576837",
             "version": "2022.30.2-463576837-release",
             "version_code": "2017095958"
+        }
+    ],
+    "com.google.android.carrierlocation": [
+        {
+            "file": "CarrierLocation/CarrierLocation.apk",
+            "folder": "CarrierLocation",
+            "location": "product/packages/privileged_apps/CarrierLocation/CarrierLocation.apk",
+            "package": "com.google.android.carrierlocation",
+            "partition": "product",
+            "size": 1646,
+            "type": "priv-app",
+            "v_code": "13",
+            "version": "13",
+            "version_code": "33"
         }
     ],
     "com.google.android.configupdater": [
@@ -681,6 +767,20 @@
             "v_code": "213104700065387730465387730465",
             "version": "213104700065.387730465.387730465",
             "version_code": "213104700"
+        }
+    ],
+    "com.google.android.gms.supervision": [
+        {
+            "file": "KidsSupervisionStub/KidsSupervisionStub.apk",
+            "folder": "KidsSupervisionStub",
+            "location": "product/packages/privileged_apps/KidsSupervisionStub/KidsSupervisionStub.apk",
+            "package": "com.google.android.gms.supervision",
+            "partition": "product",
+            "size": 42,
+            "type": "priv-app",
+            "v_code": "01453788429",
+            "version": "0.1.453788429",
+            "version_code": "284"
         }
     ],
     "com.google.android.googlequicksearchbox": [
@@ -1029,20 +1129,6 @@
             "v_code": "1030506071",
             "version": "103.0.5060.71",
             "version_code": "506007134"
-        }
-    ],
-    "com.google.android.youtube": [
-        {
-            "file": "YouTube/YouTube.apk",
-            "folder": "YouTube",
-            "location": "product/packages/apps/YouTube/YouTube.apk",
-            "package": "com.google.android.youtube",
-            "partition": "product",
-            "size": 115065,
-            "type": "app",
-            "v_code": "171737",
-            "version": "17.17.37",
-            "version_code": "1529081304"
         }
     ],
     "com.google.ar.core": [
