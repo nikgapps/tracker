@@ -1,6 +1,12 @@
 {
-  "count_by_date": {},
-  "log_time": "Sun, 02/19/2023, 01:22:20",
-  "total_before": 0,
-  "total_now": 154803
+  "count_by_date": {
+    "20230219": {
+      "count": "154818"
+    }
+  },
+  "count_diff": "15",
+  "log_time": "Sun, 02/19/2023, 01:23:58",
+  "time_diff": "0:01:38",
+  "total_before": 154803,
+  "total_now": 154818
 }
