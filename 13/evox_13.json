@@ -1159,34 +1159,6 @@
             "version_code": "79148"
         }
     ],
-    "com.google.mainline.adservices": [
-        {
-            "file": "PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk",
-            "folder": "PrebuiltGoogleAdservicesTvp",
-            "location": "product/packages/apps/PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk",
-            "package": "com.google.mainline.adservices",
-            "partition": "product",
-            "size": 22,
-            "type": "app",
-            "v_code": "20221001",
-            "version": "2022-10-01 T+",
-            "version_code": "331002000"
-        }
-    ],
-    "com.google.mainline.telemetry": [
-        {
-            "file": "PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk",
-            "folder": "PrebuiltGoogleTelemetryTvp",
-            "location": "product/packages/apps/PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk",
-            "package": "com.google.mainline.telemetry",
-            "partition": "product",
-            "size": 22,
-            "type": "app",
-            "v_code": "20221001",
-            "version": "2022-10-01 S+",
-            "version_code": "331002004"
-        }
-    ],
     "com.google.pixel.livewallpaper": [
         {
             "file": "PixelLiveWallpaperPrebuilt/PixelLiveWallpaperPrebuilt.apk",
