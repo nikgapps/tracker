@@ -419,6 +419,20 @@
             "version_code": "8438691"
         }
     ],
+    "com.google.android.as.oss": [
+        {
+            "file": "DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
+            "folder": "DeviceIntelligenceNetworkPrebuilt",
+            "location": "product/packages/privileged_apps/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
+            "package": "com.google.android.as.oss",
+            "partition": "product",
+            "size": 17611,
+            "type": "priv-app",
+            "v_code": "10444852243",
+            "version": "1.0.release.444852243",
+            "version_code": "4363"
+        }
+    ],
     "com.google.android.calculator": [
         {
             "file": "CalculatorGooglePrebuilt/CalculatorGooglePrebuilt.apk",
