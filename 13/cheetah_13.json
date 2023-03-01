@@ -14,7 +14,7 @@
             "version_code": "1"
         }
     ],
-    "branch": "cheetah-user-13-TQ1A.230105.002-9325679-release-keys",
+    "branch": "cheetah-user-13-TQ1A.230205.002-9471150-release-keys",
     "com.android.angle": [
         {
             "file": "ANGLE/ANGLE.apk",
@@ -1039,7 +1039,7 @@
             "location": "system_ext/priv-app/ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk",
             "package": "com.google.android.connectivitythermalpowermanager",
             "partition": "system_ext",
-            "size": 6435,
+            "size": 6431,
             "type": "priv-app",
             "v_code": "13",
             "version": "13",
@@ -1950,11 +1950,11 @@
             "location": "system_ext/priv-app/EuiccSupportPixel/EuiccSupportPixel.apk",
             "package": "com.google.euiccpixel",
             "partition": "system_ext",
-            "size": 3250,
+            "size": 3248,
             "type": "priv-app",
-            "v_code": "17468985387",
-            "version": "D.1.7.46 (8985387)",
-            "version_code": "17465"
+            "v_code": "17499317720",
+            "version": "D.1.7.49 (9317720)",
+            "version_code": "17495"
         }
     ],
     "com.google.euiccpixel.permissions": [
