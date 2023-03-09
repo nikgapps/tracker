@@ -1590,6 +1590,20 @@
                     "version_code": "200000300"
                 }
             ]
+        },
+        {
+            "com.google.android.settings.intelligence": [
+                {
+                    "file_path": "___priv-app___SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk",
+                    "package": "com.google.android.settings.intelligence",
+                    "size": 7988,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "110467586837",
+                    "version": "1.1.0.467586837.sr",
+                    "version_code": "1000210714"
+                }
+            ]
         }
     ],
     "PixelSetupWizard": [
