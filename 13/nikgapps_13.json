@@ -1379,6 +1379,22 @@
                     "version_code": "200000300"
                 }
             ]
+        },
+        {
+            "com.google.android.settings.intelligence": [
+                {
+                    "file": "___priv-app___SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk",
+                    "folder": "SettingsIntelligenceGooglePrebuilt",
+                    "package": "com.google.android.settings.intelligence",
+                    "package_title": "SettingsServices",
+                    "partition": "system",
+                    "size": 7988,
+                    "type": "priv-app",
+                    "v_code": "110467586837",
+                    "version": "1.1.0.467586837.sr",
+                    "version_code": "1000210714"
+                }
+            ]
         }
     ],
     "PlayGames": [
