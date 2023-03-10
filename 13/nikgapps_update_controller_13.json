@@ -869,6 +869,24 @@
                     "version_code": "1000210714"
                 }
             ]
+        },
+        {
+            "com.google.android.as.oss": [
+                {
+                    "cheetah_size": 36574,
+                    "cheetah_v_code": "10508365182",
+                    "cheetah_version_code": "15535",
+                    "nikgapps_source": "___priv-app___DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
+                    "nikgapps_version": "1.0.release.482809211",
+                    "oem": "cheetah",
+                    "oem_source": "product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
+                    "oem_version": "1.0.internal.508365182",
+                    "size": 32817,
+                    "update_available": true,
+                    "v_code": "10482809211",
+                    "version_code": "8987"
+                }
+            ]
         }
     ],
     "PixelSetupWizard": [
