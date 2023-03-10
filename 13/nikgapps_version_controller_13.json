@@ -1613,6 +1613,11 @@
         {
             "com.google.android.as.oss": [
                 {
+                    "cheetah_location": "product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
+                    "cheetah_size": 36574,
+                    "cheetah_v_code": "10508365182",
+                    "cheetah_version": "1.0.internal.508365182",
+                    "cheetah_version_code": "15535",
                     "file_path": "___priv-app___DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
                     "package": "com.google.android.as.oss",
                     "size": 32817,
