@@ -1609,6 +1609,20 @@
                     "version_code": "1000210714"
                 }
             ]
+        },
+        {
+            "com.google.android.as.oss": [
+                {
+                    "file_path": "___priv-app___DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
+                    "package": "com.google.android.as.oss",
+                    "size": 32817,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "10482809211",
+                    "version": "1.0.release.482809211",
+                    "version_code": "8987"
+                }
+            ]
         }
     ],
     "PixelSetupWizard": [
