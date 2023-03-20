@@ -842,9 +842,9 @@
                     "size": 12919,
                     "update_indicator": "1",
                     "update_source": "cheetah",
-                    "v_code": "188436428459",
-                    "version": "1.8.8.436428459 release",
-                    "version_code": "10203252"
+                    "v_code": "190473991075",
+                    "version": "1.9.0.473991075 release",
+                    "version_code": "12250740"
                 }
             ]
         }
@@ -879,9 +879,9 @@
                     "size": 10344,
                     "update_indicator": "1",
                     "update_source": "cheetah",
-                    "v_code": "856197464524",
-                    "version": "8.5.6.197464524.go_release",
-                    "version_code": "693498"
+                    "v_code": "20221010480125827",
+                    "version": "2022.10.10.480125827.Release",
+                    "version_code": "62507962"
                 }
             ]
         }
@@ -1161,9 +1161,9 @@
                     "size": 26124,
                     "update_indicator": "1",
                     "update_source": "cheetah",
-                    "v_code": "358464445598",
-                    "version": "3.58.464445598.release",
-                    "version_code": "677555"
+                    "v_code": "373516407828",
+                    "version": "3.73.516407828.release",
+                    "version_code": "763879"
                 }
             ]
         }
@@ -1470,9 +1470,9 @@
                     "size": 587,
                     "update_indicator": "1",
                     "update_source": "cheetah",
-                    "v_code": "1570",
-                    "version": "157.0",
-                    "version_code": "157"
+                    "v_code": "1601",
+                    "version": "160.1",
+                    "version_code": "160"
                 }
             ]
         }
