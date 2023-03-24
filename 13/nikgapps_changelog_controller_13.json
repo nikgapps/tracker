@@ -102,5 +102,52 @@
         {
             "GoogleRestore": "1.0.447422065"
         }
+    ],
+    "2023-03-24": [
+        {
+            "GmsCore": "22.46.17 (190408-491726958)"
+        },
+        {
+            "GoogleServicesFramework": "13"
+        },
+        {
+            "DevicePersonalizationServices": "T.10.sysimg.pixel7.477131528"
+        },
+        {
+            "DigitalWellbeing": "1.4.489941911 (452937)"
+        },
+        {
+            "GBoard": "12.4.05.482060964-preload-arm64-v8a"
+        },
+        {
+            "GoogleCalculator": "8.3 (477856174)"
+        },
+        {
+            "GoogleClock": "7.3 (482632418)"
+        },
+        {
+            "GoogleDialer": "96.0.491984192"
+        },
+        {
+            "GoogleRecorder": "4.0.491496795"
+        },
+        {
+            "Velvet": "13.37.11.29.arm64"
+        },
+        {
+            "GoogleSounds": "3.0 (496815901)"
+        },
+        {
+            "GoogleWallpaper": "13"
+        },
+        {
+            "MarkupGoogle": "1.0"
+        },
+        {
+            "SettingsServices": "1.1.0.484201367.df"
+        },
+        {
+            "SetupWizard": "233.492659660"
+        }
     ]
 }
