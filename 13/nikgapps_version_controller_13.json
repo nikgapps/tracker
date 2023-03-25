@@ -392,6 +392,11 @@
         {
             "com.google.android.gms.policy_vision_barcode_dynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/m/optional/VisionBarcodePrebuilt.apk",
+                    "cheetah_size": 4219,
+                    "cheetah_v_code": "221180404065456661180456661180",
+                    "cheetah_version": "221180404065.456661180.456661180",
+                    "cheetah_version_code": "221180404",
                     "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
                     "package": "com.google.android.gms.policy_vision_barcode_dynamite",
                     "size": 4219,
@@ -702,6 +707,11 @@
         {
             "com.google.android.gms.policy_vision_barcode_dynamite": [
                 {
+                    "cheetah_location": "product/priv-app/PrebuiltGmsCore/m/optional/VisionBarcodePrebuilt.apk",
+                    "cheetah_size": 4219,
+                    "cheetah_v_code": "221180404065456661180456661180",
+                    "cheetah_version": "221180404065.456661180.456661180",
+                    "cheetah_version_code": "221180404",
                     "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
                     "package": "com.google.android.gms.policy_vision_barcode_dynamite",
                     "size": 4219,
