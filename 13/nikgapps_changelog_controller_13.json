@@ -149,5 +149,67 @@
         {
             "SetupWizard": "233.492659660"
         }
+    ],
+    "2023-03-31": [
+        {
+            "CarrierServices": "117.0.466044276-carrierservices_20220808_RC00"
+        },
+        {
+            "GooglePlayStore": "30.4.21-21 [0] [PR] 475636937"
+        },
+        {
+            "DeviceHealthServices": "1.24.0.450919346.release"
+        },
+        {
+            "Drive": "2.22.297.0.arm64-v8a.alldpi"
+        },
+        {
+            "Gmail": "2022.05.01.448071085.Release"
+        },
+        {
+            "GoogleCalendar": "2022.30.2-463576837-release"
+        },
+        {
+            "GoogleFeedback": "13"
+        },
+        {
+            "GoogleFiles": "1.0.459878599"
+        },
+        {
+            "GoogleMaps": "11.44.0905"
+        },
+        {
+            "GoogleMessages": "messages.android_20220809_01_RC02_alldpi.arm64-v8a.phone"
+        },
+        {
+            "GooglePartnerSetup": "100.448391512"
+        },
+        {
+            "GooglePhotos": "5.90.0.448589144"
+        },
+        {
+            "GoogleTTS": "googletts.google-speech-apk_20220613.02_p4.456265266"
+        },
+        {
+            "GoogleTalkback": "13.0.0.451114697"
+        },
+        {
+            "PixelLauncher": "13"
+        },
+        {
+            "QuickAccessWallet": "1.0.0.0"
+        },
+        {
+            "GoogleOneTimeInitializer": "13"
+        },
+        {
+            "GoogleRestore": "1.0.447422065"
+        },
+        {
+            "YouTube": "17.17.37"
+        },
+        {
+            "YouTubeMusic": "5.04.51"
+        }
     ]
 }
