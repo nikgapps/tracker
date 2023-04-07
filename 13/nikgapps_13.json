@@ -1422,11 +1422,11 @@
                     "package": "com.google.android.play.games",
                     "package_title": "PlayGames",
                     "partition": "system",
-                    "size": 12608,
+                    "size": 20658,
                     "type": "app",
-                    "v_code": "20220334949449489526449489526000400",
-                    "version": "2022.03.34949 (449489526.449489526-000400)",
-                    "version_code": "349492040"
+                    "v_code": "20230140470501577610501577610000400",
+                    "version": "2023.01.40470 (501577610.501577610-000400)",
+                    "version_code": "404700040"
                 }
             ]
         }
