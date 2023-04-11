@@ -1411,6 +1411,34 @@
                     "version_code": "8987"
                 }
             ]
+        },
+        {
+            "com.google.android.apps.customization.pixel": [
+                {
+                    "file": "___app___PixelThemesStub/PixelThemesStub.apk",
+                    "folder": "PixelThemesStub",
+                    "package": "com.google.android.apps.customization.pixel",
+                    "package_title": "PixelThemes",
+                    "partition": "system",
+                    "size": 50,
+                    "type": "app",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "2"
+                },
+                {
+                    "file": "___app___PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
+                    "folder": "PixelThemesStub2022_and_newer",
+                    "package": "com.google.android.apps.customization.pixel",
+                    "package_title": "PixelThemes",
+                    "partition": "system",
+                    "size": 50,
+                    "type": "app",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "2"
+                }
+            ]
         }
     ],
     "PlayGames": [
