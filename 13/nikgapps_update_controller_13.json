@@ -1249,6 +1249,24 @@
                     "version_code": "1000214325"
                 }
             ]
+        },
+        {
+            "com.google.android.apps.customization.pixel": [
+                {
+                    "cheetah_size": 50,
+                    "cheetah_v_code": "13",
+                    "cheetah_version_code": "2",
+                    "nikgapps_source": "___app___PixelThemesStub/PixelThemesStub.apk",
+                    "nikgapps_version": "13",
+                    "oem": "cheetah",
+                    "oem_source": "product/app/PixelThemesStub/PixelThemesStub.apk",
+                    "oem_version": "13",
+                    "size": 50,
+                    "update_available": true,
+                    "v_code": "13",
+                    "version_code": "2"
+                }
+            ]
         }
     ],
     "PixelSetupWizard": [
