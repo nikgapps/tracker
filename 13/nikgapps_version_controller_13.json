@@ -1666,6 +1666,20 @@
                     "version_code": "8987"
                 }
             ]
+        },
+        {
+            "com.google.android.apps.customization.pixel": [
+                {
+                    "file_path": "___app___PixelThemesStub/PixelThemesStub.apk",
+                    "package": "com.google.android.apps.customization.pixel",
+                    "size": 50,
+                    "update_indicator": "1",
+                    "update_source": "cheetah",
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "2"
+                }
+            ]
         }
     ],
     "PixelSetupWizard": [
@@ -1755,9 +1769,9 @@
                     "size": 12608,
                     "update_indicator": "1",
                     "update_source": "cheetah",
-                    "v_code": "20220334949449489526449489526000400",
-                    "version": "2022.03.34949 (449489526.449489526-000400)",
-                    "version_code": "349492040"
+                    "v_code": "20230140470501577610501577610000400",
+                    "version": "2023.01.40470 (501577610.501577610-000400)",
+                    "version_code": "404700040"
                 }
             ]
         }
