@@ -1670,6 +1670,11 @@
         {
             "com.google.android.apps.customization.pixel": [
                 {
+                    "cheetah_location": "product/app/PixelThemesStub/PixelThemesStub.apk",
+                    "cheetah_size": 50,
+                    "cheetah_v_code": "13",
+                    "cheetah_version": "13",
+                    "cheetah_version_code": "2",
                     "file_path": "___app___PixelThemesStub/PixelThemesStub.apk",
                     "package": "com.google.android.apps.customization.pixel",
                     "size": 50,
