@@ -794,11 +794,11 @@
                     "package": "com.android.chrome",
                     "package_title": "GoogleChrome",
                     "partition": "system",
-                    "size": 1201,
+                    "size": 13,
                     "type": "app",
-                    "v_code": "1030506071",
-                    "version": "103.0.5060.71",
-                    "version_code": "506007134"
+                    "v_code": "10905414123",
+                    "version": "109.0.5414.123",
+                    "version_code": "541412334"
                 }
             ]
         },
@@ -810,11 +810,11 @@
                     "package": "com.google.android.webview",
                     "package_title": "WebViewGoogle",
                     "partition": "system",
-                    "size": 779,
+                    "size": 13,
                     "type": "app",
-                    "v_code": "1030506071",
-                    "version": "103.0.5060.71",
-                    "version_code": "506007134"
+                    "v_code": "10905414123",
+                    "version": "109.0.5414.123",
+                    "version_code": "541412334"
                 }
             ]
         },
@@ -826,11 +826,11 @@
                     "package": "com.google.android.trichromelibrary",
                     "package_title": "TrichromeLibrary",
                     "partition": "system",
-                    "size": 17,
+                    "size": 13,
                     "type": "app",
-                    "v_code": "1030506071",
-                    "version": "103.0.5060.71",
-                    "version_code": "506007134"
+                    "v_code": "10905414123",
+                    "version": "109.0.5414.123",
+                    "version_code": "541412334"
                 }
             ]
         }
