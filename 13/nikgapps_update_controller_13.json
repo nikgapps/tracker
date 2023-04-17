@@ -783,62 +783,6 @@
             ]
         }
     ],
-    "GoogleChrome": [
-        {
-            "com.android.chrome": [
-                {
-                    "cheetah_size": 1201,
-                    "cheetah_v_code": "1030506071",
-                    "cheetah_version_code": "506007134",
-                    "nikgapps_source": "___app___Chrome-Stub/Chrome-Stub.apk",
-                    "nikgapps_version": "103.0.5060.71",
-                    "oem": "cheetah",
-                    "oem_source": "product/app/Chrome-Stub/Chrome-Stub.apk",
-                    "oem_version": "103.0.5060.71",
-                    "size": 1201,
-                    "update_available": true,
-                    "v_code": "1030506071",
-                    "version_code": "506007134"
-                }
-            ]
-        },
-        {
-            "com.google.android.webview": [
-                {
-                    "cheetah_size": 779,
-                    "cheetah_v_code": "1030506071",
-                    "cheetah_version_code": "506007134",
-                    "nikgapps_source": "___app___WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
-                    "nikgapps_version": "103.0.5060.71",
-                    "oem": "cheetah",
-                    "oem_source": "product/app/WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
-                    "oem_version": "103.0.5060.71",
-                    "size": 779,
-                    "update_available": true,
-                    "v_code": "1030506071",
-                    "version_code": "506007134"
-                }
-            ]
-        },
-        {
-            "com.google.android.trichromelibrary": [
-                {
-                    "cheetah_size": 17,
-                    "cheetah_v_code": "1030506071",
-                    "cheetah_version_code": "506007134",
-                    "nikgapps_source": "___app___TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
-                    "nikgapps_version": "103.0.5060.71",
-                    "oem": "cheetah",
-                    "oem_source": "product/app/TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
-                    "oem_version": "103.0.5060.71",
-                    "size": 17,
-                    "update_available": true,
-                    "v_code": "1030506071",
-                    "version_code": "506007134"
-                }
-            ]
-        }
-    ],
     "GoogleClock": [
         {
             "com.google.android.deskclock": [
