@@ -151,18 +151,6 @@
             "v_code": "13",
             "version": "13",
             "version_code": "2"
-        },
-        {
-            "file": "PixelThemesStub/PixelThemesStub.apk",
-            "folder": "PixelThemesStub",
-            "location": "product/packages/apps/PixelThemesStub/PixelThemesStub.apk",
-            "package": "com.google.android.apps.customization.pixel",
-            "partition": "product",
-            "size": 50,
-            "type": "app",
-            "v_code": "13",
-            "version": "13",
-            "version_code": "2"
         }
     ],
     "com.google.android.apps.diagnosticstool": [
@@ -261,20 +249,6 @@
             "v_code": "10459878599",
             "version": "1.0.459878599",
             "version_code": "388739"
-        }
-    ],
-    "com.google.android.apps.nexuslauncher": [
-        {
-            "file": "NexusLauncherRelease/NexusLauncherRelease.apk",
-            "folder": "NexusLauncherRelease",
-            "location": "system_ext/packages/privileged_apps/NexusLauncherRelease/NexusLauncherRelease.apk",
-            "package": "com.google.android.apps.nexuslauncher",
-            "partition": "system_ext",
-            "size": 12739,
-            "type": "priv-app",
-            "v_code": "13",
-            "version": "13",
-            "version_code": "906"
         }
     ],
     "com.google.android.apps.photos": [
@@ -401,20 +375,6 @@
             "v_code": "76648495183100",
             "version": "V76-arm64-v8a-universal-pixel (495183100)",
             "version_code": "2001749"
-        }
-    ],
-    "com.google.android.apps.wallpaper": [
-        {
-            "file": "WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
-            "folder": "WallpaperPickerGoogleRelease",
-            "location": "system_ext/packages/privileged_apps/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
-            "package": "com.google.android.apps.wallpaper",
-            "partition": "system_ext",
-            "size": 8404,
-            "type": "priv-app",
-            "v_code": "13",
-            "version": "13",
-            "version_code": "200000300"
         }
     ],
     "com.google.android.apps.wallpaper.pixel": [
