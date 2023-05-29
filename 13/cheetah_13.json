@@ -14,7 +14,7 @@
             "version_code": "1"
         }
     ],
-    "branch": "cheetah-user-13-TQ2A.230305.008.C1-9619669-release-keys",
+    "branch": "cheetah-user-13-TQ2A.230505.002-9891397-release-keys",
     "com.android.angle": [
         {
             "file": "ANGLE/ANGLE.apk",
@@ -1054,7 +1054,7 @@
             "location": "system_ext/priv-app/ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk",
             "package": "com.google.android.connectivitythermalpowermanager",
             "partition": "system_ext",
-            "size": 6521,
+            "size": 6517,
             "type": "priv-app",
             "v_code": "13",
             "version": "13",
@@ -1129,11 +1129,11 @@
             "location": "product/priv-app/EuiccGoogle/EuiccGoogle.apk",
             "package": "com.google.android.euicc",
             "partition": "product",
-            "size": 12004,
+            "size": 12017,
             "type": "priv-app",
-            "v_code": "21493483802",
-            "version": "D.2.1.493483802-google",
-            "version_code": "211310"
+            "v_code": "21506955134",
+            "version": "D.2.1.506955134-google",
+            "version_code": "211319"
         }
     ],
     "com.google.android.euiccoverlay": [
@@ -1759,10 +1759,10 @@
             "location": "product/priv-app/TetheringEntitlement/TetheringEntitlement.apk",
             "package": "com.google.android.tetheringentitlement",
             "partition": "product",
-            "size": 468,
+            "size": 509,
             "type": "priv-app",
-            "v_code": "1041459671657",
-            "version": "104.1.459671657",
+            "v_code": "1041510336171",
+            "version": "104.1.510336171",
             "version_code": "105"
         }
     ],
@@ -2115,7 +2115,7 @@
             "location": "system_ext/priv-app/ShannonIms/ShannonIms.apk",
             "package": "com.shannon.imsservice",
             "partition": "system_ext",
-            "size": 3463,
+            "size": 3467,
             "type": "priv-app",
             "v_code": "000000000000932579",
             "version": "000000.000000.b9d325b79",
