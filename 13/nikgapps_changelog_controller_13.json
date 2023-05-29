@@ -216,5 +216,115 @@
         {
             "DeviceHealthServices": "1.24.0.450919346.release"
         }
+    ],
+    "2023-05-29": [
+        {
+            "CarrierServices": "117.0.466044276-carrierservices_20220808_RC00"
+        },
+        {
+            "GmsCore": "22.46.17 (190408-491726958)"
+        },
+        {
+            "GooglePlayStore": "30.4.21-21 [0] [PR] 475636937"
+        },
+        {
+            "GoogleServicesFramework": "13"
+        },
+        {
+            "DeviceHealthServices": "1.24.0.450919346.release"
+        },
+        {
+            "DevicePersonalizationServices": "T.10.sysimg.pixel7.477131528"
+        },
+        {
+            "DigitalWellbeing": "1.4.489941911 (452937)"
+        },
+        {
+            "Drive": "2.22.297.0.arm64-v8a.alldpi"
+        },
+        {
+            "GBoard": "12.4.05.482060964-preload-arm64-v8a"
+        },
+        {
+            "Gmail": "2022.05.01.448071085.Release"
+        },
+        {
+            "GoogleCalculator": "8.3 (477856174)"
+        },
+        {
+            "GoogleCalendar": "2022.30.2-463576837-release"
+        },
+        {
+            "GoogleClock": "7.3 (482632418)"
+        },
+        {
+            "GoogleDialer": "96.0.491984192"
+        },
+        {
+            "GoogleFeedback": "13"
+        },
+        {
+            "GoogleFiles": "1.0.459878599"
+        },
+        {
+            "GoogleMaps": "11.44.0905"
+        },
+        {
+            "GoogleMessages": "messages.android_20220809_01_RC02_alldpi.arm64-v8a.phone"
+        },
+        {
+            "GooglePartnerSetup": "100.448391512"
+        },
+        {
+            "GooglePhotos": "5.90.0.448589144"
+        },
+        {
+            "GoogleRecorder": "4.0.491496795"
+        },
+        {
+            "Velvet": "13.37.11.29.arm64"
+        },
+        {
+            "GoogleSounds": "3.0 (496815901)"
+        },
+        {
+            "GoogleTTS": "googletts.google-speech-apk_20220613.02_p4.456265266"
+        },
+        {
+            "GoogleTalkback": "13.0.0.451114697"
+        },
+        {
+            "GoogleWallpaper": "13"
+        },
+        {
+            "MarkupGoogle": "1.0"
+        },
+        {
+            "PixelLauncher": "13"
+        },
+        {
+            "PixelThemes": "13"
+        },
+        {
+            "QuickAccessWallet": "1.0.0.0"
+        },
+        {
+            "SettingsServices": "1.1.0.484201367.df"
+        },
+        {
+            "GoogleOneTimeInitializer": "13"
+        },
+        {
+            "GoogleRestore": "1.0.447422065"
+        },
+        {
+            "SetupWizard": "233.492659660"
+        },
+        {
+            "YouTube": "17.17.37"
+        },
+        {
+            "YouTubeMusic": "5.04.51"
+        }
     ]
 }
