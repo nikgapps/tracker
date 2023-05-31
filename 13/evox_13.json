@@ -90,11 +90,11 @@
             "location": "product/packages/privileged_apps/GoogleCamera/GoogleCamera.apk",
             "package": "com.google.android.GoogleCamera",
             "partition": "product",
-            "size": 271133,
+            "size": 272298,
             "type": "priv-app",
-            "v_code": "8626345937042010",
-            "version": "8.6.263.459370420.10",
-            "version_code": "65535009"
+            "v_code": "8822551054749909",
+            "version": "8.8.225.510547499.09",
+            "version_code": "66251366"
         }
     ],
     "com.google.android.accessibility.soundamplifier": [
