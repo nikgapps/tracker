@@ -326,5 +326,61 @@
         {
             "YouTubeMusic": "5.04.51"
         }
+    ],
+    "2023-07-04": [
+        {
+            "GmsCore": "22.46.19 (190408-515739919)"
+        },
+        {
+            "GoogleServicesFramework": "13"
+        },
+        {
+            "GoogleCalculator": "8.4 (503542421)"
+        },
+        {
+            "GoogleClock": "7.4 (504317960)"
+        },
+        {
+            "GoogleDialer": "100.0.512999549"
+        },
+        {
+            "GoogleMessages": "messages.android_20221208_01_RC02_alldpi.arm64-v8a.phone"
+        },
+        {
+            "GooglePhotos": "6.29.0.519265844"
+        },
+        {
+            "GoogleTTS": "googletts.google-speech-apk_20230123.02_p3.506463867"
+        },
+        {
+            "GoogleTalkback": "13.1.0.520576362"
+        },
+        {
+            "MarkupGoogle": "1.0"
+        },
+        {
+            "GoogleWallpaper": "13"
+        },
+        {
+            "PixelLauncher": "13"
+        },
+        {
+            "QuickAccessWallet": "1.0.0.0"
+        },
+        {
+            "GoogleOneTimeInitializer": "13"
+        },
+        {
+            "PixelSetupWizard": "13"
+        },
+        {
+            "SetupWizard": "233.519080787"
+        },
+        {
+            "CinematicEffect": "13"
+        },
+        {
+            "EmojiWallpaper": "1.0.518495248"
+        }
     ]
 }
