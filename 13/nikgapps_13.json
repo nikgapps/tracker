@@ -133,7 +133,7 @@
                     "package_title": "GoogleServicesFramework",
                     "partition": "system",
                     "primary": false,
-                    "size": 7519586,
+                    "size": 7557656,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
@@ -194,9 +194,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
@@ -209,9 +209,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
@@ -224,9 +224,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
@@ -239,9 +239,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
@@ -254,9 +254,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_AdsDynamite.apk",
@@ -284,9 +284,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
@@ -299,9 +299,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
@@ -310,13 +310,13 @@
                     "package_title": "GmsCore",
                     "partition": "system",
                     "primary": false,
-                    "size": 126776128,
+                    "size": 126784318,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "224617190408491726958",
-                    "version": "22.46.17 (190408-491726958)",
-                    "version_code": "224617045"
+                    "v_code": "224619190408515739919",
+                    "version": "22.46.19 (190408-515739919)",
+                    "version_code": "224619045"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___m___independent/AndroidPlatformServices.apk",
@@ -340,13 +340,13 @@
                     "package_title": "GmsCore",
                     "partition": "system",
                     "primary": false,
-                    "size": 5613074,
+                    "size": 5613076,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171000000",
-                    "version": "22.46.17 (100000-0)",
-                    "version_code": "224617057"
+                    "v_code": "2246191000000",
+                    "version": "22.46.19 (100000-0)",
+                    "version_code": "224619057"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
@@ -380,9 +380,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
@@ -395,9 +395,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
@@ -410,9 +410,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
@@ -425,9 +425,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
@@ -440,9 +440,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_AdsDynamite.apk",
@@ -470,9 +470,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
@@ -485,9 +485,9 @@
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171904080",
-                    "version": "22.46.17 (190408-0)",
-                    "version_code": "224617099"
+                    "v_code": "2246191904080",
+                    "version": "22.46.19 (190408-0)",
+                    "version_code": "224619099"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
@@ -496,13 +496,13 @@
                     "package_title": "GmsCore",
                     "partition": "system",
                     "primary": false,
-                    "size": 126776128,
+                    "size": 126784318,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "224617190408491726958",
-                    "version": "22.46.17 (190408-491726958)",
-                    "version_code": "224617045"
+                    "v_code": "224619190408515739919",
+                    "version": "22.46.19 (190408-515739919)",
+                    "version_code": "224619045"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___m___independent/AndroidPlatformServices.apk",
@@ -526,13 +526,13 @@
                     "package_title": "GmsCore",
                     "partition": "system",
                     "primary": false,
-                    "size": 5613074,
+                    "size": 5613076,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2246171000000",
-                    "version": "22.46.17 (100000-0)",
-                    "version_code": "224617057"
+                    "v_code": "2246191000000",
+                    "version": "22.46.19 (100000-0)",
+                    "version_code": "224619057"
                 },
                 {
                     "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
@@ -579,7 +579,7 @@
                     "package_title": "GoogleServicesFramework",
                     "partition": "system",
                     "primary": false,
-                    "size": 7519586,
+                    "size": 7557656,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
@@ -806,13 +806,13 @@
                     "package_title": "GoogleCalculator",
                     "partition": "system",
                     "primary": false,
-                    "size": 4773891,
+                    "size": 4871105,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "83477856174",
-                    "version": "8.3 (477856174)",
-                    "version_code": "83000598"
+                    "v_code": "84503542421",
+                    "version": "8.4 (503542421)",
+                    "version_code": "84000598"
                 }
             ]
         }
@@ -907,13 +907,13 @@
                     "package_title": "GoogleClock",
                     "partition": "system",
                     "primary": false,
-                    "size": 12664712,
+                    "size": 12998295,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "73482632418",
-                    "version": "7.3 (482632418)",
-                    "version_code": "73003398"
+                    "v_code": "74504317960",
+                    "version": "7.4 (504317960)",
+                    "version_code": "74001498"
                 }
             ]
         }
@@ -949,13 +949,13 @@
                     "package_title": "GoogleDialer",
                     "partition": "system",
                     "primary": false,
-                    "size": 64338540,
+                    "size": 63884970,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "960491984192",
-                    "version": "96.0.491984192",
-                    "version_code": "10836308"
+                    "v_code": "1000512999549",
+                    "version": "100.0.512999549",
+                    "version_code": "11348628"
                 }
             ]
         }
@@ -1176,13 +1176,13 @@
                     "package_title": "GoogleMessages",
                     "partition": "system",
                     "primary": false,
-                    "size": 75848395,
+                    "size": 81768687,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "202208090102648",
-                    "version": "messages.android_20220809_01_RC02_alldpi.arm64-v8a.phone",
-                    "version_code": "143576840"
+                    "v_code": "202212080102648",
+                    "version": "messages.android_20221208_01_RC02_alldpi.arm64-v8a.phone",
+                    "version_code": "163204840"
                 }
             ]
         }
@@ -1218,13 +1218,13 @@
                     "package_title": "GooglePhotos",
                     "partition": "system",
                     "primary": false,
-                    "size": 114723051,
+                    "size": 132494145,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "5900448589144",
-                    "version": "5.90.0.448589144",
-                    "version_code": "43359491"
+                    "v_code": "6290519265844",
+                    "version": "6.29.0.519265844",
+                    "version_code": "47595614"
                 }
             ]
         }
@@ -1363,13 +1363,13 @@
                     "package_title": "GoogleTTS",
                     "partition": "system",
                     "primary": false,
-                    "size": 69085331,
+                    "size": 71144592,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "20220613024456265266",
-                    "version": "googletts.google-speech-apk_20220613.02_p4.456265266",
-                    "version_code": "210379725"
+                    "v_code": "20230123023506463867",
+                    "version": "googletts.google-speech-apk_20230123.02_p3.506463867",
+                    "version_code": "210411861"
                 }
             ]
         }
@@ -1384,13 +1384,13 @@
                     "package_title": "GoogleTalkback",
                     "partition": "system",
                     "primary": false,
-                    "size": 34705238,
+                    "size": 38563817,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1300451114697",
-                    "version": "13.0.0.451114697",
-                    "version_code": "60124966"
+                    "v_code": "1310520576362",
+                    "version": "13.1.0.520576362",
+                    "version_code": "60130207"
                 }
             ]
         }
@@ -1426,13 +1426,13 @@
                     "package_title": "MarkupGoogle",
                     "partition": "system",
                     "primary": false,
-                    "size": 5959743,
+                    "size": 5967103,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
                     "v_code": "10",
                     "version": "1.0",
-                    "version_code": "148"
+                    "version_code": "152"
                 }
             ]
         }
@@ -1468,7 +1468,7 @@
                     "package_title": "PixelLauncher",
                     "partition": "system",
                     "primary": false,
-                    "size": 12738610,
+                    "size": 13622709,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
@@ -1506,7 +1506,7 @@
                     "package_title": "QuickAccessWallet",
                     "partition": "system",
                     "primary": false,
-                    "size": 453512,
+                    "size": 461780,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
@@ -1525,7 +1525,7 @@
                     "package_title": "GoogleWallpaper",
                     "partition": "system",
                     "primary": false,
-                    "size": 8403921,
+                    "size": 9383696,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
@@ -1615,14 +1615,14 @@
                     "package": "com.google.android.apps.emojiwallpaper",
                     "package_title": "EmojiWallpaper",
                     "partition": "system",
-                    "primary": true,
-                    "size": 0,
+                    "primary": false,
+                    "size": 6261156,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": 0,
-                    "version": 0,
-                    "version_code": 0
+                    "v_code": "10518495248",
+                    "version": "1.0.518495248",
+                    "version_code": "149"
                 }
             ]
         },
@@ -1634,14 +1634,14 @@
                     "package": "com.google.android.wallpaper.effects",
                     "package_title": "CinematicEffect",
                     "partition": "system",
-                    "primary": true,
-                    "size": 0,
+                    "primary": false,
+                    "size": 7244965,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": 0,
-                    "version": 0,
-                    "version_code": 0
+                    "v_code": "13",
+                    "version": "13",
+                    "version_code": "33"
                 }
             ]
         }
@@ -1656,13 +1656,13 @@
                     "package_title": "SetupWizard",
                     "partition": "system",
                     "primary": false,
-                    "size": 8936253,
+                    "size": 9242872,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "233475791542",
-                    "version": "233.475791542",
-                    "version_code": "19607"
+                    "v_code": "233519080787",
+                    "version": "233.519080787",
+                    "version_code": "22911"
                 }
             ]
         },
@@ -1694,7 +1694,7 @@
                     "package_title": "GoogleOneTimeInitializer",
                     "partition": "system",
                     "primary": false,
-                    "size": 197578,
+                    "size": 197646,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
@@ -1713,7 +1713,7 @@
                     "package_title": "PixelSetupWizard",
                     "partition": "system",
                     "primary": false,
-                    "size": 5914350,
+                    "size": 6264004,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
@@ -1755,13 +1755,13 @@
                     "package_title": "SetupWizard",
                     "partition": "system",
                     "primary": false,
-                    "size": 9122664,
+                    "size": 9242872,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "233492659660",
-                    "version": "233.492659660",
-                    "version_code": "20713"
+                    "v_code": "233519080787",
+                    "version": "233.519080787",
+                    "version_code": "22911"
                 }
             ]
         },
@@ -1793,7 +1793,7 @@
                     "package_title": "GoogleOneTimeInitializer",
                     "partition": "system",
                     "primary": false,
-                    "size": 197577,
+                    "size": 197646,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
