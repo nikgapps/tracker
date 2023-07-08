@@ -14,7 +14,7 @@
             "version_code": "1"
         }
     ],
-    "branch": "cheetah-user-13-TQ3A.230605.012-10204971-release-keys",
+    "branch": "cheetah-user-13-TQ3A.230705.001-10216780-release-keys",
     "com.android.angle": [
         {
             "file": "ANGLE/ANGLE.apk",
@@ -261,7 +261,7 @@
             "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
             "package": "com.android.systemui",
             "partition": "system_ext",
-            "size": 42413885,
+            "size": 42413881,
             "type": "priv-app",
             "v_code": "13",
             "version": "13",
