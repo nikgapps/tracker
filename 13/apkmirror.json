@@ -134,6 +134,15 @@
         "signature": null,
         "upload_date": "09/12/2023 00:35 UTC"
     },
+    "com.google.android.gm": {
+        "android_version": 6.0,
+        "app": "gmail",
+        "app_version": "2023.09.03.565505057.Release",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/gmail/gmail-2023-09-03-565505057-release-release/gmail-2023-09-03-565505057-release-2-android-apk-download/",
+        "signature": null,
+        "upload_date": "09/17/2023 02:27 UTC"
+    },
     "com.google.android.gms": {
         "android_version": 6.0,
         "app": "google-play-services",
