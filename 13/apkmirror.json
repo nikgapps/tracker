@@ -35,6 +35,15 @@
         "signature": null,
         "upload_date": "09/12/2023 19:59 UTC"
     },
+    "com.google.android.calculator": {
+        "android_version": 6.0,
+        "app": "google-calculator",
+        "app_version": "8.4.1 (520193683)",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-calculator/google-calculator-8-4-1-520193683-release/google-calculator-8-4-1-520193683-android-apk-download/",
+        "signature": null,
+        "upload_date": "03/30/2023 00:00 UTC"
+    },
     "com.google.android.contacts": {
         "android_version": 8.0,
         "app": "google-contacts",
