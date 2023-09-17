@@ -62,6 +62,15 @@
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "06/8/2022 23:36 UTC"
     },
+    "com.google.android.ims": {
+        "android_version": 8.0,
+        "app": "carrier-services-2",
+        "app_version": "carrierservices.android_20230911_00_RC00.phone",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/carrier-services-2/carrier-services-2-carrierservices-android_20230911_00_rc00-phone-release/carrier-services-carrierservices-android_20230911_00_rc00-phone-android-apk-download/",
+        "signature": null,
+        "upload_date": "09/13/2023 23:33 UTC"
+    },
     "com.google.android.syncadapters.contacts": {
         "android_version": 12.0,
         "app": "google-contacts-sync",
