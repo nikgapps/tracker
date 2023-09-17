@@ -17,6 +17,15 @@
         "signature": null,
         "upload_date": "09/17/2023 02:39 UTC"
     },
+    "com.google.android.apps.nexuslauncher": {
+        "android_version": 13.0,
+        "app": "pixel-launcher",
+        "app_version": "13",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/pixel-launcher/pixel-launcher-13-release/pixel-launcher-13-android-apk-download/",
+        "signature": null,
+        "upload_date": "06/11/2022 15:47 UTC"
+    },
     "com.google.android.apps.photos": {
         "android_version": 6.0,
         "app": "photos",
