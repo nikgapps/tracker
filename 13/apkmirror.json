@@ -1,0 +1,11 @@
+{
+    "com.android.vending": {
+        "android_version": 5.0,
+        "app": "google-play-store",
+        "app_version": "37.5.24-21 [0] [PR] 565477504",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-37-5-24-release/google-play-store-37-5-24-21-0-pr-565477504-3-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "09/16/2023 00:20 UTC"
+    }
+}
