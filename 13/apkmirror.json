@@ -1,4 +1,13 @@
 {
+    "com.android.chrome": {
+        "android_version": 7.0,
+        "app": "chrome",
+        "app_version": "116.0.5845.173",
+        "arch": "arm64-v8a + armeabi-v7a",
+        "link": "https://www.apkmirror.com/apk/google-inc/chrome/chrome-116-0-5845-173-release/google-chrome-fast-secure-116-0-5845-173-android-apk-download/",
+        "signature": null,
+        "upload_date": "09/12/2023 19:45 UTC"
+    },
     "com.android.vending": {
         "android_version": 5.0,
         "app": "google-play-store",
