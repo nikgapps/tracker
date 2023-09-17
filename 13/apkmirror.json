@@ -8,6 +8,15 @@
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "09/16/2023 00:20 UTC"
     },
+    "com.google.android.apps.messaging": {
+        "android_version": 8.0,
+        "app": "messenger-google-inc",
+        "app_version": "messages.android_20230829_01_RC02.phone_dynamic",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/messenger-google-inc/messenger-google-inc-20230829_01_rc02-release/messages-by-google-messages-android_20230829_01_rc02-phone_dynamic-android-apk-download/",
+        "signature": null,
+        "upload_date": "09/17/2023 02:39 UTC"
+    },
     "com.google.android.apps.wellbeing": {
         "android_version": 9.0,
         "app": "digital-wellbeing",
