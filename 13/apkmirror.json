@@ -89,6 +89,15 @@
         "signature": null,
         "upload_date": "09/13/2023 23:33 UTC"
     },
+    "com.google.android.onetimeinitializer": {
+        "android_version": 13.0,
+        "app": "google-one-time-init",
+        "app_version": "13-8768315",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-one-time-init/google-one-time-init-13-8768315-release/google-one-time-init-13-8768315-android-apk-download/",
+        "signature": null,
+        "upload_date": "08/6/2022 02:50 UTC"
+    },
     "com.google.android.setupwizard": {
         "android_version": 10.0,
         "app": "setup-wizard",
