@@ -16,5 +16,14 @@
         "link": "https://www.apkmirror.com/apk/google-inc/google-services-framework/google-services-framework-13-release/google-services-framework-13-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "06/8/2022 23:36 UTC"
+    },
+    "com.google.android.syncadapters.contacts": {
+        "android_version": 12.0,
+        "app": "google-contacts-sync",
+        "app_version": "12-8361351",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-contacts-sync/google-contacts-sync-12-8361351-release/google-contacts-sync-12-8361351-android-apk-download/",
+        "signature": null,
+        "upload_date": "07/10/2022 21:03 UTC"
     }
 }
