@@ -26,6 +26,15 @@
         "signature": null,
         "upload_date": "09/12/2023 19:59 UTC"
     },
+    "com.google.android.dialer": {
+        "android_version": 7.0,
+        "app": "google-phone",
+        "app_version": "113.0.563246354-pixel2022",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-113-0-563246354-pixel2022-release/phone-by-google-113-0-563246354-pixel2022-android-apk-download/",
+        "signature": null,
+        "upload_date": "09/12/2023 00:35 UTC"
+    },
     "com.google.android.gms": {
         "android_version": 6.0,
         "app": "google-play-services",
