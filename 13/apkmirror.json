@@ -53,6 +53,15 @@
         "signature": null,
         "upload_date": "03/30/2023 00:00 UTC"
     },
+    "com.google.android.calendar": {
+        "android_version": 5.0,
+        "app": "calendar",
+        "app_version": "2023.36.1-562568073-release",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/calendar/calendar-2023-36-1-562568073-release-release/google-calendar-2023-36-1-562568073-release-2-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "09/8/2023 17:09 UTC"
+    },
     "com.google.android.contacts": {
         "android_version": 8.0,
         "app": "google-contacts",
