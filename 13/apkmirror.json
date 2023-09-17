@@ -17,6 +17,15 @@
         "signature": null,
         "upload_date": "09/17/2023 02:39 UTC"
     },
+    "com.google.android.apps.photos": {
+        "android_version": 6.0,
+        "app": "photos",
+        "app_version": "6.52.0.565485463",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/photos/photos-6-52-0-565485463-release/google-photos-6-52-0-565485463-android-apk-download/",
+        "signature": null,
+        "upload_date": "09/16/2023 05:51 UTC"
+    },
     "com.google.android.apps.restore": {
         "android_version": 9.0,
         "app": "android-setup",
