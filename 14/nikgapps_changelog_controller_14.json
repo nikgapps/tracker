@@ -57,5 +57,64 @@
         {
             "SetupWizard": "234.569702006"
         }
+    ],
+    "2024-01-18": [
+        {
+            "GooglePlayStore": "36.5.20-29 [0] [PR] 545707036"
+        },
+        {
+            "GoogleServicesFramework": "14"
+        },
+        {
+            "GoogleCalculator": "8.4.1 (520193683)"
+        },
+        {
+            "GoogleClock": "7.5 (563137996)"
+        },
+        {
+            "GoogleContacts": "4.17.18.564848340"
+        },
+        {
+            "GoogleDialer": "113.0.563246354"
+        },
+        {
+            "DocumentsUIGoogle": "14-10572802"
+        },
+        {
+            "GoogleFiles": "1.522.537834023"
+        },
+        {
+            "StorageManager": "14"
+        },
+        {
+            "GoogleRecorder": "4.2.20230801.570555584"
+        },
+        {
+            "GoogleTTS": "googletts.google-speech-apk_20230822.01_p0.559258607"
+        },
+        {
+            "MarkupGoogle": "1.0"
+        },
+        {
+            "EmojiWallpaper": "1.2.566612289"
+        },
+        {
+            "GoogleWallpaper": "14"
+        },
+        {
+            "PixelLauncher": "14"
+        },
+        {
+            "SettingsServices": "1.1.0.540441584.sr"
+        },
+        {
+            "GoogleOneTimeInitializer": "14"
+        },
+        {
+            "PixelSetupWizard": "14"
+        },
+        {
+            "SetupWizard": "234.569702006"
+        }
     ]
 }
