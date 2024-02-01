@@ -242,6 +242,15 @@
         "signature": "9ca91f9e704d630ef67a23f52bf1577a92b9ca5d",
         "upload_date": "08/27/2023 08:22 UTC"
     },
+    "com.google.android.settings.intelligence": {
+        "android_version": 9.0,
+        "app": "settings-suggestions",
+        "app_version": "1.1.0.577782882.df",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/settings-suggestions/settings-suggestions-1-1-0-577782882-df-release/settings-services-1-1-0-577782882-df-android-apk-download/",
+        "signature": null,
+        "upload_date": "12/21/2023 22:23 UTC"
+    },
     "com.google.android.setupwizard": {
         "android_version": 10.0,
         "app": "setup-wizard",
