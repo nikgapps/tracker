@@ -71,6 +71,15 @@
         "signature": "24bb24c05e47e0aefa68a58a766179d9b613a600",
         "upload_date": "01/31/2024 10:04 UTC"
     },
+    "com.google.android.apps.recorder": {
+        "android_version": 10.0,
+        "app": "google-recorder",
+        "app_version": "4.2.20230801.561280372",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-recorder/google-recorder-4-2-20230801-561280372-release/google-recorder-4-2-20230801-561280372-android-apk-download/",
+        "signature": "394d84cd2cf89d3453702c663f98ec6554afc3cd",
+        "upload_date": "09/21/2023 16:33 UTC"
+    },
     "com.google.android.apps.restore": {
         "android_version": 9.0,
         "app": "android-setup",
