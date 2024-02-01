@@ -295,5 +295,14 @@
         "link": "https://www.apkmirror.com/apk/google-inc/google-contacts-sync/google-contacts-sync-12-8361351-release/google-contacts-sync-12-8361351-android-apk-download/",
         "signature": null,
         "upload_date": "07/10/2022 21:03 UTC"
+    },
+    "com.google.android.tts": {
+        "android_version": 8.0,
+        "app": "google-text-to-speech-engine",
+        "app_version": "googletts.google-speech-apk_20240108.01_p0.596604607",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20240108-01_p0-596604607-release/speech-recognition-synthesis-googletts-google-speech-apk_20240108-01_p0-596604607-2-android-apk-download/",
+        "signature": null,
+        "upload_date": "01/25/2024 17:35 UTC"
     }
 }
