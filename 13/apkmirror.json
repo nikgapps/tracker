@@ -128,11 +128,11 @@
     "com.google.android.deskclock": {
         "android_version": 6.0,
         "app": "clock",
-        "app_version": "7.5 (535768093)",
+        "app_version": "7.6 (566900781)",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/clock/clock-7-5-release/google-clock-7-5-535768093-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/clock/clock-7-6-release/google-clock-7-6-566900781-2-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "05/30/2023 18:02 UTC"
+        "upload_date": "10/17/2023 14:23 UTC"
     },
     "com.google.android.dialer": {
         "android_version": 7.0,
