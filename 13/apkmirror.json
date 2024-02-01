@@ -83,11 +83,11 @@
     "com.google.android.apps.wallpaper": {
         "android_version": 13.0,
         "app": "google-wallpaper-picker",
-        "app_version": "13",
-        "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-wallpaper-picker/google-wallpaper-picker-13-release/google-wallpapers-13-android-apk-download/",
+        "app_version": "13-9255056",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-wallpaper-picker/google-wallpaper-picker-13-9255056-release/google-wallpapers-13-9255056-android-apk-download/",
         "signature": "f4a4a9d05423b1b691f5aab612d5cec91ae65389",
-        "upload_date": "06/19/2022 04:03 UTC"
+        "upload_date": "04/21/2023 17:42 UTC"
     },
     "com.google.android.apps.wellbeing": {
         "android_version": 9.0,
