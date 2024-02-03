@@ -162,13 +162,13 @@
         "upload_date": "10/17/2023 14:23 UTC"
     },
     "com.google.android.dialer": {
-        "android_version": 7.0,
+        "android_version": 10.0,
         "app": "google-phone",
-        "app_version": "121.0.596421684-pixel2023",
+        "app_version": "122.0.600287889-downloadable",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-121-0-596421684-pixel2023-release/phone-by-google-121-0-596421684-pixel2023-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-122-0-600287889-downloadable-release/phone-by-google-122-0-600287889-downloadable-android-apk-download/",
         "signature": null,
-        "upload_date": "01/25/2024 19:30 UTC"
+        "upload_date": "02/1/2024 21:29 UTC"
     },
     "com.google.android.gm": {
         "android_version": 6.0,
