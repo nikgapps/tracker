@@ -134,6 +134,15 @@
         "signature": null,
         "upload_date": "09/12/2023 11:00 UTC"
     },
+    "com.google.android.as": {
+        "android_version": 13.0,
+        "app": "device-personalization-services",
+        "app_version": "T.41.playstore.pixel5.593110669",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/device-personalization-services/device-personalization-services-t-41-playstore-pixel5-593110669-release/android-system-intelligence-t-41-playstore-pixel5-593110669-android-apk-download/",
+        "signature": "35bd956867c69778eac76da4c198469b77d2cda1",
+        "upload_date": "01/30/2024 17:23 UTC"
+    },
     "com.google.android.as.oss": {
         "android_version": 13.0,
         "app": "private-compute-services",
