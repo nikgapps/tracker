@@ -35,6 +35,15 @@
         "signature": null,
         "upload_date": "01/31/2024 03:26 UTC"
     },
+    "com.google.android.apps.emojiwallpaper": {
+        "android_version": 13.0,
+        "app": "emoji-workshop-wallpaper",
+        "app_version": "1.2.588017560",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/emoji-workshop-wallpaper/emoji-workshop-wallpaper-1-2-588017560-release/emoji-workshop-wallpaper-1-2-588017560-android-apk-download/",
+        "signature": null,
+        "upload_date": "01/12/2024 15:30 UTC"
+    },
     "com.google.android.apps.maps": {
         "android_version": 6.0,
         "app": "maps",
