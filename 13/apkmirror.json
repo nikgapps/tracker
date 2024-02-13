@@ -1,12 +1,12 @@
 {
     "com.android.chrome": {
-        "android_version": 7.0,
+        "android_version": 8.0,
         "app": "chrome",
-        "app_version": "116.0.5845.173",
+        "app_version": "121.0.6167.144",
         "arch": "arm64-v8a + armeabi-v7a",
-        "link": "https://www.apkmirror.com/apk/google-inc/chrome/chrome-116-0-5845-173-release/google-chrome-fast-secure-116-0-5845-173-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/chrome/chrome-121-0-6167-144-release/google-chrome-fast-secure-121-0-6167-144-2-android-apk-download/",
         "signature": null,
-        "upload_date": "09/12/2023 19:45 UTC"
+        "upload_date": "02/6/2024 18:57 UTC"
     },
     "com.android.vending": {
         "android_version": 5.0,
