@@ -35,6 +35,15 @@
         "signature": null,
         "upload_date": "02/14/2024 20:18 UTC"
     },
+    "com.google.android.deskclock": {
+        "android_version": 6.0,
+        "app": "clock",
+        "app_version": "7.6 (566900781)",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/clock/clock-7-6-release/google-clock-7-6-566900781-2-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "10/17/2023 14:23 UTC"
+    },
     "com.google.android.dialer": {
         "android_version": 10.0,
         "app": "google-phone",
