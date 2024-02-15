@@ -8,6 +8,15 @@
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "02/8/2024 07:45 UTC"
     },
+    "com.google.android.gms": {
+        "android_version": 5.0,
+        "app": "google-play-services",
+        "app_version": "24.06.14 (020400-606857499)",
+        "arch": "arm64-v8a + armeabi-v7a",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-24-06-14-release/google-play-services-24-06-14-020400-606857499-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "02/14/2024 20:17 UTC"
+    },
     "com.google.android.gsf": {
         "android_version": 14.0,
         "app": "google-services-framework",
