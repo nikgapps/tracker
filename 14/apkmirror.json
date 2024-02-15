@@ -7,5 +7,14 @@
         "link": "https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-39-5-19-release/google-play-store-39-5-19-21-0-pr-602891215-3-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "02/8/2024 07:45 UTC"
+    },
+    "com.google.android.gsf": {
+        "android_version": 14.0,
+        "app": "google-services-framework",
+        "app_version": "14",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-services-framework/google-services-framework-14-release/google-services-framework-14-5-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "01/6/2024 16:08 UTC"
     }
 }
