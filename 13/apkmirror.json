@@ -457,5 +457,14 @@
         "link": "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-122-0-6261-43-release/android-system-webview-122-0-6261-43-2-android-apk-download/",
         "signature": "1f387cb25e0069efca490ade28c060e09d37dd45",
         "upload_date": "02/15/2024 02:14 UTC"
+    },
+    "com.google.android.youtube": {
+        "android_version": 8.0,
+        "app": "youtube",
+        "app_version": "19.05.36",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-05-36-release/youtube-19-05-36-android-apk-download/",
+        "signature": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+        "upload_date": "02/11/2024 02:05 UTC"
     }
 }
