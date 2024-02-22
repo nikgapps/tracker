@@ -98,6 +98,15 @@
         "signature": "35bd956867c69778eac76da4c198469b77d2cda1",
         "upload_date": "02/20/2024 20:42 UTC"
     },
+    "com.google.android.as.oss": {
+        "android_version": 13.0,
+        "app": "private-compute-services",
+        "app_version": "1.0.release.597563789",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/private-compute-services/private-compute-services-1-0-release-597563789-release/private-compute-services-1-0-release-597563789-android-apk-download/",
+        "signature": null,
+        "upload_date": "02/8/2024 01:04 UTC"
+    },
     "com.google.android.calendar": {
         "android_version": 8.0,
         "app": "calendar",
