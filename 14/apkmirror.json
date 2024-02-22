@@ -26,6 +26,15 @@
         "signature": null,
         "upload_date": "02/20/2024 23:43 UTC"
     },
+    "com.google.android.apps.docs.editors.docs": {
+        "android_version": 8.0,
+        "app": "docs",
+        "app_version": "1.24.062.03.90",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/docs/docs-1-24-062-03-release/google-docs-1-24-062-03-90-2-android-apk-download/",
+        "signature": null,
+        "upload_date": "02/20/2024 18:27 UTC"
+    },
     "com.google.android.apps.emojiwallpaper": {
         "android_version": 13.0,
         "app": "emoji-workshop-wallpaper",
