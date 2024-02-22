@@ -182,11 +182,11 @@
     "com.google.android.calendar": {
         "android_version": 8.0,
         "app": "calendar",
-        "app_version": "2024.05.2-606282210-release",
+        "app_version": "2024.07.0-608174112-release",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/calendar/calendar-2024-05-2-606282210-release-release/google-calendar-2024-05-2-606282210-release-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/calendar/calendar-2024-07-0-608174112-release-release/google-calendar-2024-07-0-608174112-release-2-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "02/13/2024 15:02 UTC"
+        "upload_date": "02/22/2024 17:01 UTC"
     },
     "com.google.android.contacts": {
         "android_version": 8.0,
@@ -277,6 +277,15 @@
         "link": "https://www.apkmirror.com/apk/google-inc/gboard/gboard-13-8-07-597073932-release/gboard-the-google-keyboard-13-8-07-597073932-release-arm64-v8a-2-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "02/20/2024 23:34 UTC"
+    },
+    "com.google.android.keep": {
+        "android_version": 8.0,
+        "app": "keep",
+        "app_version": "5.24.062.00.90",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/keep/keep-5-24-062-00-release/google-keep-notes-and-lists-5-24-062-00-90-android-apk-download/",
+        "signature": null,
+        "upload_date": "02/21/2024 17:37 UTC"
     },
     "com.google.android.marvin.talkback": {
         "android_version": 8.0,
