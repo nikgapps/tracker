@@ -17,14 +17,14 @@
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "02/16/2024 07:12 UTC"
     },
-    "com.google.android.apps.books": {
-        "android_version": 5.0,
-        "app": "google-play-books",
-        "app_version": "2024.2.9.0 (193791)",
-        "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-play-books/google-play-books-2024-2-9-0-193791-release/google-play-books-audiobooks-2024-2-9-0-193791-android-apk-download/",
+    "com.google.android.apps.customization.pixel": {
+        "android_version": 13.0,
+        "app": "pixel-themes",
+        "app_version": "13",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/pixel-themes/pixel-themes-13-release/pixel-themes-13-android-apk-download/",
         "signature": null,
-        "upload_date": "02/20/2024 22:32 UTC"
+        "upload_date": "06/19/2022 04:29 UTC"
     },
     "com.google.android.apps.docs": {
         "android_version": 6.0,
@@ -43,15 +43,6 @@
         "link": "https://www.apkmirror.com/apk/google-inc/docs/docs-1-24-062-03-release/google-docs-1-24-062-03-90-2-android-apk-download/",
         "signature": null,
         "upload_date": "02/20/2024 18:27 UTC"
-    },
-    "com.google.android.apps.docs.editors.sheets": {
-        "android_version": 8.0,
-        "app": "sheets",
-        "app_version": "1.24.072.01.90",
-        "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/sheets/sheets-1-24-072-01-release/google-sheets-1-24-072-01-90-3-android-apk-download/",
-        "signature": null,
-        "upload_date": "02/22/2024 21:50 UTC"
     },
     "com.google.android.apps.docs.editors.slides": {
         "android_version": 8.0,
@@ -74,11 +65,11 @@
     "com.google.android.apps.maps": {
         "android_version": 6.0,
         "app": "maps",
-        "app_version": "11.117.0101",
+        "app_version": "11.115.0103",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/maps/maps-11-117-0101-release/google-maps-11-117-0101-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/maps/maps-11-115-0103-release/google-maps-11-115-0103-2-android-apk-download/",
         "signature": null,
-        "upload_date": "02/22/2024 15:31 UTC"
+        "upload_date": "02/16/2024 05:05 UTC"
     },
     "com.google.android.apps.messaging": {
         "android_version": 8.0,
@@ -134,15 +125,6 @@
         "signature": null,
         "upload_date": "02/1/2024 17:41 UTC"
     },
-    "com.google.android.apps.tachyon": {
-        "android_version": 6.0,
-        "app": "duo-by-google",
-        "app_version": "230.0.605080476.duo.android_20240128.16_p1.s",
-        "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/duo-by-google/duo-by-google-230-0-605080476-duo-android_20240128-16_p1-s-release/google-meet-formerly-google-duo-230-0-605080476-duo-android_20240128-16_p1-s-2-android-apk-download/",
-        "signature": null,
-        "upload_date": "02/15/2024 02:43 UTC"
-    },
     "com.google.android.apps.turbo": {
         "android_version": 12.0,
         "app": "device-health-services",
@@ -173,11 +155,11 @@
     "com.google.android.apps.work.clouddpc": {
         "android_version": 5.0,
         "app": "android-device-policy",
-        "app_version": "101.36.11 (10008260)",
+        "app_version": "101.36.8 (10008200)",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/android-device-policy/android-device-policy-101-36-11-10008260-release/android-device-policy-101-36-11-10008260-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/android-device-policy/android-device-policy-101-36-8-10008200-release/android-device-policy-101-36-8-10008200-android-apk-download/",
         "signature": null,
-        "upload_date": "02/22/2024 11:00 UTC"
+        "upload_date": "02/8/2024 16:18 UTC"
     },
     "com.google.android.apps.work.oobconfig": {
         "android_version": 8.0,
@@ -205,15 +187,6 @@
         "link": "https://www.apkmirror.com/apk/google-inc/private-compute-services/private-compute-services-1-0-release-601380623-release/private-compute-services-1-0-release-601380623-android-apk-download/",
         "signature": null,
         "upload_date": "02/22/2024 17:11 UTC"
-    },
-    "com.google.android.calculator": {
-        "android_version": 6.0,
-        "app": "google-calculator",
-        "app_version": "8.4.1 (520193683)",
-        "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-calculator/google-calculator-8-4-1-520193683-release/google-calculator-8-4-1-520193683-3-android-apk-download/",
-        "signature": null,
-        "upload_date": "02/22/2024 17:22 UTC"
     },
     "com.google.android.calendar": {
         "android_version": 8.0,
@@ -287,15 +260,6 @@
         "signature": "eda6413c3e3a95492114fe07cd953ad897e40d1a",
         "upload_date": "05/19/2021 18:20 UTC"
     },
-    "com.google.android.googlequicksearchbox": {
-        "android_version": 9.0,
-        "app": "google-search",
-        "app_version": "15.6.40.28.arm64",
-        "arch": "arm64-v8a + armeabi-v7a",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-search/google-search-15-6-40-release/google-app-15-6-40-28-arm64-2-android-apk-download/",
-        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "02/22/2024 17:06 UTC"
-    },
     "com.google.android.gsf": {
         "android_version": 14.0,
         "app": "google-services-framework",
@@ -308,11 +272,11 @@
     "com.google.android.ims": {
         "android_version": 8.0,
         "app": "carrier-services-2",
-        "app_version": "carrierservices.android_20240219_00_RC00.phone",
+        "app_version": "carrierservices.android_20240212_00_RC00.phone",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/carrier-services-2/carrier-services-2-carrierservices-android_20240219_00_rc00-phone-release/carrier-services-carrierservices-android_20240219_00_rc00-phone-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/carrier-services-2/carrier-services-2-carrierservices-android_20240212_00_rc00-phone-release/carrier-services-carrierservices-android_20240212_00_rc00-phone-android-apk-download/",
         "signature": null,
-        "upload_date": "02/22/2024 15:29 UTC"
+        "upload_date": "02/14/2024 20:16 UTC"
     },
     "com.google.android.inputmethod.latin": {
         "android_version": 6.0,
@@ -395,15 +359,6 @@
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "01/6/2024 16:01 UTC"
     },
-    "com.google.android.soundpicker": {
-        "android_version": 12.0,
-        "app": "sounds",
-        "app_version": "3.1 (567492877)",
-        "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/sounds/sounds-3-1-567492877-release/google-sounds-3-1-567492877-android-apk-download/",
-        "signature": "f356d20721f8427294a47f40013c33485f399b5d",
-        "upload_date": "10/5/2023 18:25 UTC"
-    },
     "com.google.android.storagemanager": {
         "android_version": 14.0,
         "app": "storage-manager",
@@ -434,11 +389,11 @@
     "com.google.android.tts": {
         "android_version": 8.0,
         "app": "google-text-to-speech-engine",
-        "app_version": "googletts.google-speech-apk_20240121.02_p4.607509434",
+        "app_version": "googletts.google-speech-apk_20240205.02_p0.604470300",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20240121-02_p4-607509434-release/speech-recognition-synthesis-googletts-google-speech-apk_20240121-02_p4-607509434-3-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20240205-02_p0-604470300-release/speech-recognition-synthesis-googletts-google-speech-apk_20240205-02_p0-604470300-android-apk-download/",
         "signature": null,
-        "upload_date": "02/22/2024 19:51 UTC"
+        "upload_date": "02/20/2024 18:25 UTC"
     },
     "com.google.android.youtube": {
         "android_version": 8.0,
