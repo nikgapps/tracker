@@ -71,6 +71,15 @@
         "signature": "423e4cf90dfcb0910c88e8f1276e747ec72992e1",
         "upload_date": "02/16/2024 18:38 UTC"
     },
+    "com.google.android.apps.wallpaper": {
+        "android_version": 14.0,
+        "app": "google-wallpaper-picker",
+        "app_version": "14",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-wallpaper-picker/google-wallpaper-picker-14-release/google-wallpapers-14-android-apk-download/",
+        "signature": "f4a4a9d05423b1b691f5aab612d5cec91ae65389",
+        "upload_date": "06/8/2023 05:36 UTC"
+    },
     "com.google.android.apps.wellbeing": {
         "android_version": 9.0,
         "app": "digital-wellbeing",
