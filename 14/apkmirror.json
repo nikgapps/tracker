@@ -80,6 +80,15 @@
         "signature": null,
         "upload_date": "02/5/2024 23:02 UTC"
     },
+    "com.google.android.as": {
+        "android_version": 14.0,
+        "app": "device-personalization-services",
+        "app_version": "U.18.playstore.pixel8.606967388",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/device-personalization-services/device-personalization-services-u-18-playstore-pixel8-606967388-release/android-system-intelligence-u-18-playstore-pixel8-606967388-android-apk-download/",
+        "signature": "35bd956867c69778eac76da4c198469b77d2cda1",
+        "upload_date": "02/20/2024 20:42 UTC"
+    },
     "com.google.android.calendar": {
         "android_version": 8.0,
         "app": "calendar",
