@@ -8,14 +8,14 @@
                     "package": "com.google.android.projection.gearhead",
                     "package_title": "AndroidAuto",
                     "partition": "system",
-                    "primary": false,
-                    "size": 4098478,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "12531830",
-                    "version": "1.2.531830-stub",
-                    "version_code": "12531830"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -29,14 +29,14 @@
                     "package": "com.google.android.apps.work.clouddpc",
                     "package_title": "AndroidDevicePolicy",
                     "partition": "system",
-                    "primary": false,
-                    "size": 16247381,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "833671801100",
-                    "version": "83.36.7 (1801100)",
-                    "version_code": "1801100"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -50,14 +50,14 @@
                     "package": "com.google.android.apps.assistant",
                     "package_title": "AssistantGo",
                     "partition": "system",
-                    "primary": false,
-                    "size": 15187592,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2130439234666648",
-                    "version": "2.13.0.439234666.arm64-v8a.jio_release",
-                    "version_code": "16762"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -71,14 +71,14 @@
                     "package": "com.google.android.apps.books",
                     "package_title": "Books",
                     "partition": "system",
-                    "primary": false,
-                    "size": 15656244,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "20228901",
-                    "version": "2022.8.9.0.1",
-                    "version_code": "126520"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -92,14 +92,14 @@
                     "package": "com.google.android.ims",
                     "package_title": "CarrierServices",
                     "partition": "system",
-                    "primary": false,
-                    "size": 9233709,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "11704660442762022080800",
-                    "version": "117.0.466044276-carrierservices_20220808_RC00",
-                    "version_code": "30939330"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -113,14 +113,14 @@
                     "package": "com.android.vending",
                     "package_title": "GooglePlayStore",
                     "partition": "system",
-                    "primary": false,
-                    "size": 74045466,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "35611210528895992",
-                    "version": "35.6.11-21 [0] [PR] 528895992",
-                    "version_code": "83561110"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -132,14 +132,14 @@
                     "package": "com.google.android.gsf",
                     "package_title": "GoogleServicesFramework",
                     "partition": "system",
-                    "primary": false,
-                    "size": 5716267,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -151,14 +151,14 @@
                     "package": "com.google.android.syncadapters.contacts",
                     "package_title": "GoogleContactsSyncAdapter",
                     "partition": "system",
-                    "primary": false,
-                    "size": 1571497,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "128361351",
-                    "version": "12-8361351",
-                    "version_code": "31"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -170,198 +170,33 @@
                     "package": "com.google.android.syncadapters.calendar",
                     "package_title": "GoogleCalendarSyncAdapter",
                     "partition": "system",
-                    "primary": false,
-                    "size": 2484539,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2021412406147485",
-                    "version": "2021.41.2-406147485-release",
-                    "version_code": "2017039780"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "GmsCore": [
                 {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___independent/AndroidPlatformServices.apk",
-                    "folder": "PrebuiltGmsCore___m___independent",
-                    "package": "com.google.android.gms.policy_sidecar_aps",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 13841872,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2052073215491873215491873",
-                    "version": "2052073.215491873.215491873",
-                    "version_code": "2052073"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
+                    "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCore.apk",
                     "folder": "PrebuiltGmsCore",
                     "package": "com.google.android.gms",
                     "package_title": "GmsCore",
                     "partition": "system",
-                    "primary": false,
-                    "size": 134734599,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "231818190408535401451",
-                    "version": "23.18.18 (190408-535401451)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_measurementdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 398366,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamitemodulesa",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 834424,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_googlecertificates",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 246751,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamiteloader",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 173087,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_CronetDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_cronetdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 8645475,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_mapsdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 2217714,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamitemodulesc",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 1829049,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_AdsDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.policy_ads_fdr_dynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 3581782,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "231004600057513700577513700577",
-                    "version": "231004600057.513700577.513700577",
-                    "version_code": "231004601"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
-                    "folder": "PrebuiltGmsCore___m___optional",
-                    "package": "com.google.android.gms.optional_vision_barcode",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 5132445,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181004000",
-                    "version": "23.18.18 (100400-0)",
-                    "version_code": "231818065"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/MlkitBarcodeUIPrebuilt.apk",
-                    "folder": "PrebuiltGmsCore___m___optional",
-                    "package": "com.google.android.gms.optional_mlkit_barcode_ui",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 6257168,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181000000",
-                    "version": "23.18.18 (100000-0)",
-                    "version_code": "231818057"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -370,184 +205,19 @@
         {
             "GmsCore": [
                 {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___independent/AndroidPlatformServices.apk",
-                    "folder": "PrebuiltGmsCore___m___independent",
-                    "package": "com.google.android.gms.policy_sidecar_aps",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 13841872,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2052073215491873215491873",
-                    "version": "2052073.215491873.215491873",
-                    "version_code": "2052073"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
+                    "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCore.apk",
                     "folder": "PrebuiltGmsCore",
                     "package": "com.google.android.gms",
                     "package_title": "GmsCore",
                     "partition": "system",
-                    "primary": false,
-                    "size": 134734599,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "231818190408535401451",
-                    "version": "23.18.18 (190408-535401451)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_measurementdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 398366,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamitemodulesa",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 834424,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_googlecertificates",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 246751,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamiteloader",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 173087,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_CronetDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_cronetdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 8645475,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_mapsdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 2217714,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamitemodulesc",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 1829049,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_AdsDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.policy_ads_fdr_dynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 3581782,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "231004600057513700577513700577",
-                    "version": "231004600057.513700577.513700577",
-                    "version_code": "231004601"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
-                    "folder": "PrebuiltGmsCore___m___optional",
-                    "package": "com.google.android.gms.optional_vision_barcode",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 5132445,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181004000",
-                    "version": "23.18.18 (100400-0)",
-                    "version_code": "231818065"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/MlkitBarcodeUIPrebuilt.apk",
-                    "folder": "PrebuiltGmsCore___m___optional",
-                    "package": "com.google.android.gms.optional_mlkit_barcode_ui",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 6257168,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181000000",
-                    "version": "23.18.18 (100000-0)",
-                    "version_code": "231818057"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -559,14 +229,14 @@
                     "package": "com.android.vending",
                     "package_title": "GooglePlayStore",
                     "partition": "system",
-                    "primary": false,
-                    "size": 74045466,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "35611210528895992",
-                    "version": "35.6.11-21 [0] [PR] 528895992",
-                    "version_code": "83561110"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -578,14 +248,14 @@
                     "package": "com.google.android.gsf",
                     "package_title": "GoogleServicesFramework",
                     "partition": "system",
-                    "primary": false,
-                    "size": 5716267,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -597,14 +267,14 @@
                     "package": "com.google.android.syncadapters.contacts",
                     "package_title": "GoogleContactsSyncAdapter",
                     "partition": "system",
-                    "primary": false,
-                    "size": 1571497,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "128361351",
-                    "version": "12-8361351",
-                    "version_code": "31"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -616,14 +286,14 @@
                     "package": "com.google.android.syncadapters.calendar",
                     "package_title": "GoogleCalendarSyncAdapter",
                     "partition": "system",
-                    "primary": false,
-                    "size": 2484539,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2021412406147485",
-                    "version": "2021.41.2-406147485-release",
-                    "version_code": "2017039780"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -632,19 +302,19 @@
         {
             "DeviceHealthServices": [
                 {
-                    "file_path": "___priv-app___TurboPrebuilt/TurboPrebuilt.apk",
-                    "folder": "TurboPrebuilt",
+                    "file_path": "___priv-app___Turbo/Turbo.apk",
+                    "folder": "Turbo",
                     "package": "com.google.android.apps.turbo",
                     "package_title": "DeviceHealthServices",
                     "partition": "system",
-                    "primary": false,
-                    "size": 8087678,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1260539008430",
-                    "version": "1.26.0.539008430.release",
-                    "version_code": "10263001"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -653,19 +323,19 @@
         {
             "DeviceSetup": [
                 {
-                    "file_path": "___priv-app___OTAConfigNoZeroTouchPrebuilt/OTAConfigNoZeroTouchPrebuilt.apk",
-                    "folder": "OTAConfigNoZeroTouchPrebuilt",
+                    "file_path": "___priv-app___OTAConfigPrebuilt/OTAConfigPrebuilt.apk",
+                    "folder": "OTAConfigPrebuilt",
                     "package": "com.google.android.apps.work.oobconfig",
                     "package_title": "DeviceSetup",
                     "partition": "system",
-                    "primary": false,
-                    "size": 2681439,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "10450944095",
-                    "version": "1.0.450944095",
-                    "version_code": "293"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -674,19 +344,19 @@
         {
             "DigitalWellbeing": [
                 {
-                    "file_path": "___priv-app___WellbeingPrebuilt/WellbeingPrebuilt.apk",
-                    "folder": "WellbeingPrebuilt",
+                    "file_path": "___priv-app___WellbeingPreBuilt/WellbeingPreBuilt.apk",
+                    "folder": "WellbeingPreBuilt",
                     "package": "com.google.android.apps.wellbeing",
                     "package_title": "DigitalWellbeing",
                     "partition": "system",
-                    "primary": false,
-                    "size": 20596088,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "16521068621495937",
-                    "version": "1.6.521068621 (495937)",
-                    "version_code": "495937"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -700,14 +370,14 @@
                     "package": "com.google.android.apps.docs",
                     "package_title": "Drive",
                     "partition": "system",
-                    "primary": false,
-                    "size": 65410146,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2232510648",
-                    "version": "2.23.251.0.arm64-v8a.alldpi",
-                    "version_code": "213191195"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -721,14 +391,14 @@
                     "package": "com.google.android.inputmethod.latin",
                     "package_title": "GBoard",
                     "partition": "system",
-                    "primary": false,
-                    "size": 85049705,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "12405482060964648",
-                    "version": "12.4.05.482060964-preload-arm64-v8a",
-                    "version_code": "99078518"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -742,14 +412,14 @@
                     "package": "com.google.android.apps.photosgo",
                     "package_title": "GalleryGo",
                     "partition": "system",
-                    "primary": false,
-                    "size": 13145549,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "190473991075",
-                    "version": "1.9.0.473991075 release",
-                    "version_code": "12250740"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -763,14 +433,14 @@
                     "package": "com.google.android.gm",
                     "package_title": "Gmail",
                     "partition": "system",
-                    "primary": false,
-                    "size": 104366556,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "20220501448071085",
-                    "version": "2022.05.01.448071085.Release",
-                    "version_code": "63266701"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -784,14 +454,14 @@
                     "package": "com.google.android.gm.lite",
                     "package_title": "GmailGo",
                     "partition": "system",
-                    "primary": false,
-                    "size": 36047257,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "20221010480125827",
-                    "version": "2022.10.10.480125827.Release",
-                    "version_code": "62507962"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -805,14 +475,14 @@
                     "package": "com.google.android.calculator",
                     "package_title": "GoogleCalculator",
                     "partition": "system",
-                    "primary": false,
-                    "size": 4325071,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "81403424005",
-                    "version": "8.1 (403424005)",
-                    "version_code": "81000803"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -826,14 +496,14 @@
                     "package": "com.google.android.calendar",
                     "package_title": "GoogleCalendar",
                     "partition": "system",
-                    "primary": false,
-                    "size": 38783606,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2023183530889391",
-                    "version": "2023.18.3-530889391-release",
-                    "version_code": "2017191822"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -842,57 +512,57 @@
         {
             "GoogleChrome": [
                 {
-                    "file_path": "___app___Chrome-Stub/Chrome-Stub.apk",
-                    "folder": "Chrome-Stub",
+                    "file_path": "___app___GoogleChrome/GoogleChrome.apk",
+                    "folder": "GoogleChrome",
                     "package": "com.android.chrome",
                     "package_title": "GoogleChrome",
                     "partition": "system",
-                    "primary": false,
-                    "size": 12701,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "11305672136",
-                    "version": "113.0.5672.136",
-                    "version_code": "567263634"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "WebViewGoogle": [
                 {
-                    "file_path": "___app___WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
-                    "folder": "WebViewGoogle-Stub",
+                    "file_path": "___app___WebViewGoogle/WebViewGoogle.apk",
+                    "folder": "WebViewGoogle",
                     "package": "com.google.android.webview",
                     "package_title": "WebViewGoogle",
                     "partition": "system",
-                    "primary": false,
-                    "size": 12701,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "11305672136",
-                    "version": "113.0.5672.136",
-                    "version_code": "567263634"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "TrichromeLibrary": [
                 {
-                    "file_path": "___app___TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
-                    "folder": "TrichromeLibrary-Stub",
+                    "file_path": "___app___TrichromeLibrary/TrichromeLibrary.apk",
+                    "folder": "TrichromeLibrary",
                     "package": "com.google.android.trichromelibrary",
                     "package_title": "TrichromeLibrary",
                     "partition": "system",
-                    "primary": false,
-                    "size": 12701,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "11305672136",
-                    "version": "113.0.5672.136",
-                    "version_code": "567263634"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -906,14 +576,14 @@
                     "package": "com.google.android.deskclock",
                     "package_title": "GoogleClock",
                     "partition": "system",
-                    "primary": false,
-                    "size": 12998295,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "74504317960",
-                    "version": "7.4 (504317960)",
-                    "version_code": "74001498"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -927,14 +597,14 @@
                     "package": "com.google.android.contacts",
                     "package_title": "GoogleContacts",
                     "partition": "system",
-                    "primary": false,
-                    "size": 24834284,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "4817529259023",
-                    "version": "4.8.17.529259023",
-                    "version_code": "3016392"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -948,14 +618,14 @@
                     "package": "com.google.android.dialer",
                     "package_title": "GoogleDialer",
                     "partition": "system",
-                    "primary": false,
-                    "size": 63884970,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1000512999549",
-                    "version": "100.0.512999549",
-                    "version_code": "11348628"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -969,14 +639,14 @@
                     "package": "com.google.android.apps.docs.editors.docs",
                     "package_title": "GoogleDocs",
                     "partition": "system",
-                    "primary": false,
-                    "size": 33539323,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1214820440",
-                    "version": "1.21.482.04.40",
-                    "version_code": "214820440"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -990,14 +660,14 @@
                     "package": "com.google.android.apps.tachyon",
                     "package_title": "GoogleDuo",
                     "partition": "system",
-                    "primary": false,
-                    "size": 9631413,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "155041354329820211128132",
-                    "version": "155.0.413543298.duo.android_20211128.13_p2",
-                    "version_code": "3374026"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1011,14 +681,14 @@
                     "package": "com.google.android.feedback",
                     "package_title": "GoogleFeedback",
                     "partition": "system",
-                    "primary": false,
-                    "size": 421049,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1032,14 +702,14 @@
                     "package": "com.google.android.apps.nbu.files",
                     "package_title": "GoogleFiles",
                     "partition": "system",
-                    "primary": false,
-                    "size": 20795963,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "170520549696",
-                    "version": "1.70.520549696",
-                    "version_code": "429383"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -1051,14 +721,14 @@
                     "package": "com.google.android.storagemanager",
                     "package_title": "StorageManager",
                     "partition": "system",
-                    "primary": false,
-                    "size": 5369657,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -1070,14 +740,14 @@
                     "package": "com.google.android.documentsui",
                     "package_title": "DocumentsUIGoogle",
                     "partition": "system",
-                    "primary": false,
-                    "size": 6539419,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "330443000",
-                    "version": "t_frc_doc_330443000",
-                    "version_code": "330443000"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1091,14 +761,14 @@
                     "package": "com.google.android.apps.searchlite",
                     "package_title": "GoogleGo",
                     "partition": "system",
-                    "primary": false,
-                    "size": 27321154,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "373516407828",
-                    "version": "3.73.516407828.release",
-                    "version_code": "763879"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1112,14 +782,14 @@
                     "package": "com.google.android.keep",
                     "package_title": "GoogleKeep",
                     "partition": "system",
-                    "primary": false,
-                    "size": 19193994,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "5222820390",
-                    "version": "5.22.282.03.90",
-                    "version_code": "220484801"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1133,14 +803,14 @@
                     "package": "com.google.android.gms.location.history",
                     "package_title": "GoogleLocationHistory",
                     "partition": "system",
-                    "primary": false,
-                    "size": 217946,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "12",
-                    "version": "1.2",
-                    "version_code": "3"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1149,19 +819,19 @@
         {
             "GoogleMaps": [
                 {
-                    "file_path": "___app___Maps/Maps.apk",
-                    "folder": "Maps",
+                    "file_path": "___app___GoogleMaps/GoogleMaps.apk",
+                    "folder": "GoogleMaps",
                     "package": "com.google.android.apps.maps",
                     "package_title": "GoogleMaps",
                     "partition": "system",
-                    "primary": false,
-                    "size": 77434026,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "11710300",
-                    "version": "11.71.0300",
-                    "version_code": "1066937505"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1175,14 +845,14 @@
                     "package": "com.google.android.apps.messaging",
                     "package_title": "GoogleMessages",
                     "partition": "system",
-                    "primary": false,
-                    "size": 106366944,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "202305290301648",
-                    "version": "messages.android_20230529_03_RC01_alldpi.arm64-v8a.phone",
-                    "version_code": "186596840"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1196,14 +866,14 @@
                     "package": "com.google.android.partnersetup",
                     "package_title": "GooglePartnerSetup",
                     "partition": "system",
-                    "primary": false,
-                    "size": 726118,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "100448391512",
-                    "version": "100.448391512",
-                    "version_code": "1450"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1217,14 +887,14 @@
                     "package": "com.google.android.apps.photos",
                     "package_title": "GooglePhotos",
                     "partition": "system",
-                    "primary": false,
-                    "size": 132494145,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "6290519265844",
-                    "version": "6.29.0.519265844",
-                    "version_code": "47595614"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1238,14 +908,14 @@
                     "package": "com.google.android.apps.recorder",
                     "package_title": "GoogleRecorder",
                     "partition": "system",
-                    "primary": false,
-                    "size": 70285204,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "4220230521533929668",
-                    "version": "4.2.20230521.533929668",
-                    "version_code": "42029613"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1259,14 +929,14 @@
                     "package": "com.google.android.googlequicksearchbox",
                     "package_title": "Velvet",
                     "partition": "system",
-                    "primary": false,
-                    "size": 380109301,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1417222964",
-                    "version": "14.17.22.29.arm64",
-                    "version_code": "301236200"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -1278,14 +948,14 @@
                     "package": "com.google.android.apps.googleassistant",
                     "package_title": "Assistant",
                     "partition": "system",
-                    "primary": false,
-                    "size": 1139956,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "01452181178",
-                    "version": "0.1.452181178",
-                    "version_code": "48"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1299,14 +969,14 @@
                     "package": "com.google.android.apps.docs.editors.sheets",
                     "package_title": "GoogleSheets",
                     "partition": "system",
-                    "primary": false,
-                    "size": 32792499,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1214820440",
-                    "version": "1.21.482.04.40",
-                    "version_code": "214820440"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1320,14 +990,14 @@
                     "package": "com.google.android.apps.docs.editors.slides",
                     "package_title": "GoogleSlides",
                     "partition": "system",
-                    "primary": false,
-                    "size": 48044581,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1214820540",
-                    "version": "1.21.482.05.40",
-                    "version_code": "214820540"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1341,14 +1011,14 @@
                     "package": "com.google.android.soundpicker",
                     "package_title": "GoogleSounds",
                     "partition": "system",
-                    "primary": false,
-                    "size": 5944590,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "30496815901",
-                    "version": "3.0 (496815901)",
-                    "version_code": "30000182"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1362,14 +1032,14 @@
                     "package": "com.google.android.tts",
                     "package_title": "GoogleTTS",
                     "partition": "system",
-                    "primary": false,
-                    "size": 71144592,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "20230123023506463867",
-                    "version": "googletts.google-speech-apk_20230123.02_p3.506463867",
-                    "version_code": "210411861"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1383,14 +1053,14 @@
                     "package": "com.google.android.marvin.talkback",
                     "package_title": "GoogleTalkback",
                     "partition": "system",
-                    "primary": false,
-                    "size": 37050659,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1400531115896",
-                    "version": "14.0.0.531115896",
-                    "version_code": "60131304"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1404,14 +1074,14 @@
                     "package": "com.google.android.apps.mapslite",
                     "package_title": "MapsGo",
                     "partition": "system",
-                    "primary": false,
-                    "size": 808377,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1601",
-                    "version": "160.1",
-                    "version_code": "160"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1425,14 +1095,14 @@
                     "package": "com.google.android.markup",
                     "package_title": "MarkupGoogle",
                     "partition": "system",
-                    "primary": false,
-                    "size": 6185074,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "10",
-                    "version": "1.0",
-                    "version_code": "172"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1446,183 +1116,14 @@
                     "package": "com.google.android.apps.navlite",
                     "package_title": "NavigationGo",
                     "partition": "system",
-                    "primary": false,
-                    "size": 23853521,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "10743",
-                    "version": "10.74.3",
-                    "version_code": "27"
-                }
-            ]
-        }
-    ],
-    "PixelLauncher": [
-        {
-            "PixelLauncher": [
-                {
-                    "file_path": "___priv-app___NexusLauncherRelease/NexusLauncherRelease.apk",
-                    "folder": "NexusLauncherRelease",
-                    "package": "com.google.android.apps.nexuslauncher",
-                    "package_title": "PixelLauncher",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 13540344,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "907"
-                }
-            ]
-        },
-        {
-            "DevicePersonalizationServices": [
-                {
-                    "file_path": "___priv-app___DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
-                    "folder": "DevicePersonalizationPrebuiltPixel2022",
-                    "package": "com.google.android.as",
-                    "package_title": "DevicePersonalizationServices",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 111064424,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "07530899711",
-                    "version": "U.0.sysimg.pixel7.530899711",
-                    "version_code": "10549787"
-                }
-            ]
-        },
-        {
-            "QuickAccessWallet": [
-                {
-                    "file_path": "___priv-app___QuickAccessWallet/QuickAccessWallet.apk",
-                    "folder": "QuickAccessWallet",
-                    "package": "com.android.systemui.plugin.globalactions.wallet",
-                    "package_title": "QuickAccessWallet",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 659988,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "1000",
-                    "version": "1.0.0.0",
-                    "version_code": "10000000"
-                }
-            ]
-        },
-        {
-            "GoogleWallpaper": [
-                {
-                    "file_path": "___priv-app___WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
-                    "folder": "WallpaperPickerGoogleRelease",
-                    "package": "com.google.android.apps.wallpaper",
-                    "package_title": "GoogleWallpaper",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 9567230,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "200000300"
-                }
-            ]
-        },
-        {
-            "SettingsServices": [
-                {
-                    "file_path": "___priv-app___SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk",
-                    "folder": "SettingsIntelligenceGooglePrebuilt",
-                    "package": "com.google.android.settings.intelligence",
-                    "package_title": "SettingsServices",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 8220567,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "110536057574",
-                    "version": "1.1.0.536057574.sr",
-                    "version_code": "1000225866"
-                }
-            ]
-        },
-        {
-            "PrivateComputeServices": [
-                {
-                    "file_path": "___priv-app___DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
-                    "folder": "DeviceIntelligenceNetworkPrebuilt",
-                    "package": "com.google.android.as.oss",
-                    "package_title": "PrivateComputeServices",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 19497081,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "10529494121",
-                    "version": "1.0.release.529494121",
-                    "version_code": "18411"
-                }
-            ]
-        },
-        {
-            "PixelThemes": [
-                {
-                    "file_path": "___app___PixelThemesStub/PixelThemesStub.apk",
-                    "folder": "PixelThemesStub",
-                    "package": "com.google.android.apps.customization.pixel",
-                    "package_title": "PixelThemes",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 106909,
-                    "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "2"
-                },
-                {
-                    "file_path": "___app___PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
-                    "folder": "PixelThemesStub2022_and_newer",
-                    "package": "com.google.android.apps.customization.pixel",
-                    "package_title": "PixelThemes",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 106909,
-                    "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "2"
-                }
-            ]
-        },
-        {
-            "EmojiWallpaper": [
-                {
-                    "file_path": "___app___WallpaperEmojiPrebuilt/WallpaperEmojiPrebuilt.apk",
-                    "folder": "WallpaperEmojiPrebuilt",
-                    "package": "com.google.android.apps.emojiwallpaper",
-                    "package_title": "EmojiWallpaper",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 8178909,
-                    "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "11540524679",
-                    "version": "1.1.540524679",
-                    "version_code": "353"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1636,33 +1137,33 @@
                     "package": "com.google.android.setupwizard",
                     "package_title": "SetupWizard",
                     "partition": "system",
-                    "primary": false,
-                    "size": 10696975,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "234551464335",
-                    "version": "234.551464335",
-                    "version_code": "25095"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "GoogleRestore": [
                 {
-                    "file_path": "___priv-app___GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
-                    "folder": "GoogleRestorePrebuilt",
+                    "file_path": "___priv-app___GoogleRestore/GoogleRestore.apk",
+                    "folder": "GoogleRestore",
                     "package": "com.google.android.apps.restore",
                     "package_title": "GoogleRestore",
                     "partition": "system",
-                    "primary": false,
-                    "size": 10923326,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "10510474504",
-                    "version": "1.0.510474504",
-                    "version_code": "310952"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -1674,14 +1175,14 @@
                     "package": "com.google.android.onetimeinitializer",
                     "package_title": "GoogleOneTimeInitializer",
                     "partition": "system",
-                    "primary": false,
-                    "size": 322809,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -1693,14 +1194,187 @@
                     "package": "com.google.android.pixel.setupwizard",
                     "package_title": "PixelSetupWizard",
                     "partition": "system",
-                    "primary": false,
-                    "size": 6052822,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        }
+    ],
+    "PixelSpecifics": [
+        {
+            "PixelLauncher": [
+                {
+                    "file_path": "___priv-app___NexusLauncherPrebuilt/NexusLauncherPrebuilt.apk",
+                    "folder": "NexusLauncherPrebuilt",
+                    "package": "com.google.android.apps.nexuslauncher",
+                    "package_title": "PixelLauncher",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "priv-app",
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        },
+        {
+            "DevicePersonalizationServices": [
+                {
+                    "file_path": "___priv-app___MatchmakerPrebuiltPixel4/MatchmakerPrebuiltPixel4.apk",
+                    "folder": "MatchmakerPrebuiltPixel4",
+                    "package": "com.google.android.as",
+                    "package_title": "DevicePersonalizationServices",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "priv-app",
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        },
+        {
+            "QuickAccessWallet": [
+                {
+                    "file_path": "___priv-app___QuickAccessWallet/QuickAccessWallet.apk",
+                    "folder": "QuickAccessWallet",
+                    "package": "com.android.systemui.plugin.globalactions.wallet",
+                    "package_title": "QuickAccessWallet",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "priv-app",
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        },
+        {
+            "GoogleWallpaper": [
+                {
+                    "file_path": "___priv-app___WallpaperPickerGooglePrebuilt/WallpaperPickerGooglePrebuilt.apk",
+                    "folder": "WallpaperPickerGooglePrebuilt",
+                    "package": "com.google.android.apps.wallpaper",
+                    "package_title": "GoogleWallpaper",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "priv-app",
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        },
+        {
+            "SettingsServices": [
+                {
+                    "file_path": "___priv-app___SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk",
+                    "folder": "SettingsIntelligenceGooglePrebuilt",
+                    "package": "com.google.android.settings.intelligence",
+                    "package_title": "SettingsServices",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "priv-app",
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        },
+        {
+            "PrivateComputeServices": [
+                {
+                    "file_path": "___priv-app___DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
+                    "folder": "DeviceIntelligenceNetworkPrebuilt",
+                    "package": "com.google.android.as.oss",
+                    "package_title": "PrivateComputeServices",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "priv-app",
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        },
+        {
+            "PixelThemes": [
+                {
+                    "file_path": "___app___PixelThemes/PixelThemes.apk",
+                    "folder": "PixelThemes",
+                    "package": "com.google.android.apps.customization.pixel",
+                    "package_title": "PixelThemes",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "app",
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        },
+        {
+            "EmojiWallpaper": [
+                {
+                    "file_path": "___app___WallpaperEmojiPrebuilt/WallpaperEmojiPrebuilt.apk",
+                    "folder": "WallpaperEmojiPrebuilt",
+                    "package": "com.google.android.apps.emojiwallpaper",
+                    "package_title": "EmojiWallpaper",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "app",
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        },
+        {
+            "PixelWeather": [
+                {
+                    "file_path": "___priv-app___WeatherPixelPrebuilt/WeatherPixelPrebuilt.apk",
+                    "folder": "WeatherPixelPrebuilt",
+                    "package": "com.google.android.apps.weather",
+                    "package_title": "PixelWeather",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "priv-app",
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1714,14 +1388,14 @@
                     "package": "com.google.android.play.games",
                     "package_title": "PlayGames",
                     "partition": "system",
-                    "primary": false,
-                    "size": 20657756,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "20230140470501577610501577610000400",
-                    "version": "2023.01.40470 (501577610.501577610-000400)",
-                    "version_code": "404700040"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1735,33 +1409,33 @@
                     "package": "com.google.android.setupwizard",
                     "package_title": "SetupWizard",
                     "partition": "system",
-                    "primary": false,
-                    "size": 10696975,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "234551464335",
-                    "version": "234.551464335",
-                    "version_code": "25095"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "GoogleRestore": [
                 {
-                    "file_path": "___priv-app___GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
-                    "folder": "GoogleRestorePrebuilt",
+                    "file_path": "___priv-app___GoogleRestore/GoogleRestore.apk",
+                    "folder": "GoogleRestore",
                     "package": "com.google.android.apps.restore",
                     "package_title": "GoogleRestore",
                     "partition": "system",
-                    "primary": false,
-                    "size": 10923326,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "10510474504",
-                    "version": "1.0.510474504",
-                    "version_code": "310952"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -1773,14 +1447,14 @@
                     "package": "com.google.android.onetimeinitializer",
                     "package_title": "GoogleOneTimeInitializer",
                     "partition": "system",
-                    "primary": false,
-                    "size": 322809,
+                    "primary": true,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1794,14 +1468,14 @@
                     "package": "com.google.android.youtube",
                     "package_title": "YouTube",
                     "partition": "system",
-                    "primary": false,
-                    "size": 124982634,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "181838",
-                    "version": "18.18.38",
-                    "version_code": "1537603032"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1815,14 +1489,14 @@
                     "package": "com.google.android.apps.youtube.music",
                     "package_title": "YouTubeMusic",
                     "partition": "system",
-                    "primary": false,
-                    "size": 64625120,
+                    "primary": true,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "55452",
-                    "version": "5.54.52",
-                    "version_code": "55452240"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
