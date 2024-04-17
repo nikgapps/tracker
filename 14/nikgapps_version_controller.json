@@ -5,17 +5,22 @@
                 {
                     "file_path": "___priv-app___AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk",
                     "folder": "AndroidAutoStubPrebuilt",
+                    "husky_location": "product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk",
+                    "husky_size": 4184333,
+                    "husky_v_code": "12534620",
+                    "husky_version": "1.2.534620-stub",
+                    "husky_version_code": "12534620",
                     "package": "com.google.android.projection.gearhead",
                     "package_title": "AndroidAuto",
                     "partition": "system",
                     "primary": true,
-                    "size": 4098478,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "12531830",
-                    "version": "1.2.531830-stub",
-                    "version_code": "12531830"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -26,17 +31,22 @@
                 {
                     "file_path": "___app___DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk",
                     "folder": "DevicePolicyPrebuilt",
+                    "husky_location": "product/app/DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk",
+                    "husky_size": 16247381,
+                    "husky_v_code": "833671801100",
+                    "husky_version": "83.36.7 (1801100)",
+                    "husky_version_code": "1801100",
                     "package": "com.google.android.apps.work.clouddpc",
                     "package_title": "AndroidDevicePolicy",
                     "partition": "system",
                     "primary": true,
-                    "size": 16247381,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "833671801100",
-                    "version": "83.36.7 (1801100)",
-                    "version_code": "1801100"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -51,13 +61,13 @@
                     "package_title": "AssistantGo",
                     "partition": "system",
                     "primary": true,
-                    "size": 15187592,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2130439234666648",
-                    "version": "2.13.0.439234666.arm64-v8a.jio_release",
-                    "version_code": "16762"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -72,13 +82,13 @@
                     "package_title": "Books",
                     "partition": "system",
                     "primary": true,
-                    "size": 15656244,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "20228901",
-                    "version": "2022.8.9.0.1",
-                    "version_code": "126520"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -93,13 +103,13 @@
                     "package_title": "CarrierServices",
                     "partition": "system",
                     "primary": true,
-                    "size": 9233709,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "11704660442762022080800",
-                    "version": "117.0.466044276-carrierservices_20220808_RC00",
-                    "version_code": "30939330"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -108,48 +118,48 @@
         {
             "GooglePlayStore": [
                 {
-                    "evox_location": "product/packages/privileged_apps/Phonesky/Phonesky.apk",
-                    "evox_size": 71858757,
-                    "evox_v_code": "36520290545707036",
-                    "evox_version": "36.5.20-29 [0] [PR] 545707036",
-                    "evox_version_code": "83652020",
                     "file_path": "___priv-app___Phonesky/Phonesky.apk",
                     "folder": "Phonesky",
+                    "husky_location": "product/priv-app/Phonesky/Phonesky.apk",
+                    "husky_size": 75130440,
+                    "husky_v_code": "38831290595838346",
+                    "husky_version": "38.8.31-29 [0] [PR] 595838346",
+                    "husky_version_code": "83883120",
                     "package": "com.android.vending",
                     "package_title": "GooglePlayStore",
                     "partition": "system",
                     "primary": true,
-                    "size": 74045466,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "35611210528895992",
-                    "version": "35.6.11-21 [0] [PR] 528895992",
-                    "version_code": "83561110"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "GoogleServicesFramework": [
                 {
-                    "evox_location": "system_ext/packages/privileged_apps/GoogleServicesFramework/GoogleServicesFramework.apk",
-                    "evox_size": 5761640,
-                    "evox_v_code": "14",
-                    "evox_version": "14",
-                    "evox_version_code": "34",
                     "file_path": "___priv-app___GoogleServicesFramework/GoogleServicesFramework.apk",
                     "folder": "GoogleServicesFramework",
+                    "husky_location": "system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk",
+                    "husky_size": 5290870,
+                    "husky_v_code": "14",
+                    "husky_version": "14",
+                    "husky_version_code": "34",
                     "package": "com.google.android.gsf",
                     "package_title": "GoogleServicesFramework",
                     "partition": "system",
                     "primary": true,
-                    "size": 5716267,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -162,13 +172,13 @@
                     "package_title": "GoogleContactsSyncAdapter",
                     "partition": "system",
                     "primary": true,
-                    "size": 1571497,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "128361351",
-                    "version": "12-8361351",
-                    "version_code": "31"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -181,197 +191,37 @@
                     "package_title": "GoogleCalendarSyncAdapter",
                     "partition": "system",
                     "primary": true,
-                    "size": 2484539,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2021412406147485",
-                    "version": "2021.41.2-406147485-release",
-                    "version_code": "2017039780"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "GmsCore": [
                 {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___independent/AndroidPlatformServices.apk",
-                    "folder": "PrebuiltGmsCore___m___independent",
-                    "package": "com.google.android.gms.policy_sidecar_aps",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 13841872,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2052073215491873215491873",
-                    "version": "2052073.215491873.215491873",
-                    "version_code": "2052073"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
+                    "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCore.apk",
                     "folder": "PrebuiltGmsCore",
+                    "husky_location": "product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
+                    "husky_size": 146571162,
+                    "husky_v_code": "234524190408601788888",
+                    "husky_version": "23.45.24 (190408-601788888)",
+                    "husky_version_code": "234524039",
                     "package": "com.google.android.gms",
                     "package_title": "GmsCore",
                     "partition": "system",
                     "primary": true,
-                    "size": 134734599,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "231818190408535401451",
-                    "version": "23.18.18 (190408-535401451)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_measurementdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 398366,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamitemodulesa",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 834424,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_googlecertificates",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 246751,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamiteloader",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 173087,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_CronetDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_cronetdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 8645475,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_mapsdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 2217714,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamitemodulesc",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 1829049,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_AdsDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.policy_ads_fdr_dynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 3581782,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "231004600057513700577513700577",
-                    "version": "231004600057.513700577.513700577",
-                    "version_code": "231004601"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
-                    "folder": "PrebuiltGmsCore___m___optional",
-                    "package": "com.google.android.gms.optional_vision_barcode",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 5132445,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181004000",
-                    "version": "23.18.18 (100400-0)",
-                    "version_code": "231818065"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/MlkitBarcodeUIPrebuilt.apk",
-                    "folder": "PrebuiltGmsCore___m___optional",
-                    "package": "com.google.android.gms.optional_mlkit_barcode_ui",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 6257168,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181000000",
-                    "version": "23.18.18 (100000-0)",
-                    "version_code": "231818057"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -380,232 +230,72 @@
         {
             "GmsCore": [
                 {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___independent/AndroidPlatformServices.apk",
-                    "folder": "PrebuiltGmsCore___m___independent",
-                    "package": "com.google.android.gms.policy_sidecar_aps",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 13841872,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2052073215491873215491873",
-                    "version": "2052073.215491873.215491873",
-                    "version_code": "2052073"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
+                    "file_path": "___priv-app___PrebuiltGmsCore/PrebuiltGmsCore.apk",
                     "folder": "PrebuiltGmsCore",
+                    "husky_location": "product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk",
+                    "husky_size": 146571162,
+                    "husky_v_code": "234524190408601788888",
+                    "husky_version": "23.45.24 (190408-601788888)",
+                    "husky_version_code": "234524039",
                     "package": "com.google.android.gms",
                     "package_title": "GmsCore",
                     "partition": "system",
                     "primary": true,
-                    "size": 134734599,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "231818190408535401451",
-                    "version": "23.18.18 (190408-535401451)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MeasurementDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_measurementdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 398366,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesA.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamitemodulesa",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 834424,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_GoogleCertificates.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_googlecertificates",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 246751,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteLoader.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamiteloader",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 173087,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_CronetDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_cronetdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 8645475,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_MapsDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_mapsdynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 2217714,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_DynamiteModulesC.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.dynamite_dynamitemodulesc",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 1829049,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181904080",
-                    "version": "23.18.18 (190408-0)",
-                    "version_code": "231818045"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___app_chimera___m/PrebuiltGmsCoreSc_AdsDynamite.apk",
-                    "folder": "PrebuiltGmsCore___app_chimera___m",
-                    "package": "com.google.android.gms.policy_ads_fdr_dynamite",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 3581782,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "231004600057513700577513700577",
-                    "version": "231004600057.513700577.513700577",
-                    "version_code": "231004601"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/VisionBarcodePrebuilt.apk",
-                    "folder": "PrebuiltGmsCore___m___optional",
-                    "package": "com.google.android.gms.optional_vision_barcode",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 5132445,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181004000",
-                    "version": "23.18.18 (100400-0)",
-                    "version_code": "231818065"
-                },
-                {
-                    "file_path": "___priv-app___PrebuiltGmsCore___m___optional/MlkitBarcodeUIPrebuilt.apk",
-                    "folder": "PrebuiltGmsCore___m___optional",
-                    "package": "com.google.android.gms.optional_mlkit_barcode_ui",
-                    "package_title": "GmsCore",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 6257168,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2318181000000",
-                    "version": "23.18.18 (100000-0)",
-                    "version_code": "231818057"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "GooglePlayStore": [
                 {
-                    "evox_location": "product/packages/privileged_apps/Phonesky/Phonesky.apk",
-                    "evox_size": 71858757,
-                    "evox_v_code": "36520290545707036",
-                    "evox_version": "36.5.20-29 [0] [PR] 545707036",
-                    "evox_version_code": "83652020",
                     "file_path": "___priv-app___Phonesky/Phonesky.apk",
                     "folder": "Phonesky",
+                    "husky_location": "product/priv-app/Phonesky/Phonesky.apk",
+                    "husky_size": 75130440,
+                    "husky_v_code": "38831290595838346",
+                    "husky_version": "38.8.31-29 [0] [PR] 595838346",
+                    "husky_version_code": "83883120",
                     "package": "com.android.vending",
                     "package_title": "GooglePlayStore",
                     "partition": "system",
                     "primary": true,
-                    "size": 74045466,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "35611210528895992",
-                    "version": "35.6.11-21 [0] [PR] 528895992",
-                    "version_code": "83561110"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "GoogleServicesFramework": [
                 {
-                    "evox_location": "system_ext/packages/privileged_apps/GoogleServicesFramework/GoogleServicesFramework.apk",
-                    "evox_size": 5761640,
-                    "evox_v_code": "14",
-                    "evox_version": "14",
-                    "evox_version_code": "34",
                     "file_path": "___priv-app___GoogleServicesFramework/GoogleServicesFramework.apk",
                     "folder": "GoogleServicesFramework",
+                    "husky_location": "system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk",
+                    "husky_size": 5290870,
+                    "husky_v_code": "14",
+                    "husky_version": "14",
+                    "husky_version_code": "34",
                     "package": "com.google.android.gsf",
                     "package_title": "GoogleServicesFramework",
                     "partition": "system",
                     "primary": true,
-                    "size": 5716267,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -618,13 +308,13 @@
                     "package_title": "GoogleContactsSyncAdapter",
                     "partition": "system",
                     "primary": true,
-                    "size": 1571497,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "128361351",
-                    "version": "12-8361351",
-                    "version_code": "31"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -637,13 +327,13 @@
                     "package_title": "GoogleCalendarSyncAdapter",
                     "partition": "system",
                     "primary": true,
-                    "size": 2484539,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "2021412406147485",
-                    "version": "2021.41.2-406147485-release",
-                    "version_code": "2017039780"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -652,19 +342,24 @@
         {
             "DeviceHealthServices": [
                 {
-                    "file_path": "___priv-app___TurboPrebuilt/TurboPrebuilt.apk",
-                    "folder": "TurboPrebuilt",
+                    "file_path": "___priv-app___Turbo/Turbo.apk",
+                    "folder": "Turbo",
+                    "husky_location": "product/priv-app/TurboPrebuilt/TurboPrebuilt.apk",
+                    "husky_size": 8087678,
+                    "husky_v_code": "1260539008430",
+                    "husky_version": "1.26.0.539008430.release",
+                    "husky_version_code": "10263001",
                     "package": "com.google.android.apps.turbo",
                     "package_title": "DeviceHealthServices",
                     "partition": "system",
                     "primary": true,
-                    "size": 8087678,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "1260539008430",
-                    "version": "1.26.0.539008430.release",
-                    "version_code": "10263001"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -673,19 +368,24 @@
         {
             "DeviceSetup": [
                 {
-                    "file_path": "___priv-app___OTAConfigNoZeroTouchPrebuilt/OTAConfigNoZeroTouchPrebuilt.apk",
-                    "folder": "OTAConfigNoZeroTouchPrebuilt",
+                    "file_path": "___priv-app___OTAConfigPrebuilt/OTAConfigPrebuilt.apk",
+                    "folder": "OTAConfigPrebuilt",
+                    "husky_location": "product/priv-app/OTAConfigNoZeroTouchPrebuilt/OTAConfigNoZeroTouchPrebuilt.apk",
+                    "husky_size": 2681439,
+                    "husky_v_code": "10450944095",
+                    "husky_version": "1.0.450944095",
+                    "husky_version_code": "293",
                     "package": "com.google.android.apps.work.oobconfig",
                     "package_title": "DeviceSetup",
                     "partition": "system",
                     "primary": true,
-                    "size": 2681439,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "10450944095",
-                    "version": "1.0.450944095",
-                    "version_code": "293"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -694,19 +394,24 @@
         {
             "DigitalWellbeing": [
                 {
-                    "file_path": "___priv-app___WellbeingPrebuilt/WellbeingPrebuilt.apk",
-                    "folder": "WellbeingPrebuilt",
+                    "file_path": "___priv-app___WellbeingPreBuilt/WellbeingPreBuilt.apk",
+                    "folder": "WellbeingPreBuilt",
+                    "husky_location": "product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk",
+                    "husky_size": 20596088,
+                    "husky_v_code": "16521068621495937",
+                    "husky_version": "1.6.521068621 (495937)",
+                    "husky_version_code": "495937",
                     "package": "com.google.android.apps.wellbeing",
                     "package_title": "DigitalWellbeing",
                     "partition": "system",
                     "primary": true,
-                    "size": 20596088,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "16521068621495937",
-                    "version": "1.6.521068621 (495937)",
-                    "version_code": "495937"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -717,17 +422,22 @@
                 {
                     "file_path": "___app___Drive/Drive.apk",
                     "folder": "Drive",
+                    "husky_location": "product/app/Drive/Drive.apk",
+                    "husky_size": 65530202,
+                    "husky_v_code": "2232510648",
+                    "husky_version": "2.23.251.0.arm64-v8a.alldpi",
+                    "husky_version_code": "213191195",
                     "package": "com.google.android.apps.docs",
                     "package_title": "Drive",
                     "partition": "system",
                     "primary": true,
-                    "size": 65410146,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2232510648",
-                    "version": "2.23.251.0.arm64-v8a.alldpi",
-                    "version_code": "213191195"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -738,17 +448,22 @@
                 {
                     "file_path": "___app___LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk",
                     "folder": "LatinIMEGooglePrebuilt",
+                    "husky_location": "product/app/LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk",
+                    "husky_size": 92921499,
+                    "husky_v_code": "13611574113912648",
+                    "husky_version": "13.6.11.574113912-preload-arm64-v8a",
+                    "husky_version_code": "128278090",
                     "package": "com.google.android.inputmethod.latin",
                     "package_title": "GBoard",
                     "partition": "system",
                     "primary": true,
-                    "size": 85049705,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "12405482060964648",
-                    "version": "12.4.05.482060964-preload-arm64-v8a",
-                    "version_code": "99078518"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -763,13 +478,13 @@
                     "package_title": "GalleryGo",
                     "partition": "system",
                     "primary": true,
-                    "size": 13145549,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "190473991075",
-                    "version": "1.9.0.473991075 release",
-                    "version_code": "12250740"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -780,17 +495,22 @@
                 {
                     "file_path": "___app___PrebuiltGmail/PrebuiltGmail.apk",
                     "folder": "PrebuiltGmail",
+                    "husky_location": "product/app/PrebuiltGmail/PrebuiltGmail.apk",
+                    "husky_size": 124091441,
+                    "husky_v_code": "20230416527073575",
+                    "husky_version": "2023.04.16.527073575.Release",
+                    "husky_version_code": "63844677",
                     "package": "com.google.android.gm",
                     "package_title": "Gmail",
                     "partition": "system",
                     "primary": true,
-                    "size": 104366556,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "20220501448071085",
-                    "version": "2022.05.01.448071085.Release",
-                    "version_code": "63266701"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -805,13 +525,13 @@
                     "package_title": "GmailGo",
                     "partition": "system",
                     "primary": true,
-                    "size": 36047257,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "20221010480125827",
-                    "version": "2022.10.10.480125827.Release",
-                    "version_code": "62507962"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -820,24 +540,24 @@
         {
             "GoogleCalculator": [
                 {
-                    "evox_location": "product/packages/apps/CalculatorGooglePrebuilt/CalculatorGooglePrebuilt.apk",
-                    "evox_size": 4937483,
-                    "evox_v_code": "841520193683",
-                    "evox_version": "8.4.1 (520193683)",
-                    "evox_version_code": "84100198",
                     "file_path": "___app___CalculatorGooglePrebuilt/CalculatorGooglePrebuilt.apk",
                     "folder": "CalculatorGooglePrebuilt",
+                    "husky_location": "product/app/CalculatorGooglePrebuilt/CalculatorGooglePrebuilt.apk",
+                    "husky_size": 4937483,
+                    "husky_v_code": "841520193683",
+                    "husky_version": "8.4.1 (520193683)",
+                    "husky_version_code": "84100198",
                     "package": "com.google.android.calculator",
                     "package_title": "GoogleCalculator",
                     "partition": "system",
                     "primary": true,
-                    "size": 4325071,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "81403424005",
-                    "version": "8.1 (403424005)",
-                    "version_code": "81000803"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -848,17 +568,22 @@
                 {
                     "file_path": "___app___CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk",
                     "folder": "CalendarGooglePrebuilt",
+                    "husky_location": "product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk",
+                    "husky_size": 39155535,
+                    "husky_v_code": "2023481589116598",
+                    "husky_version": "2023.48.1-589116598-release",
+                    "husky_version_code": "2017291608",
                     "package": "com.google.android.calendar",
                     "package_title": "GoogleCalendar",
                     "partition": "system",
                     "primary": true,
-                    "size": 38783606,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "2023183530889391",
-                    "version": "2023.18.3-530889391-release",
-                    "version_code": "2017191822"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -867,57 +592,72 @@
         {
             "GoogleChrome": [
                 {
-                    "file_path": "___app___Chrome-Stub/Chrome-Stub.apk",
-                    "folder": "Chrome-Stub",
+                    "file_path": "___app___GoogleChrome/GoogleChrome.apk",
+                    "folder": "GoogleChrome",
+                    "husky_location": "product/app/Chrome-Stub/Chrome-Stub.apk",
+                    "husky_size": 12701,
+                    "husky_v_code": "12006099193",
+                    "husky_version": "120.0.6099.193",
+                    "husky_version_code": "609919332",
                     "package": "com.android.chrome",
                     "package_title": "GoogleChrome",
                     "partition": "system",
                     "primary": true,
-                    "size": 12701,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "11305672136",
-                    "version": "113.0.5672.136",
-                    "version_code": "567263634"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "WebViewGoogle": [
                 {
-                    "file_path": "___app___WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
-                    "folder": "WebViewGoogle-Stub",
+                    "file_path": "___app___WebViewGoogle/WebViewGoogle.apk",
+                    "folder": "WebViewGoogle",
+                    "husky_location": "product/app/WebViewGoogle-Stub/WebViewGoogle-Stub.apk",
+                    "husky_size": 12701,
+                    "husky_v_code": "12006099193",
+                    "husky_version": "120.0.6099.193",
+                    "husky_version_code": "609919332",
                     "package": "com.google.android.webview",
                     "package_title": "WebViewGoogle",
                     "partition": "system",
                     "primary": true,
-                    "size": 12701,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "11305672136",
-                    "version": "113.0.5672.136",
-                    "version_code": "567263634"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "TrichromeLibrary": [
                 {
-                    "file_path": "___app___TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
-                    "folder": "TrichromeLibrary-Stub",
+                    "file_path": "___app___TrichromeLibrary/TrichromeLibrary.apk",
+                    "folder": "TrichromeLibrary",
+                    "husky_location": "product/app/TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk",
+                    "husky_size": 12701,
+                    "husky_v_code": "12006099193",
+                    "husky_version": "120.0.6099.193",
+                    "husky_version_code": "609919332",
                     "package": "com.google.android.trichromelibrary",
                     "package_title": "TrichromeLibrary",
                     "partition": "system",
                     "primary": true,
-                    "size": 12701,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "11305672136",
-                    "version": "113.0.5672.136",
-                    "version_code": "567263634"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -926,24 +666,24 @@
         {
             "GoogleClock": [
                 {
-                    "evox_location": "product/packages/apps/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk",
-                    "evox_size": 14389444,
-                    "evox_v_code": "75563137996",
-                    "evox_version": "7.5 (563137996)",
-                    "evox_version_code": "76002074",
                     "file_path": "___app___PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk",
                     "folder": "PrebuiltDeskClockGoogle",
+                    "husky_location": "product/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk",
+                    "husky_size": 14389444,
+                    "husky_v_code": "75563137996",
+                    "husky_version": "7.5 (563137996)",
+                    "husky_version_code": "76002074",
                     "package": "com.google.android.deskclock",
                     "package_title": "GoogleClock",
                     "partition": "system",
                     "primary": true,
-                    "size": 12998295,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "74504317960",
-                    "version": "7.4 (504317960)",
-                    "version_code": "74001498"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -952,24 +692,24 @@
         {
             "GoogleContacts": [
                 {
-                    "evox_location": "product/packages/apps/GoogleContacts/GoogleContacts.apk",
-                    "evox_size": 26140989,
-                    "evox_v_code": "41718564848340",
-                    "evox_version": "4.17.18.564848340",
-                    "evox_version_code": "3088002",
                     "file_path": "___app___GoogleContacts/GoogleContacts.apk",
                     "folder": "GoogleContacts",
+                    "husky_location": "product/app/GoogleContacts/GoogleContacts.apk",
+                    "husky_size": 26395636,
+                    "husky_v_code": "42237586680692",
+                    "husky_version": "4.22.37.586680692",
+                    "husky_version_code": "3131592",
                     "package": "com.google.android.contacts",
                     "package_title": "GoogleContacts",
                     "partition": "system",
                     "primary": true,
-                    "size": 24834284,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "4817529259023",
-                    "version": "4.8.17.529259023",
-                    "version_code": "3016392"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -978,24 +718,24 @@
         {
             "GoogleDialer": [
                 {
-                    "evox_location": "product/packages/privileged_apps/GoogleDialer/GoogleDialer.apk",
-                    "evox_size": 64262511,
-                    "evox_v_code": "1130563246354",
-                    "evox_version": "113.0.563246354",
-                    "evox_version_code": "14545108",
                     "file_path": "___priv-app___GoogleDialer/GoogleDialer.apk",
                     "folder": "GoogleDialer",
+                    "husky_location": "product/priv-app/GoogleDialer/GoogleDialer.apk",
+                    "husky_size": 64352623,
+                    "husky_v_code": "1130563246354",
+                    "husky_version": "113.0.563246354",
+                    "husky_version_code": "14545108",
                     "package": "com.google.android.dialer",
                     "package_title": "GoogleDialer",
                     "partition": "system",
                     "primary": true,
-                    "size": 63884970,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "1000512999549",
-                    "version": "100.0.512999549",
-                    "version_code": "11348628"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1010,13 +750,13 @@
                     "package_title": "GoogleDocs",
                     "partition": "system",
                     "primary": true,
-                    "size": 33539323,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1214820440",
-                    "version": "1.21.482.04.40",
-                    "version_code": "214820440"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1027,17 +767,22 @@
                 {
                     "file_path": "___app___GoogleDuo/GoogleDuo.apk",
                     "folder": "GoogleDuo",
+                    "husky_location": "product/app/MeetPrebuilt/MeetPrebuilt.apk",
+                    "husky_size": 33368,
+                    "husky_v_code": "206055686000820230814112",
+                    "husky_version": "206.0.556860008.duo.android_20230814.11_p2",
+                    "husky_version_code": "1",
                     "package": "com.google.android.apps.tachyon",
                     "package_title": "GoogleDuo",
                     "partition": "system",
                     "primary": true,
-                    "size": 9631413,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "155041354329820211128132",
-                    "version": "155.0.413543298.duo.android_20211128.13_p2",
-                    "version_code": "3374026"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1048,17 +793,22 @@
                 {
                     "file_path": "___priv-app___GoogleFeedback/GoogleFeedback.apk",
                     "folder": "GoogleFeedback",
+                    "husky_location": "system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk",
+                    "husky_size": 502813,
+                    "husky_v_code": "14",
+                    "husky_version": "14",
+                    "husky_version_code": "34",
                     "package": "com.google.android.feedback",
                     "package_title": "GoogleFeedback",
                     "partition": "system",
                     "primary": true,
-                    "size": 421049,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1067,72 +817,62 @@
         {
             "GoogleFiles": [
                 {
-                    "evox_location": "product/packages/privileged_apps/FilesPrebuilt/FilesPrebuilt.apk",
-                    "evox_size": 24841667,
-                    "evox_v_code": "1522537834023",
-                    "evox_version": "1.522.537834023",
-                    "evox_version_code": "494759",
                     "file_path": "___priv-app___FilesPrebuilt/FilesPrebuilt.apk",
                     "folder": "FilesPrebuilt",
+                    "husky_location": "product/priv-app/FilesPrebuilt/FilesPrebuilt.apk",
+                    "husky_size": 24849859,
+                    "husky_v_code": "1522537834023",
+                    "husky_version": "1.522.537834023",
+                    "husky_version_code": "494759",
                     "package": "com.google.android.apps.nbu.files",
                     "package_title": "GoogleFiles",
                     "partition": "system",
                     "primary": true,
-                    "size": 20795963,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "170520549696",
-                    "version": "1.70.520549696",
-                    "version_code": "429383"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "StorageManager": [
                 {
-                    "evox_location": "system_ext/packages/privileged_apps/StorageManagerGoogle/StorageManagerGoogle.apk",
-                    "evox_size": 5386131,
-                    "evox_v_code": "14",
-                    "evox_version": "14",
-                    "evox_version_code": "34",
                     "file_path": "___priv-app___StorageManagerGoogle/StorageManagerGoogle.apk",
                     "folder": "StorageManagerGoogle",
                     "package": "com.google.android.storagemanager",
                     "package_title": "StorageManager",
                     "partition": "system",
                     "primary": true,
-                    "size": 5369657,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "DocumentsUIGoogle": [
                 {
-                    "evox_location": "system/packages/privileged_apps/DocumentsUIGoogle/DocumentsUIGoogle.apk",
-                    "evox_size": 6877028,
-                    "evox_v_code": "1410572802",
-                    "evox_version": "14-10572802",
-                    "evox_version_code": "340818110",
                     "file_path": "___priv-app___DocumentsUIGoogle/DocumentsUIGoogle.apk",
                     "folder": "DocumentsUIGoogle",
                     "package": "com.google.android.documentsui",
                     "package_title": "DocumentsUIGoogle",
                     "partition": "system",
                     "primary": true,
-                    "size": 6539419,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "330443000",
-                    "version": "t_frc_doc_330443000",
-                    "version_code": "330443000"
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1147,13 +887,13 @@
                     "package_title": "GoogleGo",
                     "partition": "system",
                     "primary": true,
-                    "size": 27321154,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "373516407828",
-                    "version": "3.73.516407828.release",
-                    "version_code": "763879"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1168,13 +908,13 @@
                     "package_title": "GoogleKeep",
                     "partition": "system",
                     "primary": true,
-                    "size": 19193994,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "5222820390",
-                    "version": "5.22.282.03.90",
-                    "version_code": "220484801"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1185,17 +925,22 @@
                 {
                     "file_path": "___app___LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk",
                     "folder": "LocationHistoryPrebuilt",
+                    "husky_location": "product/app/LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk",
+                    "husky_size": 217946,
+                    "husky_v_code": "12",
+                    "husky_version": "1.2",
+                    "husky_version_code": "3",
                     "package": "com.google.android.gms.location.history",
                     "package_title": "GoogleLocationHistory",
                     "partition": "system",
                     "primary": true,
-                    "size": 217946,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "12",
-                    "version": "1.2",
-                    "version_code": "3"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1204,19 +949,24 @@
         {
             "GoogleMaps": [
                 {
-                    "file_path": "___app___Maps/Maps.apk",
-                    "folder": "Maps",
+                    "file_path": "___app___GoogleMaps/GoogleMaps.apk",
+                    "folder": "GoogleMaps",
+                    "husky_location": "product/app/Maps/Maps.apk",
+                    "husky_size": 84112372,
+                    "husky_v_code": "111090101",
+                    "husky_version": "11.109.0101",
+                    "husky_version_code": "1067296301",
                     "package": "com.google.android.apps.maps",
                     "package_title": "GoogleMaps",
                     "partition": "system",
                     "primary": true,
-                    "size": 77434026,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "11710300",
-                    "version": "11.71.0300",
-                    "version_code": "1066937505"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1227,17 +977,22 @@
                 {
                     "file_path": "___priv-app___PrebuiltBugle/PrebuiltBugle.apk",
                     "folder": "PrebuiltBugle",
+                    "husky_location": "product/priv-app/PrebuiltBugle/PrebuiltBugle.apk",
+                    "husky_size": 106555360,
+                    "husky_v_code": "202305290301648",
+                    "husky_version": "messages.android_20230529_03_RC01_alldpi.arm64-v8a.phone",
+                    "husky_version_code": "186596840",
                     "package": "com.google.android.apps.messaging",
                     "package_title": "GoogleMessages",
                     "partition": "system",
                     "primary": true,
-                    "size": 106366944,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "202305290301648",
-                    "version": "messages.android_20230529_03_RC01_alldpi.arm64-v8a.phone",
-                    "version_code": "186596840"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1248,17 +1003,22 @@
                 {
                     "file_path": "___priv-app___PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk",
                     "folder": "PartnerSetupPrebuilt",
+                    "husky_location": "product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk",
+                    "husky_size": 726118,
+                    "husky_v_code": "100448391512",
+                    "husky_version": "100.448391512",
+                    "husky_version_code": "1450",
                     "package": "com.google.android.partnersetup",
                     "package_title": "GooglePartnerSetup",
                     "partition": "system",
                     "primary": true,
-                    "size": 726118,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "100448391512",
-                    "version": "100.448391512",
-                    "version_code": "1450"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1269,17 +1029,22 @@
                 {
                     "file_path": "___app___Photos/Photos.apk",
                     "folder": "Photos",
+                    "husky_location": "product/app/Photos/Photos.apk",
+                    "husky_size": 116226000,
+                    "husky_v_code": "5960455936975",
+                    "husky_version": "5.96.0.455936975",
+                    "husky_version_code": "43831807",
                     "package": "com.google.android.apps.photos",
                     "package_title": "GooglePhotos",
                     "partition": "system",
                     "primary": true,
-                    "size": 132494145,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "6290519265844",
-                    "version": "6.29.0.519265844",
-                    "version_code": "47595614"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1288,24 +1053,24 @@
         {
             "GoogleRecorder": [
                 {
-                    "evox_location": "product/packages/privileged_apps/RecorderPrebuilt/RecorderPrebuilt.apk",
-                    "evox_size": 69583537,
-                    "evox_v_code": "4220230801570555584",
-                    "evox_version": "4.2.20230801.570555584",
-                    "evox_version_code": "42058313",
                     "file_path": "___priv-app___RecorderPrebuilt/RecorderPrebuilt.apk",
                     "folder": "RecorderPrebuilt",
+                    "husky_location": "product/priv-app/RecorderPrebuilt/RecorderPrebuilt.apk",
+                    "husky_size": 71824589,
+                    "husky_v_code": "4220231031588753436",
+                    "husky_version": "4.2.20231031.588753436",
+                    "husky_version_code": "42112113",
                     "package": "com.google.android.apps.recorder",
                     "package_title": "GoogleRecorder",
                     "partition": "system",
                     "primary": true,
-                    "size": 70285204,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "4220230521533929668",
-                    "version": "4.2.20230521.533929668",
-                    "version_code": "42029613"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1316,17 +1081,22 @@
                 {
                     "file_path": "___priv-app___Velvet/Velvet.apk",
                     "folder": "Velvet",
+                    "husky_location": "product/priv-app/Velvet/Velvet.apk",
+                    "husky_size": 384649881,
+                    "husky_v_code": "1421132964",
+                    "husky_version": "14.21.13.29.arm64",
+                    "husky_version_code": "301242230",
                     "package": "com.google.android.googlequicksearchbox",
                     "package_title": "Velvet",
                     "partition": "system",
                     "primary": true,
-                    "size": 380109301,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "1417222964",
-                    "version": "14.17.22.29.arm64",
-                    "version_code": "301236200"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -1339,13 +1109,13 @@
                     "package_title": "Assistant",
                     "partition": "system",
                     "primary": true,
-                    "size": 1139956,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "01452181178",
-                    "version": "0.1.452181178",
-                    "version_code": "48"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1360,13 +1130,13 @@
                     "package_title": "GoogleSheets",
                     "partition": "system",
                     "primary": true,
-                    "size": 32792499,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1214820440",
-                    "version": "1.21.482.04.40",
-                    "version_code": "214820440"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1381,13 +1151,13 @@
                     "package_title": "GoogleSlides",
                     "partition": "system",
                     "primary": true,
-                    "size": 48044581,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1214820540",
-                    "version": "1.21.482.05.40",
-                    "version_code": "214820540"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1398,17 +1168,22 @@
                 {
                     "file_path": "___app___SoundPickerPrebuilt/SoundPickerPrebuilt.apk",
                     "folder": "SoundPickerPrebuilt",
+                    "husky_location": "product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk",
+                    "husky_size": 5944590,
+                    "husky_v_code": "30496815901",
+                    "husky_version": "3.0 (496815901)",
+                    "husky_version_code": "30000182",
                     "package": "com.google.android.soundpicker",
                     "package_title": "GoogleSounds",
                     "partition": "system",
                     "primary": true,
-                    "size": 5944590,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "30496815901",
-                    "version": "3.0 (496815901)",
-                    "version_code": "30000182"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1417,24 +1192,24 @@
         {
             "GoogleTTS": [
                 {
-                    "evox_location": "product/packages/apps/GoogleTTS/GoogleTTS.apk",
-                    "evox_size": 74688698,
-                    "evox_v_code": "20230822010559258607",
-                    "evox_version": "googletts.google-speech-apk_20230822.01_p0.559258607",
-                    "evox_version_code": "210444053",
                     "file_path": "___app___GoogleTTS/GoogleTTS.apk",
                     "folder": "GoogleTTS",
+                    "husky_location": "product/app/GoogleTTS/GoogleTTS.apk",
+                    "husky_size": 74803386,
+                    "husky_v_code": "20230822010559258607",
+                    "husky_version": "googletts.google-speech-apk_20230822.01_p0.559258607",
+                    "husky_version_code": "210444053",
                     "package": "com.google.android.tts",
                     "package_title": "GoogleTTS",
                     "partition": "system",
                     "primary": true,
-                    "size": 71144592,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "20230123023506463867",
-                    "version": "googletts.google-speech-apk_20230123.02_p3.506463867",
-                    "version_code": "210411861"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1445,17 +1220,22 @@
                 {
                     "file_path": "___app___talkback/talkback.apk",
                     "folder": "talkback",
+                    "husky_location": "product/app/talkback/talkback.apk",
+                    "husky_size": 37132579,
+                    "husky_v_code": "1400531115896",
+                    "husky_version": "14.0.0.531115896",
+                    "husky_version_code": "60131304",
                     "package": "com.google.android.marvin.talkback",
                     "package_title": "GoogleTalkback",
                     "partition": "system",
                     "primary": true,
-                    "size": 37050659,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "1400531115896",
-                    "version": "14.0.0.531115896",
-                    "version_code": "60131304"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1470,13 +1250,13 @@
                     "package_title": "MapsGo",
                     "partition": "system",
                     "primary": true,
-                    "size": 808377,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1601",
-                    "version": "160.1",
-                    "version_code": "160"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1485,24 +1265,24 @@
         {
             "MarkupGoogle": [
                 {
-                    "evox_location": "product/packages/apps/MarkupGoogle/MarkupGoogle.apk",
-                    "evox_size": 6342752,
-                    "evox_v_code": "10",
-                    "evox_version": "1.0",
-                    "evox_version_code": "184",
                     "file_path": "___app___MarkupGoogle/MarkupGoogle.apk",
                     "folder": "MarkupGoogle",
+                    "husky_location": "product/app/MarkupGoogle/MarkupGoogle.apk",
+                    "husky_size": 6342752,
+                    "husky_v_code": "10",
+                    "husky_version": "1.0",
+                    "husky_version_code": "184",
                     "package": "com.google.android.markup",
                     "package_title": "MarkupGoogle",
                     "partition": "system",
                     "primary": true,
-                    "size": 6185074,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "10",
-                    "version": "1.0",
-                    "version_code": "172"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1517,58 +1297,151 @@
                     "package_title": "NavigationGo",
                     "partition": "system",
                     "primary": true,
-                    "size": 23853521,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "10743",
-                    "version": "10.74.3",
-                    "version_code": "27"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
     ],
-    "PixelLauncher": [
+    "PixelSetupWizard": [
+        {
+            "SetupWizard": [
+                {
+                    "file_path": "___priv-app___SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
+                    "folder": "SetupWizardPrebuilt",
+                    "husky_location": "product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
+                    "husky_size": 11755592,
+                    "husky_v_code": "234596807986",
+                    "husky_version": "234.596807986",
+                    "husky_version_code": "27755",
+                    "package": "com.google.android.setupwizard",
+                    "package_title": "SetupWizard",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "priv-app",
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        },
+        {
+            "GoogleRestore": [
+                {
+                    "file_path": "___priv-app___GoogleRestore/GoogleRestore.apk",
+                    "folder": "GoogleRestore",
+                    "husky_location": "product/priv-app/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
+                    "husky_size": 11876700,
+                    "husky_v_code": "10561073583",
+                    "husky_version": "1.0.561073583",
+                    "husky_version_code": "414272",
+                    "package": "com.google.android.apps.restore",
+                    "package_title": "GoogleRestore",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "priv-app",
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        },
+        {
+            "GoogleOneTimeInitializer": [
+                {
+                    "file_path": "___priv-app___GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
+                    "folder": "GoogleOneTimeInitializer",
+                    "husky_location": "product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
+                    "husky_size": 277923,
+                    "husky_v_code": "14",
+                    "husky_version": "14",
+                    "husky_version_code": "34",
+                    "package": "com.google.android.onetimeinitializer",
+                    "package_title": "GoogleOneTimeInitializer",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "priv-app",
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        },
+        {
+            "PixelSetupWizard": [
+                {
+                    "file_path": "___priv-app___PixelSetupWizard/PixelSetupWizard.apk",
+                    "folder": "PixelSetupWizard",
+                    "package": "com.google.android.pixel.setupwizard",
+                    "package_title": "PixelSetupWizard",
+                    "partition": "system",
+                    "primary": true,
+                    "size": 0,
+                    "type": "priv-app",
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
+                }
+            ]
+        }
+    ],
+    "PixelSpecifics": [
         {
             "PixelLauncher": [
                 {
-                    "evox_location": "system_ext/packages/privileged_apps/NexusLauncherRelease/NexusLauncherRelease.apk",
-                    "evox_size": 13830694,
-                    "evox_v_code": "14",
-                    "evox_version": "14",
-                    "evox_version_code": "907",
-                    "file_path": "___priv-app___NexusLauncherRelease/NexusLauncherRelease.apk",
-                    "folder": "NexusLauncherRelease",
+                    "file_path": "___priv-app___NexusLauncherPrebuilt/NexusLauncherPrebuilt.apk",
+                    "folder": "NexusLauncherPrebuilt",
                     "package": "com.google.android.apps.nexuslauncher",
                     "package_title": "PixelLauncher",
                     "partition": "system",
                     "primary": true,
-                    "size": 13540344,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "907"
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "DevicePersonalizationServices": [
                 {
-                    "file_path": "___priv-app___DevicePersonalizationPrebuiltPixel2022/DevicePersonalizationPrebuiltPixel2022.apk",
-                    "folder": "DevicePersonalizationPrebuiltPixel2022",
+                    "file_path": "___priv-app___MatchmakerPrebuiltPixel4/MatchmakerPrebuiltPixel4.apk",
+                    "folder": "MatchmakerPrebuiltPixel4",
+                    "husky_location": "product/priv-app/DevicePersonalizationPrebuiltPixel2023/DevicePersonalizationPrebuiltPixel2023.apk",
+                    "husky_size": 111379692,
+                    "husky_v_code": "08557423134",
+                    "husky_version": "U.0.sysimg.pixel8.557423134",
+                    "husky_version_code": "10615571",
                     "package": "com.google.android.as",
                     "package_title": "DevicePersonalizationServices",
                     "partition": "system",
                     "primary": true,
-                    "size": 111064424,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "07530899711",
-                    "version": "U.0.sysimg.pixel7.530899711",
-                    "version_code": "10549787"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -1581,61 +1454,56 @@
                     "package_title": "QuickAccessWallet",
                     "partition": "system",
                     "primary": true,
-                    "size": 659988,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "1000",
-                    "version": "1.0.0.0",
-                    "version_code": "10000000"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "GoogleWallpaper": [
                 {
-                    "evox_location": "system_ext/packages/privileged_apps/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
-                    "evox_size": 9809108,
-                    "evox_v_code": "14",
-                    "evox_version": "14",
-                    "evox_version_code": "200000300",
-                    "file_path": "___priv-app___WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
-                    "folder": "WallpaperPickerGoogleRelease",
+                    "file_path": "___priv-app___WallpaperPickerGooglePrebuilt/WallpaperPickerGooglePrebuilt.apk",
+                    "folder": "WallpaperPickerGooglePrebuilt",
                     "package": "com.google.android.apps.wallpaper",
                     "package_title": "GoogleWallpaper",
                     "partition": "system",
                     "primary": true,
-                    "size": 9567230,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "200000300"
+                    "update_indicator": 0,
+                    "update_source": "unknown",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "SettingsServices": [
                 {
-                    "evox_location": "product/packages/privileged_apps/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk",
-                    "evox_size": 8236948,
-                    "evox_v_code": "110540441584",
-                    "evox_version": "1.1.0.540441584.sr",
-                    "evox_version_code": "1000226766",
                     "file_path": "___priv-app___SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk",
                     "folder": "SettingsIntelligenceGooglePrebuilt",
+                    "husky_location": "product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk",
+                    "husky_size": 8421247,
+                    "husky_v_code": "110589678552",
+                    "husky_version": "1.1.0.589678552.sr",
+                    "husky_version_code": "1000229239",
                     "package": "com.google.android.settings.intelligence",
                     "package_title": "SettingsServices",
                     "partition": "system",
                     "primary": true,
-                    "size": 8220567,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "110536057574",
-                    "version": "1.1.0.536057574.sr",
-                    "version_code": "1000225866"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
@@ -1644,168 +1512,94 @@
                 {
                     "file_path": "___priv-app___DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
                     "folder": "DeviceIntelligenceNetworkPrebuilt",
+                    "husky_location": "product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
+                    "husky_size": 19529849,
+                    "husky_v_code": "10529494121",
+                    "husky_version": "1.0.release.529494121",
+                    "husky_version_code": "18411",
                     "package": "com.google.android.as.oss",
                     "package_title": "PrivateComputeServices",
                     "partition": "system",
                     "primary": true,
-                    "size": 19497081,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "10529494121",
-                    "version": "1.0.release.529494121",
-                    "version_code": "18411"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "PixelThemes": [
                 {
-                    "file_path": "___app___PixelThemesStub/PixelThemesStub.apk",
-                    "folder": "PixelThemesStub",
+                    "file_path": "___app___PixelThemes/PixelThemes.apk",
+                    "folder": "PixelThemes",
+                    "husky_location": "product/app/PixelThemesStub/PixelThemesStub.apk",
+                    "husky_size": 115101,
+                    "husky_v_code": "14",
+                    "husky_version": "14",
+                    "husky_version_code": "2",
                     "package": "com.google.android.apps.customization.pixel",
                     "package_title": "PixelThemes",
                     "partition": "system",
                     "primary": true,
-                    "size": 106909,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "2"
-                },
-                {
-                    "file_path": "___app___PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
-                    "folder": "PixelThemesStub2022_and_newer",
-                    "package": "com.google.android.apps.customization.pixel",
-                    "package_title": "PixelThemes",
-                    "partition": "system",
-                    "primary": false,
-                    "size": 106909,
-                    "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "2"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "EmojiWallpaper": [
                 {
-                    "evox_location": "product/packages/apps/WallpaperEmojiPrebuilt/WallpaperEmojiPrebuilt.apk",
-                    "evox_size": 9245640,
-                    "evox_v_code": "12566612289",
-                    "evox_version": "1.2.566612289",
-                    "evox_version_code": "425",
                     "file_path": "___app___WallpaperEmojiPrebuilt/WallpaperEmojiPrebuilt.apk",
                     "folder": "WallpaperEmojiPrebuilt",
+                    "husky_location": "product/app/WallpaperEmojiPrebuilt/WallpaperEmojiPrebuilt.apk",
+                    "husky_size": 9286600,
+                    "husky_v_code": "12566612289",
+                    "husky_version": "1.2.566612289",
+                    "husky_version_code": "425",
                     "package": "com.google.android.apps.emojiwallpaper",
                     "package_title": "EmojiWallpaper",
                     "partition": "system",
                     "primary": true,
-                    "size": 8178909,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "11540524679",
-                    "version": "1.1.540524679",
-                    "version_code": "353"
-                }
-            ]
-        }
-    ],
-    "PixelSetupWizard": [
-        {
-            "SetupWizard": [
-                {
-                    "evox_location": "product/packages/privileged_apps/SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
-                    "evox_size": 11610954,
-                    "evox_v_code": "234569702006",
-                    "evox_version": "234.569702006",
-                    "evox_version_code": "26061",
-                    "file_path": "___priv-app___SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
-                    "folder": "SetupWizardPrebuilt",
-                    "package": "com.google.android.setupwizard",
-                    "package_title": "SetupWizard",
-                    "partition": "system",
-                    "primary": true,
-                    "size": 10696975,
-                    "type": "priv-app",
-                    "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "234551464335",
-                    "version": "234.551464335",
-                    "version_code": "25095"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
-            "GoogleRestore": [
+            "PixelWeather": [
                 {
-                    "file_path": "___priv-app___GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
-                    "folder": "GoogleRestorePrebuilt",
-                    "package": "com.google.android.apps.restore",
-                    "package_title": "GoogleRestore",
+                    "file_path": "___priv-app___WeatherPixelPrebuilt/WeatherPixelPrebuilt.apk",
+                    "folder": "WeatherPixelPrebuilt",
+                    "husky_location": "product/priv-app/WeatherPixelPrebuilt/WeatherPixelPrebuilt.apk",
+                    "husky_size": 6240891,
+                    "husky_v_code": "1020230814565488811",
+                    "husky_version": "1.0.20230814.565488811",
+                    "husky_version_code": "10000345",
+                    "package": "com.google.android.apps.weather",
+                    "package_title": "PixelWeather",
                     "partition": "system",
                     "primary": true,
-                    "size": 10923326,
-                    "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "10510474504",
-                    "version": "1.0.510474504",
-                    "version_code": "310952"
-                }
-            ]
-        },
-        {
-            "GoogleOneTimeInitializer": [
-                {
-                    "evox_location": "product/packages/privileged_apps/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
-                    "evox_size": 322899,
-                    "evox_v_code": "14",
-                    "evox_version": "14",
-                    "evox_version_code": "34",
-                    "file_path": "___priv-app___GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
-                    "folder": "GoogleOneTimeInitializer",
-                    "package": "com.google.android.onetimeinitializer",
-                    "package_title": "GoogleOneTimeInitializer",
-                    "partition": "system",
-                    "primary": true,
-                    "size": 322809,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
-                }
-            ]
-        },
-        {
-            "PixelSetupWizard": [
-                {
-                    "evox_location": "system_ext/packages/privileged_apps/PixelSetupWizard/PixelSetupWizard.apk",
-                    "evox_size": 6102341,
-                    "evox_v_code": "14",
-                    "evox_version": "14",
-                    "evox_version_code": "34",
-                    "file_path": "___priv-app___PixelSetupWizard/PixelSetupWizard.apk",
-                    "folder": "PixelSetupWizard",
-                    "package": "com.google.android.pixel.setupwizard",
-                    "package_title": "PixelSetupWizard",
-                    "partition": "system",
-                    "primary": true,
-                    "size": 6052822,
-                    "type": "priv-app",
-                    "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1820,13 +1614,13 @@
                     "package_title": "PlayGames",
                     "partition": "system",
                     "primary": true,
-                    "size": 20657756,
+                    "size": 0,
                     "type": "app",
                     "update_indicator": 0,
                     "update_source": "unknown",
-                    "v_code": "20230140470501577610501577610000400",
-                    "version": "2023.01.40470 (501577610.501577610-000400)",
-                    "version_code": "404700040"
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1835,67 +1629,72 @@
         {
             "SetupWizard": [
                 {
-                    "evox_location": "product/packages/privileged_apps/SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
-                    "evox_size": 11610954,
-                    "evox_v_code": "234569702006",
-                    "evox_version": "234.569702006",
-                    "evox_version_code": "26061",
                     "file_path": "___priv-app___SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
                     "folder": "SetupWizardPrebuilt",
+                    "husky_location": "product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk",
+                    "husky_size": 11755592,
+                    "husky_v_code": "234596807986",
+                    "husky_version": "234.596807986",
+                    "husky_version_code": "27755",
                     "package": "com.google.android.setupwizard",
                     "package_title": "SetupWizard",
                     "partition": "system",
                     "primary": true,
-                    "size": 10696975,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "234551464335",
-                    "version": "234.551464335",
-                    "version_code": "25095"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "GoogleRestore": [
                 {
-                    "file_path": "___priv-app___GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
-                    "folder": "GoogleRestorePrebuilt",
+                    "file_path": "___priv-app___GoogleRestore/GoogleRestore.apk",
+                    "folder": "GoogleRestore",
+                    "husky_location": "product/priv-app/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk",
+                    "husky_size": 11876700,
+                    "husky_v_code": "10561073583",
+                    "husky_version": "1.0.561073583",
+                    "husky_version_code": "414272",
                     "package": "com.google.android.apps.restore",
                     "package_title": "GoogleRestore",
                     "partition": "system",
                     "primary": true,
-                    "size": 10923326,
+                    "size": 0,
                     "type": "priv-app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "10510474504",
-                    "version": "1.0.510474504",
-                    "version_code": "310952"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         },
         {
             "GoogleOneTimeInitializer": [
                 {
-                    "evox_location": "product/packages/privileged_apps/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
-                    "evox_size": 322899,
-                    "evox_v_code": "14",
-                    "evox_version": "14",
-                    "evox_version_code": "34",
                     "file_path": "___priv-app___GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
                     "folder": "GoogleOneTimeInitializer",
+                    "husky_location": "product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
+                    "husky_size": 277923,
+                    "husky_v_code": "14",
+                    "husky_version": "14",
+                    "husky_version_code": "34",
                     "package": "com.google.android.onetimeinitializer",
                     "package_title": "GoogleOneTimeInitializer",
                     "partition": "system",
                     "primary": true,
-                    "size": 322809,
+                    "size": 0,
                     "type": "priv-app",
                     "update_indicator": "1",
-                    "update_source": "evox",
-                    "v_code": "14",
-                    "version": "14",
-                    "version_code": "34"
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1906,17 +1705,22 @@
                 {
                     "file_path": "___app___YouTube/YouTube.apk",
                     "folder": "YouTube",
+                    "husky_location": "product/app/YouTube/YouTube.apk",
+                    "husky_size": 125187434,
+                    "husky_v_code": "181838",
+                    "husky_version": "18.18.38",
+                    "husky_version_code": "1537603032",
                     "package": "com.google.android.youtube",
                     "package_title": "YouTube",
                     "partition": "system",
                     "primary": true,
-                    "size": 124982634,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "181838",
-                    "version": "18.18.38",
-                    "version_code": "1537603032"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }
@@ -1927,17 +1731,22 @@
                 {
                     "file_path": "___app___YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk",
                     "folder": "YouTubeMusicPrebuilt",
+                    "husky_location": "product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk",
+                    "husky_size": 64764384,
+                    "husky_v_code": "55452",
+                    "husky_version": "5.54.52",
+                    "husky_version_code": "55452240",
                     "package": "com.google.android.apps.youtube.music",
                     "package_title": "YouTubeMusic",
                     "partition": "system",
                     "primary": true,
-                    "size": 64625120,
+                    "size": 0,
                     "type": "app",
-                    "update_indicator": 0,
-                    "update_source": "unknown",
-                    "v_code": "55452",
-                    "version": "5.54.52",
-                    "version_code": "55452240"
+                    "update_indicator": "1",
+                    "update_source": "husky",
+                    "v_code": 0,
+                    "version": 0,
+                    "version_code": 0
                 }
             ]
         }

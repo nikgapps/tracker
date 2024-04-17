@@ -116,5 +116,139 @@
         {
             "SetupWizard": "234.569702006"
         }
+    ],
+    "2024-04-17": [
+        {
+            "AndroidAuto": "1.2.534620-stub"
+        },
+        {
+            "AndroidDevicePolicy": "83.36.7 (1801100)"
+        },
+        {
+            "GmsCore": "23.45.24 (190408-601788888)"
+        },
+        {
+            "GooglePlayStore": "38.8.31-29 [0] [PR] 595838346"
+        },
+        {
+            "GoogleServicesFramework": "14"
+        },
+        {
+            "DeviceHealthServices": "1.26.0.539008430.release"
+        },
+        {
+            "DeviceSetup": "1.0.450944095"
+        },
+        {
+            "DigitalWellbeing": "1.6.521068621 (495937)"
+        },
+        {
+            "Drive": "2.23.251.0.arm64-v8a.alldpi"
+        },
+        {
+            "GBoard": "13.6.11.574113912-preload-arm64-v8a"
+        },
+        {
+            "Gmail": "2023.04.16.527073575.Release"
+        },
+        {
+            "GoogleCalculator": "8.4.1 (520193683)"
+        },
+        {
+            "GoogleCalendar": "2023.48.1-589116598-release"
+        },
+        {
+            "GoogleChrome": "120.0.6099.193"
+        },
+        {
+            "TrichromeLibrary": "120.0.6099.193"
+        },
+        {
+            "WebViewGoogle": "120.0.6099.193"
+        },
+        {
+            "GoogleClock": "7.5 (563137996)"
+        },
+        {
+            "GoogleContacts": "4.22.37.586680692"
+        },
+        {
+            "GoogleDialer": "113.0.563246354"
+        },
+        {
+            "GoogleDuo": "206.0.556860008.duo.android_20230814.11_p2"
+        },
+        {
+            "GoogleFeedback": "14"
+        },
+        {
+            "GoogleFiles": "1.522.537834023"
+        },
+        {
+            "GoogleLocationHistory": "1.2"
+        },
+        {
+            "GoogleMaps": "11.109.0101"
+        },
+        {
+            "GoogleMessages": "messages.android_20230529_03_RC01_alldpi.arm64-v8a.phone"
+        },
+        {
+            "GooglePartnerSetup": "100.448391512"
+        },
+        {
+            "GooglePhotos": "5.96.0.455936975"
+        },
+        {
+            "GoogleRecorder": "4.2.20231031.588753436"
+        },
+        {
+            "Velvet": "14.21.13.29.arm64"
+        },
+        {
+            "GoogleSounds": "3.0 (496815901)"
+        },
+        {
+            "GoogleTTS": "googletts.google-speech-apk_20230822.01_p0.559258607"
+        },
+        {
+            "GoogleTalkback": "14.0.0.531115896"
+        },
+        {
+            "MarkupGoogle": "1.0"
+        },
+        {
+            "GoogleOneTimeInitializer": "14"
+        },
+        {
+            "GoogleRestore": "1.0.561073583"
+        },
+        {
+            "SetupWizard": "234.596807986"
+        },
+        {
+            "DevicePersonalizationServices": "U.0.sysimg.pixel8.557423134"
+        },
+        {
+            "EmojiWallpaper": "1.2.566612289"
+        },
+        {
+            "PixelThemes": "14"
+        },
+        {
+            "PixelWeather": "1.0.20230814.565488811"
+        },
+        {
+            "PrivateComputeServices": "1.0.release.529494121"
+        },
+        {
+            "SettingsServices": "1.1.0.589678552.sr"
+        },
+        {
+            "YouTube": "18.18.38"
+        },
+        {
+            "YouTubeMusic": "5.54.52"
+        }
     ]
 }
