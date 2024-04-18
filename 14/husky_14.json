@@ -1,292 +1,4 @@
 {
-    "Exception: Package Not Found": [
-        {
-            "file": "EuiccGoogleOverlay/EuiccGoogleOverlay.apk",
-            "folder": "EuiccGoogleOverlay",
-            "isstub": false,
-            "location": "system_ext/priv-app/EuiccGoogleOverlay/EuiccGoogleOverlay.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 3472597,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "PixelNfc/PixelNfc.apk",
-            "folder": "PixelNfc",
-            "isstub": false,
-            "location": "system_ext/priv-app/PixelNfc/PixelNfc.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 1172745,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "StorageManagerGoogle/StorageManagerGoogle.apk",
-            "folder": "StorageManagerGoogle",
-            "isstub": false,
-            "location": "system_ext/priv-app/StorageManagerGoogle/StorageManagerGoogle.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 4626415,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk",
-            "folder": "SystemUIClocks-BigNum",
-            "isstub": false,
-            "location": "system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 768988,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "SettingsGoogle/SettingsGoogle.apk",
-            "folder": "SettingsGoogle",
-            "isstub": false,
-            "location": "system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 70538674,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "CarrierSetup/CarrierSetup.apk",
-            "folder": "CarrierSetup",
-            "isstub": false,
-            "location": "system_ext/priv-app/CarrierSetup/CarrierSetup.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 6401516,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "QuickAccessWallet/QuickAccessWallet.apk",
-            "folder": "QuickAccessWallet",
-            "isstub": false,
-            "location": "system_ext/priv-app/QuickAccessWallet/QuickAccessWallet.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 766275,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "PixelSetupWizard/PixelSetupWizard.apk",
-            "folder": "PixelSetupWizard",
-            "isstub": false,
-            "location": "system_ext/priv-app/PixelSetupWizard/PixelSetupWizard.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 5940703,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "SettingsGoogleFutureFaceEnroll/SettingsGoogleFutureFaceEnroll.apk",
-            "folder": "SettingsGoogleFutureFaceEnroll",
-            "isstub": false,
-            "location": "system_ext/priv-app/SettingsGoogleFutureFaceEnroll/SettingsGoogleFutureFaceEnroll.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 3739020,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "SystemUIGoogle/SystemUIGoogle.apk",
-            "folder": "SystemUIGoogle",
-            "isstub": false,
-            "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 33062202,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "NexusLauncherRelease/NexusLauncherRelease.apk",
-            "folder": "NexusLauncherRelease",
-            "isstub": false,
-            "location": "system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 13811738,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "SystemUIClocks-Metro/SystemUIClocks-Metro.apk",
-            "folder": "SystemUIClocks-Metro",
-            "isstub": false,
-            "location": "system_ext/priv-app/SystemUIClocks-Metro/SystemUIClocks-Metro.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 1947373,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
-            "folder": "WallpaperPickerGoogleRelease",
-            "isstub": false,
-            "location": "system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 7022256,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "Flipendo/Flipendo.apk",
-            "folder": "Flipendo",
-            "isstub": false,
-            "location": "system_ext/app/Flipendo/Flipendo.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 10891813,
-            "type": "app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "AccessibilityMenu/AccessibilityMenu.apk",
-            "folder": "AccessibilityMenu",
-            "isstub": false,
-            "location": "system_ext/app/AccessibilityMenu/AccessibilityMenu.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 1594162,
-            "type": "app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "RepairMode/RepairMode.apk",
-            "folder": "RepairMode",
-            "isstub": false,
-            "location": "system_ext/app/RepairMode/RepairMode.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 2987550,
-            "type": "app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "EmergencyInfoGoogleNoUi/EmergencyInfoGoogleNoUi.apk",
-            "folder": "EmergencyInfoGoogleNoUi",
-            "isstub": false,
-            "location": "system_ext/app/EmergencyInfoGoogleNoUi/EmergencyInfoGoogleNoUi.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "system_ext",
-            "size": 3279932,
-            "type": "app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "CarrierLocation/CarrierLocation.apk",
-            "folder": "CarrierLocation",
-            "isstub": false,
-            "location": "product/priv-app/CarrierLocation/CarrierLocation.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "product",
-            "size": 1623479,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "SSRestartDetector/SSRestartDetector.apk",
-            "folder": "SSRestartDetector",
-            "isstub": false,
-            "location": "product/priv-app/SSRestartDetector/SSRestartDetector.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "product",
-            "size": 1344984,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "ImsServiceEntitlement/ImsServiceEntitlement.apk",
-            "folder": "ImsServiceEntitlement",
-            "isstub": false,
-            "location": "product/priv-app/ImsServiceEntitlement/ImsServiceEntitlement.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "product",
-            "size": 4154214,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "WallpaperEffect/WallpaperEffect.apk",
-            "folder": "WallpaperEffect",
-            "isstub": false,
-            "location": "product/priv-app/WallpaperEffect/WallpaperEffect.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "product",
-            "size": 6927635,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        },
-        {
-            "file": "AiWallpapers/AiWallpapers.apk",
-            "folder": "AiWallpapers",
-            "isstub": false,
-            "location": "product/priv-app/AiWallpapers/AiWallpapers.apk",
-            "package": "Exception: Package Not Found",
-            "partition": "product",
-            "size": 21000311,
-            "type": "priv-app",
-            "v_code": "",
-            "version": "Exception: Version Not found!",
-            "version_code": "Exception: Version Not found!"
-        }
-    ],
     "android.autoinstalls.config.google.nexus": [
         {
             "file": "PlayAutoInstallConfig/PlayAutoInstallConfig.apk",
@@ -346,6 +58,21 @@
             "version_code": "609919332"
         }
     ],
+    "com.android.emergency": [
+        {
+            "file": "EmergencyInfoGoogleNoUi/EmergencyInfoGoogleNoUi.apk",
+            "folder": "EmergencyInfoGoogleNoUi",
+            "isstub": false,
+            "location": "system_ext/app/EmergencyInfoGoogleNoUi/EmergencyInfoGoogleNoUi.apk",
+            "package": "com.android.emergency",
+            "partition": "system_ext",
+            "size": 3279932,
+            "type": "app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
     "com.android.hotwordenrollment.okgoogle": [
         {
             "file": "HotwordEnrollmentOKGoogleFUSIONPro/HotwordEnrollmentOKGoogleFUSIONPro.apk",
@@ -370,6 +97,21 @@
             "package": "com.android.hotwordenrollment.xgoogle",
             "partition": "product",
             "size": 417878,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
+    "com.android.imsserviceentitlement": [
+        {
+            "file": "ImsServiceEntitlement/ImsServiceEntitlement.apk",
+            "folder": "ImsServiceEntitlement",
+            "isstub": false,
+            "location": "product/priv-app/ImsServiceEntitlement/ImsServiceEntitlement.apk",
+            "package": "com.android.imsserviceentitlement",
+            "partition": "product",
+            "size": 4154214,
             "type": "priv-app",
             "v_code": "14",
             "version": "14",
@@ -481,6 +223,66 @@
             "version_code": "34"
         }
     ],
+    "com.android.settings": [
+        {
+            "file": "SettingsGoogle/SettingsGoogle.apk",
+            "folder": "SettingsGoogle",
+            "isstub": false,
+            "location": "system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk",
+            "package": "com.android.settings",
+            "partition": "system_ext",
+            "size": 70538674,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
+    "com.android.systemui": [
+        {
+            "file": "SystemUIGoogle/SystemUIGoogle.apk",
+            "folder": "SystemUIGoogle",
+            "isstub": false,
+            "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
+            "package": "com.android.systemui",
+            "partition": "system_ext",
+            "size": 33062202,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
+    "com.android.systemui.accessibility.accessibilitymenu": [
+        {
+            "file": "AccessibilityMenu/AccessibilityMenu.apk",
+            "folder": "AccessibilityMenu",
+            "isstub": false,
+            "location": "system_ext/app/AccessibilityMenu/AccessibilityMenu.apk",
+            "package": "com.android.systemui.accessibility.accessibilitymenu",
+            "partition": "system_ext",
+            "size": 1594162,
+            "type": "app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
+    "com.android.systemui.clocks.bignum": [
+        {
+            "file": "SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk",
+            "folder": "SystemUIClocks-BigNum",
+            "isstub": false,
+            "location": "system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk",
+            "package": "com.android.systemui.clocks.bignum",
+            "partition": "system_ext",
+            "size": 768988,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
     "com.android.systemui.clocks.calligraphy": [
         {
             "file": "SystemUIClocks-Calligraphy/SystemUIClocks-Calligraphy.apk",
@@ -541,6 +343,21 @@
             "version_code": "34"
         }
     ],
+    "com.android.systemui.clocks.metro": [
+        {
+            "file": "SystemUIClocks-Metro/SystemUIClocks-Metro.apk",
+            "folder": "SystemUIClocks-Metro",
+            "isstub": false,
+            "location": "system_ext/priv-app/SystemUIClocks-Metro/SystemUIClocks-Metro.apk",
+            "package": "com.android.systemui.clocks.metro",
+            "partition": "system_ext",
+            "size": 1947373,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
     "com.android.systemui.clocks.numoverlap": [
         {
             "file": "SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk",
@@ -569,6 +386,21 @@
             "v_code": "14",
             "version": "14",
             "version_code": "34"
+        }
+    ],
+    "com.android.systemui.plugin.globalactions.wallet": [
+        {
+            "file": "QuickAccessWallet/QuickAccessWallet.apk",
+            "folder": "QuickAccessWallet",
+            "isstub": false,
+            "location": "system_ext/priv-app/QuickAccessWallet/QuickAccessWallet.apk",
+            "package": "com.android.systemui.plugin.globalactions.wallet",
+            "partition": "system_ext",
+            "size": 766275,
+            "type": "priv-app",
+            "v_code": "1000",
+            "version": "1.0.0.0",
+            "version_code": "10000000"
         }
     ],
     "com.android.telephony.imsmedia": [
@@ -625,6 +457,21 @@
             "package": "com.google.RilConfigService",
             "partition": "system_ext",
             "size": 267554,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
+    "com.google.SSRestartDetector": [
+        {
+            "file": "SSRestartDetector/SSRestartDetector.apk",
+            "folder": "SSRestartDetector",
+            "isstub": false,
+            "location": "product/priv-app/SSRestartDetector/SSRestartDetector.apk",
+            "package": "com.google.SSRestartDetector",
+            "partition": "product",
+            "size": 1344984,
             "type": "priv-app",
             "v_code": "14",
             "version": "14",
@@ -719,6 +566,21 @@
             "v_code": "61530397167",
             "version": "6.1.530397167",
             "version_code": "81269"
+        }
+    ],
+    "com.google.android.apps.aiwallpapers": [
+        {
+            "file": "AiWallpapers/AiWallpapers.apk",
+            "folder": "AiWallpapers",
+            "isstub": false,
+            "location": "product/priv-app/AiWallpapers/AiWallpapers.apk",
+            "package": "com.google.android.apps.aiwallpapers",
+            "partition": "product",
+            "size": 21000311,
+            "type": "priv-app",
+            "v_code": "11",
+            "version": "1.1",
+            "version_code": "44"
         }
     ],
     "com.google.android.apps.camera.services": [
@@ -959,6 +821,21 @@
             "version_code": "494759"
         }
     ],
+    "com.google.android.apps.nexuslauncher": [
+        {
+            "file": "NexusLauncherRelease/NexusLauncherRelease.apk",
+            "folder": "NexusLauncherRelease",
+            "isstub": false,
+            "location": "system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk",
+            "package": "com.google.android.apps.nexuslauncher",
+            "partition": "system_ext",
+            "size": 13811738,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "907"
+        }
+    ],
     "com.google.android.apps.photos": [
         {
             "file": "Photos/Photos.apk",
@@ -1184,6 +1061,21 @@
             "version_code": "2665097"
         }
     ],
+    "com.google.android.apps.wallpaper": [
+        {
+            "file": "WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
+            "folder": "WallpaperPickerGoogleRelease",
+            "isstub": false,
+            "location": "system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
+            "package": "com.google.android.apps.wallpaper",
+            "partition": "system_ext",
+            "size": 7022256,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "200000300"
+        }
+    ],
     "com.google.android.apps.wallpaper.pixel": [
         {
             "file": "PixelWallpapers2023/PixelWallpapers2023.apk",
@@ -1364,6 +1256,36 @@
             "version_code": "45"
         }
     ],
+    "com.google.android.carrierlocation": [
+        {
+            "file": "CarrierLocation/CarrierLocation.apk",
+            "folder": "CarrierLocation",
+            "isstub": false,
+            "location": "product/priv-app/CarrierLocation/CarrierLocation.apk",
+            "package": "com.google.android.carrierlocation",
+            "partition": "product",
+            "size": 1623479,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
+    "com.google.android.carriersetup": [
+        {
+            "file": "CarrierSetup/CarrierSetup.apk",
+            "folder": "CarrierSetup",
+            "isstub": false,
+            "location": "system_ext/priv-app/CarrierSetup/CarrierSetup.apk",
+            "package": "com.google.android.carriersetup",
+            "partition": "system_ext",
+            "size": 6401516,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
     "com.google.android.configupdater": [
         {
             "file": "ConfigUpdater/ConfigUpdater.apk",
@@ -1469,6 +1391,21 @@
             "version_code": "217819"
         }
     ],
+    "com.google.android.euiccoverlay": [
+        {
+            "file": "EuiccGoogleOverlay/EuiccGoogleOverlay.apk",
+            "folder": "EuiccGoogleOverlay",
+            "isstub": false,
+            "location": "system_ext/priv-app/EuiccGoogleOverlay/EuiccGoogleOverlay.apk",
+            "package": "com.google.android.euiccoverlay",
+            "partition": "system_ext",
+            "size": 3472597,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
     "com.google.android.factoryota": [
         {
             "file": "FactoryOtaPrebuilt/FactoryOtaPrebuilt.apk",
@@ -1494,6 +1431,21 @@
             "partition": "system_ext",
             "size": 502813,
             "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
+    "com.google.android.flipendo": [
+        {
+            "file": "Flipendo/Flipendo.apk",
+            "folder": "Flipendo",
+            "isstub": false,
+            "location": "system_ext/app/Flipendo/Flipendo.apk",
+            "package": "com.google.android.flipendo",
+            "partition": "system_ext",
+            "size": 10891813,
+            "type": "app",
             "v_code": "14",
             "version": "14",
             "version_code": "34"
@@ -1919,6 +1871,36 @@
             "version_code": "1450"
         }
     ],
+    "com.google.android.pixel.setupwizard": [
+        {
+            "file": "PixelSetupWizard/PixelSetupWizard.apk",
+            "folder": "PixelSetupWizard",
+            "isstub": false,
+            "location": "system_ext/priv-app/PixelSetupWizard/PixelSetupWizard.apk",
+            "package": "com.google.android.pixel.setupwizard",
+            "partition": "system_ext",
+            "size": 5940703,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
+    "com.google.android.pixelnfc": [
+        {
+            "file": "PixelNfc/PixelNfc.apk",
+            "folder": "PixelNfc",
+            "isstub": false,
+            "location": "system_ext/priv-app/PixelNfc/PixelNfc.apk",
+            "package": "com.google.android.pixelnfc",
+            "partition": "system_ext",
+            "size": 1172745,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
     "com.google.android.projection.gearhead": [
         {
             "file": "AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk",
@@ -1934,6 +1916,21 @@
             "version_code": "12534620"
         }
     ],
+    "com.google.android.repairmode": [
+        {
+            "file": "RepairMode/RepairMode.apk",
+            "folder": "RepairMode",
+            "isstub": false,
+            "location": "system_ext/app/RepairMode/RepairMode.apk",
+            "package": "com.google.android.repairmode",
+            "partition": "system_ext",
+            "size": 2987550,
+            "type": "app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
     "com.google.android.rilextension": [
         {
             "file": "ril-extension/ril-extension.apk",
@@ -1943,6 +1940,21 @@
             "package": "com.google.android.rilextension",
             "partition": "system_ext",
             "size": 168413,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
+        }
+    ],
+    "com.google.android.settings.future.biometrics.faceenroll": [
+        {
+            "file": "SettingsGoogleFutureFaceEnroll/SettingsGoogleFutureFaceEnroll.apk",
+            "folder": "SettingsGoogleFutureFaceEnroll",
+            "isstub": false,
+            "location": "system_ext/priv-app/SettingsGoogleFutureFaceEnroll/SettingsGoogleFutureFaceEnroll.apk",
+            "package": "com.google.android.settings.future.biometrics.faceenroll",
+            "partition": "system_ext",
+            "size": 3739020,
             "type": "priv-app",
             "v_code": "14",
             "version": "14",
@@ -1992,6 +2004,21 @@
             "v_code": "30496815901",
             "version": "3.0 (496815901)",
             "version_code": "30000182"
+        }
+    ],
+    "com.google.android.storagemanager": [
+        {
+            "file": "StorageManagerGoogle/StorageManagerGoogle.apk",
+            "folder": "StorageManagerGoogle",
+            "isstub": false,
+            "location": "system_ext/priv-app/StorageManagerGoogle/StorageManagerGoogle.apk",
+            "package": "com.google.android.storagemanager",
+            "partition": "system_ext",
+            "size": 4626415,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
         }
     ],
     "com.google.android.telephony": [
@@ -2110,6 +2137,21 @@
             "v_code": "4336017",
             "version": "4.33.60.17",
             "version_code": "43360182"
+        }
+    ],
+    "com.google.android.wallpaper.effects": [
+        {
+            "file": "WallpaperEffect/WallpaperEffect.apk",
+            "folder": "WallpaperEffect",
+            "isstub": false,
+            "location": "product/priv-app/WallpaperEffect/WallpaperEffect.apk",
+            "package": "com.google.android.wallpaper.effects",
+            "partition": "product",
+            "size": 6927635,
+            "type": "priv-app",
+            "v_code": "14",
+            "version": "14",
+            "version_code": "34"
         }
     ],
     "com.google.android.webview": [
