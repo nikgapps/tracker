@@ -236,11 +236,11 @@
     "com.google.android.gm": {
         "android_version": 6.0,
         "app": "gmail",
-        "app_version": "2024.02.11.607058177.Release",
+        "app_version": "2024.04.14.625469418.Release",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/gmail/gmail-2024-02-11-607058177-release-release/gmail-2024-02-11-607058177-release-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/gmail/gmail-2024-04-14-625469418-release-release/gmail-2024-04-14-625469418-release-android-apk-download/",
         "signature": null,
-        "upload_date": "02/21/2024 15:37 UTC"
+        "upload_date": "04/19/2024 01:58 UTC"
     },
     "com.google.android.gms": {
         "android_version": 5.0,
@@ -333,13 +333,13 @@
         "upload_date": "04/22/2024 18:54 UTC"
     },
     "com.google.android.projection.gearhead": {
-        "android_version": 8.0,
+        "android_version": 9.0,
         "app": "android-auto",
-        "app_version": "11.1.640214-release",
+        "app_version": "11.8.641604-release",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-11-1-6402-release/android-auto-11-1-640214-release-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-11-8-6416-release/android-auto-11-8-641604-release-android-apk-download/",
         "signature": "9ca91f9e704d630ef67a23f52bf1577a92b9ca5d",
-        "upload_date": "01/13/2024 17:37 UTC"
+        "upload_date": "04/20/2024 17:20 UTC"
     },
     "com.google.android.settings.intelligence": {
         "android_version": 9.0,
