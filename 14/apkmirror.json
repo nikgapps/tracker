@@ -74,11 +74,11 @@
     "com.google.android.apps.messaging": {
         "android_version": 8.0,
         "app": "messenger-google-inc",
-        "app_version": "messages.android_20240130_01_RC03.phone_dynamic",
+        "app_version": "messages.android_20240409_01_RC02.phone_dynamic",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/messenger-google-inc/messenger-google-inc-20240130_01_rc03-release/google-messages-messages-android_20240130_01_rc03-phone_dynamic-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/messenger-google-inc/messenger-google-inc-20240409_01_rc02-release/google-messages-messages-android_20240409_01_rc02-phone_dynamic-android-apk-download/",
         "signature": null,
-        "upload_date": "02/15/2024 02:23 UTC"
+        "upload_date": "04/18/2024 02:04 UTC"
     },
     "com.google.android.apps.nbu.files": {
         "android_version": 5.0,
