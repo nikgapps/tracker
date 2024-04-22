@@ -290,11 +290,11 @@
     "com.google.android.ims": {
         "android_version": 8.0,
         "app": "carrier-services-2",
-        "app_version": "carrierservices.android_20240212_00_RC00.phone",
+        "app_version": "carrierservices.android_20240415_00_RC00.phone",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/carrier-services-2/carrier-services-2-carrierservices-android_20240212_00_rc00-phone-release/carrier-services-carrierservices-android_20240212_00_rc00-phone-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/carrier-services-2/carrier-services-2-carrierservices-android_20240415_00_rc00-phone-release/carrier-services-carrierservices-android_20240415_00_rc00-phone-android-apk-download/",
         "signature": null,
-        "upload_date": "02/14/2024 20:16 UTC"
+        "upload_date": "04/17/2024 06:46 UTC"
     },
     "com.google.android.inputmethod.latin": {
         "android_version": 6.0,
