@@ -44,6 +44,15 @@
         "signature": null,
         "upload_date": "04/22/2024 17:52 UTC"
     },
+    "com.google.android.apps.docs.editors.sheets": {
+        "android_version": 8.0,
+        "app": "sheets",
+        "app_version": "1.24.152.00.90",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/sheets/sheets-1-24-152-00-release/google-sheets-1-24-152-00-90-2-android-apk-download/",
+        "signature": null,
+        "upload_date": "04/15/2024 21:39 UTC"
+    },
     "com.google.android.apps.docs.editors.slides": {
         "android_version": 8.0,
         "app": "slides",
