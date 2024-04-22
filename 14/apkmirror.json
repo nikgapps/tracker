@@ -191,11 +191,11 @@
     "com.google.android.calendar": {
         "android_version": 8.0,
         "app": "calendar",
-        "app_version": "2024.07.0-608174112-release",
+        "app_version": "2024.15.0-624771919-release",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/calendar/calendar-2024-07-0-608174112-release-release/google-calendar-2024-07-0-608174112-release-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/calendar/calendar-2024-15-0-624771919-release-release/google-calendar-2024-15-0-624771919-release-2-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "02/22/2024 17:01 UTC"
+        "upload_date": "04/18/2024 17:17 UTC"
     },
     "com.google.android.contacts": {
         "android_version": 8.0,
@@ -290,11 +290,11 @@
     "com.google.android.keep": {
         "android_version": 8.0,
         "app": "keep",
-        "app_version": "5.24.062.00.90",
+        "app_version": "5.24.132.03.90",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/keep/keep-5-24-062-00-release/google-keep-notes-and-lists-5-24-062-00-90-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/keep/keep-5-24-132-03-release/google-keep-notes-and-lists-5-24-132-03-90-android-apk-download/",
         "signature": null,
-        "upload_date": "02/21/2024 17:37 UTC"
+        "upload_date": "04/15/2024 20:08 UTC"
     },
     "com.google.android.marvin.talkback": {
         "android_version": 8.0,
@@ -326,11 +326,11 @@
     "com.google.android.play.games": {
         "android_version": 4.4,
         "app": "google-play-games",
-        "app_version": "2023.08.46243 (567560229.567560229-000400)",
+        "app_version": "2024.03.50149 (625366451.625366451-000400)",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-play-games/google-play-games-2023-08-46243-release/google-play-games-2023-08-46243-567560229-567560229-000400-3-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-play-games/google-play-games-2024-03-50149-release/google-play-games-2024-03-50149-625366451-625366451-000400-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "10/10/2023 21:20 UTC"
+        "upload_date": "04/22/2024 18:54 UTC"
     },
     "com.google.android.projection.gearhead": {
         "android_version": 8.0,
