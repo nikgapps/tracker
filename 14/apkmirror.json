@@ -38,20 +38,20 @@
     "com.google.android.apps.docs.editors.docs": {
         "android_version": 8.0,
         "app": "docs",
-        "app_version": "1.24.062.03.90",
+        "app_version": "1.24.162.01.90",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/docs/docs-1-24-062-03-release/google-docs-1-24-062-03-90-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/docs/docs-1-24-162-01-release/google-docs-1-24-162-01-90-android-apk-download/",
         "signature": null,
-        "upload_date": "02/20/2024 18:27 UTC"
+        "upload_date": "04/22/2024 17:52 UTC"
     },
     "com.google.android.apps.docs.editors.slides": {
         "android_version": 8.0,
         "app": "slides",
-        "app_version": "1.24.072.01.90",
+        "app_version": "1.24.152.02.90",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/slides/slides-1-24-072-01-release/google-slides-1-24-072-01-90-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/slides/slides-1-24-152-02-release/google-slides-1-24-152-02-90-2-android-apk-download/",
         "signature": null,
-        "upload_date": "02/21/2024 17:30 UTC"
+        "upload_date": "04/22/2024 17:45 UTC"
     },
     "com.google.android.apps.emojiwallpaper": {
         "android_version": 13.0,
@@ -124,6 +124,15 @@
         "link": "https://www.apkmirror.com/apk/google-inc/android-setup/android-setup-1-0-602428662-release/data-restore-tool-1-0-602428662-android-apk-download/",
         "signature": null,
         "upload_date": "02/1/2024 17:41 UTC"
+    },
+    "com.google.android.apps.tachyon": {
+        "android_version": 6.0,
+        "app": "duo-by-google",
+        "app_version": "241.0.626401093.duo.android_20240414.12_p3.g",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/duo-by-google/duo-by-google-241-0-626401093-duo-android_20240414-12_p3-g-release/google-meet-formerly-google-duo-241-0-626401093-duo-android_20240414-12_p3-g-android-apk-download/",
+        "signature": null,
+        "upload_date": "04/22/2024 05:22 UTC"
     },
     "com.google.android.apps.turbo": {
         "android_version": 12.0,
