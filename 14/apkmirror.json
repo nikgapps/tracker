@@ -218,11 +218,11 @@
     "com.google.android.contacts": {
         "android_version": 8.0,
         "app": "google-contacts",
-        "app_version": "4.25.22.605409159",
+        "app_version": "4.29.25.621935602",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-4-25-22-605409159-release/google-contacts-4-25-22-605409159-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-4-29-25-621935602-release/google-contacts-4-29-25-621935602-android-apk-download/",
         "signature": null,
-        "upload_date": "02/14/2024 20:18 UTC"
+        "upload_date": "04/10/2024 14:07 UTC"
     },
     "com.google.android.deskclock": {
         "android_version": 6.0,
@@ -236,11 +236,11 @@
     "com.google.android.dialer": {
         "android_version": 10.0,
         "app": "google-phone",
-        "app_version": "123.0.605723773",
+        "app_version": "127.0.620688474-downloadable",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-123-0-605723773-release/phone-by-google-123-0-605723773-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-127-0-620688474-downloadable-release/phone-by-google-127-0-620688474-downloadable-android-apk-download/",
         "signature": null,
-        "upload_date": "02/16/2024 00:48 UTC"
+        "upload_date": "04/11/2024 22:14 UTC"
     },
     "com.google.android.feedback": {
         "android_version": 6.0,
