@@ -2,11 +2,11 @@
     "com.android.chrome": {
         "android_version": 8.0,
         "app": "chrome",
-        "app_version": "121.0.6167.180",
+        "app_version": "123.0.6312.119",
         "arch": "arm64-v8a + armeabi-v7a",
-        "link": "https://www.apkmirror.com/apk/google-inc/chrome/chrome-121-0-6167-180-release/google-chrome-fast-secure-121-0-6167-180-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/chrome/chrome-123-0-6312-119-release/google-chrome-123-0-6312-119-2-android-apk-download/",
         "signature": null,
-        "upload_date": "02/20/2024 23:33 UTC"
+        "upload_date": "04/15/2024 00:56 UTC"
     },
     "com.android.vending": {
         "android_version": 5.0,
@@ -380,11 +380,11 @@
     "com.google.android.trichromelibrary": {
         "android_version": 10.0,
         "app": "trichrome-library",
-        "app_version": "121.0.6167.180",
+        "app_version": "123.0.6312.119",
         "arch": "arm64-v8a + armeabi-v7a",
-        "link": "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-121-0-6167-180-release/trichrome-library-121-0-6167-180-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-123-0-6312-119-release/trichrome-library-123-0-6312-119-3-android-apk-download/",
         "signature": null,
-        "upload_date": "02/21/2024 06:52 UTC"
+        "upload_date": "04/17/2024 06:48 UTC"
     },
     "com.google.android.tts": {
         "android_version": 8.0,
