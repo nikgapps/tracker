@@ -137,11 +137,11 @@
     "com.google.android.apps.restore": {
         "android_version": 9.0,
         "app": "android-setup",
-        "app_version": "1.0.602428662",
+        "app_version": "1.0.609446751",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/android-setup/android-setup-1-0-602428662-release/data-restore-tool-1-0-602428662-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/android-setup/android-setup-1-0-609446751-release/data-restore-tool-1-0-609446751-android-apk-download/",
         "signature": null,
-        "upload_date": "02/1/2024 17:41 UTC"
+        "upload_date": "03/14/2024 17:18 UTC"
     },
     "com.google.android.apps.tachyon": {
         "android_version": 6.0,
@@ -236,11 +236,11 @@
     "com.google.android.deskclock": {
         "android_version": 6.0,
         "app": "clock",
-        "app_version": "7.8 (613775102)",
+        "app_version": "7.6 (566900781)",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/clock/clock-7-8-release/google-clock-7-8-613775102-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/clock/clock-7-6-release/google-clock-7-6-566900781-2-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "03/28/2024 14:25 UTC"
+        "upload_date": "10/17/2023 14:23 UTC"
     },
     "com.google.android.dialer": {
         "android_version": 10.0,
@@ -299,11 +299,11 @@
     "com.google.android.ims": {
         "android_version": 8.0,
         "app": "carrier-services-2",
-        "app_version": "carrierservices.android_20240415_00_RC00.phone",
+        "app_version": "carrierservices.android_20240212_00_RC00.phone",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/carrier-services-2/carrier-services-2-carrierservices-android_20240415_00_rc00-phone-release/carrier-services-carrierservices-android_20240415_00_rc00-phone-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/carrier-services-2/carrier-services-2-carrierservices-android_20240212_00_rc00-phone-release/carrier-services-carrierservices-android_20240212_00_rc00-phone-android-apk-download/",
         "signature": null,
-        "upload_date": "04/17/2024 06:46 UTC"
+        "upload_date": "02/14/2024 20:16 UTC"
     },
     "com.google.android.inputmethod.latin": {
         "android_version": 6.0,
