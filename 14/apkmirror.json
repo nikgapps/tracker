@@ -296,6 +296,15 @@
         "signature": "eda6413c3e3a95492114fe07cd953ad897e40d1a",
         "upload_date": "05/19/2021 18:20 UTC"
     },
+    "com.google.android.googlequicksearchbox": {
+        "android_version": 9.0,
+        "app": "google-search",
+        "app_version": "15.15.42.28.arm64",
+        "arch": "arm64-v8a + armeabi-v7a",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-search/google-search-15-15-42-release/google-app-15-15-42-28-arm64-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "04/23/2024 20:36 UTC"
+    },
     "com.google.android.gsf": {
         "android_version": 14.0,
         "app": "google-services-framework",
