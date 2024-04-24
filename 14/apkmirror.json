@@ -236,11 +236,11 @@
     "com.google.android.contacts": {
         "android_version": 8.0,
         "app": "google-contacts",
-        "app_version": "4.29.25.621935602",
+        "app_version": "4.30.49.626437206",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-4-29-25-621935602-release/google-contacts-4-29-25-621935602-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-4-30-49-626437206-release/google-contacts-4-30-49-626437206-android-apk-download/",
         "signature": null,
-        "upload_date": "04/10/2024 14:07 UTC"
+        "upload_date": "04/24/2024 14:00 UTC"
     },
     "com.google.android.deskclock": {
         "android_version": 6.0,
