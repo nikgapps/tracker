@@ -1,0 +1,11 @@
+{
+    "com.android.vending": {
+        "android_version": 6.0,
+        "app": "google-play-store",
+        "app_version": "40.6.31-23 [0] [PR] 626489609",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-40-6-31-release/google-play-store-40-6-31-23-0-pr-626489609-4-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "04/22/2024 05:19 UTC"
+    }
+}
