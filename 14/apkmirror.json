@@ -295,5 +295,14 @@
         "link": "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20240401-01_p1-625361506-release/speech-recognition-synthesis-googletts-google-speech-apk_20240401-01_p1-625361506-android-apk-download/",
         "signature": null,
         "upload_date": "04/18/2024 17:08 UTC"
+    },
+    "com.google.android.webview": {
+        "android_version": 8.0,
+        "app": "android-system-webview",
+        "app_version": "123.0.6312.120",
+        "arch": "arm64-v8a + armeabi-v7a",
+        "link": "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-123-0-6312-120-release/android-system-webview-123-0-6312-120-android-apk-download/",
+        "signature": "1f387cb25e0069efca490ade28c060e09d37dd45",
+        "upload_date": "04/20/2024 00:33 UTC"
     }
 }
