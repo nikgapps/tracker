@@ -53,6 +53,15 @@
         "signature": null,
         "upload_date": "04/24/2024 14:29 UTC"
     },
+    "com.google.android.apps.turbo": {
+        "android_version": 12.0,
+        "app": "device-health-services",
+        "app_version": "1.26.0.616707548.release",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/device-health-services/device-health-services-1-26-0-616707548-release-release/device-health-services-1-26-0-616707548-release-android-apk-download/",
+        "signature": "423e4cf90dfcb0910c88e8f1276e747ec72992e1",
+        "upload_date": "03/23/2024 23:04 UTC"
+    },
     "com.google.android.calculator": {
         "android_version": 6.0,
         "app": "google-calculator",
