@@ -80,6 +80,15 @@
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "04/24/2024 15:00 UTC"
     },
+    "com.google.android.gms.location.history": {
+        "android_version": 9.0,
+        "app": "google-location-history",
+        "app_version": "1.2",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-location-history/google-location-history-1-2-release/google-location-history-1-2-2-android-apk-download/",
+        "signature": "eda6413c3e3a95492114fe07cd953ad897e40d1a",
+        "upload_date": "05/19/2021 18:20 UTC"
+    },
     "com.google.android.gsf": {
         "android_version": 14.0,
         "app": "google-services-framework",
