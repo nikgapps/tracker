@@ -26,6 +26,15 @@
         "signature": null,
         "upload_date": "04/24/2024 14:29 UTC"
     },
+    "com.google.android.calculator": {
+        "android_version": 6.0,
+        "app": "google-calculator",
+        "app_version": "8.6 (612662282)",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-calculator/google-calculator-8-6-612662282-release/google-calculator-8-6-612662282-2-android-apk-download/",
+        "signature": null,
+        "upload_date": "03/6/2024 15:58 UTC"
+    },
     "com.google.android.deskclock": {
         "android_version": 6.0,
         "app": "clock",
