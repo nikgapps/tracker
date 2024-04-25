@@ -71,6 +71,15 @@
         "signature": "423e4cf90dfcb0910c88e8f1276e747ec72992e1",
         "upload_date": "03/23/2024 23:04 UTC"
     },
+    "com.google.android.as": {
+        "android_version": 14.0,
+        "app": "device-personalization-services",
+        "app_version": "U.22.playstore.pixel7.615593041",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/device-personalization-services/device-personalization-services-u-22-playstore-pixel7-615593041-release/android-system-intelligence-u-22-playstore-pixel7-615593041-android-apk-download/",
+        "signature": "35bd956867c69778eac76da4c198469b77d2cda1",
+        "upload_date": "04/19/2024 01:57 UTC"
+    },
     "com.google.android.calculator": {
         "android_version": 6.0,
         "app": "google-calculator",
