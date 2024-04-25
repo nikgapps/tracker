@@ -179,6 +179,15 @@
         "signature": null,
         "upload_date": "04/24/2024 16:24 UTC"
     },
+    "com.google.android.feedback": {
+        "android_version": 6.0,
+        "app": "market-feedback-agent",
+        "app_version": "14-10347885",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/market-feedback-agent/market-feedback-agent-14-10347885-release/market-feedback-agent-14-10347885-android-apk-download/",
+        "signature": null,
+        "upload_date": "08/22/2023 07:43 UTC"
+    },
     "com.google.android.gm": {
         "android_version": 6.0,
         "app": "gmail",
