@@ -17,6 +17,15 @@
         "signature": null,
         "upload_date": "04/23/2024 20:05 UTC"
     },
+    "com.google.android.apps.maps": {
+        "android_version": 6.0,
+        "app": "maps",
+        "app_version": "11.125.0102",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/maps/maps-11-125-0102-release/google-maps-11-125-0102-android-apk-download/",
+        "signature": null,
+        "upload_date": "04/22/2024 13:41 UTC"
+    },
     "com.google.android.apps.messaging": {
         "android_version": 8.0,
         "app": "messenger-google-inc",
