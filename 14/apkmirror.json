@@ -98,6 +98,15 @@
         "signature": null,
         "upload_date": "04/24/2024 14:29 UTC"
     },
+    "com.google.android.apps.tachyon": {
+        "android_version": 6.0,
+        "app": "duo-by-google",
+        "app_version": "241.0.626401093.duo.android_20240414.12_p3.g",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/duo-by-google/duo-by-google-241-0-626401093-duo-android_20240414-12_p3-g-release/google-meet-formerly-google-duo-241-0-626401093-duo-android_20240414-12_p3-g-android-apk-download/",
+        "signature": null,
+        "upload_date": "04/22/2024 05:22 UTC"
+    },
     "com.google.android.apps.turbo": {
         "android_version": 12.0,
         "app": "device-health-services",
