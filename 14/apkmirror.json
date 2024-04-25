@@ -116,6 +116,15 @@
         "signature": "f4a4a9d05423b1b691f5aab612d5cec91ae65389",
         "upload_date": "06/8/2023 05:36 UTC"
     },
+    "com.google.android.apps.work.oobconfig": {
+        "android_version": 8.0,
+        "app": "device-setup",
+        "app_version": "1.0.450944095",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/device-setup/device-setup-1-0-450944095-release/device-setup-1-0-450944095-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "10/13/2022 00:15 UTC"
+    },
     "com.google.android.as": {
         "android_version": 14.0,
         "app": "device-personalization-services",
