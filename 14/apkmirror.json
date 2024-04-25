@@ -197,6 +197,15 @@
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "04/22/2024 18:54 UTC"
     },
+    "com.google.android.settings.intelligence": {
+        "android_version": 9.0,
+        "app": "settings-suggestions",
+        "app_version": "1.1.0.615624701.sr",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/settings-suggestions/settings-suggestions-1-1-0-615624701-sr-release/settings-services-1-1-0-615624701-sr-android-apk-download/",
+        "signature": null,
+        "upload_date": "03/22/2024 06:29 UTC"
+    },
     "com.google.android.setupwizard": {
         "android_version": 10.0,
         "app": "setup-wizard",
