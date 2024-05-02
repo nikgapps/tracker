@@ -278,6 +278,15 @@
         "signature": null,
         "upload_date": "08/22/2023 07:33 UTC"
     },
+    "com.google.android.partnersetup": {
+        "android_version": 8.0,
+        "app": "google-partner-setup",
+        "app_version": "100.538221588",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-partner-setup/google-partner-setup-100-538221588-release/google-partner-setup-100-538221588-android-apk-download/",
+        "signature": null,
+        "upload_date": "08/7/2023 16:24 UTC"
+    },
     "com.google.android.projection.gearhead": {
         "android_version": 8.0,
         "app": "android-auto",
