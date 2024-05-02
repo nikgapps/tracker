@@ -17,6 +17,15 @@
         "signature": null,
         "upload_date": "04/24/2024 16:23 UTC"
     },
+    "com.google.android.apps.restore": {
+        "android_version": 9.0,
+        "app": "android-setup",
+        "app_version": "1.0.624892571",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/android-setup/android-setup-1-0-624892571-release/data-restore-tool-1-0-624892571-android-apk-download/",
+        "signature": null,
+        "upload_date": "04/24/2024 14:29 UTC"
+    },
     "com.google.android.apps.wellbeing": {
         "android_version": 9.0,
         "app": "digital-wellbeing",
