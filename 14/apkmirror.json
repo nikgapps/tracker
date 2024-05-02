@@ -1,0 +1,20 @@
+{
+    "com.android.vending": {
+        "android_version": 6.0,
+        "app": "google-play-store",
+        "app_version": "40.8.36-23 [0] [PR] 629845725",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-40-8-36-release/google-play-store-40-8-36-23-0-pr-629845725-4-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "05/2/2024 14:59 UTC"
+    },
+    "com.google.android.gsf": {
+        "android_version": 14.0,
+        "app": "google-services-framework",
+        "app_version": "14",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-services-framework/google-services-framework-14-release/google-services-framework-14-3-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "10/6/2023 17:14 UTC"
+    }
+}
