@@ -26,6 +26,33 @@
         "signature": null,
         "upload_date": "04/29/2024 20:28 UTC"
     },
+    "com.google.android.contacts": {
+        "android_version": 8.0,
+        "app": "google-contacts",
+        "app_version": "4.30.50.628193927",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-4-30-50-628193927-release/google-contacts-4-30-50-628193927-android-apk-download/",
+        "signature": null,
+        "upload_date": "04/26/2024 14:40 UTC"
+    },
+    "com.google.android.deskclock": {
+        "android_version": 6.0,
+        "app": "clock",
+        "app_version": "7.8 (613775102)",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/clock/clock-7-8-release/google-clock-7-8-613775102-2-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "03/28/2024 14:25 UTC"
+    },
+    "com.google.android.dialer": {
+        "android_version": 10.0,
+        "app": "google-phone",
+        "app_version": "128.0.628175044",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-128-0-628175044-release/phone-by-google-128-0-628175044-2-android-apk-download/",
+        "signature": null,
+        "upload_date": "04/30/2024 14:05 UTC"
+    },
     "com.google.android.gms": {
         "android_version": 6.0,
         "app": "google-play-services",
@@ -43,6 +70,15 @@
         "link": "https://www.apkmirror.com/apk/google-inc/google-services-framework/google-services-framework-14-release/google-services-framework-14-3-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "10/6/2023 17:14 UTC"
+    },
+    "com.google.android.ims": {
+        "android_version": 8.0,
+        "app": "carrier-services-2",
+        "app_version": "carrierservices.android_20240429_00_RC00.phone",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/carrier-services-2/carrier-services-2-carrierservices-android_20240429_00_rc00-phone-release/carrier-services-carrierservices-android_20240429_00_rc00-phone-android-apk-download/",
+        "signature": null,
+        "upload_date": "05/1/2024 16:55 UTC"
     },
     "com.google.android.syncadapters.contacts": {
         "android_version": 12.0,
