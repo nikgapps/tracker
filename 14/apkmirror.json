@@ -53,6 +53,15 @@
         "signature": null,
         "upload_date": "04/24/2024 16:23 UTC"
     },
+    "com.google.android.apps.nbu.files": {
+        "android_version": 5.0,
+        "app": "files-go",
+        "app_version": "1.3324.627969651.1-release",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/files-go/files-go-1-3324-627969651-1-release-release/files-by-google-1-3324-627969651-1-release-6-android-apk-download/",
+        "signature": "9f591218c092ce2ae72aeb71c2ea00a7cbf20030",
+        "upload_date": "04/25/2024 19:55 UTC"
+    },
     "com.google.android.apps.nexuslauncher": {
         "android_version": 14.0,
         "app": "pixel-launcher",
@@ -188,6 +197,15 @@
         "signature": "eda6413c3e3a95492114fe07cd953ad897e40d1a",
         "upload_date": "05/19/2021 18:20 UTC"
     },
+    "com.google.android.googlequicksearchbox": {
+        "android_version": 9.0,
+        "app": "google-search",
+        "app_version": "15.17.29.28.arm64",
+        "arch": "arm64-v8a + armeabi-v7a",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-search/google-search-15-17-29-release/google-app-15-17-29-28-arm64-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "04/29/2024 20:53 UTC"
+    },
     "com.google.android.gsf": {
         "android_version": 14.0,
         "app": "google-services-framework",
@@ -250,5 +268,14 @@
         "link": "https://www.apkmirror.com/apk/google-inc/google-contacts-sync/google-contacts-sync-12-8361351-release/google-contacts-sync-12-8361351-android-apk-download/",
         "signature": null,
         "upload_date": "07/10/2022 21:03 UTC"
+    },
+    "com.google.android.tts": {
+        "android_version": 8.0,
+        "app": "google-text-to-speech-engine",
+        "app_version": "googletts.google-speech-apk_20240416.00_p2.627182800",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20240416-00_p2-627182800-release/speech-recognition-synthesis-googletts-google-speech-apk_20240416-00_p2-627182800-android-apk-download/",
+        "signature": null,
+        "upload_date": "05/1/2024 01:25 UTC"
     }
 }
