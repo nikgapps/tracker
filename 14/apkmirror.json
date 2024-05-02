@@ -44,6 +44,15 @@
         "signature": null,
         "upload_date": "04/29/2024 17:08 UTC"
     },
+    "com.google.android.apps.docs.editors.slides": {
+        "android_version": 8.0,
+        "app": "slides",
+        "app_version": "1.24.162.02.90",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/slides/slides-1-24-162-02-release/google-slides-1-24-162-02-90-android-apk-download/",
+        "signature": null,
+        "upload_date": "05/1/2024 04:28 UTC"
+    },
     "com.google.android.apps.emojiwallpaper": {
         "android_version": 13.0,
         "app": "emoji-workshop-wallpaper",
