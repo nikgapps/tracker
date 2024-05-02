@@ -206,6 +206,15 @@
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "04/23/2024 00:52 UTC"
     },
+    "com.google.android.contacts": {
+        "android_version": 8.0,
+        "app": "google-contacts",
+        "app_version": "4.30.50.628193927",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-contacts/google-contacts-4-30-50-628193927-release/google-contacts-4-30-50-628193927-android-apk-download/",
+        "signature": null,
+        "upload_date": "04/26/2024 14:40 UTC"
+    },
     "com.google.android.deskclock": {
         "android_version": 6.0,
         "app": "clock",
