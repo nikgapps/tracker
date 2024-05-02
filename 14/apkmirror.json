@@ -188,6 +188,15 @@
         "signature": null,
         "upload_date": "04/30/2024 14:05 UTC"
     },
+    "com.google.android.gm": {
+        "android_version": 6.0,
+        "app": "gmail",
+        "app_version": "2024.04.21.626860299.Release",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/gmail/gmail-2024-04-21-626860299-release-release/gmail-2024-04-21-626860299-release-android-apk-download/",
+        "signature": null,
+        "upload_date": "04/26/2024 02:19 UTC"
+    },
     "com.google.android.gms": {
         "android_version": 6.0,
         "app": "google-play-services",
