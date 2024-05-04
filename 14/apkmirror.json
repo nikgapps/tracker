@@ -404,6 +404,15 @@
         "signature": "f356d20721f8427294a47f40013c33485f399b5d",
         "upload_date": "10/5/2023 18:25 UTC"
     },
+    "com.google.android.storagemanager": {
+        "android_version": 14.0,
+        "app": "storage-manager",
+        "app_version": "14",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/storage-manager/storage-manager-14-release/smart-storage-14-android-apk-download/",
+        "signature": null,
+        "upload_date": "06/8/2023 05:38 UTC"
+    },
     "com.google.android.syncadapters.contacts": {
         "android_version": 12.0,
         "app": "google-contacts-sync",
