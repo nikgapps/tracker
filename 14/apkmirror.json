@@ -360,13 +360,13 @@
         "upload_date": "08/22/2023 07:33 UTC"
     },
     "com.google.android.partnersetup": {
-        "android_version": 8.0,
+        "android_version": 11.0,
         "app": "google-partner-setup",
-        "app_version": "100.538221588",
+        "app_version": "100.625721766",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-partner-setup/google-partner-setup-100-538221588-release/google-partner-setup-100-538221588-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-partner-setup/google-partner-setup-100-625721766-release/google-partner-setup-100-625721766-android-apk-download/",
         "signature": null,
-        "upload_date": "08/7/2023 16:24 UTC"
+        "upload_date": "05/5/2024 04:18 UTC"
     },
     "com.google.android.play.games": {
         "android_version": 4.4,
