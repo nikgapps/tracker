@@ -2,11 +2,11 @@
     "com.android.chrome": {
         "android_version": 8.0,
         "app": "chrome",
-        "app_version": "124.0.6367.114",
+        "app_version": "124.0.6367.161",
         "arch": "arm64-v8a + armeabi-v7a",
-        "link": "https://www.apkmirror.com/apk/google-inc/chrome/chrome-124-0-6367-114-release/google-chrome-124-0-6367-114-3-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/chrome/chrome-124-0-6367-161-release/google-chrome-124-0-6367-161-4-android-apk-download/",
         "signature": null,
-        "upload_date": "05/7/2024 18:18 UTC"
+        "upload_date": "05/9/2024 23:47 UTC"
     },
     "com.android.vending": {
         "android_version": 6.0,
