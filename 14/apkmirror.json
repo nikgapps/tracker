@@ -200,11 +200,11 @@
     "com.google.android.as": {
         "android_version": 14.0,
         "app": "device-personalization-services",
-        "app_version": "U.22.playstore.pixel7.615593041",
+        "app_version": "U.22.playstore.pixel7.631679139",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/device-personalization-services/device-personalization-services-u-22-playstore-pixel7-615593041-release/android-system-intelligence-u-22-playstore-pixel7-615593041-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/device-personalization-services/device-personalization-services-u-22-playstore-pixel7-631679139-release/android-system-intelligence-u-22-playstore-pixel7-631679139-android-apk-download/",
         "signature": "35bd956867c69778eac76da4c198469b77d2cda1",
-        "upload_date": "04/19/2024 01:57 UTC"
+        "upload_date": "05/15/2024 15:56 UTC"
     },
     "com.google.android.as.oss": {
         "android_version": 13.0,
