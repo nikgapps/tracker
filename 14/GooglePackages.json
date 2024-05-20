@@ -1,0 +1,418 @@
+{
+    "com.android.chrome": [
+        {
+            "file": "Chrome-Stub.apk",
+            "folder": "Chrome-Stub",
+            "partition": "product",
+            "type": "app"
+        },
+        {
+            "file": "Chrome.apk.gz",
+            "folder": "Chrome",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.android.systemui.plugin.globalactions.wallet": [
+        {
+            "file": "QuickAccessWallet.apk",
+            "folder": "QuickAccessWallet",
+            "partition": "system_ext",
+            "type": "priv-app"
+        }
+    ],
+    "com.android.vending": [
+        {
+            "file": "Phonesky.apk",
+            "folder": "Phonesky",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.customization.pixel": [
+        {
+            "file": "PixelThemesStub2022_and_newer.apk",
+            "folder": "PixelThemesStub2022_and_newer",
+            "partition": "product",
+            "type": "app"
+        },
+        {
+            "file": "PixelThemesStub.apk",
+            "folder": "PixelThemesStub",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.docs": [
+        {
+            "file": "Drive.apk",
+            "folder": "Drive",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.emojiwallpaper": [
+        {
+            "file": "WallpaperEmojiPrebuilt.apk",
+            "folder": "WallpaperEmojiPrebuilt",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.maps": [
+        {
+            "file": "Maps.apk",
+            "folder": "Maps",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.messaging": [
+        {
+            "file": "PrebuiltBugle.apk",
+            "folder": "PrebuiltBugle",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.nbu.files": [
+        {
+            "file": "FilesPrebuilt.apk",
+            "folder": "FilesPrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.nexuslauncher": [
+        {
+            "file": "NexusLauncherRelease.apk",
+            "folder": "NexusLauncherRelease",
+            "partition": "system_ext",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.photos": [
+        {
+            "file": "Photos.apk",
+            "folder": "Photos",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.recorder": [
+        {
+            "file": "RecorderPrebuilt.apk",
+            "folder": "RecorderPrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.restore": [
+        {
+            "file": "GoogleRestorePrebuilt.apk",
+            "folder": "GoogleRestorePrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.tachyon": [
+        {
+            "file": "MeetPrebuilt.apk",
+            "folder": "MeetPrebuilt",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.turbo": [
+        {
+            "file": "TurboPrebuilt.apk",
+            "folder": "TurboPrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.wallpaper": [
+        {
+            "file": "WallpaperPickerGoogleRelease.apk",
+            "folder": "WallpaperPickerGoogleRelease",
+            "partition": "system_ext",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.weather": [
+        {
+            "file": "WeatherPixelPrebuilt.apk",
+            "folder": "WeatherPixelPrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.wellbeing": [
+        {
+            "file": "WellbeingPrebuilt.apk",
+            "folder": "WellbeingPrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.work.clouddpc": [
+        {
+            "file": "DevicePolicyPrebuilt.apk",
+            "folder": "DevicePolicyPrebuilt",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.work.oobconfig": [
+        {
+            "file": "OTAConfigNoZeroTouchPrebuilt.apk",
+            "folder": "OTAConfigNoZeroTouchPrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.youtube.music": [
+        {
+            "file": "YouTubeMusicPrebuilt.apk",
+            "folder": "YouTubeMusicPrebuilt",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.as": [
+        {
+            "file": "DevicePersonalizationPrebuiltPixel2023.apk",
+            "folder": "DevicePersonalizationPrebuiltPixel2023",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.as.oss": [
+        {
+            "file": "DeviceIntelligenceNetworkPrebuilt.apk",
+            "folder": "DeviceIntelligenceNetworkPrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.calculator": [
+        {
+            "file": "CalculatorGooglePrebuilt.apk",
+            "folder": "CalculatorGooglePrebuilt",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.calendar": [
+        {
+            "file": "CalendarGooglePrebuilt.apk",
+            "folder": "CalendarGooglePrebuilt",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.contacts": [
+        {
+            "file": "GoogleContacts.apk",
+            "folder": "GoogleContacts",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.deskclock": [
+        {
+            "file": "PrebuiltDeskClockGoogle.apk",
+            "folder": "PrebuiltDeskClockGoogle",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.dialer": [
+        {
+            "file": "GoogleDialer.apk",
+            "folder": "GoogleDialer",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.feedback": [
+        {
+            "file": "GoogleFeedback.apk",
+            "folder": "GoogleFeedback",
+            "partition": "system_ext",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.gm": [
+        {
+            "file": "PrebuiltGmail.apk",
+            "folder": "PrebuiltGmail",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.gms": [
+        {
+            "file": "PrebuiltGmsCoreSc.apk",
+            "folder": "PrebuiltGmsCore",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.gms.location.history": [
+        {
+            "file": "LocationHistoryPrebuilt.apk",
+            "folder": "LocationHistoryPrebuilt",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.googlequicksearchbox": [
+        {
+            "file": "Velvet.apk",
+            "folder": "Velvet",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.gsf": [
+        {
+            "file": "GoogleServicesFramework.apk",
+            "folder": "GoogleServicesFramework",
+            "partition": "system_ext",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.inputmethod.latin": [
+        {
+            "file": "LatinIMEGooglePrebuilt.apk",
+            "folder": "LatinIMEGooglePrebuilt",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.markup": [
+        {
+            "file": "MarkupGoogle.apk",
+            "folder": "MarkupGoogle",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.marvin.talkback": [
+        {
+            "file": "talkback.apk",
+            "folder": "talkback",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.onetimeinitializer": [
+        {
+            "file": "GoogleOneTimeInitializer.apk",
+            "folder": "GoogleOneTimeInitializer",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.partnersetup": [
+        {
+            "file": "PartnerSetupPrebuilt.apk",
+            "folder": "PartnerSetupPrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.pixel.setupwizard": [
+        {
+            "file": "PixelSetupWizard.apk",
+            "folder": "PixelSetupWizard",
+            "partition": "system_ext",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.projection.gearhead": [
+        {
+            "file": "AndroidAutoStubPrebuilt.apk",
+            "folder": "AndroidAutoStubPrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.settings.intelligence": [
+        {
+            "file": "SettingsIntelligenceGooglePrebuilt.apk",
+            "folder": "SettingsIntelligenceGooglePrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.setupwizard": [
+        {
+            "file": "SetupWizardPrebuilt.apk",
+            "folder": "SetupWizardPrebuilt",
+            "partition": "product",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.soundpicker": [
+        {
+            "file": "SoundPickerPrebuilt.apk",
+            "folder": "SoundPickerPrebuilt",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.storagemanager": [
+        {
+            "file": "StorageManagerGoogle.apk",
+            "folder": "StorageManagerGoogle",
+            "partition": "system_ext",
+            "type": "priv-app"
+        }
+    ],
+    "com.google.android.trichromelibrary": [
+        {
+            "file": "TrichromeLibrary-Stub.apk",
+            "folder": "TrichromeLibrary-Stub",
+            "partition": "product",
+            "type": "app"
+        },
+        {
+            "file": "TrichromeLibrary.apk.gz",
+            "folder": "TrichromeLibrary",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.tts": [
+        {
+            "file": "GoogleTTS.apk",
+            "folder": "GoogleTTS",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.webview": [
+        {
+            "file": "WebViewGoogle-Stub.apk",
+            "folder": "WebViewGoogle-Stub",
+            "partition": "product",
+            "type": "app"
+        },
+        {
+            "file": "WebViewGoogle.apk.gz",
+            "folder": "WebViewGoogle",
+            "partition": "product",
+            "type": "app"
+        }
+    ],
+    "com.google.android.youtube": [
+        {
+            "file": "YouTube.apk",
+            "folder": "YouTube",
+            "partition": "product",
+            "type": "app"
+        }
+    ]
+}
