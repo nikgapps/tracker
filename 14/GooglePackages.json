@@ -2,416 +2,622 @@
     "com.android.chrome": [
         {
             "file": "Chrome-Stub.apk",
-            "folder": "Chrome-Stub",
             "partition": "product",
+            "source": "husky",
+            "title": "Chrome-Stub",
             "type": "app"
         },
         {
             "file": "Chrome.apk.gz",
-            "folder": "Chrome",
             "partition": "product",
+            "source": "husky",
+            "title": "Chrome",
             "type": "app"
         }
     ],
     "com.android.systemui.plugin.globalactions.wallet": [
         {
             "file": "QuickAccessWallet.apk",
-            "folder": "QuickAccessWallet",
             "partition": "system_ext",
+            "source": "husky",
+            "title": "QuickAccessWallet",
             "type": "priv-app"
         }
     ],
     "com.android.vending": [
         {
             "file": "Phonesky.apk",
-            "folder": "Phonesky",
             "partition": "product",
+            "source": "husky",
+            "title": "Phonesky",
             "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.assistant": [
+        {
+            "file": "AssistantGo",
+            "partition": "product",
+            "source": "default",
+            "title": "AssistantGo",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.books": [
+        {
+            "file": "Books",
+            "partition": "product",
+            "source": "default",
+            "title": "Books",
+            "type": "app"
         }
     ],
     "com.google.android.apps.customization.pixel": [
         {
             "file": "PixelThemesStub.apk",
-            "folder": "PixelThemesStub",
             "partition": "product",
+            "source": "husky",
+            "title": "PixelThemesStub",
             "type": "app"
         },
         {
             "file": "PixelThemesStub2022_and_newer.apk",
-            "folder": "PixelThemesStub2022_and_newer",
             "partition": "product",
+            "source": "husky",
+            "title": "PixelThemesStub2022_and_newer",
             "type": "app"
         }
     ],
     "com.google.android.apps.docs": [
         {
             "file": "Drive.apk",
-            "folder": "Drive",
             "partition": "product",
+            "source": "husky",
+            "title": "Drive",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.docs.editors.docs": [
+        {
+            "file": "GoogleDocs",
+            "partition": "product",
+            "source": "default",
+            "title": "GoogleDocs",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.docs.editors.sheets": [
+        {
+            "file": "GoogleSheets",
+            "partition": "product",
+            "source": "default",
+            "title": "GoogleSheets",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.docs.editors.slides": [
+        {
+            "file": "GoogleSlides",
+            "partition": "product",
+            "source": "default",
+            "title": "GoogleSlides",
             "type": "app"
         }
     ],
     "com.google.android.apps.emojiwallpaper": [
         {
             "file": "WallpaperEmojiPrebuilt.apk",
-            "folder": "WallpaperEmojiPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "WallpaperEmojiPrebuilt",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.googleassistant": [
+        {
+            "file": "Assistant",
+            "partition": "product",
+            "source": "default",
+            "title": "Assistant",
             "type": "app"
         }
     ],
     "com.google.android.apps.maps": [
         {
             "file": "Maps.apk",
-            "folder": "Maps",
             "partition": "product",
+            "source": "husky",
+            "title": "Maps",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.mapslite": [
+        {
+            "file": "MapsGo",
+            "partition": "product",
+            "source": "default",
+            "title": "MapsGo",
             "type": "app"
         }
     ],
     "com.google.android.apps.messaging": [
         {
             "file": "PrebuiltBugle.apk",
-            "folder": "PrebuiltBugle",
             "partition": "product",
+            "source": "husky",
+            "title": "PrebuiltBugle",
             "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.navlite": [
+        {
+            "file": "NavigationGo",
+            "partition": "product",
+            "source": "default",
+            "title": "NavigationGo",
+            "type": "app"
         }
     ],
     "com.google.android.apps.nbu.files": [
         {
             "file": "FilesPrebuilt.apk",
-            "folder": "FilesPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "FilesPrebuilt",
             "type": "priv-app"
         }
     ],
     "com.google.android.apps.nexuslauncher": [
         {
             "file": "NexusLauncherRelease.apk",
-            "folder": "NexusLauncherRelease",
             "partition": "system_ext",
+            "source": "husky",
+            "title": "NexusLauncherRelease",
             "type": "priv-app"
         }
     ],
     "com.google.android.apps.photos": [
         {
             "file": "Photos.apk",
-            "folder": "Photos",
             "partition": "product",
+            "source": "husky",
+            "title": "Photos",
+            "type": "app"
+        }
+    ],
+    "com.google.android.apps.photosgo": [
+        {
+            "file": "GalleryGo",
+            "partition": "product",
+            "source": "default",
+            "title": "GalleryGo",
             "type": "app"
         }
     ],
     "com.google.android.apps.recorder": [
         {
             "file": "RecorderPrebuilt.apk",
-            "folder": "RecorderPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "RecorderPrebuilt",
             "type": "priv-app"
         }
     ],
     "com.google.android.apps.restore": [
         {
             "file": "GoogleRestorePrebuilt.apk",
-            "folder": "GoogleRestorePrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "GoogleRestorePrebuilt",
             "type": "priv-app"
+        }
+    ],
+    "com.google.android.apps.searchlite": [
+        {
+            "file": "GoogleGo",
+            "partition": "product",
+            "source": "default",
+            "title": "GoogleGo",
+            "type": "app"
         }
     ],
     "com.google.android.apps.tachyon": [
         {
             "file": "MeetPrebuilt.apk",
-            "folder": "MeetPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "MeetPrebuilt",
             "type": "app"
         }
     ],
     "com.google.android.apps.turbo": [
         {
             "file": "TurboPrebuilt.apk",
-            "folder": "TurboPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "TurboPrebuilt",
             "type": "priv-app"
         }
     ],
     "com.google.android.apps.wallpaper": [
         {
             "file": "WallpaperPickerGoogleRelease.apk",
-            "folder": "WallpaperPickerGoogleRelease",
             "partition": "system_ext",
+            "source": "husky",
+            "title": "WallpaperPickerGoogleRelease",
             "type": "priv-app"
         }
     ],
     "com.google.android.apps.weather": [
         {
             "file": "WeatherPixelPrebuilt.apk",
-            "folder": "WeatherPixelPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "WeatherPixelPrebuilt",
             "type": "priv-app"
         }
     ],
     "com.google.android.apps.wellbeing": [
         {
             "file": "WellbeingPrebuilt.apk",
-            "folder": "WellbeingPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "WellbeingPrebuilt",
             "type": "priv-app"
         }
     ],
     "com.google.android.apps.work.clouddpc": [
         {
             "file": "DevicePolicyPrebuilt.apk",
-            "folder": "DevicePolicyPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "DevicePolicyPrebuilt",
             "type": "app"
         }
     ],
     "com.google.android.apps.work.oobconfig": [
         {
             "file": "OTAConfigNoZeroTouchPrebuilt.apk",
-            "folder": "OTAConfigNoZeroTouchPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "OTAConfigNoZeroTouchPrebuilt",
             "type": "priv-app"
         }
     ],
     "com.google.android.apps.youtube.music": [
         {
             "file": "YouTubeMusicPrebuilt.apk",
-            "folder": "YouTubeMusicPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "YouTubeMusicPrebuilt",
             "type": "app"
         }
     ],
     "com.google.android.as": [
         {
             "file": "DevicePersonalizationPrebuiltPixel2023.apk",
-            "folder": "DevicePersonalizationPrebuiltPixel2023",
             "partition": "product",
+            "source": "husky",
+            "title": "DevicePersonalizationPrebuiltPixel2023",
             "type": "priv-app"
         }
     ],
     "com.google.android.as.oss": [
         {
             "file": "DeviceIntelligenceNetworkPrebuilt.apk",
-            "folder": "DeviceIntelligenceNetworkPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "DeviceIntelligenceNetworkPrebuilt",
             "type": "priv-app"
         }
     ],
     "com.google.android.calculator": [
         {
             "file": "CalculatorGooglePrebuilt.apk",
-            "folder": "CalculatorGooglePrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "CalculatorGooglePrebuilt",
             "type": "app"
         }
     ],
     "com.google.android.calendar": [
         {
             "file": "CalendarGooglePrebuilt.apk",
-            "folder": "CalendarGooglePrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "CalendarGooglePrebuilt",
             "type": "app"
         }
     ],
     "com.google.android.contacts": [
         {
             "file": "GoogleContacts.apk",
-            "folder": "GoogleContacts",
             "partition": "product",
+            "source": "husky",
+            "title": "GoogleContacts",
             "type": "app"
         }
     ],
     "com.google.android.deskclock": [
         {
             "file": "PrebuiltDeskClockGoogle.apk",
-            "folder": "PrebuiltDeskClockGoogle",
             "partition": "product",
+            "source": "husky",
+            "title": "PrebuiltDeskClockGoogle",
             "type": "app"
         }
     ],
     "com.google.android.dialer": [
         {
             "file": "GoogleDialer.apk",
-            "folder": "GoogleDialer",
             "partition": "product",
+            "source": "husky",
+            "title": "GoogleDialer",
             "type": "priv-app"
+        }
+    ],
+    "com.google.android.documentsui": [
+        {
+            "file": "DocumentsUIGoogle",
+            "partition": "product",
+            "source": "default",
+            "title": "DocumentsUIGoogle",
+            "type": "app"
         }
     ],
     "com.google.android.feedback": [
         {
             "file": "GoogleFeedback.apk",
-            "folder": "GoogleFeedback",
             "partition": "system_ext",
+            "source": "husky",
+            "title": "GoogleFeedback",
             "type": "priv-app"
         }
     ],
     "com.google.android.gm": [
         {
             "file": "PrebuiltGmail.apk",
-            "folder": "PrebuiltGmail",
             "partition": "product",
+            "source": "husky",
+            "title": "PrebuiltGmail",
+            "type": "app"
+        }
+    ],
+    "com.google.android.gm.lite": [
+        {
+            "file": "GmailGo",
+            "partition": "product",
+            "source": "default",
+            "title": "GmailGo",
             "type": "app"
         }
     ],
     "com.google.android.gms": [
         {
             "file": "PrebuiltGmsCoreSc.apk",
-            "folder": "PrebuiltGmsCore",
             "partition": "product",
+            "source": "husky",
+            "title": "PrebuiltGmsCore",
             "type": "priv-app"
         }
     ],
     "com.google.android.gms.location.history": [
         {
             "file": "LocationHistoryPrebuilt.apk",
-            "folder": "LocationHistoryPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "LocationHistoryPrebuilt",
             "type": "app"
         }
     ],
     "com.google.android.googlequicksearchbox": [
         {
             "file": "Velvet.apk",
-            "folder": "Velvet",
             "partition": "product",
+            "source": "husky",
+            "title": "Velvet",
             "type": "priv-app"
         }
     ],
     "com.google.android.gsf": [
         {
             "file": "GoogleServicesFramework.apk",
-            "folder": "GoogleServicesFramework",
             "partition": "system_ext",
+            "source": "husky",
+            "title": "GoogleServicesFramework",
             "type": "priv-app"
+        }
+    ],
+    "com.google.android.ims": [
+        {
+            "file": "CarrierServices",
+            "partition": "product",
+            "source": "default",
+            "title": "CarrierServices",
+            "type": "app"
         }
     ],
     "com.google.android.inputmethod.latin": [
         {
             "file": "LatinIMEGooglePrebuilt.apk",
-            "folder": "LatinIMEGooglePrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "LatinIMEGooglePrebuilt",
+            "type": "app"
+        }
+    ],
+    "com.google.android.keep": [
+        {
+            "file": "GoogleKeep",
+            "partition": "product",
+            "source": "default",
+            "title": "PrebuiltKeep",
             "type": "app"
         }
     ],
     "com.google.android.markup": [
         {
             "file": "MarkupGoogle.apk",
-            "folder": "MarkupGoogle",
             "partition": "product",
+            "source": "husky",
+            "title": "MarkupGoogle",
             "type": "app"
         }
     ],
     "com.google.android.marvin.talkback": [
         {
             "file": "talkback.apk",
-            "folder": "talkback",
             "partition": "product",
+            "source": "husky",
+            "title": "talkback",
             "type": "app"
         }
     ],
     "com.google.android.onetimeinitializer": [
         {
             "file": "GoogleOneTimeInitializer.apk",
-            "folder": "GoogleOneTimeInitializer",
             "partition": "product",
+            "source": "husky",
+            "title": "GoogleOneTimeInitializer",
             "type": "priv-app"
         }
     ],
     "com.google.android.partnersetup": [
         {
             "file": "PartnerSetupPrebuilt.apk",
-            "folder": "PartnerSetupPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "PartnerSetupPrebuilt",
             "type": "priv-app"
         }
     ],
     "com.google.android.pixel.setupwizard": [
         {
             "file": "PixelSetupWizard.apk",
-            "folder": "PixelSetupWizard",
             "partition": "system_ext",
+            "source": "husky",
+            "title": "PixelSetupWizard",
             "type": "priv-app"
+        }
+    ],
+    "com.google.android.play.games": [
+        {
+            "file": "PlayGames",
+            "partition": "product",
+            "source": "default",
+            "title": "PlayGames",
+            "type": "app"
         }
     ],
     "com.google.android.projection.gearhead": [
         {
             "file": "AndroidAutoStubPrebuilt.apk",
-            "folder": "AndroidAutoStubPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "AndroidAutoStubPrebuilt",
             "type": "priv-app"
         }
     ],
     "com.google.android.settings.intelligence": [
         {
             "file": "SettingsIntelligenceGooglePrebuilt.apk",
-            "folder": "SettingsIntelligenceGooglePrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "SettingsIntelligenceGooglePrebuilt",
             "type": "priv-app"
         }
     ],
     "com.google.android.setupwizard": [
         {
             "file": "SetupWizardPrebuilt.apk",
-            "folder": "SetupWizardPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "SetupWizardPrebuilt",
             "type": "priv-app"
         }
     ],
     "com.google.android.soundpicker": [
         {
             "file": "SoundPickerPrebuilt.apk",
-            "folder": "SoundPickerPrebuilt",
             "partition": "product",
+            "source": "husky",
+            "title": "SoundPickerPrebuilt",
             "type": "app"
         }
     ],
     "com.google.android.storagemanager": [
         {
             "file": "StorageManagerGoogle.apk",
-            "folder": "StorageManagerGoogle",
             "partition": "system_ext",
+            "source": "husky",
+            "title": "StorageManagerGoogle",
             "type": "priv-app"
+        }
+    ],
+    "com.google.android.syncadapters.calendar": [
+        {
+            "file": "GoogleCalendarSyncAdapter",
+            "partition": "product",
+            "source": "default",
+            "title": "GoogleCalendarSyncAdapter",
+            "type": "app"
+        }
+    ],
+    "com.google.android.syncadapters.contacts": [
+        {
+            "file": "GoogleContactsSyncAdapter",
+            "partition": "product",
+            "source": "default",
+            "title": "GoogleContactsSyncAdapter",
+            "type": "app"
         }
     ],
     "com.google.android.trichromelibrary": [
         {
             "file": "TrichromeLibrary-Stub.apk",
-            "folder": "TrichromeLibrary-Stub",
             "partition": "product",
+            "source": "husky",
+            "title": "TrichromeLibrary-Stub",
             "type": "app"
         },
         {
             "file": "TrichromeLibrary.apk.gz",
-            "folder": "TrichromeLibrary",
             "partition": "product",
+            "source": "husky",
+            "title": "TrichromeLibrary",
             "type": "app"
         }
     ],
     "com.google.android.tts": [
         {
             "file": "GoogleTTS.apk",
-            "folder": "GoogleTTS",
             "partition": "product",
+            "source": "husky",
+            "title": "GoogleTTS",
             "type": "app"
         }
     ],
     "com.google.android.webview": [
         {
             "file": "WebViewGoogle-Stub.apk",
-            "folder": "WebViewGoogle-Stub",
             "partition": "product",
+            "source": "husky",
+            "title": "WebViewGoogle-Stub",
             "type": "app"
         },
         {
             "file": "WebViewGoogle.apk.gz",
-            "folder": "WebViewGoogle",
             "partition": "product",
+            "source": "husky",
+            "title": "WebViewGoogle",
             "type": "app"
         }
     ],
     "com.google.android.youtube": [
         {
             "file": "YouTube.apk",
-            "folder": "YouTube",
             "partition": "product",
+            "source": "husky",
+            "title": "YouTube",
             "type": "app"
         }
     ]
