@@ -31,14 +31,14 @@
     ],
     "com.google.android.apps.customization.pixel": [
         {
-            "file": "PixelThemesStub2022_and_newer.apk",
-            "folder": "PixelThemesStub2022_and_newer",
+            "file": "PixelThemesStub.apk",
+            "folder": "PixelThemesStub",
             "partition": "product",
             "type": "app"
         },
         {
-            "file": "PixelThemesStub.apk",
-            "folder": "PixelThemesStub",
+            "file": "PixelThemesStub2022_and_newer.apk",
+            "folder": "PixelThemesStub2022_and_newer",
             "partition": "product",
             "type": "app"
         }

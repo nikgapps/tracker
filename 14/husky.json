@@ -14,7 +14,7 @@
             "version_code": "1"
         }
     ],
-    "branch": "husky-user-14-AP1A.240305.019.A1-11445699-release-keys",
+    "branch": null,
     "com.android.angle": [
         {
             "file": "ANGLE/ANGLE.apk",
@@ -428,8 +428,8 @@
             "partition": "product",
             "size": 75130440,
             "type": "priv-app",
-            "v_code": "38831290595838346",
-            "version": "38.8.31-29 [0] [PR] 595838346",
+            "v_code": "3883129",
+            "version": "38.8.31-29",
             "version_code": "83883120"
         }
     ],
@@ -444,7 +444,7 @@
             "size": 8557809,
             "type": "priv-app",
             "v_code": "",
-            "version": "Retail Demo Mode",
+            "version": "Retail",
             "version_code": "26"
         }
     ],
@@ -645,10 +645,10 @@
     ],
     "com.google.android.apps.customization.pixel": [
         {
-            "file": "PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
-            "folder": "PixelThemesStub2022_and_newer",
+            "file": "PixelThemesStub/PixelThemesStub.apk",
+            "folder": "PixelThemesStub",
             "isstub": false,
-            "location": "product/app/PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
+            "location": "product/app/PixelThemesStub/PixelThemesStub.apk",
             "package": "com.google.android.apps.customization.pixel",
             "partition": "product",
             "size": 115101,
@@ -658,10 +658,10 @@
             "version_code": "2"
         },
         {
-            "file": "PixelThemesStub/PixelThemesStub.apk",
-            "folder": "PixelThemesStub",
+            "file": "PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
+            "folder": "PixelThemesStub2022_and_newer",
             "isstub": false,
-            "location": "product/app/PixelThemesStub/PixelThemesStub.apk",
+            "location": "product/app/PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk",
             "package": "com.google.android.apps.customization.pixel",
             "partition": "product",
             "size": 115101,
@@ -741,8 +741,8 @@
             "partition": "product",
             "size": 5400084,
             "type": "priv-app",
-            "v_code": "621800534",
-            "version": "V62 prod (18005 sdk34)",
+            "v_code": "62",
+            "version": "V62",
             "version_code": "18005"
         }
     ],
@@ -1056,8 +1056,8 @@
             "partition": "product",
             "size": 34535191,
             "type": "app",
-            "v_code": "95648565784553",
-            "version": "V95-arm64-v8a-universal-pixel (565784553)",
+            "v_code": "95648",
+            "version": "V95-arm64-v8a-universal-pixel",
             "version_code": "2665097"
         }
     ],
@@ -1131,8 +1131,8 @@
             "partition": "product",
             "size": 20596088,
             "type": "priv-app",
-            "v_code": "16521068621495937",
-            "version": "1.6.521068621 (495937)",
+            "v_code": "16521068621",
+            "version": "1.6.521068621",
             "version_code": "495937"
         }
     ],
@@ -1146,8 +1146,8 @@
             "partition": "product",
             "size": 16247381,
             "type": "app",
-            "v_code": "833671801100",
-            "version": "83.36.7 (1801100)",
+            "v_code": "83367",
+            "version": "83.36.7",
             "version_code": "1801100"
         }
     ],
@@ -1221,8 +1221,8 @@
             "partition": "product",
             "size": 4937483,
             "type": "app",
-            "v_code": "841520193683",
-            "version": "8.4.1 (520193683)",
+            "v_code": "841",
+            "version": "8.4.1",
             "version_code": "84100198"
         }
     ],
@@ -1341,8 +1341,8 @@
             "partition": "product",
             "size": 14389444,
             "type": "app",
-            "v_code": "75563137996",
-            "version": "7.5 (563137996)",
+            "v_code": "75",
+            "version": "7.5",
             "version_code": "76002074"
         }
     ],
@@ -1476,8 +1476,8 @@
             "partition": "product",
             "size": 146571162,
             "type": "priv-app",
-            "v_code": "234524190408601788888",
-            "version": "23.45.24 (190408-601788888)",
+            "v_code": "234524",
+            "version": "23.45.24",
             "version_code": "234524039"
         }
     ],
@@ -1491,8 +1491,8 @@
             "partition": "product",
             "size": 8358647,
             "type": "priv-app",
-            "v_code": "2345241904080",
-            "version": "23.45.24 (190408-0)",
+            "v_code": "234524",
+            "version": "23.45.24",
             "version_code": "234524039"
         }
     ],
@@ -1506,8 +1506,8 @@
             "partition": "product",
             "size": 193631,
             "type": "priv-app",
-            "v_code": "2345241904080",
-            "version": "23.45.24 (190408-0)",
+            "v_code": "234524",
+            "version": "23.45.24",
             "version_code": "234524039"
         }
     ],
@@ -1521,8 +1521,8 @@
             "partition": "product",
             "size": 912190,
             "type": "priv-app",
-            "v_code": "2345241904080",
-            "version": "23.45.24 (190408-0)",
+            "v_code": "234524",
+            "version": "23.45.24",
             "version_code": "234524039"
         }
     ],
@@ -1536,8 +1536,8 @@
             "partition": "product",
             "size": 2392752,
             "type": "priv-app",
-            "v_code": "2345241904080",
-            "version": "23.45.24 (190408-0)",
+            "v_code": "234524",
+            "version": "23.45.24",
             "version_code": "234524039"
         }
     ],
@@ -1551,8 +1551,8 @@
             "partition": "product",
             "size": 263199,
             "type": "priv-app",
-            "v_code": "2345241904080",
-            "version": "23.45.24 (190408-0)",
+            "v_code": "234524",
+            "version": "23.45.24",
             "version_code": "234524039"
         }
     ],
@@ -1566,8 +1566,8 @@
             "partition": "product",
             "size": 2242233,
             "type": "priv-app",
-            "v_code": "2345241904080",
-            "version": "23.45.24 (190408-0)",
+            "v_code": "234524",
+            "version": "23.45.24",
             "version_code": "234524039"
         }
     ],
@@ -1581,8 +1581,8 @@
             "partition": "product",
             "size": 550154,
             "type": "priv-app",
-            "v_code": "2345241904080",
-            "version": "23.45.24 (190408-0)",
+            "v_code": "234524",
+            "version": "23.45.24",
             "version_code": "234524039"
         }
     ],
@@ -1611,8 +1611,8 @@
             "partition": "product",
             "size": 7746752,
             "type": "priv-app",
-            "v_code": "2345241004000",
-            "version": "23.45.24 (100400-0)",
+            "v_code": "234524",
+            "version": "23.45.24",
             "version_code": "234524042"
         }
     ],
@@ -1626,8 +1626,8 @@
             "partition": "product",
             "size": 5150493,
             "type": "priv-app",
-            "v_code": "2345241004000",
-            "version": "23.45.24 (100400-0)",
+            "v_code": "234524",
+            "version": "23.45.24",
             "version_code": "234524042"
         }
     ],
@@ -1822,7 +1822,7 @@
             "size": 2691796,
             "type": "app",
             "v_code": "20240101",
-            "version": "2024-01-01 S+",
+            "version": "2024-01-01",
             "version_code": "341339074"
         }
     ],
@@ -2001,8 +2001,8 @@
             "partition": "product",
             "size": 5944590,
             "type": "app",
-            "v_code": "30496815901",
-            "version": "3.0 (496815901)",
+            "v_code": "30",
+            "version": "3.0",
             "version_code": "30000182"
         }
     ],
@@ -2252,8 +2252,8 @@
             "partition": "system_ext",
             "size": 3790682,
             "type": "priv-app",
-            "v_code": "190111054718",
-            "version": "D.1.9.01 (11054718)",
+            "v_code": "1901",
+            "version": "D.1.9.01",
             "version_code": "19015"
         }
     ],
@@ -2283,7 +2283,7 @@
             "size": 197332,
             "type": "app",
             "v_code": "20240101",
-            "version": "2024-01-01 T+",
+            "version": "2024-01-01",
             "version_code": "341304000"
         }
     ],
@@ -2298,7 +2298,7 @@
             "size": 184988,
             "type": "app",
             "v_code": "20240101",
-            "version": "2024-01-01 S+",
+            "version": "2024-01-01",
             "version_code": "341304004"
         }
     ],
@@ -2357,8 +2357,8 @@
             "partition": "product",
             "size": 54352405,
             "type": "priv-app",
-            "v_code": "198702087",
-            "version": "1.9 (8702087)",
+            "v_code": "19",
+            "version": "1.9",
             "version_code": "19000820"
         }
     ],
