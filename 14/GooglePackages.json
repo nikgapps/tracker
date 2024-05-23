@@ -2,7 +2,7 @@
     "com.android.chrome": [
         {
             "file": "Chrome-Stub.apk",
-            "package_title": "Chrome-Stub",
+            "package_title": "GoogleChrome",
             "partition": "product",
             "source": "husky",
             "title": "Chrome-Stub",
@@ -10,7 +10,7 @@
         },
         {
             "file": "Chrome.apk.gz",
-            "package_title": "Chrome",
+            "package_title": "GoogleChrome",
             "partition": "product",
             "source": "husky",
             "title": "Chrome",
@@ -30,7 +30,7 @@
     "com.android.vending": [
         {
             "file": "Phonesky.apk",
-            "package_title": "Phonesky",
+            "package_title": "GooglePlayStore",
             "partition": "product",
             "source": "husky",
             "title": "Phonesky",
@@ -60,7 +60,7 @@
     "com.google.android.apps.customization.pixel": [
         {
             "file": "PixelThemesStub.apk",
-            "package_title": "PixelThemesStub",
+            "package_title": "PixelThemes",
             "partition": "product",
             "source": "husky",
             "title": "PixelThemesStub",
@@ -68,7 +68,7 @@
         },
         {
             "file": "PixelThemesStub2022_and_newer.apk",
-            "package_title": "PixelThemesStub2022_and_newer",
+            "package_title": "PixelThemes",
             "partition": "product",
             "source": "husky",
             "title": "PixelThemesStub2022_and_newer",
@@ -118,7 +118,7 @@
     "com.google.android.apps.emojiwallpaper": [
         {
             "file": "WallpaperEmojiPrebuilt.apk",
-            "package_title": "WallpaperEmoji",
+            "package_title": "EmojiWallpapers",
             "partition": "product",
             "source": "husky",
             "title": "WallpaperEmojiPrebuilt",
@@ -158,7 +158,7 @@
     "com.google.android.apps.messaging": [
         {
             "file": "PrebuiltBugle.apk",
-            "package_title": "Bugle",
+            "package_title": "GoogleMessages",
             "partition": "product",
             "source": "husky",
             "title": "PrebuiltBugle",
@@ -178,7 +178,7 @@
     "com.google.android.apps.nbu.files": [
         {
             "file": "FilesPrebuilt.apk",
-            "package_title": "Files",
+            "package_title": "GoogleFiles",
             "partition": "product",
             "source": "husky",
             "title": "FilesPrebuilt",
@@ -188,7 +188,7 @@
     "com.google.android.apps.nexuslauncher": [
         {
             "file": "NexusLauncherRelease.apk",
-            "package_title": "NexusLauncherRelease",
+            "package_title": "PixelLauncher",
             "partition": "system_ext",
             "source": "husky",
             "title": "NexusLauncherRelease",
@@ -258,7 +258,7 @@
     "com.google.android.apps.turbo": [
         {
             "file": "TurboPrebuilt.apk",
-            "package_title": "Turbo",
+            "package_title": "DeviceHealthServices",
             "partition": "product",
             "source": "husky",
             "title": "TurboPrebuilt",
@@ -268,7 +268,7 @@
     "com.google.android.apps.wallpaper": [
         {
             "file": "WallpaperPickerGoogleRelease.apk",
-            "package_title": "WallpaperPickerGoogleRelease",
+            "package_title": "WallpaperPicker",
             "partition": "system_ext",
             "source": "husky",
             "title": "WallpaperPickerGoogleRelease",
@@ -278,7 +278,7 @@
     "com.google.android.apps.weather": [
         {
             "file": "WeatherPixelPrebuilt.apk",
-            "package_title": "WeatherPixel",
+            "package_title": "PixelWeather",
             "partition": "product",
             "source": "husky",
             "title": "WeatherPixelPrebuilt",
@@ -288,7 +288,7 @@
     "com.google.android.apps.wellbeing": [
         {
             "file": "WellbeingPrebuilt.apk",
-            "package_title": "Wellbeing",
+            "package_title": "DigitalWellbeing",
             "partition": "product",
             "source": "husky",
             "title": "WellbeingPrebuilt",
@@ -308,7 +308,7 @@
     "com.google.android.apps.work.oobconfig": [
         {
             "file": "OTAConfigNoZeroTouchPrebuilt.apk",
-            "package_title": "OTAConfigNoZeroTouch",
+            "package_title": "DeviceSetup",
             "partition": "product",
             "source": "husky",
             "title": "OTAConfigNoZeroTouchPrebuilt",
@@ -328,7 +328,7 @@
     "com.google.android.as": [
         {
             "file": "DevicePersonalizationPrebuiltPixel2023.apk",
-            "package_title": "DevicePersonalizationPixel2023",
+            "package_title": "DevicePersonalizationServices",
             "partition": "product",
             "source": "husky",
             "title": "DevicePersonalizationPrebuiltPixel2023",
@@ -338,7 +338,7 @@
     "com.google.android.as.oss": [
         {
             "file": "DeviceIntelligenceNetworkPrebuilt.apk",
-            "package_title": "DeviceIntelligenceNetwork",
+            "package_title": "PrivateComputeServices",
             "partition": "product",
             "source": "husky",
             "title": "DeviceIntelligenceNetworkPrebuilt",
@@ -348,7 +348,7 @@
     "com.google.android.calculator": [
         {
             "file": "CalculatorGooglePrebuilt.apk",
-            "package_title": "CalculatorGoogle",
+            "package_title": "GoogleCalculator",
             "partition": "product",
             "source": "husky",
             "title": "CalculatorGooglePrebuilt",
@@ -358,7 +358,7 @@
     "com.google.android.calendar": [
         {
             "file": "CalendarGooglePrebuilt.apk",
-            "package_title": "CalendarGoogle",
+            "package_title": "GoogleCalendar",
             "partition": "product",
             "source": "husky",
             "title": "CalendarGooglePrebuilt",
@@ -378,7 +378,7 @@
     "com.google.android.deskclock": [
         {
             "file": "PrebuiltDeskClockGoogle.apk",
-            "package_title": "DeskClockGoogle",
+            "package_title": "GoogleClock",
             "partition": "product",
             "source": "husky",
             "title": "PrebuiltDeskClockGoogle",
@@ -488,7 +488,7 @@
     "com.google.android.inputmethod.latin": [
         {
             "file": "LatinIMEGooglePrebuilt.apk",
-            "package_title": "LatinIMEGoogle",
+            "package_title": "GBoard",
             "partition": "product",
             "source": "husky",
             "title": "LatinIMEGooglePrebuilt",
@@ -518,7 +518,7 @@
     "com.google.android.marvin.talkback": [
         {
             "file": "talkback.apk",
-            "package_title": "talkback",
+            "package_title": "GoogleTalkback",
             "partition": "product",
             "source": "husky",
             "title": "talkback",
@@ -538,7 +538,7 @@
     "com.google.android.partnersetup": [
         {
             "file": "PartnerSetupPrebuilt.apk",
-            "package_title": "PartnerSetup",
+            "package_title": "GooglePartnerSetup",
             "partition": "product",
             "source": "husky",
             "title": "PartnerSetupPrebuilt",
@@ -568,7 +568,7 @@
     "com.google.android.projection.gearhead": [
         {
             "file": "AndroidAutoStubPrebuilt.apk",
-            "package_title": "AndroidAutoStub",
+            "package_title": "AndroidAuto",
             "partition": "product",
             "source": "husky",
             "title": "AndroidAutoStubPrebuilt",
@@ -578,7 +578,7 @@
     "com.google.android.settings.intelligence": [
         {
             "file": "SettingsIntelligenceGooglePrebuilt.apk",
-            "package_title": "SettingsIntelligenceGoogle",
+            "package_title": "SettingsServices",
             "partition": "product",
             "source": "husky",
             "title": "SettingsIntelligenceGooglePrebuilt",
@@ -598,7 +598,7 @@
     "com.google.android.soundpicker": [
         {
             "file": "SoundPickerPrebuilt.apk",
-            "package_title": "SoundPicker",
+            "package_title": "GoogleSounds",
             "partition": "product",
             "source": "husky",
             "title": "SoundPickerPrebuilt",
@@ -638,7 +638,7 @@
     "com.google.android.trichromelibrary": [
         {
             "file": "TrichromeLibrary-Stub.apk",
-            "package_title": "TrichromeLibrary-Stub",
+            "package_title": "TrichromeLibrary",
             "partition": "product",
             "source": "husky",
             "title": "TrichromeLibrary-Stub",
@@ -666,7 +666,7 @@
     "com.google.android.webview": [
         {
             "file": "WebViewGoogle-Stub.apk",
-            "package_title": "WebViewGoogle-Stub",
+            "package_title": "WebViewGoogle",
             "partition": "product",
             "source": "husky",
             "title": "WebViewGoogle-Stub",
