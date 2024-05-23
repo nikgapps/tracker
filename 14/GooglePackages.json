@@ -118,7 +118,7 @@
     "com.google.android.apps.emojiwallpaper": [
         {
             "file": "WallpaperEmojiPrebuilt.apk",
-            "package_title": "EmojiWallpapers",
+            "package_title": "EmojiWallpaper",
             "partition": "product",
             "source": "husky",
             "title": "WallpaperEmojiPrebuilt",
