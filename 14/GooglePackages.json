@@ -138,7 +138,7 @@
     "com.google.android.apps.maps": [
         {
             "file": "Maps.apk",
-            "package_title": "Maps",
+            "package_title": "GoogleMaps",
             "partition": "product",
             "source": "husky",
             "title": "Maps",
@@ -198,7 +198,7 @@
     "com.google.android.apps.photos": [
         {
             "file": "Photos.apk",
-            "package_title": "Photos",
+            "package_title": "GooglePhotos",
             "partition": "product",
             "source": "husky",
             "title": "Photos",
@@ -218,7 +218,7 @@
     "com.google.android.apps.recorder": [
         {
             "file": "RecorderPrebuilt.apk",
-            "package_title": "Recorder",
+            "package_title": "GoogleRecorder",
             "partition": "product",
             "source": "husky",
             "title": "RecorderPrebuilt",
@@ -298,7 +298,7 @@
     "com.google.android.apps.work.clouddpc": [
         {
             "file": "DevicePolicyPrebuilt.apk",
-            "package_title": "DevicePolicy",
+            "package_title": "AndroidDevicePolicy",
             "partition": "product",
             "source": "husky",
             "title": "DevicePolicyPrebuilt",
@@ -448,7 +448,7 @@
     "com.google.android.gms.location.history": [
         {
             "file": "LocationHistoryPrebuilt.apk",
-            "package_title": "LocationHistory",
+            "package_title": "GoogleLocationHistory",
             "partition": "product",
             "source": "husky",
             "title": "LocationHistoryPrebuilt",

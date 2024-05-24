@@ -3,7 +3,7 @@
         "com.google.android.projection.gearhead": "AndroidAuto"
     },
     "AndroidDevicePolicy": {
-        "com.google.android.apps.work.clouddpc": "DevicePolicy"
+        "com.google.android.apps.work.clouddpc": "AndroidDevicePolicy"
     },
     "AssistantGo": {
         "com.google.android.apps.assistant": "AssistantGo"
@@ -94,10 +94,10 @@
         "com.google.android.keep": "GoogleKeep"
     },
     "GoogleLocationHistory": {
-        "com.google.android.gms.location.history": "LocationHistory"
+        "com.google.android.gms.location.history": "GoogleLocationHistory"
     },
     "GoogleMaps": {
-        "com.google.android.apps.maps": "Maps"
+        "com.google.android.apps.maps": "GoogleMaps"
     },
     "GoogleMessages": {
         "com.google.android.apps.messaging": "GoogleMessages"
@@ -106,10 +106,10 @@
         "com.google.android.partnersetup": "GooglePartnerSetup"
     },
     "GooglePhotos": {
-        "com.google.android.apps.photos": "Photos"
+        "com.google.android.apps.photos": "GooglePhotos"
     },
     "GoogleRecorder": {
-        "com.google.android.apps.recorder": "Recorder"
+        "com.google.android.apps.recorder": "GoogleRecorder"
     },
     "GoogleSearch": {
         "com.google.android.apps.googleassistant": "Assistant",
