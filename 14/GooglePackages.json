@@ -268,7 +268,7 @@
     "com.google.android.apps.wallpaper": [
         {
             "file": "WallpaperPickerGoogleRelease.apk",
-            "package_title": "WallpaperPicker",
+            "package_title": "GoogleWallpaper",
             "partition": "system_ext",
             "source": "husky",
             "title": "WallpaperPickerGoogleRelease",
