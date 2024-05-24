@@ -1,1 +1,172 @@
-{}
+{
+    "AndroidAuto": {
+        "com.google.android.projection.gearhead": "AndroidAuto"
+    },
+    "AndroidDevicePolicy": {
+        "com.google.android.apps.work.clouddpc": "AndroidDevicePolicy"
+    },
+    "AssistantGo": {
+        "com.google.android.apps.assistant": "AssistantGo"
+    },
+    "Books": {
+        "com.google.android.apps.books": "Books"
+    },
+    "CarrierServices": {
+        "com.google.android.ims": "CarrierServices"
+    },
+    "Core": {
+        "com.android.vending": "GooglePlayStore",
+        "com.google.android.gms": "GmsCore",
+        "com.google.android.gsf": "GoogleServicesFramework",
+        "com.google.android.syncadapters.calendar": "GoogleCalendarSyncAdapter",
+        "com.google.android.syncadapters.contacts": "GoogleContactsSyncAdapter"
+    },
+    "CoreGo": {
+        "com.android.vending": "GooglePlayStore",
+        "com.google.android.gms": "GmsCore",
+        "com.google.android.gsf": "GoogleServicesFramework",
+        "com.google.android.syncadapters.calendar": "GoogleCalendarSyncAdapter",
+        "com.google.android.syncadapters.contacts": "GoogleContactsSyncAdapter"
+    },
+    "DeviceHealthServices": {
+        "com.google.android.apps.turbo": "DeviceHealthServices"
+    },
+    "DeviceSetup": {
+        "com.google.android.apps.work.oobconfig": "DeviceSetup"
+    },
+    "DigitalWellbeing": {
+        "com.google.android.apps.wellbeing": "DigitalWellbeing"
+    },
+    "Drive": {
+        "com.google.android.apps.docs": "Drive"
+    },
+    "GBoard": {
+        "com.google.android.inputmethod.latin": "GBoard"
+    },
+    "GalleryGo": {
+        "com.google.android.apps.photosgo": "GalleryGo"
+    },
+    "Gmail": {
+        "com.google.android.gm": "Gmail"
+    },
+    "GmailGo": {
+        "com.google.android.gm.lite": "GmailGo"
+    },
+    "GoogleCalculator": {
+        "com.google.android.calculator": "GoogleCalculator"
+    },
+    "GoogleCalendar": {
+        "com.google.android.calendar": "GoogleCalendar"
+    },
+    "GoogleChrome": {
+        "com.android.chrome": "GoogleChrome",
+        "com.google.android.trichromelibrary": "TrichromeLibrary",
+        "com.google.android.webview": "WebViewGoogle"
+    },
+    "GoogleClock": {
+        "com.google.android.deskclock": "GoogleClock"
+    },
+    "GoogleContacts": {
+        "com.google.android.contacts": "GoogleContacts"
+    },
+    "GoogleDialer": {
+        "com.google.android.dialer": "GoogleDialer"
+    },
+    "GoogleDocs": {
+        "com.google.android.apps.docs.editors.docs": "GoogleDocs"
+    },
+    "GoogleDuo": {
+        "com.google.android.apps.tachyon": "Meet"
+    },
+    "GoogleFeedback": {
+        "com.google.android.feedback": "GoogleFeedback"
+    },
+    "GoogleFiles": {
+        "com.google.android.apps.nbu.files": "GoogleFiles",
+        "com.google.android.documentsui": "DocumentsUIGoogle",
+        "com.google.android.storagemanager": "StorageManagerGoogle"
+    },
+    "GoogleGo": {
+        "com.google.android.apps.searchlite": "GoogleGo"
+    },
+    "GoogleKeep": {
+        "com.google.android.keep": "GoogleKeep"
+    },
+    "GoogleLocationHistory": {
+        "com.google.android.gms.location.history": "GoogleLocationHistory"
+    },
+    "GoogleMaps": {
+        "com.google.android.apps.maps": "GoogleMaps"
+    },
+    "GoogleMessages": {
+        "com.google.android.apps.messaging": "GoogleMessages"
+    },
+    "GooglePartnerSetup": {
+        "com.google.android.partnersetup": "GooglePartnerSetup"
+    },
+    "GooglePhotos": {
+        "com.google.android.apps.photos": "GooglePhotos"
+    },
+    "GoogleRecorder": {
+        "com.google.android.apps.recorder": "GoogleRecorder"
+    },
+    "GoogleSearch": {
+        "com.google.android.apps.googleassistant": "Assistant",
+        "com.google.android.googlequicksearchbox": "Velvet"
+    },
+    "GoogleSheets": {
+        "com.google.android.apps.docs.editors.sheets": "GoogleSheets"
+    },
+    "GoogleSlides": {
+        "com.google.android.apps.docs.editors.slides": "GoogleSlides"
+    },
+    "GoogleSounds": {
+        "com.google.android.soundpicker": "GoogleSounds"
+    },
+    "GoogleTTS": {
+        "com.google.android.tts": "GoogleTTS"
+    },
+    "GoogleTalkback": {
+        "com.google.android.marvin.talkback": "GoogleTalkback"
+    },
+    "MapsGo": {
+        "com.google.android.apps.mapslite": "MapsGo"
+    },
+    "MarkupGoogle": {
+        "com.google.android.markup": "MarkupGoogle"
+    },
+    "NavigationGo": {
+        "com.google.android.apps.navlite": "NavigationGo"
+    },
+    "PixelSetupWizard": {
+        "com.google.android.apps.restore": "GoogleRestore",
+        "com.google.android.onetimeinitializer": "GoogleOneTimeInitializer",
+        "com.google.android.pixel.setupwizard": "PixelSetupWizard",
+        "com.google.android.setupwizard": "SetupWizard"
+    },
+    "PixelSpecifics": {
+        "com.android.systemui.plugin.globalactions.wallet": "QuickAccessWallet",
+        "com.google.android.apps.customization.pixel": "PixelThemes",
+        "com.google.android.apps.emojiwallpaper": "EmojiWallpaper",
+        "com.google.android.apps.nexuslauncher": "PixelLauncher",
+        "com.google.android.apps.wallpaper": "GoogleWallpaper",
+        "com.google.android.apps.weather": "PixelWeather",
+        "com.google.android.as": "DevicePersonalizationServices",
+        "com.google.android.as.oss": "PrivateComputeServices",
+        "com.google.android.settings.intelligence": "SettingsServices"
+    },
+    "PlayGames": {
+        "com.google.android.play.games": "PlayGames"
+    },
+    "SetupWizard": {
+        "com.google.android.apps.restore": "GoogleRestore",
+        "com.google.android.onetimeinitializer": "GoogleOneTimeInitializer",
+        "com.google.android.setupwizard": "SetupWizard"
+    },
+    "YouTube": {
+        "com.google.android.youtube": "YouTube"
+    },
+    "YouTubeMusic": {
+        "com.google.android.apps.youtube.music": "YouTubeMusic"
+    }
+}
