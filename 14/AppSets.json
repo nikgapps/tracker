@@ -19,14 +19,16 @@
         "com.google.android.gms": "GmsCore",
         "com.google.android.gsf": "GoogleServicesFramework",
         "com.google.android.syncadapters.calendar": "GoogleCalendarSyncAdapter",
-        "com.google.android.syncadapters.contacts": "GoogleContactsSyncAdapter"
+        "com.google.android.syncadapters.contacts": "GoogleContactsSyncAdapter",
+        "extra.files": "ExtraFiles"
     },
     "CoreGo": {
         "com.android.vending": "GooglePlayStore",
         "com.google.android.gms": "GmsCore",
         "com.google.android.gsf": "GoogleServicesFramework",
         "com.google.android.syncadapters.calendar": "GoogleCalendarSyncAdapter",
-        "com.google.android.syncadapters.contacts": "GoogleContactsSyncAdapter"
+        "com.google.android.syncadapters.contacts": "GoogleContactsSyncAdapter",
+        "extra.files.go": "ExtraFilesGo"
     },
     "DeviceHealthServices": {
         "com.google.android.apps.turbo": "DeviceHealthServices"

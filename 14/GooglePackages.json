@@ -59,19 +59,19 @@
     ],
     "com.google.android.apps.customization.pixel": [
         {
-            "file": "PixelThemesStub.apk",
-            "package_title": "PixelThemes",
-            "partition": "product",
-            "source": "husky",
-            "title": "PixelThemesStub",
-            "type": "app"
-        },
-        {
             "file": "PixelThemesStub2022_and_newer.apk",
             "package_title": "PixelThemes",
             "partition": "product",
             "source": "husky",
             "title": "PixelThemesStub2022_and_newer",
+            "type": "app"
+        },
+        {
+            "file": "PixelThemesStub.apk",
+            "package_title": "PixelThemes",
+            "partition": "product",
+            "source": "husky",
+            "title": "PixelThemesStub",
             "type": "app"
         }
     ],
