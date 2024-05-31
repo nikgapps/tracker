@@ -155,7 +155,8 @@
         "com.google.android.apps.weather": "PixelWeather",
         "com.google.android.as": "DevicePersonalizationServices",
         "com.google.android.as.oss": "PrivateComputeServices",
-        "com.google.android.settings.intelligence": "SettingsServices"
+        "com.google.android.settings.intelligence": "SettingsServices",
+        "com.google.android.wallpaper.effects": "CinematicEffect"
     },
     "PlayGames": {
         "com.google.android.play.games": "PlayGames"
