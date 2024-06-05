@@ -1,9 +1,6 @@
 {
     "com.android.chrome": [
         {
-            "appset": [
-                "GoogleChrome"
-            ],
             "file": "Chrome-Stub.apk",
             "package_title": "GoogleChrome",
             "partition": "product",
@@ -12,9 +9,6 @@
             "type": "app"
         },
         {
-            "appset": [
-                "GoogleChrome"
-            ],
             "file": "Chrome.apk.gz",
             "package_title": "GoogleChrome",
             "partition": "product",
@@ -25,9 +19,6 @@
     ],
     "com.android.systemui.plugin.globalactions.wallet": [
         {
-            "appset": [
-                "PixelSpecifics"
-            ],
             "file": "QuickAccessWallet.apk",
             "package_title": "QuickAccessWallet",
             "partition": "system_ext",
@@ -38,10 +29,6 @@
     ],
     "com.android.vending": [
         {
-            "appset": [
-                "Core",
-                "CoreGo"
-            ],
             "file": "Phonesky.apk",
             "package_title": "GooglePlayStore",
             "partition": "product",
@@ -52,9 +39,6 @@
     ],
     "com.google.android.apps.assistant": [
         {
-            "appset": [
-                "AssistantGo"
-            ],
             "file": "AssistantGo",
             "package_title": "AssistantGo",
             "partition": "product",
@@ -65,9 +49,6 @@
     ],
     "com.google.android.apps.books": [
         {
-            "appset": [
-                "Books"
-            ],
             "file": "Books",
             "package_title": "Books",
             "partition": "product",
@@ -78,9 +59,6 @@
     ],
     "com.google.android.apps.customization.pixel": [
         {
-            "appset": [
-                "PixelSpecifics"
-            ],
             "file": "PixelThemesStub2022_and_newer.apk",
             "package_title": "PixelThemes",
             "partition": "product",
@@ -89,9 +67,6 @@
             "type": "app"
         },
         {
-            "appset": [
-                "PixelSpecifics"
-            ],
             "file": "PixelThemesStub.apk",
             "package_title": "PixelThemes",
             "partition": "product",
@@ -102,9 +77,6 @@
     ],
     "com.google.android.apps.docs": [
         {
-            "appset": [
-                "Drive"
-            ],
             "file": "Drive.apk",
             "package_title": "Drive",
             "partition": "product",
@@ -115,9 +87,6 @@
     ],
     "com.google.android.apps.docs.editors.docs": [
         {
-            "appset": [
-                "GoogleDocs"
-            ],
             "file": "GoogleDocs",
             "package_title": "GoogleDocs",
             "partition": "product",
@@ -128,9 +97,6 @@
     ],
     "com.google.android.apps.docs.editors.sheets": [
         {
-            "appset": [
-                "GoogleSheets"
-            ],
             "file": "GoogleSheets",
             "package_title": "GoogleSheets",
             "partition": "product",
@@ -141,9 +107,6 @@
     ],
     "com.google.android.apps.docs.editors.slides": [
         {
-            "appset": [
-                "GoogleSlides"
-            ],
             "file": "GoogleSlides",
             "package_title": "GoogleSlides",
             "partition": "product",
@@ -154,9 +117,6 @@
     ],
     "com.google.android.apps.emojiwallpaper": [
         {
-            "appset": [
-                "PixelSpecifics"
-            ],
             "file": "WallpaperEmojiPrebuilt.apk",
             "package_title": "EmojiWallpaper",
             "partition": "product",
@@ -167,9 +127,6 @@
     ],
     "com.google.android.apps.googleassistant": [
         {
-            "appset": [
-                "GoogleSearch"
-            ],
             "file": "Assistant",
             "package_title": "Assistant",
             "partition": "product",
@@ -180,9 +137,6 @@
     ],
     "com.google.android.apps.maps": [
         {
-            "appset": [
-                "GoogleMaps"
-            ],
             "file": "Maps.apk",
             "package_title": "GoogleMaps",
             "partition": "product",
@@ -193,9 +147,6 @@
     ],
     "com.google.android.apps.mapslite": [
         {
-            "appset": [
-                "MapsGo"
-            ],
             "file": "MapsGo",
             "package_title": "MapsGo",
             "partition": "product",
@@ -206,9 +157,6 @@
     ],
     "com.google.android.apps.messaging": [
         {
-            "appset": [
-                "GoogleMessages"
-            ],
             "file": "PrebuiltBugle.apk",
             "package_title": "GoogleMessages",
             "partition": "product",
@@ -219,9 +167,6 @@
     ],
     "com.google.android.apps.navlite": [
         {
-            "appset": [
-                "NavigationGo"
-            ],
             "file": "NavigationGo",
             "package_title": "NavigationGo",
             "partition": "product",
@@ -232,9 +177,6 @@
     ],
     "com.google.android.apps.nbu.files": [
         {
-            "appset": [
-                "GoogleFiles"
-            ],
             "file": "FilesPrebuilt.apk",
             "package_title": "GoogleFiles",
             "partition": "product",
@@ -245,9 +187,6 @@
     ],
     "com.google.android.apps.nexuslauncher": [
         {
-            "appset": [
-                "PixelSpecifics"
-            ],
             "file": "NexusLauncherRelease.apk",
             "package_title": "PixelLauncher",
             "partition": "system_ext",
@@ -258,9 +197,6 @@
     ],
     "com.google.android.apps.photos": [
         {
-            "appset": [
-                "GooglePhotos"
-            ],
             "file": "Photos.apk",
             "package_title": "GooglePhotos",
             "partition": "product",
@@ -271,9 +207,6 @@
     ],
     "com.google.android.apps.photosgo": [
         {
-            "appset": [
-                "GalleryGo"
-            ],
             "file": "GalleryGo",
             "package_title": "GalleryGo",
             "partition": "product",
@@ -284,9 +217,6 @@
     ],
     "com.google.android.apps.recorder": [
         {
-            "appset": [
-                "GoogleRecorder"
-            ],
             "file": "RecorderPrebuilt.apk",
             "package_title": "GoogleRecorder",
             "partition": "product",
@@ -297,10 +227,6 @@
     ],
     "com.google.android.apps.restore": [
         {
-            "appset": [
-                "SetupWizard",
-                "PixelSetupWizard"
-            ],
             "file": "GoogleRestorePrebuilt.apk",
             "package_title": "GoogleRestore",
             "partition": "product",
@@ -311,9 +237,6 @@
     ],
     "com.google.android.apps.searchlite": [
         {
-            "appset": [
-                "GoogleGo"
-            ],
             "file": "GoogleGo",
             "package_title": "GoogleGo",
             "partition": "product",
@@ -324,9 +247,6 @@
     ],
     "com.google.android.apps.tachyon": [
         {
-            "appset": [
-                "GoogleDuo"
-            ],
             "file": "MeetPrebuilt.apk",
             "package_title": "Meet",
             "partition": "product",
@@ -337,9 +257,6 @@
     ],
     "com.google.android.apps.turbo": [
         {
-            "appset": [
-                "DeviceHealthServices"
-            ],
             "file": "TurboPrebuilt.apk",
             "package_title": "DeviceHealthServices",
             "partition": "product",
@@ -350,9 +267,6 @@
     ],
     "com.google.android.apps.wallpaper": [
         {
-            "appset": [
-                "PixelSpecifics"
-            ],
             "file": "WallpaperPickerGoogleRelease.apk",
             "package_title": "GoogleWallpaper",
             "partition": "system_ext",
@@ -363,9 +277,6 @@
     ],
     "com.google.android.apps.weather": [
         {
-            "appset": [
-                "PixelSpecifics"
-            ],
             "file": "WeatherPixelPrebuilt.apk",
             "package_title": "PixelWeather",
             "partition": "product",
@@ -376,9 +287,6 @@
     ],
     "com.google.android.apps.wellbeing": [
         {
-            "appset": [
-                "DigitalWellbeing"
-            ],
             "file": "WellbeingPrebuilt.apk",
             "package_title": "DigitalWellbeing",
             "partition": "product",
@@ -389,9 +297,6 @@
     ],
     "com.google.android.apps.work.clouddpc": [
         {
-            "appset": [
-                "AndroidDevicePolicy"
-            ],
             "file": "DevicePolicyPrebuilt.apk",
             "package_title": "AndroidDevicePolicy",
             "partition": "product",
@@ -402,9 +307,6 @@
     ],
     "com.google.android.apps.work.oobconfig": [
         {
-            "appset": [
-                "DeviceSetup"
-            ],
             "file": "OTAConfigNoZeroTouchPrebuilt.apk",
             "package_title": "DeviceSetup",
             "partition": "product",
@@ -415,9 +317,6 @@
     ],
     "com.google.android.apps.youtube.music": [
         {
-            "appset": [
-                "YouTubeMusic"
-            ],
             "file": "YouTubeMusicPrebuilt.apk",
             "package_title": "YouTubeMusic",
             "partition": "product",
@@ -428,9 +327,6 @@
     ],
     "com.google.android.as": [
         {
-            "appset": [
-                "PixelSpecifics"
-            ],
             "file": "DevicePersonalizationPrebuiltPixel2023.apk",
             "package_title": "DevicePersonalizationServices",
             "partition": "product",
@@ -441,9 +337,6 @@
     ],
     "com.google.android.as.oss": [
         {
-            "appset": [
-                "PixelSpecifics"
-            ],
             "file": "DeviceIntelligenceNetworkPrebuilt.apk",
             "package_title": "PrivateComputeServices",
             "partition": "product",
@@ -454,9 +347,6 @@
     ],
     "com.google.android.calculator": [
         {
-            "appset": [
-                "GoogleCalculator"
-            ],
             "file": "CalculatorGooglePrebuilt.apk",
             "package_title": "GoogleCalculator",
             "partition": "product",
@@ -467,9 +357,6 @@
     ],
     "com.google.android.calendar": [
         {
-            "appset": [
-                "GoogleCalendar"
-            ],
             "file": "CalendarGooglePrebuilt.apk",
             "package_title": "GoogleCalendar",
             "partition": "product",
@@ -480,9 +367,6 @@
     ],
     "com.google.android.contacts": [
         {
-            "appset": [
-                "GoogleContacts"
-            ],
             "file": "GoogleContacts.apk",
             "package_title": "GoogleContacts",
             "partition": "product",
@@ -493,9 +377,6 @@
     ],
     "com.google.android.deskclock": [
         {
-            "appset": [
-                "GoogleClock"
-            ],
             "file": "PrebuiltDeskClockGoogle.apk",
             "package_title": "GoogleClock",
             "partition": "product",
@@ -506,9 +387,6 @@
     ],
     "com.google.android.dialer": [
         {
-            "appset": [
-                "GoogleDialer"
-            ],
             "file": "GoogleDialer.apk",
             "package_title": "GoogleDialer",
             "partition": "product",
@@ -519,9 +397,6 @@
     ],
     "com.google.android.documentsui": [
         {
-            "appset": [
-                "GoogleFiles"
-            ],
             "file": "DocumentsUIGoogle",
             "package_title": "DocumentsUIGoogle",
             "partition": "product",
@@ -532,9 +407,6 @@
     ],
     "com.google.android.feedback": [
         {
-            "appset": [
-                "GoogleFeedback"
-            ],
             "file": "GoogleFeedback.apk",
             "package_title": "GoogleFeedback",
             "partition": "system_ext",
@@ -545,9 +417,6 @@
     ],
     "com.google.android.gm": [
         {
-            "appset": [
-                "Gmail"
-            ],
             "file": "PrebuiltGmail.apk",
             "package_title": "Gmail",
             "partition": "product",
@@ -558,9 +427,6 @@
     ],
     "com.google.android.gm.lite": [
         {
-            "appset": [
-                "GmailGo"
-            ],
             "file": "GmailGo",
             "package_title": "GmailGo",
             "partition": "product",
@@ -571,10 +437,6 @@
     ],
     "com.google.android.gms": [
         {
-            "appset": [
-                "Core",
-                "CoreGo"
-            ],
             "file": "PrebuiltGmsCoreSc.apk",
             "package_title": "GmsCore",
             "partition": "product",
@@ -585,9 +447,6 @@
     ],
     "com.google.android.gms.location.history": [
         {
-            "appset": [
-                "GoogleLocationHistory"
-            ],
             "file": "LocationHistoryPrebuilt.apk",
             "package_title": "GoogleLocationHistory",
             "partition": "product",
@@ -598,9 +457,6 @@
     ],
     "com.google.android.googlequicksearchbox": [
         {
-            "appset": [
-                "GoogleSearch"
-            ],
             "file": "Velvet.apk",
             "package_title": "Velvet",
             "partition": "product",
@@ -611,10 +467,6 @@
     ],
     "com.google.android.gsf": [
         {
-            "appset": [
-                "Core",
-                "CoreGo"
-            ],
             "file": "GoogleServicesFramework.apk",
             "package_title": "GoogleServicesFramework",
             "partition": "system_ext",
@@ -625,9 +477,6 @@
     ],
     "com.google.android.ims": [
         {
-            "appset": [
-                "CarrierServices"
-            ],
             "file": "CarrierServices",
             "package_title": "CarrierServices",
             "partition": "product",
@@ -638,9 +487,6 @@
     ],
     "com.google.android.inputmethod.latin": [
         {
-            "appset": [
-                "GBoard"
-            ],
             "file": "LatinIMEGooglePrebuilt.apk",
             "package_title": "GBoard",
             "partition": "product",
@@ -651,9 +497,6 @@
     ],
     "com.google.android.keep": [
         {
-            "appset": [
-                "GoogleKeep"
-            ],
             "file": "GoogleKeep",
             "package_title": "GoogleKeep",
             "partition": "product",
@@ -664,9 +507,6 @@
     ],
     "com.google.android.markup": [
         {
-            "appset": [
-                "MarkupGoogle"
-            ],
             "file": "MarkupGoogle.apk",
             "package_title": "MarkupGoogle",
             "partition": "product",
@@ -677,9 +517,6 @@
     ],
     "com.google.android.marvin.talkback": [
         {
-            "appset": [
-                "GoogleTalkback"
-            ],
             "file": "talkback.apk",
             "package_title": "GoogleTalkback",
             "partition": "product",
@@ -690,10 +527,6 @@
     ],
     "com.google.android.onetimeinitializer": [
         {
-            "appset": [
-                "SetupWizard",
-                "PixelSetupWizard"
-            ],
             "file": "GoogleOneTimeInitializer.apk",
             "package_title": "GoogleOneTimeInitializer",
             "partition": "product",
@@ -704,9 +537,6 @@
     ],
     "com.google.android.partnersetup": [
         {
-            "appset": [
-                "GooglePartnerSetup"
-            ],
             "file": "PartnerSetupPrebuilt.apk",
             "package_title": "GooglePartnerSetup",
             "partition": "product",
@@ -717,9 +547,6 @@
     ],
     "com.google.android.pixel.setupwizard": [
         {
-            "appset": [
-                "PixelSetupWizard"
-            ],
             "file": "PixelSetupWizard.apk",
             "package_title": "PixelSetupWizard",
             "partition": "system_ext",
@@ -730,9 +557,6 @@
     ],
     "com.google.android.play.games": [
         {
-            "appset": [
-                "PlayGames"
-            ],
             "file": "PlayGames",
             "package_title": "PlayGames",
             "partition": "product",
@@ -743,9 +567,6 @@
     ],
     "com.google.android.projection.gearhead": [
         {
-            "appset": [
-                "AndroidAuto"
-            ],
             "file": "AndroidAutoStubPrebuilt.apk",
             "package_title": "AndroidAuto",
             "partition": "product",
@@ -756,9 +577,6 @@
     ],
     "com.google.android.settings.intelligence": [
         {
-            "appset": [
-                "PixelSpecifics"
-            ],
             "file": "SettingsIntelligenceGooglePrebuilt.apk",
             "package_title": "SettingsServices",
             "partition": "product",
@@ -769,10 +587,6 @@
     ],
     "com.google.android.setupwizard": [
         {
-            "appset": [
-                "SetupWizard",
-                "PixelSetupWizard"
-            ],
             "file": "SetupWizardPrebuilt.apk",
             "package_title": "SetupWizard",
             "partition": "product",
@@ -783,9 +597,6 @@
     ],
     "com.google.android.soundpicker": [
         {
-            "appset": [
-                "GoogleSounds"
-            ],
             "file": "SoundPickerPrebuilt.apk",
             "package_title": "GoogleSounds",
             "partition": "product",
@@ -796,9 +607,6 @@
     ],
     "com.google.android.storagemanager": [
         {
-            "appset": [
-                "GoogleFiles"
-            ],
             "file": "StorageManagerGoogle.apk",
             "package_title": "StorageManager",
             "partition": "system_ext",
@@ -809,10 +617,6 @@
     ],
     "com.google.android.syncadapters.calendar": [
         {
-            "appset": [
-                "Core",
-                "CoreGo"
-            ],
             "file": "GoogleCalendarSyncAdapter",
             "package_title": "GoogleCalendarSyncAdapter",
             "partition": "product",
@@ -823,10 +627,6 @@
     ],
     "com.google.android.syncadapters.contacts": [
         {
-            "appset": [
-                "Core",
-                "CoreGo"
-            ],
             "file": "GoogleContactsSyncAdapter",
             "package_title": "GoogleContactsSyncAdapter",
             "partition": "product",
@@ -837,9 +637,6 @@
     ],
     "com.google.android.trichromelibrary": [
         {
-            "appset": [
-                "GoogleChrome"
-            ],
             "file": "TrichromeLibrary-Stub.apk",
             "package_title": "TrichromeLibrary",
             "partition": "product",
@@ -848,9 +645,6 @@
             "type": "app"
         },
         {
-            "appset": [
-                "GoogleChrome"
-            ],
             "file": "TrichromeLibrary.apk.gz",
             "package_title": "TrichromeLibrary",
             "partition": "product",
@@ -861,9 +655,6 @@
     ],
     "com.google.android.tts": [
         {
-            "appset": [
-                "GoogleTTS"
-            ],
             "file": "GoogleTTS.apk",
             "package_title": "GoogleTTS",
             "partition": "product",
@@ -874,9 +665,6 @@
     ],
     "com.google.android.wallpaper.effects": [
         {
-            "appset": [
-                "PixelSpecifics"
-            ],
             "file": "WallpaperEffect.apk",
             "package_title": "CinematicEffect",
             "partition": "product",
@@ -887,9 +675,6 @@
     ],
     "com.google.android.webview": [
         {
-            "appset": [
-                "GoogleChrome"
-            ],
             "file": "WebViewGoogle-Stub.apk",
             "package_title": "WebViewGoogle",
             "partition": "product",
@@ -898,9 +683,6 @@
             "type": "app"
         },
         {
-            "appset": [
-                "GoogleChrome"
-            ],
             "file": "WebViewGoogle.apk.gz",
             "package_title": "WebViewGoogle",
             "partition": "product",
@@ -911,9 +693,6 @@
     ],
     "com.google.android.youtube": [
         {
-            "appset": [
-                "YouTube"
-            ],
             "file": "YouTube.apk",
             "package_title": "YouTube",
             "partition": "product",
