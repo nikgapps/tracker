@@ -1,0 +1,164 @@
+{
+    "AndroidAuto": [
+        "AndroidAuto"
+    ],
+    "AndroidDevicePolicy": [
+        "AndroidDevicePolicy"
+    ],
+    "AssistantGo": [
+        "AssistantGo"
+    ],
+    "Books": [
+        "Books"
+    ],
+    "CarrierServices": [
+        "CarrierServices"
+    ],
+    "Core": [
+        "ExtraFiles",
+        "GooglePlayStore",
+        "GoogleServicesFramework",
+        "GoogleContactsSyncAdapter",
+        "GoogleCalendarSyncAdapter",
+        "GmsCore"
+    ],
+    "CoreGo": [
+        "ExtraFilesGo",
+        "GmsCore",
+        "GooglePlayStore",
+        "GoogleServicesFramework",
+        "GoogleContactsSyncAdapter",
+        "GoogleCalendarSyncAdapter"
+    ],
+    "DeviceHealthServices": [
+        "DeviceHealthServices"
+    ],
+    "DeviceSetup": [
+        "DeviceSetup"
+    ],
+    "DigitalWellbeing": [
+        "DigitalWellbeing"
+    ],
+    "Drive": [
+        "Drive"
+    ],
+    "GBoard": [
+        "GBoard"
+    ],
+    "GalleryGo": [
+        "GalleryGo"
+    ],
+    "Gmail": [
+        "Gmail"
+    ],
+    "GmailGo": [
+        "GmailGo"
+    ],
+    "GoogleCalculator": [
+        "GoogleCalculator"
+    ],
+    "GoogleCalendar": [
+        "GoogleCalendar"
+    ],
+    "GoogleChrome": [
+        "GoogleChrome",
+        "WebViewGoogle",
+        "TrichromeLibrary"
+    ],
+    "GoogleClock": [
+        "GoogleClock"
+    ],
+    "GoogleContacts": [
+        "GoogleContacts"
+    ],
+    "GoogleDialer": [
+        "GoogleDialer"
+    ],
+    "GoogleDocs": [
+        "GoogleDocs"
+    ],
+    "GoogleDuo": [
+        "GoogleDuo"
+    ],
+    "GoogleFeedback": [
+        "GoogleFeedback"
+    ],
+    "GoogleFiles": [
+        "GoogleFiles",
+        "StorageManager"
+    ],
+    "GoogleGo": [
+        "GoogleGo"
+    ],
+    "GoogleKeep": [
+        "GoogleKeep"
+    ],
+    "GoogleMaps": [
+        "GoogleMaps"
+    ],
+    "GoogleMessages": [
+        "GoogleMessages"
+    ],
+    "GooglePartnerSetup": [
+        "GooglePartnerSetup"
+    ],
+    "GooglePhotos": [
+        "GooglePhotos"
+    ],
+    "GoogleRecorder": [
+        "GoogleRecorder"
+    ],
+    "GoogleSearch": [
+        "Velvet",
+        "Assistant"
+    ],
+    "GoogleSheets": [
+        "GoogleSheets"
+    ],
+    "GoogleSlides": [
+        "GoogleSlides"
+    ],
+    "GoogleSounds": [
+        "GoogleSounds"
+    ],
+    "GoogleTTS": [
+        "GoogleTTS"
+    ],
+    "GoogleTalkback": [
+        "GoogleTalkback"
+    ],
+    "MapsGo": [
+        "MapsGo"
+    ],
+    "MarkupGoogle": [
+        "MarkupGoogle"
+    ],
+    "NavigationGo": [
+        "NavigationGo"
+    ],
+    "PixelSetupWizard": [
+        "SetupWizard",
+        "GoogleRestore",
+        "GoogleOneTimeInitializer",
+        "PixelSetupWizard"
+    ],
+    "PixelSpecifics": [
+        "PixelLauncher",
+        "DevicePersonalizationServices",
+        "GoogleWallpaper"
+    ],
+    "PlayGames": [
+        "PlayGames"
+    ],
+    "SetupWizard": [
+        "SetupWizard",
+        "GoogleRestore",
+        "GoogleOneTimeInitializer"
+    ],
+    "YouTube": [
+        "YouTube"
+    ],
+    "YouTubeMusic": [
+        "YouTubeMusic"
+    ]
+}
