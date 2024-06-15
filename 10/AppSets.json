@@ -140,7 +140,10 @@
         "SetupWizard",
         "GoogleRestore",
         "GoogleOneTimeInitializer",
-        "PixelSetupWizard"
+        "PixelSetupWizardOverlay",
+        "PixelSetupWizardAodOverlay",
+        "PixelSetupWizard",
+        "AndroidMigratePrebuilt"
     ],
     "PixelSpecifics": [
         "PixelLauncher",
@@ -153,7 +156,8 @@
     "SetupWizard": [
         "SetupWizard",
         "GoogleRestore",
-        "GoogleOneTimeInitializer"
+        "GoogleOneTimeInitializer",
+        "AndroidMigratePrebuilt"
     ],
     "YouTube": [
         "YouTube"
