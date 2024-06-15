@@ -15,6 +15,14 @@
             "type": "app"
         }
     ],
+    "AndroidMigratePrebuilt": [
+        {
+            "package_name": "com.google.android.apps.pixelmigrate",
+            "partition": "product",
+            "title": "AndroidMigratePrebuilt",
+            "type": "priv-app"
+        }
+    ],
     "Assistant": [
         {
             "package_name": "com.google.android.apps.googleassistant",
@@ -117,6 +125,14 @@
             "partition": "product",
             "title": "LatinIMEGooglePrebuilt",
             "type": "app"
+        }
+    ],
+    "GCS": [
+        {
+            "package_name": "com.google.android.apps.gcs",
+            "partition": "product",
+            "title": "GCS",
+            "type": "priv-app"
         }
     ],
     "GalleryGo": [
@@ -445,6 +461,22 @@
             "type": "priv-app"
         }
     ],
+    "PixelSetupWizardAodOverlay": [
+        {
+            "package_name": "com.google.android.pixel.setupwizard.overlay.aod",
+            "partition": "product",
+            "title": "PixelSetupWizardAodOverlay",
+            "type": "app"
+        }
+    ],
+    "PixelSetupWizardOverlay": [
+        {
+            "package_name": "com.google.android.pixel.setupwizard.overlay",
+            "partition": "product",
+            "title": "PixelSetupWizardOverlay",
+            "type": "app"
+        }
+    ],
     "PixelThemes": [
         {
             "package_name": "com.google.android.apps.customization.pixel",
@@ -534,6 +566,14 @@
             "package_name": "com.google.android.trichromelibrary",
             "partition": "product",
             "title": "TrichromeLibrary",
+            "type": "app"
+        }
+    ],
+    "Tycho": [
+        {
+            "package_name": "com.google.android.apps.tycho",
+            "partition": "product",
+            "title": "Tycho",
             "type": "app"
         }
     ],
