@@ -218,11 +218,11 @@
     "com.google.android.calculator": {
         "android_version": 6.0,
         "app": "google-calculator",
-        "app_version": "8.6 (612662282)",
+        "app_version": "8.6.1 (625857114)",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-calculator/google-calculator-8-6-612662282-release/google-calculator-8-6-612662282-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-calculator/google-calculator-8-6-1-625857114-release/google-calculator-8-6-1-625857114-android-apk-download/",
         "signature": null,
-        "upload_date": "03/6/2024 15:58 UTC"
+        "upload_date": "06/25/2024 15:29 UTC"
     },
     "com.google.android.calendar": {
         "android_version": 8.0,
