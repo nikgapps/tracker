@@ -20,11 +20,11 @@
     "com.google.android.apps.books": {
         "android_version": 5.0,
         "app": "google-play-books",
-        "app_version": "2024.5.3.1 (207956)",
+        "app_version": "2024.5.3.3 (207966)",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-play-books/google-play-books-2024-5-3-1-207956-release/google-play-books-audiobooks-2024-5-3-1-207956-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-play-books/google-play-books-2024-5-3-3-207966-release/google-play-books-audiobooks-2024-5-3-3-207966-android-apk-download/",
         "signature": null,
-        "upload_date": "05/13/2024 20:57 UTC"
+        "upload_date": "06/19/2024 01:37 UTC"
     },
     "com.google.android.apps.customization.pixel": {
         "android_version": 13.0,
@@ -47,20 +47,20 @@
     "com.google.android.apps.docs.editors.docs": {
         "android_version": 8.0,
         "app": "docs",
-        "app_version": "1.24.252.00.90",
+        "app_version": "1.24.172.02.90",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/docs/docs-1-24-252-00-release/google-docs-1-24-252-00-90-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/docs/docs-1-24-172-02-release/google-docs-1-24-172-02-90-android-apk-download/",
         "signature": null,
-        "upload_date": "06/25/2024 05:48 UTC"
+        "upload_date": "05/7/2024 16:40 UTC"
     },
     "com.google.android.apps.docs.editors.sheets": {
         "android_version": 8.0,
         "app": "sheets",
-        "app_version": "1.24.242.01.90",
+        "app_version": "1.24.172.01.90",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/sheets/sheets-1-24-242-01-release/google-sheets-1-24-242-01-90-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/sheets/sheets-1-24-172-01-release/google-sheets-1-24-172-01-90-android-apk-download/",
         "signature": null,
-        "upload_date": "06/24/2024 21:58 UTC"
+        "upload_date": "05/6/2024 21:32 UTC"
     },
     "com.google.android.apps.docs.editors.slides": {
         "android_version": 8.0,
