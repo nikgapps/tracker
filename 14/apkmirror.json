@@ -398,11 +398,11 @@
     "com.google.android.setupwizard": {
         "android_version": 10.0,
         "app": "setup-wizard",
-        "app_version": "234.626315587",
+        "app_version": "234.632092935",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/setup-wizard/setup-wizard-234-626315587-release/android-setup-234-626315587-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/setup-wizard/setup-wizard-234-632092935-release/android-setup-234-632092935-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "05/16/2024 06:07 UTC"
+        "upload_date": "06/20/2024 06:41 UTC"
     },
     "com.google.android.soundpicker": {
         "android_version": 12.0,
