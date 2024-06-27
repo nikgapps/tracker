@@ -281,11 +281,11 @@
     "com.google.android.gms": {
         "android_version": 6.0,
         "app": "google-play-services",
-        "app_version": "24.23.34 (040400-645140581)",
+        "app_version": "24.23.35 (040400-646585959)",
         "arch": "arm64-v8a + armeabi-v7a",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-24-23-34-release/google-play-services-24-23-34-040400-645140581-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-24-23-35-release/google-play-services-24-23-35-040400-646585959-2-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "06/24/2024 21:37 UTC"
+        "upload_date": "06/26/2024 15:54 UTC"
     },
     "com.google.android.gms.location.history": {
         "android_version": 9.0,
