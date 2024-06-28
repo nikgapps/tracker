@@ -324,13 +324,13 @@
         "upload_date": "06/13/2024 14:54 UTC"
     },
     "com.google.android.inputmethod.latin": {
-        "android_version": 6.0,
+        "android_version": 8.0,
         "app": "gboard",
-        "app_version": "14.2.09.629370537-release-arm64-v8a",
+        "app_version": "14.3.06.637860732-release-arm64-v8a",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/gboard/gboard-14-2-09-629370537-release/gboard-the-google-keyboard-14-2-09-629370537-release-arm64-v8a-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/gboard/gboard-14-3-06-637860732-release/gboard-the-google-keyboard-14-3-06-637860732-release-arm64-v8a-2-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "06/11/2024 14:48 UTC"
+        "upload_date": "06/27/2024 19:11 UTC"
     },
     "com.google.android.keep": {
         "android_version": 8.0,
