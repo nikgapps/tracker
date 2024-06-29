@@ -146,11 +146,11 @@
     "com.google.android.apps.tachyon": {
         "android_version": 6.0,
         "app": "duo-by-google",
-        "app_version": "251.0.645915843.duo.android_20240623.14_p0",
+        "app_version": "250.0.647096512.duo.android_20240616.14_p5",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/duo-by-google/duo-by-google-251-0-645915843-duo-android_20240623-14_p0-release/google-meet-formerly-google-duo-251-0-645915843-duo-android_20240623-14_p0-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/duo-by-google/duo-by-google-250-0-647096512-duo-android_20240616-14_p5-release/google-meet-formerly-google-duo-250-0-647096512-duo-android_20240616-14_p5-android-apk-download/",
         "signature": null,
-        "upload_date": "06/27/2024 22:26 UTC"
+        "upload_date": "06/28/2024 18:53 UTC"
     },
     "com.google.android.apps.turbo": {
         "android_version": 12.0,
