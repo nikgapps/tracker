@@ -380,11 +380,11 @@
     "com.google.android.projection.gearhead": {
         "android_version": 8.0,
         "app": "android-auto",
-        "app_version": "12.1.642204-release",
+        "app_version": "12.3.642604-release",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-12-1-6422-release/android-auto-12-1-642204-release-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-12-3-6426-release/android-auto-12-3-642604-release-android-apk-download/",
         "signature": "9ca91f9e704d630ef67a23f52bf1577a92b9ca5d",
-        "upload_date": "06/1/2024 03:23 UTC"
+        "upload_date": "06/29/2024 04:41 UTC"
     },
     "com.google.android.settings.intelligence": {
         "android_version": 9.0,
