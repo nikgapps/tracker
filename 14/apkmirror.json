@@ -17,6 +17,15 @@
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
         "upload_date": "07/10/2024 22:37 UTC"
     },
+    "com.google.android.apps.assistant": {
+        "android_version": 8.0,
+        "app": "google-assistant-go",
+        "app_version": "2.13.0.439234666.arm64-v8a.jio_release",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-assistant-go/google-assistant-go-2-13-0-release/google-assistant-go-2-13-0-439234666-arm64-v8a-jio_release-android-apk-download/",
+        "signature": null,
+        "upload_date": "07/23/2022 15:56 UTC"
+    },
     "com.google.android.apps.books": {
         "android_version": 5.0,
         "app": "google-play-books",
