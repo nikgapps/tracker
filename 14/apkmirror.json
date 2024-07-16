@@ -125,6 +125,15 @@
         "signature": null,
         "upload_date": "07/15/2024 18:44 UTC"
     },
+    "com.google.android.apps.navlite": {
+        "android_version": 4.4,
+        "app": "navigation-for-google-maps-go",
+        "app_version": "10.74.3",
+        "arch": "arm64-v8a + armeabi-v7a",
+        "link": "https://www.apkmirror.com/apk/google-inc/navigation-for-google-maps-go/navigation-for-google-maps-go-10-74-3-release/navigation-for-google-maps-go-10-74-3-android-apk-download/",
+        "signature": null,
+        "upload_date": "10/14/2021 18:01 UTC"
+    },
     "com.google.android.apps.nbu.files": {
         "android_version": 5.0,
         "app": "files-go",
