@@ -350,6 +350,15 @@
         "signature": null,
         "upload_date": "07/15/2024 18:41 UTC"
     },
+    "com.google.android.markup": {
+        "android_version": 11.0,
+        "app": "markup",
+        "app_version": "1.0",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/markup/markup-1-0-release/markup-1-0-5-android-apk-download/",
+        "signature": "1f04c0283a67c40f86339e574167a339fdbd8aa3",
+        "upload_date": "12/17/2021 19:34 UTC"
+    },
     "com.google.android.marvin.talkback": {
         "android_version": 8.0,
         "app": "android-accessibility-suite",
