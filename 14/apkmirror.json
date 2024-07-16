@@ -341,6 +341,15 @@
         "signature": null,
         "upload_date": "07/14/2024 09:23 UTC"
     },
+    "com.google.android.gm.lite": {
+        "android_version": 10.0,
+        "app": "gmail-go",
+        "app_version": "2022.10.10.480125827.Release",
+        "arch": "universal",
+        "link": "https://www.apkmirror.com/apk/google-inc/gmail-go/gmail-go-2022-10-10-480125827-release-release/gmail-go-2022-10-10-480125827-release-android-apk-download/",
+        "signature": null,
+        "upload_date": "01/2/2023 21:26 UTC"
+    },
     "com.google.android.gms": {
         "android_version": 6.0,
         "app": "google-play-services",
