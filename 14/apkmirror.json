@@ -335,11 +335,11 @@
     "com.google.android.keep": {
         "android_version": 8.0,
         "app": "keep",
-        "app_version": "5.24.262.01.90",
+        "app_version": "5.24.282.00.90",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/keep/keep-5-24-262-01-release/google-keep-notes-and-lists-5-24-262-01-90-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/keep/keep-5-24-282-00-release/google-keep-notes-and-lists-5-24-282-00-90-android-apk-download/",
         "signature": null,
-        "upload_date": "07/8/2024 22:09 UTC"
+        "upload_date": "07/15/2024 18:41 UTC"
     },
     "com.google.android.marvin.talkback": {
         "android_version": 8.0,
