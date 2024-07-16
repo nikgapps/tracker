@@ -254,11 +254,11 @@
     "com.google.android.dialer": {
         "android_version": 10.0,
         "app": "google-phone",
-        "app_version": "135.0.645900888",
+        "app_version": "136.0.650053908",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-135-0-645900888-release/phone-by-google-135-0-645900888-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-136-0-650053908-release/phone-by-google-136-0-650053908-android-apk-download/",
         "signature": null,
-        "upload_date": "07/2/2024 21:22 UTC"
+        "upload_date": "07/15/2024 19:46 UTC"
     },
     "com.google.android.feedback": {
         "android_version": 6.0,
