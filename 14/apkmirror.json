@@ -161,6 +161,15 @@
         "signature": "24bb24c05e47e0aefa68a58a766179d9b613a600",
         "upload_date": "07/10/2024 02:30 UTC"
     },
+    "com.google.android.apps.photosgo": {
+        "android_version": 8.0,
+        "app": "gallery-go-by-google-photos",
+        "app_version": "1.9.1.597540607 release",
+        "arch": "arm64-v8a",
+        "link": "https://www.apkmirror.com/apk/google-inc/gallery-go-by-google-photos/gallery-go-by-google-photos-1-9-1-597540607-release-release/google-gallery-1-9-1-597540607-release-3-android-apk-download/",
+        "signature": null,
+        "upload_date": "01/17/2024 18:38 UTC"
+    },
     "com.google.android.apps.recorder": {
         "android_version": 10.0,
         "app": "google-recorder",
