@@ -422,6 +422,15 @@
         "signature": null,
         "upload_date": "06/8/2023 05:38 UTC"
     },
+    "com.google.android.syncadapters.calendar": {
+        "android_version": 11.0,
+        "app": "google-calendar-sync",
+        "app_version": "2023.18.3-530889391-release",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-calendar-sync/google-calendar-sync-2023-18-3-530889391-release-release/google-calendar-sync-2023-18-3-530889391-release-android-apk-download/",
+        "signature": "38918a453d07199354f8b19af05ec6562ced5788",
+        "upload_date": "06/25/2024 18:05 UTC"
+    },
     "com.google.android.syncadapters.contacts": {
         "android_version": 12.0,
         "app": "google-contacts-sync",
