@@ -107,6 +107,15 @@
         "signature": null,
         "upload_date": "07/12/2024 10:01 UTC"
     },
+    "com.google.android.apps.mapslite": {
+        "android_version": 6.0,
+        "app": "google-maps-go-directions-traffic-transit",
+        "app_version": "161.1",
+        "arch": "noarch",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-maps-go-directions-traffic-transit/google-maps-go-directions-traffic-transit-161-1-release/google-maps-go-161-1-android-apk-download/",
+        "signature": "c6bf74b328a4afc0cca4af9bdbcc467d7c25323e",
+        "upload_date": "10/20/2023 14:45 UTC"
+    },
     "com.google.android.apps.messaging": {
         "android_version": 8.0,
         "app": "messenger-google-inc",
