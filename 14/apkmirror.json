@@ -56,11 +56,11 @@
     "com.google.android.apps.docs.editors.sheets": {
         "android_version": 8.0,
         "app": "sheets",
-        "app_version": "1.24.252.01.90",
+        "app_version": "1.24.262.03.90",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/sheets/sheets-1-24-252-01-release/google-sheets-1-24-252-01-90-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/sheets/sheets-1-24-262-03-release/google-sheets-1-24-262-03-90-android-apk-download/",
         "signature": null,
-        "upload_date": "07/8/2024 18:25 UTC"
+        "upload_date": "07/15/2024 17:41 UTC"
     },
     "com.google.android.apps.docs.editors.slides": {
         "android_version": 8.0,
