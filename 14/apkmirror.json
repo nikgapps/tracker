@@ -29,11 +29,11 @@
     "com.google.android.apps.books": {
         "android_version": 5.0,
         "app": "google-play-books",
-        "app_version": "2024.5.31.1 (214011)",
+        "app_version": "2024.7.12.0 (222921)",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-play-books/google-play-books-2024-5-31-1-214011-release/google-play-books-audiobooks-2024-5-31-1-214011-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-play-books/google-play-books-2024-7-12-0-222921-release/google-play-books-audiobooks-2024-7-12-0-222921-android-apk-download/",
         "signature": null,
-        "upload_date": "07/3/2024 18:08 UTC"
+        "upload_date": "07/22/2024 18:22 UTC"
     },
     "com.google.android.apps.customization.pixel": {
         "android_version": 13.0,
