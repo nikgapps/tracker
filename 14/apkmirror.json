@@ -254,11 +254,11 @@
     "com.google.android.apps.work.oobconfig": {
         "android_version": 8.0,
         "app": "device-setup",
-        "app_version": "1.0.632586743",
+        "app_version": "1.0.637950875",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/device-setup/device-setup-1-0-632586743-release/device-setup-1-0-632586743-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/device-setup/device-setup-1-0-637950875-release/device-setup-1-0-637950875-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "06/19/2024 01:00 UTC"
+        "upload_date": "07/22/2024 22:37 UTC"
     },
     "com.google.android.apps.youtube.music": {
         "android_version": 8.0,
