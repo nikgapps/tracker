@@ -263,11 +263,11 @@
     "com.google.android.apps.youtube.music": {
         "android_version": 8.0,
         "app": "youtube-music",
-        "app_version": "7.10.51",
+        "app_version": "7.10.52",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-10-51-release/youtube-music-7-10-51-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-10-52-release/youtube-music-7-10-52-android-apk-download/",
         "signature": null,
-        "upload_date": "07/16/2024 17:56 UTC"
+        "upload_date": "07/22/2024 21:42 UTC"
     },
     "com.google.android.as": {
         "android_version": 14.0,
