@@ -137,11 +137,11 @@
     "com.google.android.apps.nbu.files": {
         "android_version": 5.0,
         "app": "files-go",
-        "app_version": "1.4237.652465286.1-release",
+        "app_version": "1.4076.650871899.3-release",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/files-go/files-go-1-4237-652465286-1-release-release/files-by-google-1-4237-652465286-1-release-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/files-go/files-go-1-4076-650871899-3-release-release/files-by-google-1-4076-650871899-3-release-android-apk-download/",
         "signature": "9f591218c092ce2ae72aeb71c2ea00a7cbf20030",
-        "upload_date": "07/16/2024 17:56 UTC"
+        "upload_date": "07/24/2024 07:43 UTC"
     },
     "com.google.android.apps.nexuslauncher": {
         "android_version": 14.0,
