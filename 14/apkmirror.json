@@ -101,11 +101,11 @@
     "com.google.android.apps.maps": {
         "android_version": 8.0,
         "app": "maps",
-        "app_version": "11.137.0104",
+        "app_version": "11.138.0202",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/maps/maps-11-137-0104-release/google-maps-11-137-0104-3-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/maps/maps-11-138-0202-release/google-maps-11-138-0202-2-android-apk-download/",
         "signature": null,
-        "upload_date": "07/18/2024 07:12 UTC"
+        "upload_date": "07/24/2024 14:32 UTC"
     },
     "com.google.android.apps.mapslite": {
         "android_version": 6.0,
