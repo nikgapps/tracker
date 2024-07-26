@@ -299,11 +299,11 @@
     "com.google.android.calendar": {
         "android_version": 8.0,
         "app": "calendar",
-        "app_version": "2024.28.0-652297689-release",
+        "app_version": "2024.29.0-654551660-release",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/calendar/calendar-2024-28-0-652297689-release-release/google-calendar-2024-28-0-652297689-release-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/calendar/calendar-2024-29-0-654551660-release-release/google-calendar-2024-29-0-654551660-release-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "07/18/2024 10:29 UTC"
+        "upload_date": "07/25/2024 13:30 UTC"
     },
     "com.google.android.contacts": {
         "android_version": 8.0,
