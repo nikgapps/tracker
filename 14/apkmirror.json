@@ -569,10 +569,10 @@
     "com.google.android.youtube": {
         "android_version": 8.0,
         "app": "youtube",
-        "app_version": "19.28.42",
+        "app_version": "19.29.40",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-28-42-release/youtube-19-28-42-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-29-40-release/youtube-19-29-40-android-apk-download/",
         "signature": "24bb24c05e47e0aefa68a58a766179d9b613a600",
-        "upload_date": "07/26/2024 19:12 UTC"
+        "upload_date": "07/27/2024 08:23 UTC"
     }
 }
