@@ -236,11 +236,11 @@
     "com.google.android.apps.wellbeing": {
         "android_version": 9.0,
         "app": "digital-wellbeing",
-        "app_version": "1.13.647113041 (629607)",
+        "app_version": "1.14.649750418 (636157)",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/digital-wellbeing/digital-wellbeing-1-13-647113041-629607-release/digital-wellbeing-1-13-647113041-629607-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/digital-wellbeing/digital-wellbeing-1-14-649750418-636157-release/digital-wellbeing-1-14-649750418-636157-2-android-apk-download/",
         "signature": null,
-        "upload_date": "07/8/2024 13:53 UTC"
+        "upload_date": "07/29/2024 14:09 UTC"
     },
     "com.google.android.apps.work.clouddpc": {
         "android_version": 5.0,
