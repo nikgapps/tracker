@@ -155,11 +155,11 @@
     "com.google.android.apps.photos": {
         "android_version": 6.0,
         "app": "photos",
-        "app_version": "6.92.0.657277585",
+        "app_version": "6.93.0.659607037",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/photos/photos-6-92-0-657277585-release/google-photos-6-92-0-657277585-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/photos/photos-6-93-0-659607037-release/google-photos-6-93-0-659607037-2-android-apk-download/",
         "signature": "24bb24c05e47e0aefa68a58a766179d9b613a600",
-        "upload_date": "07/31/2024 01:10 UTC"
+        "upload_date": "08/7/2024 00:53 UTC"
     },
     "com.google.android.apps.photosgo": {
         "android_version": 8.0,
