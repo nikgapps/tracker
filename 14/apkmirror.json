@@ -227,11 +227,11 @@
     "com.google.android.apps.weather": {
         "android_version": 14.0,
         "app": "weather-14",
-        "app_version": "1.0.20231020.599433204",
+        "app_version": "1.0.20240318.637962058",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/weather-14/weather-14-1-0-20231020-599433204-release/weather-1-0-20231020-599433204-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/weather-14/weather-14-1-0-20240318-637962058-release/weather-1-0-20240318-637962058-android-apk-download/",
         "signature": null,
-        "upload_date": "02/12/2024 18:11 UTC"
+        "upload_date": "08/7/2024 15:23 UTC"
     },
     "com.google.android.apps.wellbeing": {
         "android_version": 9.0,
