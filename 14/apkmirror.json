@@ -182,11 +182,11 @@
     "com.google.android.apps.restore": {
         "android_version": 9.0,
         "app": "android-setup",
-        "app_version": "1.0.644894896",
+        "app_version": "1.0.655144737",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/android-setup/android-setup-1-0-644894896-release/data-restore-tool-1-0-644894896-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/android-setup/android-setup-1-0-655144737-release/data-restore-tool-1-0-655144737-android-apk-download/",
         "signature": null,
-        "upload_date": "07/1/2024 13:22 UTC"
+        "upload_date": "08/12/2024 14:03 UTC"
     },
     "com.google.android.apps.searchlite": {
         "android_version": 9.0,
