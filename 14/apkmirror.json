@@ -551,11 +551,11 @@
     "com.google.android.tts": {
         "android_version": 8.0,
         "app": "google-text-to-speech-engine",
-        "app_version": "googletts.google-speech-apk_20240708.01_p1.658651648",
+        "app_version": "googletts.google-speech-apk_20240805.01_p0.659565918",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20240708-01_p1-658651648-release/speech-recognition-synthesis-googletts-google-speech-apk_20240708-01_p1-658651648-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-text-to-speech-engine/google-text-to-speech-engine-googletts-google-speech-apk_20240805-01_p0-659565918-release/speech-recognition-synthesis-googletts-google-speech-apk_20240805-01_p0-659565918-android-apk-download/",
         "signature": null,
-        "upload_date": "08/21/2024 02:57 UTC"
+        "upload_date": "08/23/2024 00:12 UTC"
     },
     "com.google.android.webview": {
         "android_version": 8.0,
