@@ -461,11 +461,11 @@
     "com.google.android.pixel.setupwizard": {
         "android_version": 13.0,
         "app": "pixel-setup",
-        "app_version": "1.34.652735498",
+        "app_version": "1.35.657935399",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/pixel-setup/pixel-setup-1-34-652735498-release/pixel-setup-1-34-652735498-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/pixel-setup/pixel-setup-1-35-657935399-release/pixel-setup-1-35-657935399-android-apk-download/",
         "signature": null,
-        "upload_date": "08/14/2024 05:13 UTC"
+        "upload_date": "08/23/2024 07:18 UTC"
     },
     "com.google.android.play.games": {
         "android_version": 5.0,
