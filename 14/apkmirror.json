@@ -36,13 +36,13 @@
         "upload_date": "08/21/2024 18:55 UTC"
     },
     "com.google.android.apps.customization.pixel": {
-        "android_version": 13.0,
+        "android_version": 14.0,
         "app": "pixel-themes",
-        "app_version": "13",
+        "app_version": "14",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/pixel-themes/pixel-themes-13-release/pixel-themes-13-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/pixel-themes/pixel-themes-14-release/pixel-themes-14-android-apk-download/",
         "signature": null,
-        "upload_date": "06/19/2022 04:29 UTC"
+        "upload_date": "08/27/2024 06:46 UTC"
     },
     "com.google.android.apps.docs": {
         "android_version": 6.0,
