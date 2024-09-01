@@ -47,11 +47,11 @@
     "com.google.android.apps.docs": {
         "android_version": 6.0,
         "app": "drive",
-        "app_version": "2.24.337.2.all.alldpi",
+        "app_version": "2.24.347.5.all.alldpi",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/drive/drive-2-24-337-2-all-release/google-drive-2-24-337-2-all-alldpi-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/drive/drive-2-24-347-5-all-release/google-drive-2-24-347-5-all-alldpi-2-android-apk-download/",
         "signature": null,
-        "upload_date": "08/27/2024 20:27 UTC"
+        "upload_date": "08/31/2024 06:11 UTC"
     },
     "com.google.android.apps.docs.editors.docs": {
         "android_version": 8.0,
