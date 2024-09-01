@@ -344,11 +344,11 @@
     "com.google.android.gm": {
         "android_version": 6.0,
         "app": "gmail",
-        "app_version": "2024.08.11.666157104.Release",
+        "app_version": "2024.08.25.668103139.Release",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/gmail/gmail-2024-08-11-666157104-release-release/gmail-2024-08-11-666157104-release-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/gmail/gmail-2024-08-25-668103139-release-release/gmail-2024-08-25-668103139-release-android-apk-download/",
         "signature": null,
-        "upload_date": "08/28/2024 05:52 UTC"
+        "upload_date": "08/30/2024 05:17 UTC"
     },
     "com.google.android.gm.lite": {
         "android_version": 10.0,
