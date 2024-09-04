@@ -434,11 +434,11 @@
     "com.google.android.marvin.talkback": {
         "android_version": 8.0,
         "app": "android-accessibility-suite",
-        "app_version": "14.2.0.620729047",
+        "app_version": "15.0.1.668772353",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/android-accessibility-suite/android-accessibility-suite-14-2-0-620729047-release/android-accessibility-suite-14-2-0-620729047-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/android-accessibility-suite/android-accessibility-suite-15-0-1-668772353-release/android-accessibility-suite-15-0-1-668772353-android-apk-download/",
         "signature": "9b424c2d27ad51a42a337e0bb6991c76eca44461",
-        "upload_date": "04/15/2024 17:47 UTC"
+        "upload_date": "09/3/2024 14:27 UTC"
     },
     "com.google.android.onetimeinitializer": {
         "android_version": 14.0,
