@@ -452,11 +452,11 @@
     "com.google.android.partnersetup": {
         "android_version": 11.0,
         "app": "google-partner-setup",
-        "app_version": "100.642292252",
+        "app_version": "100.652836256",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-partner-setup/google-partner-setup-100-642292252-release/google-partner-setup-100-642292252-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-partner-setup/google-partner-setup-100-652836256-release/google-partner-setup-100-652836256-android-apk-download/",
         "signature": null,
-        "upload_date": "07/1/2024 23:09 UTC"
+        "upload_date": "09/3/2024 18:12 UTC"
     },
     "com.google.android.pixel.setupwizard": {
         "android_version": 13.0,
