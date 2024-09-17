@@ -74,11 +74,11 @@
     "com.google.android.apps.docs.editors.slides": {
         "android_version": 8.0,
         "app": "slides",
-        "app_version": "1.24.362.01.90",
+        "app_version": "1.24.372.01.90",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/slides/slides-1-24-362-01-release/google-slides-1-24-362-01-90-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/slides/slides-1-24-372-01-release/google-slides-1-24-372-01-90-2-android-apk-download/",
         "signature": null,
-        "upload_date": "09/9/2024 19:05 UTC"
+        "upload_date": "09/16/2024 20:40 UTC"
     },
     "com.google.android.apps.emojiwallpaper": {
         "android_version": 13.0,
