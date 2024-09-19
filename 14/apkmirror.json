@@ -272,11 +272,11 @@
     "com.google.android.as": {
         "android_version": 14.0,
         "app": "device-personalization-services",
-        "app_version": "U.32.playstore.oemminimal.662953311",
+        "app_version": "U.32.playstore.pixel8.666397491",
         "arch": "arm64-v8a",
-        "link": "https://www.apkmirror.com/apk/google-inc/device-personalization-services/device-personalization-services-u-32-playstore-oemminimal-662953311-release/android-system-intelligence-u-32-playstore-oemminimal-662953311-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/device-personalization-services/device-personalization-services-u-32-playstore-pixel8-666397491-release/android-system-intelligence-u-32-playstore-pixel8-666397491-android-apk-download/",
         "signature": "35bd956867c69778eac76da4c198469b77d2cda1",
-        "upload_date": "09/16/2024 17:19 UTC"
+        "upload_date": "09/18/2024 19:32 UTC"
     },
     "com.google.android.as.oss": {
         "android_version": 13.0,
