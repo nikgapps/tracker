@@ -11,11 +11,11 @@
     "com.android.vending": {
         "android_version": 6.0,
         "app": "google-play-store",
-        "app_version": "42.6.23-23 [0] [PR] 670678617",
+        "app_version": "42.8.21-23 [0] [PR] 675189312",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-42-6-23-release/google-play-store-42-6-23-23-0-pr-670678617-4-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-42-8-21-release/google-play-store-42-8-21-23-0-pr-675189312-4-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "09/13/2024 20:33 UTC"
+        "upload_date": "09/19/2024 15:52 UTC"
     },
     "com.google.android.apps.assistant": {
         "android_version": 8.0,
