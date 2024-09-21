@@ -542,11 +542,11 @@
     "com.google.android.trichromelibrary": {
         "android_version": 10.0,
         "app": "trichrome-library",
-        "app_version": "128.0.6613.146",
+        "app_version": "128.0.6613.127",
         "arch": "arm64-v8a + armeabi-v7a",
-        "link": "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-128-0-6613-146-release/trichrome-library-128-0-6613-146-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/trichrome-library/trichrome-library-128-0-6613-127-release/trichrome-library-128-0-6613-127-5-android-apk-download/",
         "signature": null,
-        "upload_date": "09/11/2024 22:30 UTC"
+        "upload_date": "09/19/2024 16:27 UTC"
     },
     "com.google.android.tts": {
         "android_version": 8.0,
