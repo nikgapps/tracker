@@ -56,11 +56,11 @@
     "com.google.android.apps.docs.editors.docs": {
         "android_version": 8.0,
         "app": "docs",
-        "app_version": "1.24.362.01.90",
+        "app_version": "1.24.372.02.90",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/docs/docs-1-24-362-01-release/google-docs-1-24-362-01-90-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/docs/docs-1-24-372-02-release/google-docs-1-24-372-02-90-2-android-apk-download/",
         "signature": null,
-        "upload_date": "09/17/2024 06:24 UTC"
+        "upload_date": "09/24/2024 19:19 UTC"
     },
     "com.google.android.apps.docs.editors.sheets": {
         "android_version": 8.0,
