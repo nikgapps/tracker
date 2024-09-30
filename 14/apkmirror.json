@@ -524,11 +524,11 @@
     "com.google.android.syncadapters.calendar": {
         "android_version": 11.0,
         "app": "google-calendar-sync",
-        "app_version": "2023.18.3-530889391-release",
+        "app_version": "2024.14.0-622676295-release",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/google-calendar-sync/google-calendar-sync-2023-18-3-530889391-release-release/google-calendar-sync-2023-18-3-530889391-release-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/google-calendar-sync/google-calendar-sync-2024-14-0-622676295-release-release/google-calendar-sync-2024-14-0-622676295-release-android-apk-download/",
         "signature": "38918a453d07199354f8b19af05ec6562ced5788",
-        "upload_date": "06/25/2024 18:05 UTC"
+        "upload_date": "09/30/2024 00:45 UTC"
     },
     "com.google.android.syncadapters.contacts": {
         "android_version": 12.0,
