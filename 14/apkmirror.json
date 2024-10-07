@@ -560,11 +560,11 @@
     "com.google.android.webview": {
         "android_version": 8.0,
         "app": "android-system-webview",
-        "app_version": "128.0.6613.148",
+        "app_version": "129.0.6668.71",
         "arch": "arm64-v8a + armeabi-v7a",
-        "link": "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-128-0-6613-148-release/android-system-webview-128-0-6613-148-4-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/android-system-webview/android-system-webview-129-0-6668-71-release/android-system-webview-129-0-6668-71-2-android-apk-download/",
         "signature": "1f387cb25e0069efca490ade28c060e09d37dd45",
-        "upload_date": "09/26/2024 21:36 UTC"
+        "upload_date": "10/3/2024 22:06 UTC"
     },
     "com.google.android.youtube": {
         "android_version": 8.0,
