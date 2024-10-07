@@ -245,11 +245,11 @@
     "com.google.android.apps.work.clouddpc": {
         "android_version": 5.0,
         "app": "android-device-policy",
-        "app_version": "118.33.1 (10195560)",
+        "app_version": "118.33.2 (10195580)",
         "arch": "noarch",
-        "link": "https://www.apkmirror.com/apk/google-inc/android-device-policy/android-device-policy-118-33-1-10195560-release/android-device-policy-118-33-1-10195560-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/android-device-policy/android-device-policy-118-33-2-10195580-release/android-device-policy-118-33-2-10195580-android-apk-download/",
         "signature": null,
-        "upload_date": "10/2/2024 11:35 UTC"
+        "upload_date": "10/3/2024 10:25 UTC"
     },
     "com.google.android.apps.work.oobconfig": {
         "android_version": 8.0,
