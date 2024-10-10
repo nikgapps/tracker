@@ -198,13 +198,13 @@
         "upload_date": "06/2/2024 01:39 UTC"
     },
     "com.google.android.apps.tachyon": {
-        "android_version": 6.0,
+        "android_version": 8.1,
         "app": "duo-by-google",
-        "app_version": "268.0.682972467.duo.android_20241006.16_p0",
+        "app_version": "268.0.682972467.duo.android_20241006.16_p0.n",
         "arch": "universal",
-        "link": "https://www.apkmirror.com/apk/google-inc/duo-by-google/duo-by-google-268-0-682972467-duo-android_20241006-16_p0-release/google-meet-formerly-google-duo-268-0-682972467-duo-android_20241006-16_p0-2-android-apk-download/",
+        "link": "https://www.apkmirror.com/apk/google-inc/duo-by-google/duo-by-google-268-0-682972467-duo-android_20241006-16_p0-n-release/google-meet-formerly-google-duo-268-0-682972467-duo-android_20241006-16_p0-n-android-apk-download/",
         "signature": null,
-        "upload_date": "10/8/2024 19:51 UTC"
+        "upload_date": "10/9/2024 06:14 UTC"
     },
     "com.google.android.apps.turbo": {
         "android_version": 12.0,
