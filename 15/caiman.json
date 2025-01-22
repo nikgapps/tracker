@@ -231,7 +231,7 @@
             "location": "system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk",
             "package": "com.android.settings",
             "partition": "system_ext",
-            "size": 81702027,
+            "size": 81697588,
             "type": "priv-app",
             "v_code": "15",
             "version": "15",
@@ -246,7 +246,7 @@
             "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
             "package": "com.android.systemui",
             "partition": "system_ext",
-            "size": 38671112,
+            "size": 38670609,
             "type": "priv-app",
             "v_code": "15",
             "version": "15",
@@ -784,7 +784,7 @@
             "location": "system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk",
             "package": "com.google.android.apps.nexuslauncher",
             "partition": "system_ext",
-            "size": 14281636,
+            "size": 14281966,
             "type": "priv-app",
             "v_code": "15",
             "version": "15",
@@ -1699,11 +1699,11 @@
             "location": "product/priv-app/Velvet/Velvet.apk",
             "package": "com.google.android.googlequicksearchbox",
             "partition": "product",
-            "size": 440179566,
+            "size": 415460392,
             "type": "priv-app",
-            "v_code": "1536432964",
-            "version": "15.36.43.29.arm64",
-            "version_code": "301394499"
+            "v_code": "15453964",
+            "version": "15.45.39.sa.arm64",
+            "version_code": "301424307"
         }
     ],
     "com.google.android.googlequicksearchbox.nga_resources": [
