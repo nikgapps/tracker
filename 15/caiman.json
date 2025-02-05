@@ -246,7 +246,7 @@
             "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
             "package": "com.android.systemui",
             "partition": "system_ext",
-            "size": 38670609,
+            "size": 38670565,
             "type": "priv-app",
             "v_code": "15",
             "version": "15",
