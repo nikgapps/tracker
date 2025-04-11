@@ -231,7 +231,7 @@
             "location": "system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk",
             "package": "com.android.settings",
             "partition": "system_ext",
-            "size": 83166221,
+            "size": 83207181,
             "type": "priv-app",
             "v_code": "15",
             "version": "15",
@@ -246,7 +246,7 @@
             "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
             "package": "com.android.systemui",
             "partition": "system_ext",
-            "size": 40330371,
+            "size": 40327375,
             "type": "priv-app",
             "v_code": "15",
             "version": "15",
@@ -1384,11 +1384,11 @@
             "location": "product/priv-app/GoogleDialer/GoogleDialer.apk",
             "package": "com.google.android.dialer",
             "partition": "product",
-            "size": 74326669,
+            "size": 74309328,
             "type": "priv-app",
-            "v_code": "1560705347550",
-            "version": "156.0.705347550",
-            "version_code": "18160028"
+            "v_code": "1600721057090",
+            "version": "160.0.721057090",
+            "version_code": "18288408"
         }
     ],
     "com.google.android.dreamlinerupdater": [
