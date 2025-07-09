@@ -231,7 +231,7 @@
             "location": "system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk",
             "package": "com.android.settings",
             "partition": "system_ext",
-            "size": 87393893,
+            "size": 87459792,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -246,7 +246,7 @@
             "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
             "package": "com.android.systemui",
             "partition": "system_ext",
-            "size": 42411081,
+            "size": 42502541,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -1071,7 +1071,7 @@
             "location": "system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
             "package": "com.google.android.apps.wallpaper",
             "partition": "system_ext",
-            "size": 8939526,
+            "size": 8943622,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -1855,7 +1855,7 @@
             "type": "app",
             "v_code": "20250501",
             "version": "2025-05-01S+",
-            "version_code": "360536704"
+            "version_code": "360537104"
         }
     ],
     "com.google.android.odad": [
@@ -2391,7 +2391,7 @@
             "type": "app",
             "v_code": "20250501",
             "version": "2025-05-01T+",
-            "version_code": "360515000"
+            "version_code": "360516000"
         }
     ],
     "com.google.mainline.telemetry": [
@@ -2406,7 +2406,7 @@
             "type": "app",
             "v_code": "20250501",
             "version": "2025-05-01S+",
-            "version_code": "360515004"
+            "version_code": "360516004"
         }
     ],
     "com.google.omadm.trigger": [
