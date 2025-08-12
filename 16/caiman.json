@@ -246,7 +246,7 @@
             "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
             "package": "com.android.systemui",
             "partition": "system_ext",
-            "size": 42502541,
+            "size": 42503513,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -1855,7 +1855,7 @@
             "type": "app",
             "v_code": "20250501",
             "version": "2025-05-01S+",
-            "version_code": "360537104"
+            "version_code": "360537324"
         }
     ],
     "com.google.android.odad": [
