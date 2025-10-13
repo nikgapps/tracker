@@ -231,7 +231,7 @@
             "location": "system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk",
             "package": "com.android.settings",
             "partition": "system_ext",
-            "size": 87939441,
+            "size": 87960010,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -246,7 +246,7 @@
             "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
             "package": "com.android.systemui",
             "partition": "system_ext",
-            "size": 43630124,
+            "size": 43668136,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -726,11 +726,11 @@
             "location": "product/app/WallpaperEmojiPrebuilt-foldable-wallpaper/WallpaperEmojiPrebuilt-foldable-wallpaper.apk",
             "package": "com.google.android.apps.emojiwallpaper",
             "partition": "product",
-            "size": 10683275,
+            "size": 10928357,
             "type": "app",
-            "v_code": "14776482140",
-            "version": "1.4.776482140",
-            "version_code": "6254"
+            "v_code": "14789679542",
+            "version": "1.4.789679542",
+            "version_code": "6454"
         }
     ],
     "com.google.android.apps.internal.betterbug": [
@@ -816,7 +816,7 @@
             "location": "system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk",
             "package": "com.google.android.apps.nexuslauncher",
             "partition": "system_ext",
-            "size": 14840831,
+            "size": 14857215,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -1581,11 +1581,11 @@
             "location": "product/priv-app/PrebuiltGmsCoreVic/PrebuiltGmsCoreVic.apk",
             "package": "com.google.android.gms",
             "partition": "product",
-            "size": 187813860,
+            "size": 187793078,
             "type": "priv-app",
-            "v_code": "252837",
-            "version": "25.28.37",
-            "version_code": "252837035"
+            "v_code": "252838",
+            "version": "25.28.38",
+            "version_code": "252838035"
         }
     ],
     "com.google.android.gms.dynamite_cronetdynamite": [
@@ -1598,9 +1598,9 @@
             "partition": "product",
             "size": 11727078,
             "type": "priv-app",
-            "v_code": "252837",
-            "version": "25.28.37",
-            "version_code": "252837035"
+            "v_code": "252838",
+            "version": "25.28.38",
+            "version_code": "252838035"
         }
     ],
     "com.google.android.gms.dynamite_dynamiteloader": [
@@ -1613,9 +1613,9 @@
             "partition": "product",
             "size": 206090,
             "type": "priv-app",
-            "v_code": "252837",
-            "version": "25.28.37",
-            "version_code": "252837035"
+            "v_code": "252838",
+            "version": "25.28.38",
+            "version_code": "252838035"
         }
     ],
     "com.google.android.gms.dynamite_dynamitemodulesa": [
@@ -1628,9 +1628,9 @@
             "partition": "product",
             "size": 1114347,
             "type": "priv-app",
-            "v_code": "252837",
-            "version": "25.28.37",
-            "version_code": "252837035"
+            "v_code": "252838",
+            "version": "25.28.38",
+            "version_code": "252838035"
         }
     ],
     "com.google.android.gms.dynamite_dynamitemodulesc": [
@@ -1643,9 +1643,9 @@
             "partition": "product",
             "size": 2488851,
             "type": "priv-app",
-            "v_code": "252837",
-            "version": "25.28.37",
-            "version_code": "252837035"
+            "v_code": "252838",
+            "version": "25.28.38",
+            "version_code": "252838035"
         }
     ],
     "com.google.android.gms.dynamite_googlecertificates": [
@@ -1658,9 +1658,9 @@
             "partition": "product",
             "size": 836875,
             "type": "priv-app",
-            "v_code": "252837",
-            "version": "25.28.37",
-            "version_code": "252837035"
+            "v_code": "252838",
+            "version": "25.28.38",
+            "version_code": "252838035"
         }
     ],
     "com.google.android.gms.dynamite_mapsdynamite": [
@@ -1673,9 +1673,9 @@
             "partition": "product",
             "size": 2631716,
             "type": "priv-app",
-            "v_code": "252837",
-            "version": "25.28.37",
-            "version_code": "252837035"
+            "v_code": "252838",
+            "version": "25.28.38",
+            "version_code": "252838035"
         }
     ],
     "com.google.android.gms.dynamite_measurementdynamite": [
@@ -1688,9 +1688,9 @@
             "partition": "product",
             "size": 754951,
             "type": "priv-app",
-            "v_code": "252837",
-            "version": "25.28.37",
-            "version_code": "252837035"
+            "v_code": "252838",
+            "version": "25.28.38",
+            "version_code": "252838035"
         }
     ],
     "com.google.android.gms.location.history": [
@@ -1716,11 +1716,11 @@
             "location": "product/priv-app/PrebuiltGmsCore/m/optional/MlkitBarcodeUIPrebuilt/MlkitBarcodeUIPrebuilt.apk",
             "package": "com.google.android.gms.optional_mlkit_barcode_ui",
             "partition": "product",
-            "size": 19613276,
+            "size": 19613280,
             "type": "priv-app",
-            "v_code": "252837",
-            "version": "25.28.37",
-            "version_code": "252837025"
+            "v_code": "252838",
+            "version": "25.28.38",
+            "version_code": "252838025"
         }
     ],
     "com.google.android.gms.optional_vision_barcode": [
@@ -1733,9 +1733,9 @@
             "partition": "product",
             "size": 8076329,
             "type": "priv-app",
-            "v_code": "252837",
-            "version": "25.28.37",
-            "version_code": "252837025"
+            "v_code": "252838",
+            "version": "25.28.38",
+            "version_code": "252838025"
         }
     ],
     "com.google.android.gms.policy_ads_fdr_dynamite": [
@@ -2046,11 +2046,11 @@
             "location": "system_ext/priv-app/SetupWizardPixelPrebuilt_bd3a/SetupWizardPixelPrebuilt_bd3a.apk",
             "package": "com.google.android.pixel.setupwizard",
             "partition": "system_ext",
-            "size": 6323038,
+            "size": 6314847,
             "type": "priv-app",
-            "v_code": "135777874190",
-            "version": "1.35.777874190",
-            "version_code": "7592"
+            "v_code": "135799043437",
+            "version": "1.35.799043437",
+            "version_code": "8384"
         }
     ],
     "com.google.android.pixelnfc": [
@@ -2076,7 +2076,7 @@
             "location": "system_ext/app/PersistentBackgroundServices/PersistentBackgroundServices.apk",
             "package": "com.google.android.pixelsystemservice",
             "partition": "system_ext",
-            "size": 2073694,
+            "size": 2081886,
             "type": "app",
             "v_code": "16",
             "version": "16",
@@ -2196,11 +2196,11 @@
             "location": "product/priv-app/SetupWizardPrebuilt_bd3a/SetupWizardPrebuilt_bd3a.apk",
             "package": "com.google.android.setupwizard",
             "partition": "product",
-            "size": 15032750,
+            "size": 15458730,
             "type": "priv-app",
-            "v_code": "235780419352",
-            "version": "235.780419352",
-            "version_code": "36323"
+            "v_code": "235788785696",
+            "version": "235.788785696",
+            "version_code": "36701"
         }
     ],
     "com.google.android.soundpicker": [
