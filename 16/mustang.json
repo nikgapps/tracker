@@ -231,7 +231,7 @@
             "location": "system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk",
             "package": "com.android.settings",
             "partition": "system_ext",
-            "size": 87960010,
+            "size": 87976486,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -246,7 +246,7 @@
             "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
             "package": "com.android.systemui",
             "partition": "system_ext",
-            "size": 43668136,
+            "size": 43702451,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -868,6 +868,21 @@
             "version_code": "40230"
         }
     ],
+    "com.google.android.apps.pixel.customizationbundle": [
+        {
+            "file": "CustomizationBundlePrebuilt/CustomizationBundlePrebuilt.apk",
+            "folder": "CustomizationBundlePrebuilt",
+            "isstub": false,
+            "location": "product/priv-app/CustomizationBundlePrebuilt/CustomizationBundlePrebuilt.apk",
+            "package": "com.google.android.apps.pixel.customizationbundle",
+            "partition": "product",
+            "size": 21019,
+            "type": "priv-app",
+            "v_code": "10786239043",
+            "version": "1.0.786239043.stub",
+            "version_code": "10003239"
+        }
+    ],
     "com.google.android.apps.pixel.dcservice": [
         {
             "file": "DeviceConnectivityServicePrebuilt_25.03.00/DeviceConnectivityServicePrebuilt_25.03.00.apk",
@@ -1161,7 +1176,7 @@
             "location": "system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
             "package": "com.google.android.apps.wallpaper",
             "partition": "system_ext",
-            "size": 9187044,
+            "size": 9252759,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -1221,11 +1236,11 @@
             "location": "product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk",
             "package": "com.google.android.apps.wellbeing",
             "partition": "product",
-            "size": 25870605,
+            "size": 25877858,
             "type": "priv-app",
-            "v_code": "128767872719",
-            "version": "1.28.767872719",
-            "version_code": "737427"
+            "v_code": "131797345829",
+            "version": "1.31.797345829",
+            "version_code": "756717"
         }
     ],
     "com.google.android.apps.work.clouddpc": [
@@ -1416,7 +1431,7 @@
             "location": "system_ext/priv-app/ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk",
             "package": "com.google.android.connectivitythermalpowermanager",
             "partition": "system_ext",
-            "size": 7223068,
+            "size": 7227164,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -1806,11 +1821,11 @@
             "location": "product/priv-app/Velvet/Velvet.apk",
             "package": "com.google.android.googlequicksearchbox",
             "partition": "product",
-            "size": 394241931,
+            "size": 353834924,
             "type": "priv-app",
-            "v_code": "16237364",
-            "version": "16.23.73.sa.arm64",
-            "version_code": "301536771"
+            "v_code": "16364364",
+            "version": "16.36.43.sa.arm64",
+            "version_code": "301597491"
         }
     ],
     "com.google.android.googlequicksearchbox.nga_resources": [
@@ -2046,11 +2061,11 @@
             "location": "system_ext/priv-app/SetupWizardPixelPrebuilt_bd3a/SetupWizardPixelPrebuilt_bd3a.apk",
             "package": "com.google.android.pixel.setupwizard",
             "partition": "system_ext",
-            "size": 6314847,
+            "size": 6388574,
             "type": "priv-app",
-            "v_code": "135799043437",
-            "version": "1.35.799043437",
-            "version_code": "8384"
+            "v_code": "135802050053",
+            "version": "1.35.802050053",
+            "version_code": "8528"
         }
     ],
     "com.google.android.pixelnfc": [
@@ -2196,11 +2211,11 @@
             "location": "product/priv-app/SetupWizardPrebuilt_bd3a/SetupWizardPrebuilt_bd3a.apk",
             "package": "com.google.android.setupwizard",
             "partition": "product",
-            "size": 15458730,
+            "size": 15458655,
             "type": "priv-app",
-            "v_code": "235788785696",
-            "version": "235.788785696",
-            "version_code": "36701"
+            "v_code": "235794456142",
+            "version": "235.794456142",
+            "version_code": "37079"
         }
     ],
     "com.google.android.soundpicker": [
