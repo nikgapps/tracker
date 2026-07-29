@@ -261,7 +261,7 @@
             "location": "system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk",
             "package": "com.android.systemui",
             "partition": "system_ext",
-            "size": 46220641,
+            "size": 46220465,
             "type": "priv-app",
             "v_code": "16",
             "version": "16",
@@ -1990,7 +1990,7 @@
             "type": "app",
             "v_code": "20251101",
             "version": "2025-11-01S+",
-            "version_code": "361144904"
+            "version_code": "361144984"
         }
     ],
     "com.google.android.mosey": [
