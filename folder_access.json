@@ -1,5 +1,5 @@
 {
-  "test": "nikhilmenghani",
+  "test": ["nikhilmenghani", "Jayedkhan800"],
   "crDroid-op6": "Terminator-J",
   "crdroid-official": "crdroid-official",
   "osm0sis": "osm0sis",
@@ -25,6 +25,5 @@
   "Gin728": "IchimaruGin728",
   "NguyenPhong":"anhdat1024",
   "Frost": "Karan-Frost",
-  "crdroid-full-official": "neobuddy89",
-  "test-Jayedkhan800": "Jayedkhan800"
+  "crdroid-full-official": "neobuddy89"
 }
